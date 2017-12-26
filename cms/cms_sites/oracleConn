@@ -1,0 +1,95 @@
+礼品工艺品 gift infodb3    jk7lm9nc
+纺织 textile infodb3   jk7lm9nc
+机械工业 machine infodb3  jk7lm9nc
+家居用品 home infodb3
+建材 bm infodb1
+服装 cloth infodb3
+五金 wujin infodb1
+印刷 printing infodb3
+
+摩托车及配件  infodb3  motor/jk7lm9nc
+风机  infodb3  fj/jk7lm9nc
+仪器仪表  infodb3 instrument/jk7lm9nc
+电动机  infodb3 motors/jk7lm9nc
+链条 infodb3  liantiao/jk7lm9nc
+齿轮 infodb3 chilun/jk7lm9nc
+机械加工  infodb3  jxjg/jk7lm9nc
+工业机器人  infodb3  robot/jk7lm9nc
+
+infodb1 =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.119.178)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = infodb1)
+    )
+  )
+infodb3 =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.119.15)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = infodb3)
+    )
+  )
+infodb5 =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.119.177)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = infodb5)
+    )
+  )
+  
+gift/jk7lm9nc@192.168.119.15:1521/infodb3
+textile/jk7lm9nc@192.168.119.15:1521/infodb3
+machine/jk7lm9nc@192.168.119.15:1521/infodb3
+home/jk7lm9nc@192.168.119.15:1521/infodb3
+printing/jk7lm9nc@192.168.119.15:1521/infodb3
+cloth/jk7lm9nc@192.168.119.15:1521/infodb3
+wujin/jk7lm9nc@192.168.119.178:1521/infodb1
+bm/jk7lm9nc@192.168.119.178:1521/infodb1 
+
+motor/jk7lm9nc@192.168.119.15:1521/infodb3
+fj/jk7lm9nc@192.168.119.15:1521/infodb3
+instrument/jk7lm9nc@192.168.119.15:1521/infodb3
+motors/jk7lm9nc@192.168.119.15:1521/infodb3
+liantiao/jk7lm9nc@192.168.119.15:1521/infodb3
+chilun/jk7lm9nc@192.168.119.15:1521/infodb3
+jxjg/jk7lm9nc@192.168.119.15:1521/infodb3
+robot/jk7lm9nc@192.168.119.15:1521/infodb3
+
+中转后的地址：
+gift/jk7lm9nc@192.168.245.31:8009/infodb3
+textile/jk7lm9nc@192.168.245.31:8009/infodb3
+machine/jk7lm9nc@192.168.245.31:8009/infodb3
+home/jk7lm9nc@192.168.245.31:8009/infodb3
+printing/jk7lm9nc@192.168.245.31:8009/infodb3
+cloth/jk7lm9nc@192.168.245.31:8009/infodb3
+wujin/jk7lm9nc@192.168.245.31:8810/infodb1
+bm/jk7lm9nc@192.168.245.31:8810/infodb1
+
+motor/jk7lm9nc@192.168.245.31:8009/infodb3
+fj/jk7lm9nc@192.168.245.31:8009/infodb3
+instrument/jk7lm9nc@192.168.245.31:8009/infodb3
+motors/jk7lm9nc@192.168.245.31:8009/infodb3
+liantiao/jk7lm9nc@192.168.245.31:8009/infodb3
+chilun/jk7lm9nc@192.168.245.31:8009/infodb3
+jxjg/jk7lm9nc@192.168.245.31:8009/infodb3
+robot/jk7lm9nc@192.168.245.31:8009/infodb3
+
+
+
+ssh -C -f -N -g -L 8009:192.168.119.15:1521 mabosen@192.168.245.31
+ssh -C -f -N -g -L 8010:192.168.119.178:1521 mabosen@192.168.245.31
+
+info_class
+
+
+cngoldSpider
+
+re.findall(u'(?<=来源：) (.*?) ',response.doc('.ac > span').text())[0],
+

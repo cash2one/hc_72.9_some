@@ -1,0 +1,138 @@
+[INFO] 2017-12-26 11:11:08,806 2017-12-26 11  in [9, 11, 12, 15]
+[ERROR] 2017-12-26 11:11:08,849 loading webDriver error!
+[ERROR] 2017-12-26 11:11:08,878 loading webDriver error!
+[ERROR] 2017-12-26 11:11:08,915 loading webDriver error!
+[ERROR] 2017-12-26 11:11:18,933 something error! 'NoneType' object has no attribute 'get'
+[ERROR] 2017-12-26 11:11:18,953 something error! 'NoneType' object has no attribute 'get'
+[ERROR] 2017-12-26 11:11:18,984 something error! 'NoneType' object has no attribute 'get'
+[ERROR] 2017-12-26 11:11:19,019 something error! 'NoneType' object has no attribute 'get'
+[ERROR] 2017-12-26 11:11:19,042 something error! 'NoneType' object has no attribute 'get'
+[INFO] 2017-12-26 11:12:13,908 2017-12-26 11  in [9, 11, 12, 15]
+[ERROR] 2017-12-26 11:12:13,950 loading webDriver error!
+[ERROR] 2017-12-26 11:12:13,980 loading webDriver error!
+[ERROR] 2017-12-26 11:12:14,009 loading webDriver error!
+[INFO] 2017-12-26 11:13:53,329 2017-12-26 11  in [9, 11, 12, 15]
+[ERROR] 2017-12-26 11:13:53,329 loading webDriver error!
+[ERROR] 2017-12-26 11:13:53,375 loading webDriver error!
+[ERROR] 2017-12-26 11:13:53,375 loading webDriver error!
+[ERROR] 2017-12-26 11:14:03,378 something error! 'NoneType' object has no attribute 'get'
+[ERROR] 2017-12-26 11:14:03,394 something error! 'NoneType' object has no attribute 'get'
+[ERROR] 2017-12-26 11:14:03,411 something error! 'NoneType' object has no attribute 'get'
+[ERROR] 2017-12-26 11:14:03,430 something error! 'NoneType' object has no attribute 'get'
+[ERROR] 2017-12-26 11:14:03,448 something error! 'NoneType' object has no attribute 'get'
+[INFO] 2017-12-26 11:16:46,943 2017-12-26 11  in [9, 11, 12, 15]
+[INFO] 2017-12-26 11:17:26,309 2017-12-26 11  in [9, 11, 12, 15]
+[ERROR] 2017-12-26 11:17:48,753 不需要滑动方块！
+[INFO] 2017-12-26 11:18:40,513 2017-12-26 11  in [9, 11, 12, 15]
+[ERROR] 2017-12-26 11:19:51,997 不需要滑动方块！
+[INFO] 2017-12-26 11:20:08,848 Starting new HTTP connection (1): service.992u.com
+[INFO] 2017-12-26 11:21:14,269 login success!
+[ERROR] 2017-12-26 11:21:33,930 something error! [Errno 10054] 
+[INFO] 2017-12-26 11:22:54,048 2017-12-26 11  in [9, 11, 12, 15]
+[ERROR] 2017-12-26 11:23:40,010 不需要滑动方块！
+[INFO] 2017-12-26 11:23:54,881 Starting new HTTP connection (1): service.992u.com
+[INFO] 2017-12-26 11:24:36,749 login success!
+[INFO] 2017-12-26 11:26:33,690 insert url https://www.chinabidding.cn/zbgg/CUFz57.html page content to mongodb success!
+[INFO] 2017-12-26 11:26:49,776 insert url https://www.chinabidding.cn/zbgs/eEKjk.html page content to mongodb success!
+[INFO] 2017-12-26 11:27:08,858 insert url https://www.chinabidding.cn/zbgg/eEKjw.html page content to mongodb success!
+[INFO] 2017-12-26 11:27:44,517 insert url https://www.chinabidding.cn/zbgg/eEKPZ.html page content to mongodb success!
+[INFO] 2017-12-26 11:28:02,365 insert url https://www.chinabidding.cn/zbgs/eEKOV.html page content to mongodb success!
+[INFO] 2017-12-26 11:28:21,234 insert url https://www.chinabidding.cn/zbgg/eEK6m.html page content to mongodb success!
+[INFO] 2017-12-26 11:28:41,927 insert url https://www.chinabidding.cn/zbgg/eEKZG.html page content to mongodb success!
+[INFO] 2017-12-26 11:28:55,803 insert url https://www.chinabidding.cn/zbgs/eEKZI.html page content to mongodb success!
+[INFO] 2017-12-26 11:29:12,480 insert url https://www.chinabidding.cn/zbgg/eEKZs.html page content to mongodb success!
+[INFO] 2017-12-26 11:29:35,687 insert url https://www.chinabidding.cn/zbgg/eEKTF.html page content to mongodb success!
+[INFO] 2017-12-26 11:30:02,773 insert url https://www.chinabidding.cn/zbgs/eEKPH.html page content to mongodb success!
+[INFO] 2017-12-26 11:30:20,206 insert url https://www.chinabidding.cn/zbgg/eEKK8.html page content to mongodb success!
+[INFO] 2017-12-26 11:30:42,305 insert url https://www.chinabidding.cn/zbgg/eEKK0.html page content to mongodb success!
+[INFO] 2017-12-26 11:31:03,786 insert url https://www.chinabidding.cn/zbgg/eEKKf.html page content to mongodb success!
+[INFO] 2017-12-26 11:31:21,576 insert url https://www.chinabidding.cn/zbgg/eEKKH.html page content to mongodb success!
+[INFO] 2017-12-26 11:32:16,280 insert url https://www.chinabidding.cn/zbgs/eEKYL.html page content to mongodb success!
+[INFO] 2017-12-26 11:32:31,957 insert url https://www.chinabidding.cn/zbgg/eEKYU.html page content to mongodb success!
+[INFO] 2017-12-26 11:32:49,829 insert url https://www.chinabidding.cn/zbgs/eEKYG.html page content to mongodb success!
+[INFO] 2017-12-26 11:33:08,953 insert url https://www.chinabidding.cn/zbgg/eEK0D.html page content to mongodb success!
+[INFO] 2017-12-26 11:33:30,007 insert url https://www.chinabidding.cn/zbgg/eEK0e.html page content to mongodb success!
+[ERROR] 2017-12-26 11:33:30,049 url : https://www.chinabidding.cn/zbgg/CUFz57.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:33:30,088 url : https://www.chinabidding.cn/zbgs/eEKjk.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:33:30,125 url : https://www.chinabidding.cn/zbgg/eEKjw.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:33:49,657 url : https://www.chinabidding.cn/zbgg/eEKPZ.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:33:49,697 url : https://www.chinabidding.cn/zbgs/eEKOV.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:33:49,736 url : https://www.chinabidding.cn/zbgg/eEK6m.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:33:49,779 url : https://www.chinabidding.cn/zbgg/eEKZG.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:33:49,812 url : https://www.chinabidding.cn/zbgs/eEKZI.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:33:49,849 url : https://www.chinabidding.cn/zbgg/eEKZs.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:33:49,891 url : https://www.chinabidding.cn/zbgg/eEKTF.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:33:49,920 url : https://www.chinabidding.cn/zbgs/eEKPH.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:33:49,957 url : https://www.chinabidding.cn/zbgg/eEKK8.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:33:49,997 url : https://www.chinabidding.cn/zbgg/eEKK0.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:33:50,042 url : https://www.chinabidding.cn/zbgg/eEKKf.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:33:50,095 url : https://www.chinabidding.cn/zbgg/eEKKH.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:34:09,265 url : https://www.chinabidding.cn/zbgs/eEKYL.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:34:09,305 url : https://www.chinabidding.cn/zbgg/eEKYU.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:34:09,619 url : https://www.chinabidding.cn/zbgs/eEKYG.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:34:09,654 url : https://www.chinabidding.cn/zbgg/eEK0D.html has fetched already, ignore!
+[ERROR] 2017-12-26 11:34:09,687 url : https://www.chinabidding.cn/zbgg/eEK0e.html has fetched already, ignore!
+[INFO] 2017-12-26 11:34:37,243 insert url https://www.chinabidding.cn/zbgs/eERyS.html page content to mongodb success!
+[INFO] 2017-12-26 11:34:59,611 insert url https://www.chinabidding.cn/zbgg/CUFNZ2.html page content to mongodb success!
+[INFO] 2017-12-26 11:35:21,569 insert url https://www.chinabidding.cn/zbgs/CUFNLa.html page content to mongodb success!
+[INFO] 2017-12-26 11:35:41,802 insert url https://www.chinabidding.cn/zbgg/CUFzWt.html page content to mongodb success!
+[INFO] 2017-12-26 11:35:58,875 insert url https://www.chinabidding.cn/zbgg/CUFNic.html page content to mongodb success!
+[INFO] 2017-12-26 11:36:38,561 insert url https://www.chinabidding.cn/zbgs/eERhm.html page content to mongodb success!
+[INFO] 2017-12-26 11:37:03,161 insert url https://www.chinabidding.cn/zbgg/eEKI2.html page content to mongodb success!
+[INFO] 2017-12-26 11:37:19,757 insert url https://www.chinabidding.cn/zbgg/CUFzp9.html page content to mongodb success!
+[INFO] 2017-12-26 11:37:39,171 insert url https://www.chinabidding.cn/zbgs/CUFNzg.html page content to mongodb success!
+[INFO] 2017-12-26 12:03:45,240 2017-12-26 12  in [9, 11, 12, 15]
+[ERROR] 2017-12-26 12:04:41,625 不需要滑动方块！
+[INFO] 2017-12-26 12:04:55,707 Starting new HTTP connection (1): service.992u.com
+[INFO] 2017-12-26 12:06:00,404 login success!
+[INFO] 2017-12-26 12:08:20,118 insert url https://www.chinabidding.cn/zbgs/CUFzw2.html page content to mongodb success!
+[INFO] 2017-12-26 12:08:37,671 insert url https://www.chinabidding.cn/zbgs/CUFzwi.html page content to mongodb success!
+[INFO] 2017-12-26 12:08:51,859 insert url https://www.chinabidding.cn/zbgs/CUFzwV.html page content to mongodb success!
+[ERROR] 2017-12-26 12:08:51,875 url : https://www.chinabidding.cn/zbgg/CUFz57.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:08:51,875 url : https://www.chinabidding.cn/zbgs/eEKjk.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:08:51,891 url : https://www.chinabidding.cn/zbgg/eEKjw.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:10,927 url : https://www.chinabidding.cn/zbgg/eEKPZ.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:10,957 url : https://www.chinabidding.cn/zbgs/eEKOV.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:10,977 url : https://www.chinabidding.cn/zbgg/eEK6m.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:11,003 url : https://www.chinabidding.cn/zbgg/eEKZG.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:11,035 url : https://www.chinabidding.cn/zbgs/eEKZI.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:11,075 url : https://www.chinabidding.cn/zbgg/eEKZs.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:11,075 url : https://www.chinabidding.cn/zbgg/eEKTF.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:11,089 url : https://www.chinabidding.cn/zbgs/eEKPH.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:11,089 url : https://www.chinabidding.cn/zbgg/eEKK8.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:11,105 url : https://www.chinabidding.cn/zbgg/eEKK0.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:11,128 url : https://www.chinabidding.cn/zbgg/eEKKf.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:11,173 url : https://www.chinabidding.cn/zbgg/eEKKH.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:32,927 url : https://www.chinabidding.cn/zbgs/eEKYL.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:32,960 url : https://www.chinabidding.cn/zbgg/eEKYU.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:33,003 url : https://www.chinabidding.cn/zbgs/eEKYG.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:33,056 url : https://www.chinabidding.cn/zbgg/eEK0D.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:09:33,089 url : https://www.chinabidding.cn/zbgg/eEK0e.html has fetched already, ignore!
+[INFO] 2017-12-26 12:09:48,865 insert url https://www.chinabidding.cn/zbgs/eEKmB.html page content to mongodb success!
+[INFO] 2017-12-26 12:10:19,950 insert url https://www.chinabidding.cn/zbgg/eEKMI.html page content to mongodb success!
+[INFO] 2017-12-26 12:10:41,664 insert url https://www.chinabidding.cn/zbgs/eEKMS.html page content to mongodb success!
+[INFO] 2017-12-26 12:10:59,805 insert url https://www.chinabidding.cn/zbgg/eEKMq.html page content to mongodb success!
+[INFO] 2017-12-26 12:11:17,723 insert url https://www.chinabidding.cn/zbgg/eEK7-.html page content to mongodb success!
+[INFO] 2017-12-26 12:11:35,719 insert url https://www.chinabidding.cn/zbgs/eEKbZ.html page content to mongodb success!
+[INFO] 2017-12-26 12:11:59,888 insert url https://www.chinabidding.cn/zbgs/eEKBi.html page content to mongodb success!
+[INFO] 2017-12-26 12:12:18,200 insert url https://www.chinabidding.cn/zbgs/eEKB6.html page content to mongodb success!
+[INFO] 2017-12-26 12:12:35,071 insert url https://www.chinabidding.cn/zbgs/eEKNh.html page content to mongodb success!
+[INFO] 2017-12-26 12:12:55,930 insert url https://www.chinabidding.cn/zbgg/eEKl4.html page content to mongodb success!
+[INFO] 2017-12-26 12:13:11,444 insert url https://www.chinabidding.cn/zbgs/eEKzc.html page content to mongodb success!
+[INFO] 2017-12-26 12:13:25,174 insert url https://www.chinabidding.cn/zbgs/eEKzm.html page content to mongodb success!
+[INFO] 2017-12-26 12:13:45,164 insert url https://www.chinabidding.cn/zbgg/eEKh8.html page content to mongodb success!
+[ERROR] 2017-12-26 12:15:32,907 url : https://www.chinabidding.cn/zbgs/eERyS.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:15:32,933 url : https://www.chinabidding.cn/zbgg/CUFNZ2.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:15:32,959 url : https://www.chinabidding.cn/zbgg/CUFNic.html has fetched already, ignore!
+[INFO] 2017-12-26 12:15:50,250 insert url https://www.chinabidding.cn/zfcg/CUFc6m.html page content to mongodb success!
+[ERROR] 2017-12-26 12:15:50,279 url : https://www.chinabidding.cn/zbgs/CUFNLa.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:15:50,305 url : https://www.chinabidding.cn/zbgg/CUFzWt.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:16:15,124 url : https://www.chinabidding.cn/zbgs/eERhm.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:16:15,160 url : https://www.chinabidding.cn/zbgg/eEKI2.html has fetched already, ignore!
+[ERROR] 2017-12-26 12:16:15,187 url : https://www.chinabidding.cn/zbgg/CUFzp9.html has fetched already, ignore!
+[INFO] 2017-12-26 12:16:37,339 insert url https://www.chinabidding.cn/zbgs/CUFcYM.html page content to mongodb success!
+[ERROR] 2017-12-26 12:16:37,365 url : https://www.chinabidding.cn/zbgs/CUFNzg.html has fetched already, ignore!
+[INFO] 2017-12-26 13:02:44,096 2017-12-26 13 not in [9, 11, 12, 15]
+[INFO] 2017-12-26 13:02:44,138 2017-12-26 13 not in [9, 11, 12, 15], will wait for 3435 second
+[INFO] 2017-12-26 14:00:05,230 2017-12-26 14 not in [9, 11, 12, 15]
+[INFO] 2017-12-26 14:00:05,280 2017-12-26 14 not in [9, 11, 12, 15], will wait for 3594 second

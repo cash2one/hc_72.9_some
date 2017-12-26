@@ -1,0 +1,545 @@
+[INFO] 2017-12-18 18:08:24,555 start
+[INFO] 2017-12-18 18:08:25,457 read website start!
+[INFO] 2017-12-18 18:08:25,483 get url from mongo before
+[INFO] 2017-12-18 18:08:26,051 get url from oracle after count=11
+[INFO] 2017-12-18 18:08:26,065 before url=http://shop35025698.taobao.com
+[INFO] 2017-12-18 18:08:26,118 Starting new HTTP connection (1): shop35025698.taobao.com
+[INFO] 2017-12-18 18:08:26,255 Starting new HTTPS connection (1): shop35025698.taobao.com
+[INFO] 2017-12-18 18:08:26,913 initialize tj proxy size=421
+[INFO] 2017-12-18 18:08:27,933 open homepage with selenium url=http://shop35025698.taobao.com memberid=35025698 first_index=0 second_index=-1
+[INFO] 2017-12-18 18:08:27,957 insert new website url=http://shop35025698.taobao.com memberid=35025698
+[INFO] 2017-12-18 18:08:27,974 before url=http://shop151424756.taobao.com
+[INFO] 2017-12-18 18:08:28,028 Starting new HTTP connection (1): shop151424756.taobao.com
+[INFO] 2017-12-18 18:08:28,183 Starting new HTTPS connection (1): shop151424756.taobao.com
+[INFO] 2017-12-18 18:08:28,617 insert new website url=http://shop151424756.taobao.com memberid=151424756
+[INFO] 2017-12-18 18:08:38,384 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_49 125.39.149.51
+requests: support
+[INFO] 2017-12-18 18:09:47,934 getpagelist one category complete. [master] url=http://shop35025698.taobao.com memberid=35025698 catid= catname=所有宝贝 count=45
+[INFO] 2017-12-18 18:09:48,359 insert records succeed url=http://shop35025698.taobao.com memberid=35025698 category_count=0 page_count=45
+[INFO] 2017-12-18 18:09:48,381 open homepage with selenium url=http://shop151424756.taobao.com memberid=151424756 first_index=0 second_index=-1
+[WARNING] 2017-12-18 18:09:54,477 browser quit error:[Error 5] 
+[INFO] 2017-12-18 18:10:09,267 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_8 60.28.110.74
+requests: support
+[INFO] 2017-12-18 18:10:28,638 before url=http://shop62546037.taobao.com
+[INFO] 2017-12-18 18:10:28,684 Starting new HTTP connection (1): shop62546037.taobao.com
+[INFO] 2017-12-18 18:10:28,855 Starting new HTTPS connection (1): shop62546037.taobao.com
+[INFO] 2017-12-18 18:10:29,226 insert new website url=http://shop62546037.taobao.com memberid=62546037
+[INFO] 2017-12-18 18:11:35,861 getpagelist one category complete. [master] url=http://shop151424756.taobao.com memberid=151424756 catid=1202072043 catname=所有宝贝 count=25
+[INFO] 2017-12-18 18:11:59,161 getpagelist one category complete. [master] url=http://shop151424756.taobao.com memberid=151424756 catid=1352432153 catname=吧台桌椅 count=14
+[INFO] 2017-12-18 18:12:22,578 getpagelist one category complete. [master] url=http://shop151424756.taobao.com memberid=151424756 catid=1352432154 catname=餐厅桌椅 count=7
+[INFO] 2017-12-18 18:12:52,132 getpagelist one category complete. [master] url=http://shop151424756.taobao.com memberid=151424756 catid=1352502936 catname=铁艺沙发 count=2
+[INFO] 2017-12-18 18:13:17,513 getpagelist one category complete. [master] url=http://shop151424756.taobao.com memberid=151424756 catid=1352500580 catname=实木茶几 count=1
+[INFO] 2017-12-18 18:13:17,838 insert records succeed url=http://shop151424756.taobao.com memberid=151424756 category_count=0 page_count=49
+[INFO] 2017-12-18 18:13:17,851 open homepage with selenium url=http://shop62546037.taobao.com memberid=62546037 first_index=0 second_index=-1
+[WARNING] 2017-12-18 18:13:26,119 browser quit error:[Error 5] 
+[INFO] 2017-12-18 18:13:29,259 before url=http://shop119607164.taobao.com
+[INFO] 2017-12-18 18:13:29,296 Starting new HTTP connection (1): shop119607164.taobao.com
+[INFO] 2017-12-18 18:13:29,437 Starting new HTTPS connection (1): shop119607164.taobao.com
+[INFO] 2017-12-18 18:13:29,842 insert new website url=http://shop119607164.taobao.com memberid=119607164
+[INFO] 2017-12-18 18:13:41,160 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_59 60.28.11.253
+requests: support
+[INFO] 2017-12-18 18:15:06,151 getpagelist one category complete. [master] url=http://shop62546037.taobao.com memberid=62546037 catid=237851085 catname=LED灯系列 count=17
+[INFO] 2017-12-18 18:15:29,428 getpagelist one category complete. [master] url=http://shop62546037.taobao.com memberid=62546037 catid=530997570 catname=LED频闪灯系列 count=6
+[INFO] 2017-12-18 18:15:53,278 getpagelist one category complete. [master] url=http://shop62546037.taobao.com memberid=62546037 catid=501407908 catname=LED大功率帕灯系列 count=6
+[INFO] 2017-12-18 18:16:15,029 getpagelist one category complete. [master] url=http://shop62546037.taobao.com memberid=62546037 catid=238020254 catname=满天星萤火虫激光系列 count=6
+[INFO] 2017-12-18 18:16:40,713 getpagelist one category complete. [master] url=http://shop62546037.taobao.com memberid=62546037 catid=501398650 catname=512信号放大器 count=2
+[INFO] 2017-12-18 18:17:28,617 getpagelist one category complete. [master] url=http://shop62546037.taobao.com memberid=62546037 catid=238020251 catname=追光灯系列 count=2
+[ERROR] 2017-12-18 18:17:31,665 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 18:27:31,667 open homepage with selenium url=http://shop62546037.taobao.com memberid=62546037 first_index=7 second_index=-1
+[WARNING] 2017-12-18 18:27:37,671 browser quit error:[Error 5] 
+[INFO] 2017-12-18 18:27:49,588 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_46 111.161.24.48
+requests: support
+[INFO] 2017-12-18 18:29:00,665 getpagelist one category complete. [master] url=http://shop62546037.taobao.com memberid=62546037 catid=514152996 catname=控制台 count=3
+[ERROR] 2017-12-18 18:29:05,015 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 18:39:05,039 open homepage with selenium url=http://shop62546037.taobao.com memberid=62546037 first_index=8 second_index=-1
+[WARNING] 2017-12-18 18:39:11,272 browser quit error:[Error 5] 
+[INFO] 2017-12-18 18:39:26,640 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_0 125.39.149.2
+requests: support
+[INFO] 2017-12-18 18:40:55,119 getpagelist one category complete. [master] url=http://shop62546037.taobao.com memberid=62546037 catid=238020256 catname=烟、泡、雪花油系列 count=9
+[INFO] 2017-12-18 18:41:22,763 getpagelist one category complete. [master] url=http://shop62546037.taobao.com memberid=62546037 catid=238021081 catname=烟雾机系列 count=9
+[INFO] 2017-12-18 18:41:38,460 getpagelist one category complete. [master] url=http://shop62546037.taobao.com memberid=62546037 catid=238021082 catname=泡泡机系列 count=3
+[INFO] 2017-12-18 18:41:58,645 getpagelist one category complete. [master] url=http://shop62546037.taobao.com memberid=62546037 catid=385073976 catname=三基色灯 count=1
+[INFO] 2017-12-18 18:42:18,914 getpagelist one category complete. [master] url=http://shop62546037.taobao.com memberid=62546037 catid=385073806 catname=配件 count=5
+[INFO] 2017-12-18 18:42:44,707 getpagelist one category complete. [master] url=http://shop62546037.taobao.com memberid=62546037 catid=674998977 catname=支架 count=1
+[ERROR] 2017-12-18 18:42:48,651 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 18:55:53,540 open homepage with selenium url=http://shop62546037.taobao.com memberid=62546037 first_index=14 second_index=-1
+[WARNING] 2017-12-18 18:56:02,822 browser quit error:[Error 5] 
+[INFO] 2017-12-18 18:56:15,701 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_28 60.28.110.94
+requests: support
+[INFO] 2017-12-18 18:57:37,717 getpagelist one category complete. [master] url=http://shop62546037.taobao.com memberid=62546037 catid=675015000 catname=航空箱 count=1
+[INFO] 2017-12-18 18:57:38,302 insert records succeed url=http://shop62546037.taobao.com memberid=62546037 category_count=0 page_count=71
+[INFO] 2017-12-18 18:57:38,319 open homepage with selenium url=http://shop119607164.taobao.com memberid=119607164 first_index=0 second_index=-1
+[WARNING] 2017-12-18 18:57:43,351 browser quit error:[Error 5] 
+[INFO] 2017-12-18 18:57:56,884 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_0 125.39.0.130
+requests: support
+[INFO] 2017-12-18 18:58:34,832 before url=http://shop109338666.taobao.com
+[INFO] 2017-12-18 18:58:34,878 Starting new HTTP connection (1): shop109338666.taobao.com
+[INFO] 2017-12-18 18:58:35,039 Starting new HTTPS connection (1): shop109338666.taobao.com
+[INFO] 2017-12-18 18:58:35,371 insert new website url=http://shop109338666.taobao.com memberid=109338666
+[ERROR] 2017-12-18 18:58:59,150 insert records error len(records)=0 memberid=119607164
+[INFO] 2017-12-18 18:58:59,384 insert records succeed url=http://shop119607164.taobao.com memberid=119607164 category_count=0 page_count=0
+[INFO] 2017-12-18 18:58:59,398 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=0 second_index=-1
+[WARNING] 2017-12-18 18:59:07,878 browser quit error:[Error 5] 
+[INFO] 2017-12-18 18:59:22,411 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_52 125.39.72.117
+requests: support
+[INFO] 2017-12-18 18:59:35,397 before url=http://shop108402382.taobao.com
+[INFO] 2017-12-18 18:59:35,460 Starting new HTTP connection (1): shop108402382.taobao.com
+[INFO] 2017-12-18 18:59:35,638 Starting new HTTPS connection (1): shop108402382.taobao.com
+[INFO] 2017-12-18 18:59:36,286 insert new website url=http://shop108402382.taobao.com memberid=108402382
+[INFO] 2017-12-18 19:01:00,651 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=客车 count=27
+[INFO] 2017-12-18 19:01:38,270 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname= catpid=1294424801 catpname=客车 count=25
+[INFO] 2017-12-18 19:02:10,306 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=盖板 catpid=1294424801 catpname=客车 count=1
+[INFO] 2017-12-18 19:02:30,660 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=底座 catpid=1294424801 catpname=客车 count=1
+[INFO] 2017-12-18 19:02:46,233 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=其他 catpid=1294424801 catpname=客车 count=0
+[INFO] 2017-12-18 19:05:23,512 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=卡车 count=90
+[ERROR] 2017-12-18 19:05:39,520 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 19:15:39,552 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=2 second_index=0
+[WARNING] 2017-12-18 19:15:47,147 browser quit error:[Error 5] 
+[INFO] 2017-12-18 19:16:01,676 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_12 125.39.72.77
+requests: support
+[INFO] 2017-12-18 19:17:41,217 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=驾驶室气囊 catpid=1294424805 catpname=卡车 count=28
+[INFO] 2017-12-18 19:18:05,163 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=座椅气囊 catpid=1294424805 catpname=卡车 count=3
+[INFO] 2017-12-18 19:18:43,253 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=浮动桥承载气囊 catpid=1294424805 catpname=卡车 count=30
+[INFO] 2017-12-18 19:19:14,802 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=浮动桥提升气囊 catpid=1294424805 catpname=卡车 count=5
+[INFO] 2017-12-18 19:19:29,654 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=改装专用气囊 catpid=1294424805 catpname=卡车 count=3
+[INFO] 2017-12-18 19:19:43,671 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=电磁阀 catpid=1294424805 catpname=卡车 count=0
+[INFO] 2017-12-18 19:20:04,496 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=其他 catpid=1294424805 catpname=卡车 count=0
+[INFO] 2017-12-18 19:21:28,311 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=轿车 count=79
+[INFO] 2017-12-18 19:22:02,243 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=空气减震器 catpid=1294424811 catpname=轿车 count=19
+[INFO] 2017-12-18 19:22:49,565 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=修理包 catpid=1294424811 catpname=轿车 count=19
+[ERROR] 2017-12-18 19:22:53,686 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 19:32:53,707 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=2
+[WARNING] 2017-12-18 19:33:00,401 browser quit error:[Error 5] 
+[INFO] 2017-12-18 19:33:13,947 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_28 60.28.110.94
+requests: support
+[INFO] 2017-12-18 19:34:51,782 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=气包 catpid=1294424811 catpname=轿车 count=14
+[INFO] 2017-12-18 19:35:38,033 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname= catpid=1294424811 catpname=轿车 count=26
+[INFO] 2017-12-18 19:35:59,561 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=改装专用 catpid=1294424811 catpname=轿车 count=9
+[INFO] 2017-12-18 19:36:29,697 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=空气悬挂分配阀 catpid=1294424811 catpname=轿车 count=9
+[INFO] 2017-12-18 19:36:46,368 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=其他 catpid=1294424811 catpname=轿车 count=0
+[INFO] 2017-12-18 19:37:19,424 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=工业 count=0
+[ERROR] 2017-12-18 19:37:24,400 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 19:47:24,421 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=4 second_index=0
+[WARNING] 2017-12-18 19:47:30,997 browser quit error:[Error 5] 
+[INFO] 2017-12-18 19:47:49,013 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_11 60.28.11.205
+requests: support
+[INFO] 2017-12-18 19:50:14,887 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=单囊式空气弹簧 catpid=1294424817 catpname=工业 count=42
+[INFO] 2017-12-18 19:57:45,226 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=双囊式空气弹簧 catpid=1294424817 catpname=工业 count=76
+[INFO] 2017-12-18 19:58:24,401 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname= catpid=1294424817 catpname=工业 count=19
+[INFO] 2017-12-18 19:58:48,846 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=四囊式空气弹簧 catpid=1294424817 catpname=工业 count=4
+[ERROR] 2017-12-18 19:58:53,523 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 20:08:53,568 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=4 second_index=4
+[WARNING] 2017-12-18 20:09:01,548 browser quit error:[Error 5] 
+[INFO] 2017-12-18 20:09:17,545 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_16 125.39.72.81
+requests: support
+[INFO] 2017-12-18 20:10:46,098 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=五囊式空气弹簧 catpid=1294424817 catpname=工业 count=1
+[INFO] 2017-12-18 20:11:06,167 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=气动元件 catpid=1294424817 catpname=工业 count=6
+[ERROR] 2017-12-18 20:11:12,992 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 20:21:13,009 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=4 second_index=6
+[WARNING] 2017-12-18 20:21:22,053 browser quit error:[Error 5] 
+[INFO] 2017-12-18 20:21:35,881 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_8 125.39.72.19
+requests: support
+[INFO] 2017-12-18 20:23:03,530 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=其他 catpid=1294424817 catpname=工业 count=0
+[INFO] 2017-12-18 20:23:33,210 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424822 catname=其他 count=0
+[INFO] 2017-12-18 20:23:34,651 insert records succeed url=http://shop109338666.taobao.com memberid=109338666 category_count=0 page_count=536
+[INFO] 2017-12-18 20:23:34,670 open homepage with selenium url=http://shop108402382.taobao.com memberid=108402382 first_index=0 second_index=-1
+[WARNING] 2017-12-18 20:23:39,459 browser quit error:[Error 5] 
+[INFO] 2017-12-18 20:23:52,346 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_47 125.39.0.177
+requests: support
+[INFO] 2017-12-18 20:24:02,763 before url=http://shop108766798.taobao.com
+[INFO] 2017-12-18 20:24:02,796 Starting new HTTP connection (1): shop108766798.taobao.com
+[INFO] 2017-12-18 20:24:02,938 Starting new HTTPS connection (1): shop108766798.taobao.com
+[INFO] 2017-12-18 20:24:03,259 insert new website url=http://shop108766798.taobao.com memberid=108766798
+[INFO] 2017-12-18 20:25:11,148 getpagelist one category complete. [master] url=http://shop108402382.taobao.com memberid=108402382 catid=1281014281 catname=补差价特殊产品链接 count=1
+[INFO] 2017-12-18 20:26:46,403 getpagelist one category complete. [master] url=http://shop108402382.taobao.com memberid=108402382 catid=1118692858 catname=双组份修补及粘接 count=66
+[INFO] 2017-12-18 20:27:20,381 getpagelist one category complete. [master] url=http://shop108402382.taobao.com memberid=108402382 catid=1303345612 catname=弹性密封胶系列 count=28
+[INFO] 2017-12-18 20:28:31,674 getpagelist one category complete. [master] url=http://shop108402382.taobao.com memberid=108402382 catid=1303345613 catname=橡胶金属粘接系列 count=28
+[ERROR] 2017-12-18 20:28:36,532 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 20:38:36,546 open homepage with selenium url=http://shop108402382.taobao.com memberid=108402382 first_index=5 second_index=-1
+[WARNING] 2017-12-18 20:38:41,930 browser quit error:[Error 5] 
+[INFO] 2017-12-18 20:39:00,125 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_31 60.28.110.97
+requests: support
+[INFO] 2017-12-18 20:40:29,148 getpagelist one category complete. [master] url=http://shop108402382.taobao.com memberid=108402382 catid=1303345614 catname=厌氧胶系列 count=4
+[INFO] 2017-12-18 20:40:53,108 getpagelist one category complete. [master] url=http://shop108402382.taobao.com memberid=108402382 catid=1339198875 catname=瞬间胶系列 count=1
+[INFO] 2017-12-18 20:42:21,790 getpagelist one category complete. [master] url=http://shop108402382.taobao.com memberid=108402382 catid=1303345611 catname=工业喷剂系列 count=57
+[INFO] 2017-12-18 20:42:39,729 getpagelist one category complete. [master] url=http://shop108402382.taobao.com memberid=108402382 catid=1339198876 catname=大容量工艺液系列 count=0
+[INFO] 2017-12-18 20:43:02,084 getpagelist one category complete. [master] url=http://shop108402382.taobao.com memberid=108402382 catid=1339198877 catname=防卡膏及多功能润 count=3
+[INFO] 2017-12-18 20:43:21,736 getpagelist one category complete. [master] url=http://shop108402382.taobao.com memberid=108402382 catid=1339198878 catname= count=1
+[ERROR] 2017-12-18 20:43:25,368 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 20:53:25,387 open homepage with selenium url=http://shop108402382.taobao.com memberid=108402382 first_index=11 second_index=-1
+[WARNING] 2017-12-18 20:53:31,164 browser quit error:[Error 5] 
+[INFO] 2017-12-18 20:53:45,885 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_38 125.39.149.40
+requests: support
+[INFO] 2017-12-18 20:55:04,977 getpagelist one category complete. [master] url=http://shop108402382.taobao.com memberid=108402382 catid=1339198879 catname=多功能剥线钳系列 count=0
+[INFO] 2017-12-18 20:55:05,417 insert records succeed url=http://shop108402382.taobao.com memberid=108402382 category_count=0 page_count=189
+[INFO] 2017-12-18 20:55:05,437 open homepage with selenium url=http://shop108766798.taobao.com memberid=108766798 first_index=0 second_index=-1
+[WARNING] 2017-12-18 20:55:11,864 browser quit error:[Error 5] 
+[INFO] 2017-12-18 20:55:29,131 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_45 125.39.0.175
+requests: support
+[INFO] 2017-12-18 20:56:03,318 before url=http://shop210160846.taobao.com
+[INFO] 2017-12-18 20:56:03,354 Starting new HTTP connection (1): shop210160846.taobao.com
+[INFO] 2017-12-18 20:56:03,520 Starting new HTTPS connection (1): shop210160846.taobao.com
+[INFO] 2017-12-18 20:56:03,834 insert new website url=http://shop210160846.taobao.com memberid=210160846
+[INFO] 2017-12-18 20:56:51,236 getpagelist one category complete. [master] url=http://shop108766798.taobao.com memberid=108766798 catid= catname=所有宝贝 count=13
+[INFO] 2017-12-18 20:56:51,489 insert records succeed url=http://shop108766798.taobao.com memberid=108766798 category_count=0 page_count=13
+[INFO] 2017-12-18 20:56:51,505 open homepage with selenium url=http://shop210160846.taobao.com memberid=210160846 first_index=0 second_index=-1
+[WARNING] 2017-12-18 20:57:02,236 browser quit error:[Error 5] 
+[INFO] 2017-12-18 20:57:03,849 before url=http://shop439335977.taobao.com
+[INFO] 2017-12-18 20:57:03,990 Starting new HTTP connection (1): shop439335977.taobao.com
+[INFO] 2017-12-18 20:57:04,440 Starting new HTTPS connection (1): shop439335977.taobao.com
+[INFO] 2017-12-18 20:57:04,867 insert new website url=http://shop439335977.taobao.com memberid=439335977
+[INFO] 2017-12-18 20:57:18,473 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_51 125.39.72.116
+requests: support
+[INFO] 2017-12-18 21:04:15,661 getpagelist one category complete. [master] url=http://shop210160846.taobao.com memberid=210160846 catid= catname=所有宝贝 count=2
+[INFO] 2017-12-18 21:04:15,938 insert records succeed url=http://shop210160846.taobao.com memberid=210160846 category_count=0 page_count=2
+[INFO] 2017-12-18 21:04:15,973 open homepage with selenium url=http://shop439335977.taobao.com memberid=439335977 first_index=0 second_index=-1
+[WARNING] 2017-12-18 21:04:42,357 browser quit error:[Error 5] 
+[INFO] 2017-12-18 21:04:51,815 before url=http://shop105811414.taobao.com
+[INFO] 2017-12-18 21:04:51,867 Starting new HTTP connection (1): shop105811414.taobao.com
+[INFO] 2017-12-18 21:04:52,045 Starting new HTTPS connection (1): shop105811414.taobao.com
+[INFO] 2017-12-18 21:04:52,526 insert new website url=http://shop105811414.taobao.com memberid=105811414
+[INFO] 2017-12-18 21:05:00,476 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_18 111.161.24.20
+requests: support
+[INFO] 2017-12-18 21:06:52,956 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606943 catname=环保型喷淋塔 count=1
+[INFO] 2017-12-18 21:07:30,068 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606944 catname=光氧催化废气处理设备 count=1
+[ERROR] 2017-12-18 21:07:35,805 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 21:17:35,835 open homepage with selenium url=http://shop439335977.taobao.com memberid=439335977 first_index=3 second_index=-1
+[WARNING] 2017-12-18 21:17:46,394 browser quit error:[Error 5] 
+[INFO] 2017-12-18 21:18:08,088 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_51 125.39.72.116
+requests: support
+[INFO] 2017-12-18 21:19:34,720 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606945 catname=活性炭环保箱 count=2
+[INFO] 2017-12-18 21:20:12,885 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606946 catname=环保型水帘柜 count=1
+[INFO] 2017-12-18 21:20:43,023 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606947 catname=无泵水帘喷漆柜 count=1
+[INFO] 2017-12-18 21:21:03,865 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606948 catname=环保型打磨吸尘柜 count=1
+[INFO] 2017-12-18 21:21:27,588 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606949 catname=环保型塑粉回收机 count=0
+[INFO] 2017-12-18 21:22:12,641 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606950 catname=环保型打磨台 count=0
+[ERROR] 2017-12-18 21:22:20,168 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 21:32:20,178 open homepage with selenium url=http://shop439335977.taobao.com memberid=439335977 first_index=9 second_index=-1
+[WARNING] 2017-12-18 21:32:25,061 browser quit error:[Error 5] 
+[INFO] 2017-12-18 21:32:41,859 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_13 60.28.11.207
+requests: support
+[INFO] 2017-12-18 21:33:26,016 insert records succeed url=http://shop439335977.taobao.com memberid=439335977 category_count=0 page_count=7
+[INFO] 2017-12-18 21:33:26,042 open homepage with selenium url=http://shop105811414.taobao.com memberid=105811414 first_index=0 second_index=-1
+[WARNING] 2017-12-18 21:33:33,002 browser quit error:[Error 5] 
+[INFO] 2017-12-18 21:33:46,111 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_35 125.39.72.100
+requests: support
+[INFO] 2017-12-18 21:33:52,588 before url=http://shop118303552.taobao.com
+[INFO] 2017-12-18 21:33:52,634 Starting new HTTP connection (1): shop118303552.taobao.com
+[INFO] 2017-12-18 21:33:52,801 Starting new HTTPS connection (1): shop118303552.taobao.com
+[INFO] 2017-12-18 21:33:53,180 insert new website url=http://shop118303552.taobao.com memberid=118303552
+[INFO] 2017-12-18 21:33:53,194 read oracle complete! taobao_count=11 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-18 21:33:53,217 get url from mongo before
+[INFO] 2017-12-18 21:33:53,453 get url from oracle after count=3
+[INFO] 2017-12-18 21:35:23,471 getpagelist one category complete. [master] url=http://shop105811414.taobao.com memberid=105811414 catid=893763370 catname=脊柱板 count=17
+[INFO] 2017-12-18 21:35:50,515 getpagelist one category complete. [slaves] url=http://shop105811414.taobao.com memberid=105811414 catid=893763370 catname=脊柱板 catpid=893763370 catpname=脊柱板 count=11
+[INFO] 2017-12-18 21:36:08,002 getpagelist one category complete. [slaves] url=http://shop105811414.taobao.com memberid=105811414 catid=893763370 catname=头部固定器 catpid=893763370 catpname=脊柱板 count=4
+[INFO] 2017-12-18 21:36:24,052 getpagelist one category complete. [slaves] url=http://shop105811414.taobao.com memberid=105811414 catid=893763370 catname=多功能颈托 catpid=893763370 catpname=脊柱板 count=2
+[INFO] 2017-12-18 21:36:54,931 getpagelist one category complete. [slaves] url=http://shop105811414.taobao.com memberid=105811414 catid=893763370 catname=安全绑带 catpid=893763370 catpname=脊柱板 count=3
+[INFO] 2017-12-18 21:37:39,671 getpagelist one category complete. [slaves] url=http://shop105811414.taobao.com memberid=105811414 catid=893763370 catname=止血带 catpid=893763370 catpname=脊柱板 count=3
+[ERROR] 2017-12-18 21:37:47,867 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 21:47:47,891 open homepage with selenium url=http://shop105811414.taobao.com memberid=105811414 first_index=2 second_index=-1
+[WARNING] 2017-12-18 21:47:52,671 browser quit error:[Error 5] 
+[INFO] 2017-12-18 21:48:06,765 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_22 125.39.0.152
+requests: support
+[ERROR] 2017-12-18 21:48:22,082 something error! Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='js-nav-csch fun csch']"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 21:58:22,101 open homepage with selenium url=http://shop105811414.taobao.com memberid=105811414 first_index=2 second_index=-1
+[WARNING] 2017-12-18 21:58:27,262 browser quit error:[Error 5] 
+[INFO] 2017-12-18 21:58:41,931 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_58 125.39.0.188
+requests: support
+[INFO] 2017-12-18 22:00:18,634 getpagelist one category complete. [master] url=http://shop105811414.taobao.com memberid=105811414 catid=893763371 catname=各类担架 count=45
+[INFO] 2017-12-18 22:00:34,338 getpagelist one category complete. [slaves] url=http://shop105811414.taobao.com memberid=105811414 catid=893763371 catname=软担架 catpid=893763371 catpname=各类担架 count=3
+[INFO] 2017-12-18 22:01:06,230 getpagelist one category complete. [slaves] url=http://shop105811414.taobao.com memberid=105811414 catid=893763371 catname=折叠担架 catpid=893763371 catpname=各类担架 count=24
+[INFO] 2017-12-18 22:01:19,440 getpagelist one category complete. [slaves] url=http://shop105811414.taobao.com memberid=105811414 catid=893763371 catname= catpid=893763371 catpname=各类担架 count=4
+[INFO] 2017-12-18 22:01:56,108 getpagelist one category complete. [slaves] url=http://shop105811414.taobao.com memberid=105811414 catid=893763371 catname=吊篮担架、船式担架 catpid=893763371 catpname=各类担架 count=4
+[ERROR] 2017-12-18 22:01:59,144 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 22:17:13,063 open homepage with selenium url=http://shop105811414.taobao.com memberid=105811414 first_index=2 second_index=4
+[WARNING] 2017-12-18 22:17:21,499 browser quit error:[Error 5] 
+[INFO] 2017-12-18 22:17:40,838 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_48 125.39.0.178
+requests: support
+[INFO] 2017-12-18 22:18:28,555 insert records succeed url=http://shop105811414.taobao.com memberid=105811414 category_count=0 page_count=120
+[INFO] 2017-12-18 22:18:28,566 open homepage with selenium url=http://shop118303552.taobao.com memberid=118303552 first_index=0 second_index=-1
+[WARNING] 2017-12-18 22:18:36,260 browser quit error:[Error 5] 
+[INFO] 2017-12-18 22:18:51,605 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_30 125.39.72.41
+requests: support
+[INFO] 2017-12-18 22:19:07,407 before url=http://shop105811414.taobao.com
+[INFO] 2017-12-18 22:19:07,437 Starting new HTTP connection (1): shop105811414.taobao.com
+[INFO] 2017-12-18 22:19:07,585 Starting new HTTPS connection (1): shop105811414.taobao.com
+[INFO] 2017-12-18 22:19:07,996 insert new website url=http://shop105811414.taobao.com memberid=105811414
+[INFO] 2017-12-18 22:19:58,099 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1059673644 catname=防爆头灯系列 count=11
+[INFO] 2017-12-18 22:20:48,079 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1059675409 catname=手电筒系列 count=57
+[INFO] 2017-12-18 22:21:19,397 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1059675258 catname=探照灯系列 count=30
+[INFO] 2017-12-18 22:21:42,420 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1059674777 catname=照明车系列 count=5
+[INFO] 2017-12-18 22:22:28,742 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1059675805 catname=工作灯系列 count=5
+[ERROR] 2017-12-18 22:22:32,055 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 22:32:32,073 open homepage with selenium url=http://shop118303552.taobao.com memberid=118303552 first_index=6 second_index=-1
+[WARNING] 2017-12-18 22:32:38,309 browser quit error:[Error 5] 
+[INFO] 2017-12-18 22:32:51,898 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_25 125.39.72.90
+requests: support
+[INFO] 2017-12-18 22:34:50,384 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1059687271 catname=LED防爆灯系列 count=48
+[INFO] 2017-12-18 22:35:15,528 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1059688816 catname=海洋王同款系列 count=20
+[INFO] 2017-12-18 22:35:45,062 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1288735101 catname=信号灯系列 count=12
+[INFO] 2017-12-18 22:36:09,519 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1288735102 catname=应急灯系列 count=17
+[INFO] 2017-12-18 22:37:00,529 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1288735103 catname=防爆风机系列 count=17
+[ERROR] 2017-12-18 22:37:03,714 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 22:47:03,744 open homepage with selenium url=http://shop118303552.taobao.com memberid=118303552 first_index=11 second_index=-1
+[WARNING] 2017-12-18 22:47:09,108 browser quit error:[Error 5] 
+[INFO] 2017-12-18 22:47:21,108 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_5 60.28.11.199
+requests: support
+[INFO] 2017-12-18 22:48:55,997 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1288735104 catname=防爆管件系列 count=17
+[INFO] 2017-12-18 22:48:56,476 insert records succeed url=http://shop118303552.taobao.com memberid=118303552 category_count=0 page_count=239
+[INFO] 2017-12-18 22:48:56,490 open homepage with selenium url=http://shop105811414.taobao.com memberid=105811414 first_index=0 second_index=-1
+[WARNING] 2017-12-18 22:49:01,644 browser quit error:[Error 5] 
+[INFO] 2017-12-18 22:49:08,049 before url=http://shop118303552.taobao.com
+[INFO] 2017-12-18 22:49:08,108 Starting new HTTP connection (1): shop118303552.taobao.com
+[INFO] 2017-12-18 22:49:08,276 Starting new HTTPS connection (1): shop118303552.taobao.com
+[INFO] 2017-12-18 22:49:08,605 insert new website url=http://shop118303552.taobao.com memberid=118303552
+[INFO] 2017-12-18 22:49:12,714 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_36 125.39.72.101
+requests: support
+[INFO] 2017-12-18 22:50:41,898 getpagelist one category complete. [master] url=http://shop105811414.taobao.com memberid=105811414 catid=893763370 catname=脊柱板 count=17
+[INFO] 2017-12-18 22:51:11,128 getpagelist one category complete. [slaves] url=http://shop105811414.taobao.com memberid=105811414 catid=893763370 catname=脊柱板 catpid=893763370 catpname=脊柱板 count=11
+[INFO] 2017-12-18 22:51:28,776 getpagelist one category complete. [slaves] url=http://shop105811414.taobao.com memberid=105811414 catid=893763370 catname=头部固定器 catpid=893763370 catpname=脊柱板 count=4
+[INFO] 2017-12-18 22:51:42,631 getpagelist one category complete. [slaves] url=http://shop105811414.taobao.com memberid=105811414 catid=893763370 catname=多功能颈托 catpid=893763370 catpname=脊柱板 count=2
+[INFO] 2017-12-18 22:51:59,348 getpagelist one category complete. [slaves] url=http://shop105811414.taobao.com memberid=105811414 catid=893763370 catname=安全绑带 catpid=893763370 catpname=脊柱板 count=3
+[INFO] 2017-12-18 22:52:42,795 getpagelist one category complete. [slaves] url=http://shop105811414.taobao.com memberid=105811414 catid=893763370 catname=止血带 catpid=893763370 catpname=脊柱板 count=3
+[ERROR] 2017-12-18 22:52:56,930 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 23:02:56,947 open homepage with selenium url=http://shop105811414.taobao.com memberid=105811414 first_index=2 second_index=-1
+[WARNING] 2017-12-18 23:03:06,270 browser quit error:[Error 5] 
+[INFO] 2017-12-18 23:03:16,950 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_10 60.28.11.204
+requests: support
+[INFO] 2017-12-18 23:04:20,444 insert records succeed url=http://shop105811414.taobao.com memberid=105811414 category_count=0 page_count=40
+[INFO] 2017-12-18 23:04:20,466 open homepage with selenium url=http://shop118303552.taobao.com memberid=118303552 first_index=0 second_index=-1
+[WARNING] 2017-12-18 23:04:30,740 browser quit error:[Error 5] 
+[INFO] 2017-12-18 23:04:49,017 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_25 125.39.72.90
+requests: support
+[INFO] 2017-12-18 23:05:08,657 before url=http://shop518867593.taobao.com
+[INFO] 2017-12-18 23:05:08,706 Starting new HTTP connection (1): shop518867593.taobao.com
+[INFO] 2017-12-18 23:05:09,924 Starting new HTTPS connection (1): shop518867593.taobao.com
+[INFO] 2017-12-18 23:05:10,299 insert new website url=http://shop518867593.taobao.com memberid=518867593
+[INFO] 2017-12-18 23:05:10,321 read oracle complete! taobao_count=3 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-18 23:05:10,334 get url from mongo before
+[INFO] 2017-12-18 23:05:10,563 get url from oracle after count=1
+[ERROR] 2017-12-18 23:06:32,835 something error! need login
+[INFO] 2017-12-18 23:21:37,701 open homepage with selenium url=http://shop118303552.taobao.com memberid=118303552 first_index=1 second_index=-1
+[WARNING] 2017-12-18 23:21:44,211 browser quit error:[Error 5] 
+[INFO] 2017-12-18 23:22:00,167 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_33 60.28.110.99
+requests: support
+[INFO] 2017-12-18 23:23:21,473 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1059673644 catname=防爆头灯系列 count=11
+[INFO] 2017-12-18 23:24:27,378 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1059675409 catname=手电筒系列 count=57
+[INFO] 2017-12-18 23:25:09,168 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1059675258 catname=探照灯系列 count=30
+[INFO] 2017-12-18 23:25:35,910 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1059674777 catname=照明车系列 count=5
+[INFO] 2017-12-18 23:26:26,782 getpagelist one category complete. [master] url=http://shop118303552.taobao.com memberid=118303552 catid=1059675805 catname=工作灯系列 count=5
+[ERROR] 2017-12-18 23:26:30,776 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-18 23:36:30,802 open homepage with selenium url=http://shop118303552.taobao.com memberid=118303552 first_index=6 second_index=-1
+[WARNING] 2017-12-18 23:36:36,720 browser quit error:[Error 5] 
+[INFO] 2017-12-18 23:36:49,595 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_10 60.28.11.204
+requests: support
+[INFO] 2017-12-18 23:37:24,204 insert records succeed url=http://shop118303552.taobao.com memberid=118303552 category_count=0 page_count=108
+[INFO] 2017-12-18 23:37:24,220 open homepage with selenium url=http://shop518867593.taobao.com memberid=518867593 first_index=0 second_index=-1
+[WARNING] 2017-12-18 23:37:30,868 browser quit error:[Error 5] 
+[INFO] 2017-12-18 23:37:43,782 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_52 60.28.11.246
+requests: support
+[INFO] 2017-12-18 23:38:15,329 before url=http://shop518867593.taobao.com
+[INFO] 2017-12-18 23:38:15,365 Starting new HTTP connection (1): shop518867593.taobao.com
+[INFO] 2017-12-18 23:38:15,542 Starting new HTTPS connection (1): shop518867593.taobao.com
+[INFO] 2017-12-18 23:38:16,233 insert new website url=http://shop518867593.taobao.com memberid=518867593
+[INFO] 2017-12-18 23:38:16,259 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-18 23:38:16,282 get url from mongo before
+[INFO] 2017-12-18 23:38:16,500 get url from oracle after count=1
+[INFO] 2017-12-18 23:38:44,897 getpagelist one category complete. [master] url=http://shop518867593.taobao.com memberid=518867593 catid=1350403938 catname=电动葫芦系列 count=4
+[INFO] 2017-12-18 23:39:10,003 getpagelist one category complete. [master] url=http://shop518867593.taobao.com memberid=518867593 catid=1350403939 catname=吊运机系列 count=3
+[INFO] 2017-12-18 23:39:34,956 getpagelist one category complete. [master] url=http://shop518867593.taobao.com memberid=518867593 catid=1350403940 catname= count=2
+[INFO] 2017-12-18 23:39:50,390 getpagelist one category complete. [master] url=http://shop518867593.taobao.com memberid=518867593 catid=1350403941 catname=提升机卷扬机系列 count=2
+[INFO] 2017-12-18 23:40:11,816 getpagelist one category complete. [master] url=http://shop518867593.taobao.com memberid=518867593 catid=1350403943 catname=吊带索具系列 count=5
+[INFO] 2017-12-18 23:40:47,420 getpagelist one category complete. [master] url=http://shop518867593.taobao.com memberid=518867593 catid=1350403944 catname=更多产品 count=5
+[INFO] 2017-12-18 23:40:47,779 insert records succeed url=http://shop518867593.taobao.com memberid=518867593 category_count=0 page_count=21
+[INFO] 2017-12-18 23:40:47,801 open homepage with selenium url=http://shop518867593.taobao.com memberid=518867593 first_index=0 second_index=-1
+[WARNING] 2017-12-18 23:40:56,250 browser quit error:[Error 5] 
+[INFO] 2017-12-18 23:41:08,499 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_58 111.161.24.60
+requests: support
+[INFO] 2017-12-18 23:41:16,515 before url=http://shop518867593.taobao.com
+[INFO] 2017-12-18 23:41:16,559 Starting new HTTP connection (1): shop518867593.taobao.com
+[INFO] 2017-12-18 23:41:16,707 Starting new HTTPS connection (1): shop518867593.taobao.com
+[INFO] 2017-12-18 23:41:17,053 insert new website url=http://shop518867593.taobao.com memberid=518867593
+[INFO] 2017-12-18 23:41:17,457 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-18 23:41:17,480 get url from mongo before
+[INFO] 2017-12-18 23:41:17,746 get url from oracle after count=0
+[INFO] 2017-12-18 23:42:17,763 get url from mongo before
+[INFO] 2017-12-18 23:42:18,020 get url from oracle after count=0
+[INFO] 2017-12-18 23:42:32,180 getpagelist one category complete. [master] url=http://shop518867593.taobao.com memberid=518867593 catid= catname=所有宝贝 count=28
+[INFO] 2017-12-18 23:42:32,470 insert records succeed url=http://shop518867593.taobao.com memberid=518867593 category_count=0 page_count=28
+[INFO] 2017-12-18 23:42:32,487 open homepage with selenium url=http://shop518867593.taobao.com memberid=518867593 first_index=0 second_index=-1
+[WARNING] 2017-12-18 23:42:36,709 browser quit error:[Error 5] 
+[INFO] 2017-12-18 23:42:51,279 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_5 125.39.72.16
+requests: support
+[INFO] 2017-12-18 23:43:18,039 get url from mongo before
+[INFO] 2017-12-18 23:43:18,167 get url from oracle after count=0
+[ERROR] 2017-12-18 23:43:59,938 something error! need login
+[INFO] 2017-12-18 23:44:18,180 get url from mongo before
+[INFO] 2017-12-18 23:44:18,420 get url from oracle after count=0
+[INFO] 2017-12-18 23:45:18,433 get url from mongo before
+[INFO] 2017-12-18 23:45:18,665 get url from oracle after count=0
+[INFO] 2017-12-18 23:46:18,786 get url from mongo before
+[INFO] 2017-12-18 23:46:19,010 get url from oracle after count=0
+[INFO] 2017-12-18 23:47:19,030 get url from mongo before
+[INFO] 2017-12-18 23:47:19,279 get url from oracle after count=0
+[INFO] 2017-12-18 23:48:19,290 get url from mongo before
+[INFO] 2017-12-18 23:48:19,562 get url from oracle after count=0
+[INFO] 2017-12-18 23:49:19,576 get url from mongo before
+[INFO] 2017-12-18 23:49:19,921 get url from oracle after count=0
+[INFO] 2017-12-18 23:50:19,940 get url from mongo before
+[INFO] 2017-12-18 23:50:20,197 get url from oracle after count=0
+[INFO] 2017-12-18 23:51:20,216 get url from mongo before
+[INFO] 2017-12-18 23:51:20,470 get url from oracle after count=0
+[INFO] 2017-12-18 23:52:20,490 get url from mongo before
+[INFO] 2017-12-18 23:52:20,720 get url from oracle after count=0
+[INFO] 2017-12-18 23:53:20,740 get url from mongo before
+[INFO] 2017-12-18 23:53:20,977 get url from oracle after count=0
+[INFO] 2017-12-18 23:53:59,953 open homepage with selenium url=http://shop518867593.taobao.com memberid=518867593 first_index=1 second_index=-1
+[WARNING] 2017-12-18 23:54:04,240 browser quit error:[Error 5] 
+[INFO] 2017-12-18 23:54:20,990 get url from mongo before
+[INFO] 2017-12-18 23:54:21,391 get url from oracle after count=0
+[INFO] 2017-12-18 23:54:21,494 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_27 125.39.0.157
+requests: support
+[ERROR] 2017-12-18 23:55:07,227 insert records error len(records)=0 memberid=518867593
+[INFO] 2017-12-18 23:55:07,476 insert records succeed url=http://shop518867593.taobao.com memberid=518867593 category_count=0 page_count=0
+[INFO] 2017-12-18 23:55:21,408 get url from mongo before
+[INFO] 2017-12-18 23:55:21,535 get url from oracle after count=0
+[INFO] 2017-12-18 23:56:21,565 get url from mongo before
+[INFO] 2017-12-18 23:56:21,950 get url from oracle after count=0
+[INFO] 2017-12-18 23:57:21,973 get url from mongo before
+[INFO] 2017-12-18 23:57:22,243 get url from oracle after count=0
+[INFO] 2017-12-18 23:58:22,259 get url from mongo before
+[INFO] 2017-12-18 23:58:22,720 get url from oracle after count=0
+[INFO] 2017-12-18 23:59:22,739 get url from mongo before
+[INFO] 2017-12-18 23:59:23,095 get url from oracle after count=0

@@ -1,0 +1,193 @@
+[WARNING] 2017-12-10 22:40:58,035 browser quit error:[Error 5] 
+[INFO] 2017-12-10 22:41:09,884 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_25 60.28.11.219
+requests: support
+[INFO] 2017-12-10 22:41:57,448 getpagelist one category complete. [master] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267126 catname=Ïð½ºÇò count=10
+[INFO] 2017-12-10 22:42:15,292 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267126 catname=¹â½ºÇò catpid=1353267126 catpname=Ïð½ºÇò count=8
+[INFO] 2017-12-10 22:42:36,039 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267126 catname=°þÆ¤½ºÇò catpid=1353267126 catpname=Ïð½ºÇò count=8
+[INFO] 2017-12-10 22:42:55,176 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267126 catname=½ð¸ÕÉ°½ºÇò catpid=1353267126 catpname=Ïð½ºÇò count=2
+[INFO] 2017-12-10 22:43:17,059 getpagelist one category complete. [master] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267130 catname=ÃÜ·â¼þ count=1
+[INFO] 2017-12-10 22:43:34,782 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267130 catname=ÓÍ·â catpid=1353267130 catpname=ÃÜ·â¼þ count=1
+[INFO] 2017-12-10 22:43:46,332 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267130 catname=OÐÍÈ¦ catpid=1353267130 catpname=ÃÜ·â¼þ count=0
+[INFO] 2017-12-10 22:44:03,638 getpagelist one category complete. [master] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=±ÃÀàÃÜ·â¼þ count=2
+[ERROR] 2017-12-10 22:44:09,591 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-10 22:57:47,357 open homepage with selenium url=http://shop58629875.taobao.com memberid=58629875 first_index=3 second_index=0
+[WARNING] 2017-12-10 22:57:51,321 browser quit error:[Error 5] 
+[INFO] 2017-12-10 22:58:02,709 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_13 111.161.24.15
+requests: support
+[INFO] 2017-12-10 22:58:46,275 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=Äà½¬±ÃÅä¼þ catpid=1353267133 catpname=±ÃÀàÃÜ·â¼þ count=0
+[INFO] 2017-12-10 22:59:02,766 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=IS±ÃÅä¼þ catpid=1353267133 catpname=±ÃÀàÃÜ·â¼þ count=0
+[INFO] 2017-12-10 22:59:14,890 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=S±ÃÅä¼þ catpid=1353267133 catpname=±ÃÀàÃÜ·â¼þ count=2
+[INFO] 2017-12-10 22:59:30,382 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=ÓÍ±ÃÅä¼þ catpid=1353267133 catpname=±ÃÀàÃÜ·â¼þ count=0
+[INFO] 2017-12-10 22:59:33,065 insert records succeed url=http://shop58629875.taobao.com memberid=58629875 category_count=0 page_count=34
+[INFO] 2017-12-10 22:59:33,078 open homepage with selenium url=http://shop58629875.taobao.com memberid=58629875 first_index=0 second_index=-1
+[WARNING] 2017-12-10 22:59:35,996 browser quit error:[Error 5] 
+[INFO] 2017-12-10 22:59:47,829 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_33 111.161.24.35
+requests: support
+[INFO] 2017-12-10 23:00:30,316 before url=http://shop58629875.taobao.com
+[INFO] 2017-12-10 23:00:30,352 Starting new HTTP connection (1): shop58629875.taobao.com
+[INFO] 2017-12-10 23:00:30,480 Starting new HTTPS connection (1): shop58629875.taobao.com
+[INFO] 2017-12-10 23:00:30,826 insert new website url=http://shop58629875.taobao.com memberid=58629875
+[INFO] 2017-12-10 23:00:30,845 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-10 23:00:30,875 get url from mongo before
+[INFO] 2017-12-10 23:00:31,036 get url from oracle after count=0
+[INFO] 2017-12-10 23:00:40,556 getpagelist one category complete. [master] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267126 catname=Ïð½ºÇò count=10
+[INFO] 2017-12-10 23:00:59,053 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267126 catname=¹â½ºÇò catpid=1353267126 catpname=Ïð½ºÇò count=8
+[INFO] 2017-12-10 23:01:21,598 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267126 catname=°þÆ¤½ºÇò catpid=1353267126 catpname=Ïð½ºÇò count=8
+[INFO] 2017-12-10 23:01:31,052 get url from mongo before
+[INFO] 2017-12-10 23:01:31,278 get url from oracle after count=0
+[INFO] 2017-12-10 23:01:37,165 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267126 catname=½ð¸ÕÉ°½ºÇò catpid=1353267126 catpname=Ïð½ºÇò count=2
+[INFO] 2017-12-10 23:01:50,892 getpagelist one category complete. [master] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267130 catname=ÃÜ·â¼þ count=1
+[ERROR] 2017-12-10 23:01:59,213 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-10 23:02:31,293 get url from mongo before
+[INFO] 2017-12-10 23:02:31,542 get url from oracle after count=0
+[INFO] 2017-12-10 23:03:31,559 get url from mongo before
+[INFO] 2017-12-10 23:03:31,851 get url from oracle after count=0
+[INFO] 2017-12-10 23:04:31,871 get url from mongo before
+[INFO] 2017-12-10 23:04:32,167 get url from oracle after count=0
+[INFO] 2017-12-10 23:05:32,187 get url from mongo before
+[INFO] 2017-12-10 23:05:32,467 get url from oracle after count=0
+[INFO] 2017-12-10 23:06:32,477 get url from mongo before
+[INFO] 2017-12-10 23:06:32,726 get url from oracle after count=0
+[INFO] 2017-12-10 23:07:32,924 get url from mongo before
+[INFO] 2017-12-10 23:07:33,151 get url from oracle after count=0
+[INFO] 2017-12-10 23:08:33,170 get url from mongo before
+[INFO] 2017-12-10 23:08:33,473 get url from oracle after count=0
+[INFO] 2017-12-10 23:09:33,493 get url from mongo before
+[INFO] 2017-12-10 23:09:33,806 get url from oracle after count=0
+[INFO] 2017-12-10 23:10:33,821 get url from mongo before
+[INFO] 2017-12-10 23:10:34,065 get url from oracle after count=0
+[INFO] 2017-12-10 23:11:34,086 get url from mongo before
+[INFO] 2017-12-10 23:11:34,332 get url from oracle after count=0
+[INFO] 2017-12-10 23:11:59,234 open homepage with selenium url=http://shop58629875.taobao.com memberid=58629875 first_index=2 second_index=0
+[WARNING] 2017-12-10 23:12:03,884 browser quit error:[Error 5] 
+[INFO] 2017-12-10 23:12:15,517 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_16 60.28.11.210
+requests: support
+[INFO] 2017-12-10 23:12:34,355 get url from mongo before
+[INFO] 2017-12-10 23:12:34,635 get url from oracle after count=0
+[INFO] 2017-12-10 23:13:13,220 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267130 catname=ÓÍ·â catpid=1353267130 catpname=ÃÜ·â¼þ count=1
+[INFO] 2017-12-10 23:13:27,319 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267130 catname=OÐÍÈ¦ catpid=1353267130 catpname=ÃÜ·â¼þ count=0
+[INFO] 2017-12-10 23:13:34,655 get url from mongo before
+[INFO] 2017-12-10 23:13:34,930 get url from oracle after count=0
+[INFO] 2017-12-10 23:13:54,355 getpagelist one category complete. [master] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=±ÃÀàÃÜ·â¼þ count=2
+[INFO] 2017-12-10 23:14:07,973 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=Äà½¬±ÃÅä¼þ catpid=1353267133 catpname=±ÃÀàÃÜ·â¼þ count=0
+[INFO] 2017-12-10 23:14:26,805 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=IS±ÃÅä¼þ catpid=1353267133 catpname=±ÃÀàÃÜ·â¼þ count=0
+[INFO] 2017-12-10 23:14:34,944 get url from mongo before
+[INFO] 2017-12-10 23:14:35,272 get url from oracle after count=0
+[INFO] 2017-12-10 23:14:41,555 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=S±ÃÅä¼þ catpid=1353267133 catpname=±ÃÀàÃÜ·â¼þ count=2
+[INFO] 2017-12-10 23:14:54,372 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=ÓÍ±ÃÅä¼þ catpid=1353267133 catpname=±ÃÀàÃÜ·â¼þ count=0
+[INFO] 2017-12-10 23:14:57,023 insert records succeed url=http://shop58629875.taobao.com memberid=58629875 category_count=0 page_count=34
+[INFO] 2017-12-10 23:14:57,043 open homepage with selenium url=http://shop58629875.taobao.com memberid=58629875 first_index=0 second_index=-1
+[WARNING] 2017-12-10 23:15:00,924 browser quit error:[Error 5] 
+[INFO] 2017-12-10 23:15:12,686 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_4 60.28.11.198
+requests: support
+[INFO] 2017-12-10 23:15:35,289 get url from mongo before
+[INFO] 2017-12-10 23:15:35,594 get url from oracle after count=0
+[INFO] 2017-12-10 23:16:05,302 getpagelist one category complete. [master] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267126 catname=Ïð½ºÇò count=10
+[INFO] 2017-12-10 23:16:20,384 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267126 catname=¹â½ºÇò catpid=1353267126 catpname=Ïð½ºÇò count=8
+[INFO] 2017-12-10 23:16:35,615 get url from mongo before
+[INFO] 2017-12-10 23:16:35,894 get url from oracle after count=0
+[INFO] 2017-12-10 23:16:36,624 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267126 catname=°þÆ¤½ºÇò catpid=1353267126 catpname=Ïð½ºÇò count=8
+[INFO] 2017-12-10 23:16:58,293 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267126 catname= catpid=1353267126 catpname=Ïð½ºÇò count=2
+[INFO] 2017-12-10 23:17:15,007 getpagelist one category complete. [master] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267130 catname=ÃÜ·â¼þ count=1
+[INFO] 2017-12-10 23:17:27,552 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267130 catname=ÓÍ·â catpid=1353267130 catpname=ÃÜ·â¼þ count=1
+[INFO] 2017-12-10 23:17:35,911 get url from mongo before
+[INFO] 2017-12-10 23:17:36,193 get url from oracle after count=0
+[INFO] 2017-12-10 23:17:47,609 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267130 catname=OÐÍÈ¦ catpid=1353267130 catpname=ÃÜ·â¼þ count=0
+[INFO] 2017-12-10 23:18:04,388 getpagelist one category complete. [master] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=±ÃÀàÃÜ·â¼þ count=2
+[INFO] 2017-12-10 23:18:15,516 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=Äà½¬±ÃÅä¼þ catpid=1353267133 catpname=±ÃÀàÃÜ·â¼þ count=0
+[INFO] 2017-12-10 23:18:29,125 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=IS±ÃÅä¼þ catpid=1353267133 catpname=±ÃÀàÃÜ·â¼þ count=0
+[INFO] 2017-12-10 23:18:36,203 get url from mongo before
+[INFO] 2017-12-10 23:18:36,484 get url from oracle after count=0
+[INFO] 2017-12-10 23:18:44,049 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=S±ÃÅä¼þ catpid=1353267133 catpname=±ÃÀàÃÜ·â¼þ count=2
+[INFO] 2017-12-10 23:19:03,928 getpagelist one category complete. [slaves] url=http://shop58629875.taobao.com memberid=58629875 catid=1353267133 catname=ÓÍ±ÃÅä¼þ catpid=1353267133 catpname=±ÃÀàÃÜ·â¼þ count=0
+[INFO] 2017-12-10 23:19:07,663 insert records succeed url=http://shop58629875.taobao.com memberid=58629875 category_count=0 page_count=34
+[INFO] 2017-12-10 23:19:36,496 get url from mongo before
+[INFO] 2017-12-10 23:19:36,782 get url from oracle after count=0
+[INFO] 2017-12-10 23:20:36,795 get url from mongo before
+[INFO] 2017-12-10 23:20:37,023 get url from oracle after count=0
+[INFO] 2017-12-10 23:21:37,042 get url from mongo before
+[INFO] 2017-12-10 23:21:37,288 get url from oracle after count=0
+[INFO] 2017-12-10 23:22:37,305 get url from mongo before
+[INFO] 2017-12-10 23:22:37,548 get url from oracle after count=0
+[INFO] 2017-12-10 23:23:37,565 get url from mongo before
+[INFO] 2017-12-10 23:23:37,796 get url from oracle after count=0
+[INFO] 2017-12-10 23:24:37,806 get url from mongo before
+[INFO] 2017-12-10 23:24:38,033 get url from oracle after count=0
+[INFO] 2017-12-10 23:25:38,059 get url from mongo before
+[INFO] 2017-12-10 23:25:38,342 get url from oracle after count=0
+[INFO] 2017-12-10 23:26:38,371 get url from mongo before
+[INFO] 2017-12-10 23:26:38,680 get url from oracle after count=0
+[INFO] 2017-12-10 23:27:38,691 get url from mongo before
+[INFO] 2017-12-10 23:27:39,013 get url from oracle after count=0
+[INFO] 2017-12-10 23:28:39,029 get url from mongo before
+[INFO] 2017-12-10 23:28:39,289 get url from oracle after count=0
+[INFO] 2017-12-10 23:29:39,302 get url from mongo before
+[INFO] 2017-12-10 23:29:39,555 get url from oracle after count=0
+[INFO] 2017-12-10 23:30:39,750 get url from mongo before
+[INFO] 2017-12-10 23:30:40,000 get url from oracle after count=0
+[INFO] 2017-12-10 23:31:40,015 get url from mongo before
+[INFO] 2017-12-10 23:31:40,296 get url from oracle after count=0
+[INFO] 2017-12-10 23:32:40,316 get url from mongo before
+[INFO] 2017-12-10 23:32:40,605 get url from oracle after count=0
+[INFO] 2017-12-10 23:33:40,621 get url from mongo before
+[INFO] 2017-12-10 23:33:40,937 get url from oracle after count=0
+[INFO] 2017-12-10 23:34:40,956 get url from mongo before
+[INFO] 2017-12-10 23:34:41,298 get url from oracle after count=0
+[INFO] 2017-12-10 23:35:41,316 get url from mongo before
+[INFO] 2017-12-10 23:35:41,611 get url from oracle after count=0
+[INFO] 2017-12-10 23:36:41,668 get url from mongo before
+[INFO] 2017-12-10 23:36:41,980 get url from oracle after count=0
+[INFO] 2017-12-10 23:37:41,992 get url from mongo before
+[INFO] 2017-12-10 23:37:42,293 get url from oracle after count=0
+[INFO] 2017-12-10 23:38:42,305 get url from mongo before
+[INFO] 2017-12-10 23:38:42,604 get url from oracle after count=0
+[INFO] 2017-12-10 23:39:42,619 get url from mongo before
+[INFO] 2017-12-10 23:39:42,894 get url from oracle after count=0
+[INFO] 2017-12-10 23:40:42,911 get url from mongo before
+[INFO] 2017-12-10 23:40:43,138 get url from oracle after count=0
+[INFO] 2017-12-10 23:41:43,164 get url from mongo before
+[INFO] 2017-12-10 23:41:43,438 get url from oracle after count=0
+[INFO] 2017-12-10 23:42:43,453 get url from mongo before
+[INFO] 2017-12-10 23:42:43,727 get url from oracle after count=0
+[INFO] 2017-12-10 23:43:43,740 get url from mongo before
+[INFO] 2017-12-10 23:43:44,019 get url from oracle after count=0
+[INFO] 2017-12-10 23:44:44,030 get url from mongo before
+[INFO] 2017-12-10 23:44:44,295 get url from oracle after count=0
+[INFO] 2017-12-10 23:45:44,302 get url from mongo before
+[INFO] 2017-12-10 23:45:44,573 get url from oracle after count=0
+[INFO] 2017-12-10 23:46:44,663 get url from mongo before
+[INFO] 2017-12-10 23:46:44,950 get url from oracle after count=0
+[INFO] 2017-12-10 23:47:44,970 get url from mongo before
+[INFO] 2017-12-10 23:47:45,260 get url from oracle after count=0
+[INFO] 2017-12-10 23:48:45,269 get url from mongo before
+[INFO] 2017-12-10 23:48:45,579 get url from oracle after count=0
+[INFO] 2017-12-10 23:49:45,598 get url from mongo before
+[INFO] 2017-12-10 23:49:45,875 get url from oracle after count=0
+[INFO] 2017-12-10 23:50:45,895 get url from mongo before
+[INFO] 2017-12-10 23:50:46,187 get url from oracle after count=0
+[INFO] 2017-12-10 23:51:46,203 get url from mongo before
+[INFO] 2017-12-10 23:51:46,473 get url from oracle after count=0
+[INFO] 2017-12-10 23:52:46,486 get url from mongo before
+[INFO] 2017-12-10 23:52:46,773 get url from oracle after count=0
+[INFO] 2017-12-10 23:57:26,730 get url from mongo before
+[INFO] 2017-12-10 23:57:26,980 get url from oracle after count=0
+[INFO] 2017-12-10 23:58:26,992 get url from mongo before
+[INFO] 2017-12-10 23:58:27,270 get url from oracle after count=0
+[INFO] 2017-12-10 23:59:27,289 get url from mongo before
+[INFO] 2017-12-10 23:59:27,589 get url from oracle after count=0

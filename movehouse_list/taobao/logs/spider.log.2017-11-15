@@ -1,0 +1,345 @@
+[INFO] 2017-11-15 21:33:24,726 start
+[INFO] 2017-11-15 21:33:25,062 read website start!
+[INFO] 2017-11-15 21:33:25,095 get url from mongo before
+[INFO] 2017-11-15 21:33:25,267 initialize tj proxy size=421
+[INFO] 2017-11-15 21:33:25,342 get url from oracle after count=1
+[INFO] 2017-11-15 21:33:25,348 before url=http://gzdz536.taobao.com
+[INFO] 2017-11-15 21:33:25,375 Starting new HTTP connection (1): gzdz536.taobao.com
+[INFO] 2017-11-15 21:33:25,467 Starting new HTTPS connection (1): gzdz536.taobao.com
+[INFO] 2017-11-15 21:33:26,891 Starting new HTTPS connection (1): mallbrand.m.tmall.com
+[INFO] 2017-11-15 21:33:26,895 insert new website url=http://gzdz536.taobao.com memberid=104658316
+[INFO] 2017-11-15 21:33:26,915 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-11-15 21:33:26,944 get url from mongo before
+[INFO] 2017-11-15 21:33:27,171 get url from oracle after count=1
+[INFO] 2017-11-15 21:33:27,246 before url=http://gzdz536.taobao.com
+[INFO] 2017-11-15 21:33:27,290 Starting new HTTP connection (1): gzdz536.taobao.com
+[INFO] 2017-11-15 21:33:27,408 Starting new HTTPS connection (1): gzdz536.taobao.com
+[INFO] 2017-11-15 21:33:27,826 insert new website url=http://gzdz536.taobao.com memberid=104658316
+[INFO] 2017-11-15 21:33:27,872 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-11-15 21:33:27,907 get url from mongo before
+[INFO] 2017-11-15 21:33:28,148 get url from oracle after count=1
+[ERROR] 2017-11-15 21:34:27,026 get category failed! url=https://mallbrand.m.tmall.com/service/shop/get_shop_cat.ajsonp?shop_id=104658316&parentCatId=0 err=No JSON object could be decoded
+[INFO] 2017-11-15 21:34:27,026 get category complete! url=http://gzdz536.taobao.com memberid=104658316 category_count=1
+[INFO] 2017-11-15 21:34:27,026 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316
+[INFO] 2017-11-15 21:34:30,601 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_17 111.161.24.19
+requests: support
+[INFO] 2017-11-15 21:58:32,522 getpagelist one category complete. [master] url=http://gzdz536.taobao.com memberid=104658316 catid=869377243 catname=Èý¶Ë¼¯³ÉÎÈÑ¹Æ÷ count=4110
+[ERROR] 2017-11-15 21:58:33,349 something error! Message: unknown error: Element <span class="js-nav-csch fun csch">...</span> is not clickable at point (1888, 22). Other element would receive the click: <div class="J_MIDDLEWARE_FRAME_WIDGET" style="transform: scale(1) translateZ(0px); transform-origin: 0px 0px 0px; width: 1920px; height: 7703px; z-index: 999999; position: fixed; left: 0px; top: 0px; background: rgba(0, 0, 0, 0.498039); display: block;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-15 21:58:33,349 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316
+[WARNING] 2017-11-15 21:58:34,615 browser quit error:[Error 5] 
+[INFO] 2017-11-15 21:58:38,253 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_9 125.39.72.74
+requests: support
+[WARNING] 2017-11-15 21:58:54,082 need login, change proxy ip
+[WARNING] 2017-11-15 22:03:55,467 browser quit error:[Error 5] 
+[INFO] 2017-11-15 22:03:59,609 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_29 60.28.110.95
+requests: support
+[ERROR] 2017-11-15 22:04:12,765 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-15 22:04:12,780 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316
+[WARNING] 2017-11-15 22:04:14,015 browser quit error:[Error 5] 
+[INFO] 2017-11-15 22:04:18,048 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_8 125.39.72.73
+requests: support
+[WARNING] 2017-11-15 22:04:34,290 need login, change proxy ip
+[WARNING] 2017-11-15 22:09:37,483 browser quit error:[Error 5] 
+[INFO] 2017-11-15 22:09:49,930 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_60 60.28.11.254
+requests: support
+[ERROR] 2017-11-15 22:10:19,108 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-15 22:10:19,137 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316
+[WARNING] 2017-11-15 22:10:22,095 browser quit error:[Error 5] 
+[INFO] 2017-11-15 22:10:33,720 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_10 125.39.149.12
+requests: support
+[ERROR] 2017-11-15 22:18:01,282 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-15 22:18:01,315 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316
+[WARNING] 2017-11-15 22:18:09,239 browser quit error:[Error 5] 
+[INFO] 2017-11-15 22:18:33,255 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_28 125.39.72.39
+requests: support
+[INFO] 2017-11-15 22:19:49,778 insert records succeed url=http://gzdz536.taobao.com memberid=104658316 category_count=1 page_count=4110
+[INFO] 2017-11-15 22:19:49,819 Starting new HTTPS connection (1): mallbrand.m.tmall.com
+[INFO] 2017-11-15 22:20:28,332 before url=http://gzdz536.taobao.com
+[INFO] 2017-11-15 22:20:28,384 Starting new HTTP connection (1): gzdz536.taobao.com
+[INFO] 2017-11-15 22:20:28,529 Starting new HTTPS connection (1): gzdz536.taobao.com
+[INFO] 2017-11-15 22:20:28,836 insert new website url=http://gzdz536.taobao.com memberid=104658316
+[INFO] 2017-11-15 22:20:28,874 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-11-15 22:20:28,915 get url from mongo before
+[INFO] 2017-11-15 22:20:29,157 get url from oracle after count=0
+[ERROR] 2017-11-15 22:20:47,473 get category failed! url=https://mallbrand.m.tmall.com/service/shop/get_shop_cat.ajsonp?shop_id=104658316&parentCatId=0 err=No JSON object could be decoded
+[INFO] 2017-11-15 22:20:47,510 get category complete! url=http://gzdz536.taobao.com memberid=104658316 category_count=1
+[INFO] 2017-11-15 22:20:47,569 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316
+[WARNING] 2017-11-15 22:21:01,338 browser quit error:[Error 5] 
+[INFO] 2017-11-15 22:21:26,405 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_16 60.28.11.210
+requests: support
+[INFO] 2017-11-15 22:21:29,176 get url from mongo before
+[INFO] 2017-11-15 22:21:29,398 get url from oracle after count=0
+[INFO] 2017-11-15 22:22:29,421 get url from mongo before
+[INFO] 2017-11-15 22:22:29,653 get url from oracle after count=0
+[INFO] 2017-11-15 22:23:29,680 get url from mongo before
+[INFO] 2017-11-15 22:23:29,900 get url from oracle after count=0
+[INFO] 2017-11-15 22:24:29,927 get url from mongo before
+[INFO] 2017-11-15 22:24:30,151 get url from oracle after count=0
+[INFO] 2017-11-15 22:25:30,184 get url from mongo before
+[INFO] 2017-11-15 22:25:30,415 get url from oracle after count=0
+[INFO] 2017-11-15 22:26:30,444 get url from mongo before
+[INFO] 2017-11-15 22:26:30,668 get url from oracle after count=0
+[INFO] 2017-11-15 22:27:30,701 get url from mongo before
+[INFO] 2017-11-15 22:27:30,959 get url from oracle after count=0
+[INFO] 2017-11-15 22:28:31,351 get url from mongo before
+[INFO] 2017-11-15 22:28:31,553 get url from oracle after count=0
+[ERROR] 2017-11-15 22:30:53,078 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-15 22:30:53,131 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316
+[INFO] 2017-11-15 22:31:03,494 get url from mongo before
+[INFO] 2017-11-15 22:31:03,723 get url from oracle after count=0
+[WARNING] 2017-11-15 22:31:12,377 browser quit error:[Error 5] 
+[INFO] 2017-11-15 22:31:50,569 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_48 125.39.149.50
+requests: support
+[INFO] 2017-11-15 22:32:03,760 get url from mongo before
+[INFO] 2017-11-15 22:32:03,964 get url from oracle after count=0
+[INFO] 2017-11-15 22:33:03,992 get url from mongo before
+[INFO] 2017-11-15 22:33:04,217 get url from oracle after count=0
+[INFO] 2017-11-15 22:34:05,118 get url from mongo before
+[INFO] 2017-11-15 22:34:05,338 get url from oracle after count=0
+[INFO] 2017-11-15 22:35:05,378 get url from mongo before
+[INFO] 2017-11-15 22:35:05,612 get url from oracle after count=0
+[ERROR] 2017-11-15 22:35:39,401 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-15 22:35:39,434 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316
+[WARNING] 2017-11-15 22:35:55,158 browser quit error:[Error 5] 
+[INFO] 2017-11-15 22:36:05,641 get url from mongo before
+[INFO] 2017-11-15 22:36:05,868 get url from oracle after count=0
+[INFO] 2017-11-15 22:36:21,520 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_11 125.39.72.22
+requests: support
+[INFO] 2017-11-15 22:37:05,900 get url from mongo before
+[INFO] 2017-11-15 22:37:06,249 get url from oracle after count=0
+[ERROR] 2017-11-15 22:37:54,976 insert records error len(records)=0 memberid=104658316
+[INFO] 2017-11-15 22:37:55,243 insert records succeed url=http://gzdz536.taobao.com memberid=104658316 category_count=1 page_count=0
+[INFO] 2017-11-15 22:37:55,303 Starting new HTTPS connection (1): mallbrand.m.tmall.com
+[INFO] 2017-11-15 22:38:06,279 get url from mongo before
+[INFO] 2017-11-15 22:38:06,516 get url from oracle after count=0
+[ERROR] 2017-11-15 22:38:49,622 get category failed! url=https://mallbrand.m.tmall.com/service/shop/get_shop_cat.ajsonp?shop_id=104658316&parentCatId=0 err=No JSON object could be decoded
+[INFO] 2017-11-15 22:38:49,658 get category complete! url=http://gzdz536.taobao.com memberid=104658316 category_count=1
+[INFO] 2017-11-15 22:38:49,707 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316
+[WARNING] 2017-11-15 22:39:06,530 browser quit error:[Error 5] 
+[INFO] 2017-11-15 22:39:06,556 get url from mongo before
+[INFO] 2017-11-15 22:39:06,753 get url from oracle after count=0
+[INFO] 2017-11-15 22:39:39,338 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_54 125.39.72.119
+requests: support
+[INFO] 2017-11-15 22:40:06,799 get url from mongo before
+[INFO] 2017-11-15 22:40:07,042 get url from oracle after count=0
+[INFO] 2017-11-15 22:41:07,063 get url from mongo before
+[INFO] 2017-11-15 22:41:08,026 get url from oracle after count=0
+[INFO] 2017-11-15 22:42:08,084 get url from mongo before
+[INFO] 2017-11-15 22:42:08,280 get url from oracle after count=0
+[INFO] 2017-11-15 22:43:08,302 get url from mongo before
+[INFO] 2017-11-15 22:43:08,502 get url from oracle after count=0
+[INFO] 2017-11-15 22:44:08,528 get url from mongo before
+[INFO] 2017-11-15 22:44:08,730 get url from oracle after count=0
+[ERROR] 2017-11-15 22:44:24,983 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-15 22:44:25,017 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316
+[WARNING] 2017-11-15 22:44:40,697 browser quit error:[Error 5] 
+[INFO] 2017-11-15 22:45:07,650 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_32 111.161.24.34
+requests: support
+[INFO] 2017-11-15 22:45:08,747 get url from mongo before
+[INFO] 2017-11-15 22:45:08,957 get url from oracle after count=0
+[INFO] 2017-11-15 22:46:08,977 get url from mongo before
+[INFO] 2017-11-15 22:46:09,187 get url from oracle after count=0
+[INFO] 2017-11-15 22:47:09,219 get url from mongo before
+[INFO] 2017-11-15 22:47:09,428 get url from oracle after count=0
+[INFO] 2017-11-15 22:48:09,446 get url from mongo before
+[INFO] 2017-11-15 22:48:09,661 get url from oracle after count=0
+[INFO] 2017-11-15 22:49:09,676 get url from mongo before
+[INFO] 2017-11-15 22:49:09,868 get url from oracle after count=0
+[INFO] 2017-11-15 22:50:09,882 get url from mongo before
+[INFO] 2017-11-15 22:50:10,081 get url from oracle after count=0
+[INFO] 2017-11-15 22:51:10,101 get url from mongo before
+[INFO] 2017-11-15 22:51:10,305 get url from oracle after count=0
+[INFO] 2017-11-15 22:52:10,321 get url from mongo before
+[INFO] 2017-11-15 22:52:10,532 get url from oracle after count=0
+[INFO] 2017-11-15 22:53:10,555 get url from mongo before
+[INFO] 2017-11-15 22:53:10,766 get url from oracle after count=0
+[INFO] 2017-11-15 22:54:10,779 get url from mongo before
+[INFO] 2017-11-15 22:54:10,990 get url from oracle after count=0
+[ERROR] 2017-11-15 22:54:46,082 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-15 22:54:46,118 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316
+[WARNING] 2017-11-15 22:55:00,339 browser quit error:[Error 5] 
+[INFO] 2017-11-15 22:55:11,012 get url from mongo before
+[INFO] 2017-11-15 22:55:11,204 get url from oracle after count=0
+[ERROR] 2017-11-15 22:55:29,413 something error! Message: unknown error: failed to wait for extension background page to load: chrome-extension://abnbmigibocackhdjcfmhhhjmfoemblp/_generated_background_page.html
+from timeout
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-15 22:55:29,450 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316
+[INFO] 2017-11-15 22:55:57,209 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_5 125.39.72.16
+requests: support
+[INFO] 2017-11-15 22:56:11,346 get url from mongo before
+[INFO] 2017-11-15 22:56:11,542 get url from oracle after count=0
+[INFO] 2017-11-15 22:57:11,579 get url from mongo before
+[INFO] 2017-11-15 22:57:11,802 get url from oracle after count=0
+[INFO] 2017-11-15 22:58:11,818 get url from mongo before
+[INFO] 2017-11-15 22:58:12,019 get url from oracle after count=0
+[INFO] 2017-11-15 22:59:12,038 get url from mongo before
+[INFO] 2017-11-15 22:59:12,263 get url from oracle after count=0
+[INFO] 2017-11-15 23:00:12,289 get url from mongo before
+[INFO] 2017-11-15 23:00:12,509 get url from oracle after count=0
+[INFO] 2017-11-15 23:01:12,532 get url from mongo before
+[INFO] 2017-11-15 23:01:12,790 get url from oracle after count=0
+[INFO] 2017-11-15 23:02:12,809 get url from mongo before
+[INFO] 2017-11-15 23:02:13,016 get url from oracle after count=0
+[INFO] 2017-11-15 23:03:13,042 get url from mongo before
+[INFO] 2017-11-15 23:03:13,257 get url from oracle after count=0
+[INFO] 2017-11-15 23:04:13,273 get url from mongo before
+[INFO] 2017-11-15 23:04:13,505 get url from oracle after count=0
+[INFO] 2017-11-15 23:05:13,526 get url from mongo before
+[INFO] 2017-11-15 23:05:13,737 get url from oracle after count=0
+[INFO] 2017-11-15 23:06:13,756 get url from mongo before
+[INFO] 2017-11-15 23:06:13,986 get url from oracle after count=0
+[INFO] 2017-11-15 23:07:14,002 get url from mongo before
+[INFO] 2017-11-15 23:07:14,213 get url from oracle after count=0
+[INFO] 2017-11-15 23:08:14,246 get url from mongo before
+[INFO] 2017-11-15 23:08:14,466 get url from oracle after count=0
+[INFO] 2017-11-15 23:09:14,490 get url from mongo before
+[INFO] 2017-11-15 23:09:14,700 get url from oracle after count=0
+[INFO] 2017-11-15 23:10:14,723 get url from mongo before
+[INFO] 2017-11-15 23:10:14,943 get url from oracle after count=0
+[ERROR] 2017-11-15 23:11:04,055 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-15 23:11:04,088 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316
+[INFO] 2017-11-15 23:11:14,967 get url from mongo before
+[INFO] 2017-11-15 23:11:15,213 get url from oracle after count=0
+[WARNING] 2017-11-15 23:11:20,588 browser quit error:[Error 5] 
+[INFO] 2017-11-15 23:11:57,163 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_47 60.28.11.241
+requests: support
+[INFO] 2017-11-15 23:12:15,246 get url from mongo before
+[INFO] 2017-11-15 23:12:15,509 get url from oracle after count=0
+[INFO] 2017-11-15 23:13:15,559 get url from mongo before
+[INFO] 2017-11-15 23:13:15,776 get url from oracle after count=0
+[ERROR] 2017-11-15 23:13:39,335 insert records error len(records)=0 memberid=104658316
+[INFO] 2017-11-15 23:13:39,558 insert records succeed url=http://gzdz536.taobao.com memberid=104658316 category_count=1 page_count=0
+[INFO] 2017-11-15 23:14:15,803 get url from mongo before
+[INFO] 2017-11-15 23:14:16,007 get url from oracle after count=0
+[INFO] 2017-11-15 23:15:16,022 get url from mongo before
+[INFO] 2017-11-15 23:15:16,252 get url from oracle after count=0
+[INFO] 2017-11-15 23:16:16,299 get url from mongo before
+[INFO] 2017-11-15 23:16:16,500 get url from oracle after count=0
+[INFO] 2017-11-15 23:17:16,529 get url from mongo before
+[INFO] 2017-11-15 23:17:16,746 get url from oracle after count=0
+[INFO] 2017-11-15 23:18:16,763 get url from mongo before
+[INFO] 2017-11-15 23:18:16,966 get url from oracle after count=0
+[INFO] 2017-11-15 23:19:16,987 get url from mongo before
+[INFO] 2017-11-15 23:19:17,177 get url from oracle after count=0
+[INFO] 2017-11-15 23:20:17,197 get url from mongo before
+[INFO] 2017-11-15 23:20:17,438 get url from oracle after count=0
+[INFO] 2017-11-15 23:21:17,451 get url from mongo before
+[INFO] 2017-11-15 23:21:17,671 get url from oracle after count=0
+[INFO] 2017-11-15 23:22:17,688 get url from mongo before
+[INFO] 2017-11-15 23:22:18,040 get url from oracle after count=0
+[INFO] 2017-11-15 23:23:18,055 get url from mongo before
+[INFO] 2017-11-15 23:23:18,263 get url from oracle after count=0
+[INFO] 2017-11-15 23:24:18,285 get url from mongo before
+[INFO] 2017-11-15 23:24:18,507 get url from oracle after count=0
+[INFO] 2017-11-15 23:25:18,526 get url from mongo before
+[INFO] 2017-11-15 23:25:18,716 get url from oracle after count=0
+[INFO] 2017-11-15 23:26:18,734 get url from mongo before
+[INFO] 2017-11-15 23:26:18,948 get url from oracle after count=0
+[INFO] 2017-11-15 23:27:18,964 get url from mongo before
+[INFO] 2017-11-15 23:27:19,217 get url from oracle after count=0
+[INFO] 2017-11-15 23:28:19,232 get url from mongo before
+[INFO] 2017-11-15 23:28:19,428 get url from oracle after count=0
+[INFO] 2017-11-15 23:29:19,448 get url from mongo before
+[INFO] 2017-11-15 23:29:19,664 get url from oracle after count=0
+[INFO] 2017-11-15 23:37:15,279 get url from mongo before
+[INFO] 2017-11-15 23:37:15,490 get url from oracle after count=0
+[INFO] 2017-11-15 23:38:15,519 get url from mongo before
+[INFO] 2017-11-15 23:38:15,733 get url from oracle after count=0
+[INFO] 2017-11-15 23:39:15,747 get url from mongo before
+[INFO] 2017-11-15 23:39:15,963 get url from oracle after count=0
+[INFO] 2017-11-15 23:40:15,990 get url from mongo before
+[INFO] 2017-11-15 23:40:16,210 get url from oracle after count=0
+[INFO] 2017-11-15 23:41:16,226 get url from mongo before
+[INFO] 2017-11-15 23:41:17,201 get url from oracle after count=0
+[INFO] 2017-11-15 23:42:17,224 get url from mongo before
+[INFO] 2017-11-15 23:42:17,447 get url from oracle after count=0
+[INFO] 2017-11-15 23:43:17,473 get url from mongo before
+[INFO] 2017-11-15 23:43:17,693 get url from oracle after count=0
+[INFO] 2017-11-15 23:44:17,711 get url from mongo before
+[INFO] 2017-11-15 23:44:17,937 get url from oracle after count=0
+[INFO] 2017-11-15 23:45:17,960 get url from mongo before
+[INFO] 2017-11-15 23:45:18,211 get url from oracle after count=0
+[INFO] 2017-11-15 23:46:18,234 get url from mongo before
+[INFO] 2017-11-15 23:46:18,451 get url from oracle after count=0
+[INFO] 2017-11-15 23:47:18,464 get url from mongo before
+[INFO] 2017-11-15 23:47:18,686 get url from oracle after count=0
+[INFO] 2017-11-15 23:48:18,717 get url from mongo before
+[INFO] 2017-11-15 23:48:18,996 get url from oracle after count=0
+[INFO] 2017-11-15 23:49:19,016 get url from mongo before
+[INFO] 2017-11-15 23:49:19,230 get url from oracle after count=0
+[INFO] 2017-11-15 23:50:19,243 get url from mongo before
+[INFO] 2017-11-15 23:50:19,453 get url from oracle after count=0
+[INFO] 2017-11-15 23:51:19,469 get url from mongo before
+[INFO] 2017-11-15 23:51:19,665 get url from oracle after count=0
+[INFO] 2017-11-15 23:52:19,688 get url from mongo before
+[INFO] 2017-11-15 23:52:19,917 get url from oracle after count=0
+[INFO] 2017-11-15 23:53:19,931 get url from mongo before
+[INFO] 2017-11-15 23:53:20,127 get url from oracle after count=0
+[INFO] 2017-11-15 23:54:20,140 get url from mongo before
+[INFO] 2017-11-15 23:54:20,342 get url from oracle after count=0
+[INFO] 2017-11-15 23:55:20,357 get url from mongo before
+[INFO] 2017-11-15 23:55:20,561 get url from oracle after count=0
+[INFO] 2017-11-15 23:56:20,585 get url from mongo before
+[INFO] 2017-11-15 23:56:20,790 get url from oracle after count=0
+[INFO] 2017-11-15 23:57:21,542 get url from mongo before
+[INFO] 2017-11-15 23:57:21,749 get url from oracle after count=0
+[INFO] 2017-11-15 23:58:21,772 get url from mongo before
+[INFO] 2017-11-15 23:58:22,000 get url from oracle after count=0
+[INFO] 2017-11-15 23:59:22,026 get url from mongo before
+[INFO] 2017-11-15 23:59:22,229 get url from oracle after count=0

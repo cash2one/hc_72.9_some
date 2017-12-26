@@ -1,0 +1,1889 @@
+[INFO] 2017-11-17 00:00:17,947 get url from mongo before
+[INFO] 2017-11-17 00:00:18,194 get url from oracle after count=0
+[INFO] 2017-11-17 00:01:18,207 get url from mongo before
+[INFO] 2017-11-17 00:01:18,437 get url from oracle after count=0
+[INFO] 2017-11-17 00:02:18,457 get url from mongo before
+[INFO] 2017-11-17 00:02:18,694 get url from oracle after count=0
+[INFO] 2017-11-17 00:03:18,710 get url from mongo before
+[INFO] 2017-11-17 00:03:18,900 get url from oracle after count=0
+[INFO] 2017-11-17 00:04:18,921 get url from mongo before
+[INFO] 2017-11-17 00:04:19,171 get url from oracle after count=0
+[INFO] 2017-11-17 00:05:19,187 get url from mongo before
+[INFO] 2017-11-17 00:05:19,434 get url from oracle after count=0
+[INFO] 2017-11-17 00:06:19,453 get url from mongo before
+[INFO] 2017-11-17 00:06:19,674 get url from oracle after count=0
+[INFO] 2017-11-17 00:07:19,690 get url from mongo before
+[INFO] 2017-11-17 00:07:19,953 get url from oracle after count=0
+[INFO] 2017-11-17 00:08:19,967 get url from mongo before
+[INFO] 2017-11-17 00:08:20,233 get url from oracle after count=0
+[INFO] 2017-11-17 00:09:20,246 get url from mongo before
+[INFO] 2017-11-17 00:09:20,558 get url from oracle after count=0
+[INFO] 2017-11-17 00:10:20,576 get url from mongo before
+[INFO] 2017-11-17 00:10:20,788 get url from oracle after count=0
+[INFO] 2017-11-17 00:11:20,809 get url from mongo before
+[INFO] 2017-11-17 00:11:21,039 get url from oracle after count=0
+[INFO] 2017-11-17 00:12:21,052 get url from mongo before
+[INFO] 2017-11-17 00:12:21,302 get url from oracle after count=0
+[INFO] 2017-11-17 00:13:21,321 get url from mongo before
+[INFO] 2017-11-17 00:13:21,592 get url from oracle after count=0
+[INFO] 2017-11-17 00:14:21,611 get url from mongo before
+[INFO] 2017-11-17 00:14:21,811 get url from oracle after count=0
+[INFO] 2017-11-17 00:15:21,823 get url from mongo before
+[INFO] 2017-11-17 00:15:22,082 get url from oracle after count=0
+[INFO] 2017-11-17 00:16:22,230 get url from mongo before
+[INFO] 2017-11-17 00:16:22,461 get url from oracle after count=0
+[INFO] 2017-11-17 00:22:03,005 get url from mongo before
+[INFO] 2017-11-17 00:22:03,233 get url from oracle after count=0
+[INFO] 2017-11-17 00:23:03,247 get url from mongo before
+[INFO] 2017-11-17 00:23:03,469 get url from oracle after count=0
+[INFO] 2017-11-17 00:24:03,483 get url from mongo before
+[INFO] 2017-11-17 00:24:03,706 get url from oracle after count=0
+[INFO] 2017-11-17 00:25:03,717 get url from mongo before
+[INFO] 2017-11-17 00:25:03,931 get url from oracle after count=0
+[INFO] 2017-11-17 00:26:03,946 get url from mongo before
+[INFO] 2017-11-17 00:26:04,171 get url from oracle after count=0
+[INFO] 2017-11-17 00:27:04,180 get url from mongo before
+[INFO] 2017-11-17 00:27:04,450 get url from oracle after count=0
+[INFO] 2017-11-17 00:28:04,461 get url from mongo before
+[INFO] 2017-11-17 00:28:04,714 get url from oracle after count=0
+[INFO] 2017-11-17 00:29:05,002 get url from mongo before
+[INFO] 2017-11-17 00:29:05,232 get url from oracle after count=0
+[INFO] 2017-11-17 00:30:05,246 get url from mongo before
+[INFO] 2017-11-17 00:30:05,500 get url from oracle after count=0
+[INFO] 2017-11-17 00:31:05,526 get url from mongo before
+[INFO] 2017-11-17 00:31:05,765 get url from oracle after count=0
+[INFO] 2017-11-17 00:32:05,786 get url from mongo before
+[INFO] 2017-11-17 00:32:06,007 get url from oracle after count=0
+[INFO] 2017-11-17 00:33:06,023 get url from mongo before
+[INFO] 2017-11-17 00:33:06,233 get url from oracle after count=0
+[INFO] 2017-11-17 00:34:06,257 get url from mongo before
+[INFO] 2017-11-17 00:34:06,457 get url from oracle after count=0
+[INFO] 2017-11-17 00:35:06,470 get url from mongo before
+[INFO] 2017-11-17 00:35:06,698 get url from oracle after count=0
+[INFO] 2017-11-17 00:36:06,717 get url from mongo before
+[INFO] 2017-11-17 00:36:06,950 get url from oracle after count=0
+[INFO] 2017-11-17 00:37:06,973 get url from mongo before
+[INFO] 2017-11-17 00:37:07,167 get url from oracle after count=0
+[INFO] 2017-11-17 00:38:07,181 get url from mongo before
+[INFO] 2017-11-17 00:38:07,400 get url from oracle after count=0
+[INFO] 2017-11-17 00:39:07,410 get url from mongo before
+[INFO] 2017-11-17 00:39:07,657 get url from oracle after count=0
+[INFO] 2017-11-17 00:40:07,671 get url from mongo before
+[INFO] 2017-11-17 00:40:07,894 get url from oracle after count=0
+[INFO] 2017-11-17 00:41:07,913 get url from mongo before
+[INFO] 2017-11-17 00:41:08,144 get url from oracle after count=0
+[INFO] 2017-11-17 00:42:08,155 get url from mongo before
+[INFO] 2017-11-17 00:42:08,394 get url from oracle after count=0
+[INFO] 2017-11-17 00:43:08,420 get url from mongo before
+[INFO] 2017-11-17 00:43:08,644 get url from oracle after count=0
+[INFO] 2017-11-17 00:44:08,665 get url from mongo before
+[INFO] 2017-11-17 00:44:08,937 get url from oracle after count=0
+[INFO] 2017-11-17 00:45:08,950 get url from mongo before
+[INFO] 2017-11-17 00:45:09,180 get url from oracle after count=0
+[INFO] 2017-11-17 00:46:09,203 get url from mongo before
+[INFO] 2017-11-17 00:46:09,470 get url from oracle after count=0
+[INFO] 2017-11-17 00:47:09,483 get url from mongo before
+[INFO] 2017-11-17 00:47:09,707 get url from oracle after count=0
+[INFO] 2017-11-17 00:48:09,726 get url from mongo before
+[INFO] 2017-11-17 00:48:09,963 get url from oracle after count=0
+[INFO] 2017-11-17 00:49:09,986 get url from mongo before
+[INFO] 2017-11-17 00:49:10,227 get url from oracle after count=0
+[INFO] 2017-11-17 00:50:10,244 get url from mongo before
+[INFO] 2017-11-17 00:50:10,463 get url from oracle after count=0
+[INFO] 2017-11-17 00:51:10,480 get url from mongo before
+[INFO] 2017-11-17 00:51:10,694 get url from oracle after count=0
+[INFO] 2017-11-17 00:52:10,707 get url from mongo before
+[INFO] 2017-11-17 00:52:10,923 get url from oracle after count=0
+[INFO] 2017-11-17 00:53:10,934 get url from mongo before
+[INFO] 2017-11-17 00:53:11,158 get url from oracle after count=0
+[INFO] 2017-11-17 00:54:11,176 get url from mongo before
+[INFO] 2017-11-17 00:54:11,410 get url from oracle after count=0
+[INFO] 2017-11-17 00:55:11,421 get url from mongo before
+[INFO] 2017-11-17 00:55:11,684 get url from oracle after count=0
+[INFO] 2017-11-17 00:56:11,698 get url from mongo before
+[INFO] 2017-11-17 00:56:11,913 get url from oracle after count=0
+[INFO] 2017-11-17 00:57:11,930 get url from mongo before
+[INFO] 2017-11-17 00:57:12,206 get url from oracle after count=0
+[INFO] 2017-11-17 00:58:12,233 get url from mongo before
+[INFO] 2017-11-17 00:58:12,503 get url from oracle after count=0
+[INFO] 2017-11-17 00:59:12,517 get url from mongo before
+[INFO] 2017-11-17 00:59:12,762 get url from oracle after count=0
+[INFO] 2017-11-17 01:00:12,778 get url from mongo before
+[INFO] 2017-11-17 01:00:12,980 get url from oracle after count=0
+[INFO] 2017-11-17 01:01:13,000 get url from mongo before
+[INFO] 2017-11-17 01:01:13,203 get url from oracle after count=0
+[INFO] 2017-11-17 01:02:13,221 get url from mongo before
+[INFO] 2017-11-17 01:02:13,448 get url from oracle after count=0
+[INFO] 2017-11-17 01:03:13,463 get url from mongo before
+[INFO] 2017-11-17 01:03:13,696 get url from oracle after count=0
+[INFO] 2017-11-17 01:04:13,709 get url from mongo before
+[INFO] 2017-11-17 01:04:13,973 get url from oracle after count=0
+[INFO] 2017-11-17 01:05:13,983 get url from mongo before
+[INFO] 2017-11-17 01:05:14,217 get url from oracle after count=0
+[INFO] 2017-11-17 01:06:14,230 get url from mongo before
+[INFO] 2017-11-17 01:06:14,434 get url from oracle after count=0
+[INFO] 2017-11-17 01:07:14,446 get url from mongo before
+[INFO] 2017-11-17 01:07:14,651 get url from oracle after count=0
+[INFO] 2017-11-17 01:08:14,667 get url from mongo before
+[INFO] 2017-11-17 01:08:14,927 get url from oracle after count=0
+[INFO] 2017-11-17 01:09:14,944 get url from mongo before
+[INFO] 2017-11-17 01:09:15,164 get url from oracle after count=0
+[INFO] 2017-11-17 01:10:15,177 get url from mongo before
+[INFO] 2017-11-17 01:10:15,415 get url from oracle after count=0
+[INFO] 2017-11-17 01:11:15,431 get url from mongo before
+[INFO] 2017-11-17 01:11:15,661 get url from oracle after count=0
+[INFO] 2017-11-17 01:12:15,674 get url from mongo before
+[INFO] 2017-11-17 01:12:15,887 get url from oracle after count=0
+[INFO] 2017-11-17 01:13:15,907 get url from mongo before
+[INFO] 2017-11-17 01:13:16,131 get url from oracle after count=0
+[INFO] 2017-11-17 01:14:16,148 get url from mongo before
+[INFO] 2017-11-17 01:14:16,368 get url from oracle after count=0
+[INFO] 2017-11-17 01:15:16,381 get url from mongo before
+[INFO] 2017-11-17 01:15:16,608 get url from oracle after count=0
+[INFO] 2017-11-17 01:16:16,621 get url from mongo before
+[INFO] 2017-11-17 01:16:16,857 get url from oracle after count=0
+[INFO] 2017-11-17 01:17:16,875 get url from mongo before
+[INFO] 2017-11-17 01:17:17,095 get url from oracle after count=0
+[INFO] 2017-11-17 01:18:17,105 get url from mongo before
+[INFO] 2017-11-17 01:18:17,338 get url from oracle after count=0
+[INFO] 2017-11-17 01:19:17,358 get url from mongo before
+[INFO] 2017-11-17 01:19:17,615 get url from oracle after count=0
+[INFO] 2017-11-17 01:20:17,681 get url from mongo before
+[INFO] 2017-11-17 01:20:17,915 get url from oracle after count=0
+[INFO] 2017-11-17 01:21:17,936 get url from mongo before
+[INFO] 2017-11-17 01:21:18,286 get url from oracle after count=0
+[INFO] 2017-11-17 01:26:51,062 get url from mongo before
+[INFO] 2017-11-17 01:26:51,296 get url from oracle after count=0
+[INFO] 2017-11-17 01:27:51,309 get url from mongo before
+[INFO] 2017-11-17 01:27:51,539 get url from oracle after count=0
+[INFO] 2017-11-17 01:28:51,563 get url from mongo before
+[INFO] 2017-11-17 01:28:51,841 get url from oracle after count=0
+[INFO] 2017-11-17 01:29:51,858 get url from mongo before
+[INFO] 2017-11-17 01:29:52,086 get url from oracle after count=0
+[INFO] 2017-11-17 01:30:52,096 get url from mongo before
+[INFO] 2017-11-17 01:30:52,319 get url from oracle after count=0
+[INFO] 2017-11-17 01:31:52,335 get url from mongo before
+[INFO] 2017-11-17 01:31:52,562 get url from oracle after count=0
+[INFO] 2017-11-17 01:32:52,582 get url from mongo before
+[INFO] 2017-11-17 01:32:52,901 get url from oracle after count=0
+[INFO] 2017-11-17 01:33:52,918 get url from mongo before
+[INFO] 2017-11-17 01:33:53,154 get url from oracle after count=0
+[INFO] 2017-11-17 01:34:53,164 get url from mongo before
+[INFO] 2017-11-17 01:34:53,403 get url from oracle after count=0
+[INFO] 2017-11-17 01:35:53,417 get url from mongo before
+[INFO] 2017-11-17 01:35:53,653 get url from oracle after count=0
+[INFO] 2017-11-17 01:36:53,680 get url from mongo before
+[INFO] 2017-11-17 01:36:53,914 get url from oracle after count=0
+[INFO] 2017-11-17 01:37:53,930 get url from mongo before
+[INFO] 2017-11-17 01:37:54,165 get url from oracle after count=0
+[INFO] 2017-11-17 01:38:54,178 get url from mongo before
+[INFO] 2017-11-17 01:38:54,457 get url from oracle after count=0
+[INFO] 2017-11-17 01:39:54,473 get url from mongo before
+[INFO] 2017-11-17 01:39:54,686 get url from oracle after count=0
+[INFO] 2017-11-17 01:40:54,703 get url from mongo before
+[INFO] 2017-11-17 01:40:54,940 get url from oracle after count=0
+[INFO] 2017-11-17 01:41:54,959 get url from mongo before
+[INFO] 2017-11-17 01:41:55,203 get url from oracle after count=0
+[INFO] 2017-11-17 01:42:55,220 get url from mongo before
+[INFO] 2017-11-17 01:42:55,457 get url from oracle after count=0
+[INFO] 2017-11-17 01:43:55,473 get url from mongo before
+[INFO] 2017-11-17 01:43:55,697 get url from oracle after count=0
+[INFO] 2017-11-17 01:44:55,711 get url from mongo before
+[INFO] 2017-11-17 01:44:55,961 get url from oracle after count=0
+[INFO] 2017-11-17 01:45:55,974 get url from mongo before
+[INFO] 2017-11-17 01:45:56,209 get url from oracle after count=0
+[INFO] 2017-11-17 01:46:56,226 get url from mongo before
+[INFO] 2017-11-17 01:46:56,434 get url from oracle after count=0
+[INFO] 2017-11-17 01:47:56,453 get url from mongo before
+[INFO] 2017-11-17 01:47:56,684 get url from oracle after count=0
+[INFO] 2017-11-17 01:48:56,698 get url from mongo before
+[INFO] 2017-11-17 01:48:56,927 get url from oracle after count=0
+[INFO] 2017-11-17 01:49:56,940 get url from mongo before
+[INFO] 2017-11-17 01:49:57,167 get url from oracle after count=0
+[INFO] 2017-11-17 01:50:57,178 get url from mongo before
+[INFO] 2017-11-17 01:50:57,441 get url from oracle after count=0
+[INFO] 2017-11-17 01:51:57,456 get url from mongo before
+[INFO] 2017-11-17 01:51:57,693 get url from oracle after count=0
+[INFO] 2017-11-17 01:52:57,706 get url from mongo before
+[INFO] 2017-11-17 01:52:57,963 get url from oracle after count=0
+[INFO] 2017-11-17 01:53:57,982 get url from mongo before
+[INFO] 2017-11-17 01:53:58,240 get url from oracle after count=0
+[INFO] 2017-11-17 01:54:58,256 get url from mongo before
+[INFO] 2017-11-17 01:54:58,479 get url from oracle after count=0
+[INFO] 2017-11-17 01:55:58,500 get url from mongo before
+[INFO] 2017-11-17 01:55:58,713 get url from oracle after count=0
+[INFO] 2017-11-17 01:56:58,730 get url from mongo before
+[INFO] 2017-11-17 01:56:58,969 get url from oracle after count=0
+[INFO] 2017-11-17 01:57:58,989 get url from mongo before
+[INFO] 2017-11-17 01:57:59,259 get url from oracle after count=0
+[INFO] 2017-11-17 01:58:59,273 get url from mongo before
+[INFO] 2017-11-17 01:58:59,556 get url from oracle after count=0
+[INFO] 2017-11-17 01:59:59,573 get url from mongo before
+[INFO] 2017-11-17 01:59:59,819 get url from oracle after count=0
+[INFO] 2017-11-17 02:00:59,835 get url from mongo before
+[INFO] 2017-11-17 02:01:00,072 get url from oracle after count=0
+[INFO] 2017-11-17 02:02:00,088 get url from mongo before
+[INFO] 2017-11-17 02:02:00,305 get url from oracle after count=0
+[INFO] 2017-11-17 02:03:00,322 get url from mongo before
+[INFO] 2017-11-17 02:03:00,602 get url from oracle after count=0
+[INFO] 2017-11-17 02:04:00,617 get url from mongo before
+[INFO] 2017-11-17 02:04:00,763 get url from oracle after count=0
+[INFO] 2017-11-17 02:05:00,783 get url from mongo before
+[INFO] 2017-11-17 02:05:01,013 get url from oracle after count=0
+[INFO] 2017-11-17 02:06:01,023 get url from mongo before
+[INFO] 2017-11-17 02:06:01,233 get url from oracle after count=0
+[INFO] 2017-11-17 02:07:01,255 get url from mongo before
+[INFO] 2017-11-17 02:07:01,690 get url from oracle after count=0
+[INFO] 2017-11-17 02:08:01,704 get url from mongo before
+[INFO] 2017-11-17 02:08:01,993 get url from oracle after count=0
+[INFO] 2017-11-17 02:09:02,013 get url from mongo before
+[INFO] 2017-11-17 02:09:02,244 get url from oracle after count=0
+[INFO] 2017-11-17 02:10:02,263 get url from mongo before
+[INFO] 2017-11-17 02:10:02,494 get url from oracle after count=0
+[INFO] 2017-11-17 02:11:02,506 get url from mongo before
+[INFO] 2017-11-17 02:11:02,743 get url from oracle after count=0
+[INFO] 2017-11-17 02:12:02,756 get url from mongo before
+[INFO] 2017-11-17 02:12:02,983 get url from oracle after count=0
+[INFO] 2017-11-17 02:13:03,000 get url from mongo before
+[INFO] 2017-11-17 02:13:03,201 get url from oracle after count=0
+[INFO] 2017-11-17 02:14:03,214 get url from mongo before
+[INFO] 2017-11-17 02:14:03,446 get url from oracle after count=0
+[INFO] 2017-11-17 02:15:03,464 get url from mongo before
+[INFO] 2017-11-17 02:15:03,711 get url from oracle after count=0
+[INFO] 2017-11-17 02:16:03,726 get url from mongo before
+[INFO] 2017-11-17 02:16:04,165 get url from oracle after count=0
+[INFO] 2017-11-17 02:17:04,183 get url from mongo before
+[INFO] 2017-11-17 02:17:04,463 get url from oracle after count=0
+[INFO] 2017-11-17 02:18:04,483 get url from mongo before
+[INFO] 2017-11-17 02:18:04,721 get url from oracle after count=0
+[INFO] 2017-11-17 02:19:04,736 get url from mongo before
+[INFO] 2017-11-17 02:19:04,946 get url from oracle after count=0
+[INFO] 2017-11-17 02:20:04,960 get url from mongo before
+[INFO] 2017-11-17 02:20:05,191 get url from oracle after count=0
+[INFO] 2017-11-17 02:21:05,206 get url from mongo before
+[INFO] 2017-11-17 02:21:05,417 get url from oracle after count=0
+[INFO] 2017-11-17 02:22:05,433 get url from mongo before
+[INFO] 2017-11-17 02:22:05,739 get url from oracle after count=0
+[INFO] 2017-11-17 02:23:05,763 get url from mongo before
+[INFO] 2017-11-17 02:23:05,944 get url from oracle after count=0
+[INFO] 2017-11-17 02:24:05,954 get url from mongo before
+[INFO] 2017-11-17 02:24:06,285 get url from oracle after count=0
+[INFO] 2017-11-17 02:25:06,298 get url from mongo before
+[INFO] 2017-11-17 02:25:06,500 get url from oracle after count=0
+[INFO] 2017-11-17 02:26:06,512 get url from mongo before
+[INFO] 2017-11-17 02:26:06,740 get url from oracle after count=0
+[INFO] 2017-11-17 02:31:36,081 get url from mongo before
+[INFO] 2017-11-17 02:31:36,303 get url from oracle after count=0
+[INFO] 2017-11-17 02:32:36,326 get url from mongo before
+[INFO] 2017-11-17 02:32:36,605 get url from oracle after count=0
+[INFO] 2017-11-17 02:33:36,622 get url from mongo before
+[INFO] 2017-11-17 02:33:36,844 get url from oracle after count=0
+[INFO] 2017-11-17 02:34:36,858 get url from mongo before
+[INFO] 2017-11-17 02:34:37,095 get url from oracle after count=0
+[INFO] 2017-11-17 02:35:37,108 get url from mongo before
+[INFO] 2017-11-17 02:35:37,325 get url from oracle after count=0
+[INFO] 2017-11-17 02:36:37,339 get url from mongo before
+[INFO] 2017-11-17 02:36:37,558 get url from oracle after count=0
+[INFO] 2017-11-17 02:37:37,578 get url from mongo before
+[INFO] 2017-11-17 02:37:37,816 get url from oracle after count=0
+[INFO] 2017-11-17 02:38:37,826 get url from mongo before
+[INFO] 2017-11-17 02:38:38,065 get url from oracle after count=0
+[INFO] 2017-11-17 02:39:38,081 get url from mongo before
+[INFO] 2017-11-17 02:39:38,388 get url from oracle after count=0
+[INFO] 2017-11-17 02:40:38,408 get url from mongo before
+[INFO] 2017-11-17 02:40:38,632 get url from oracle after count=0
+[INFO] 2017-11-17 02:41:38,644 get url from mongo before
+[INFO] 2017-11-17 02:41:38,915 get url from oracle after count=0
+[INFO] 2017-11-17 02:42:38,931 get url from mongo before
+[INFO] 2017-11-17 02:42:39,210 get url from oracle after count=0
+[INFO] 2017-11-17 02:43:39,223 get url from mongo before
+[INFO] 2017-11-17 02:43:39,448 get url from oracle after count=0
+[INFO] 2017-11-17 02:44:39,463 get url from mongo before
+[INFO] 2017-11-17 02:44:39,676 get url from oracle after count=0
+[INFO] 2017-11-17 02:45:39,691 get url from mongo before
+[INFO] 2017-11-17 02:45:39,917 get url from oracle after count=0
+[INFO] 2017-11-17 02:46:39,930 get url from mongo before
+[INFO] 2017-11-17 02:46:40,137 get url from oracle after count=0
+[INFO] 2017-11-17 02:47:40,154 get url from mongo before
+[INFO] 2017-11-17 02:47:40,404 get url from oracle after count=0
+[INFO] 2017-11-17 02:48:40,423 get url from mongo before
+[INFO] 2017-11-17 02:48:40,707 get url from oracle after count=0
+[INFO] 2017-11-17 02:49:40,724 get url from mongo before
+[INFO] 2017-11-17 02:49:40,960 get url from oracle after count=0
+[INFO] 2017-11-17 02:50:40,976 get url from mongo before
+[INFO] 2017-11-17 02:50:41,193 get url from oracle after count=0
+[INFO] 2017-11-17 02:51:41,210 get url from mongo before
+[INFO] 2017-11-17 02:51:41,434 get url from oracle after count=0
+[INFO] 2017-11-17 02:52:41,446 get url from mongo before
+[INFO] 2017-11-17 02:52:41,713 get url from oracle after count=0
+[INFO] 2017-11-17 02:53:41,727 get url from mongo before
+[INFO] 2017-11-17 02:53:41,953 get url from oracle after count=0
+[INFO] 2017-11-17 02:54:41,963 get url from mongo before
+[INFO] 2017-11-17 02:54:42,207 get url from oracle after count=0
+[INFO] 2017-11-17 02:55:42,224 get url from mongo before
+[INFO] 2017-11-17 02:55:42,444 get url from oracle after count=0
+[INFO] 2017-11-17 02:56:42,469 get url from mongo before
+[INFO] 2017-11-17 02:56:42,790 get url from oracle after count=0
+[INFO] 2017-11-17 02:57:42,805 get url from mongo before
+[INFO] 2017-11-17 02:57:43,019 get url from oracle after count=0
+[INFO] 2017-11-17 02:58:43,032 get url from mongo before
+[INFO] 2017-11-17 02:58:43,273 get url from oracle after count=0
+[INFO] 2017-11-17 02:59:43,286 get url from mongo before
+[INFO] 2017-11-17 02:59:43,493 get url from oracle after count=0
+[INFO] 2017-11-17 03:00:43,509 get url from mongo before
+[INFO] 2017-11-17 03:00:43,740 get url from oracle after count=0
+[INFO] 2017-11-17 03:01:43,753 get url from mongo before
+[INFO] 2017-11-17 03:01:43,982 get url from oracle after count=0
+[INFO] 2017-11-17 03:02:43,999 get url from mongo before
+[INFO] 2017-11-17 03:02:44,232 get url from oracle after count=0
+[INFO] 2017-11-17 03:03:44,246 get url from mongo before
+[INFO] 2017-11-17 03:03:44,539 get url from oracle after count=0
+[INFO] 2017-11-17 03:04:44,553 get url from mongo before
+[INFO] 2017-11-17 03:04:44,769 get url from oracle after count=0
+[INFO] 2017-11-17 03:05:44,786 get url from mongo before
+[INFO] 2017-11-17 03:05:45,033 get url from oracle after count=0
+[INFO] 2017-11-17 03:06:45,042 get url from mongo before
+[INFO] 2017-11-17 03:06:45,269 get url from oracle after count=0
+[INFO] 2017-11-17 03:07:45,289 get url from mongo before
+[INFO] 2017-11-17 03:07:45,551 get url from oracle after count=0
+[INFO] 2017-11-17 03:08:45,572 get url from mongo before
+[INFO] 2017-11-17 03:08:45,836 get url from oracle after count=0
+[INFO] 2017-11-17 03:09:45,851 get url from mongo before
+[INFO] 2017-11-17 03:09:46,058 get url from oracle after count=0
+[INFO] 2017-11-17 03:10:46,081 get url from mongo before
+[INFO] 2017-11-17 03:10:46,354 get url from oracle after count=0
+[INFO] 2017-11-17 03:11:46,374 get url from mongo before
+[INFO] 2017-11-17 03:11:46,605 get url from oracle after count=0
+[INFO] 2017-11-17 03:12:46,621 get url from mongo before
+[INFO] 2017-11-17 03:12:46,895 get url from oracle after count=0
+[INFO] 2017-11-17 03:13:46,905 get url from mongo before
+[INFO] 2017-11-17 03:13:47,141 get url from oracle after count=0
+[INFO] 2017-11-17 03:14:47,157 get url from mongo before
+[INFO] 2017-11-17 03:14:47,388 get url from oracle after count=0
+[INFO] 2017-11-17 03:15:47,404 get url from mongo before
+[INFO] 2017-11-17 03:15:47,641 get url from oracle after count=0
+[INFO] 2017-11-17 03:16:47,654 get url from mongo before
+[INFO] 2017-11-17 03:16:47,910 get url from oracle after count=0
+[INFO] 2017-11-17 03:17:47,923 get url from mongo before
+[INFO] 2017-11-17 03:17:48,246 get url from oracle after count=0
+[INFO] 2017-11-17 03:18:48,265 get url from mongo before
+[INFO] 2017-11-17 03:18:48,489 get url from oracle after count=0
+[INFO] 2017-11-17 03:19:48,506 get url from mongo before
+[INFO] 2017-11-17 03:19:48,737 get url from oracle after count=0
+[INFO] 2017-11-17 03:20:48,753 get url from mongo before
+[INFO] 2017-11-17 03:20:49,010 get url from oracle after count=0
+[INFO] 2017-11-17 03:21:49,023 get url from mongo before
+[INFO] 2017-11-17 03:21:49,273 get url from oracle after count=0
+[INFO] 2017-11-17 03:22:49,289 get url from mongo before
+[INFO] 2017-11-17 03:22:49,506 get url from oracle after count=0
+[INFO] 2017-11-17 03:23:49,526 get url from mongo before
+[INFO] 2017-11-17 03:23:49,742 get url from oracle after count=0
+[INFO] 2017-11-17 03:24:49,765 get url from mongo before
+[INFO] 2017-11-17 03:24:49,970 get url from oracle after count=0
+[INFO] 2017-11-17 03:25:49,990 get url from mongo before
+[INFO] 2017-11-17 03:25:50,256 get url from oracle after count=0
+[INFO] 2017-11-17 03:26:50,280 get url from mongo before
+[INFO] 2017-11-17 03:26:50,502 get url from oracle after count=0
+[INFO] 2017-11-17 03:27:50,516 get url from mongo before
+[INFO] 2017-11-17 03:27:50,743 get url from oracle after count=0
+[INFO] 2017-11-17 03:28:50,756 get url from mongo before
+[INFO] 2017-11-17 03:28:50,980 get url from oracle after count=0
+[INFO] 2017-11-17 03:29:50,990 get url from mongo before
+[INFO] 2017-11-17 03:29:51,190 get url from oracle after count=0
+[INFO] 2017-11-17 03:30:51,206 get url from mongo before
+[INFO] 2017-11-17 03:30:51,459 get url from oracle after count=0
+[INFO] 2017-11-17 03:36:22,997 get url from mongo before
+[INFO] 2017-11-17 03:36:23,290 get url from oracle after count=0
+[INFO] 2017-11-17 03:37:23,303 get url from mongo before
+[INFO] 2017-11-17 03:37:23,555 get url from oracle after count=0
+[INFO] 2017-11-17 03:38:23,571 get url from mongo before
+[INFO] 2017-11-17 03:38:23,826 get url from oracle after count=0
+[INFO] 2017-11-17 03:39:23,838 get url from mongo before
+[INFO] 2017-11-17 03:39:24,075 get url from oracle after count=0
+[INFO] 2017-11-17 03:40:24,088 get url from mongo before
+[INFO] 2017-11-17 03:40:24,308 get url from oracle after count=0
+[INFO] 2017-11-17 03:41:24,326 get url from mongo before
+[INFO] 2017-11-17 03:41:24,542 get url from oracle after count=0
+[INFO] 2017-11-17 03:42:24,559 get url from mongo before
+[INFO] 2017-11-17 03:42:24,773 get url from oracle after count=0
+[INFO] 2017-11-17 03:43:24,786 get url from mongo before
+[INFO] 2017-11-17 03:43:25,020 get url from oracle after count=0
+[INFO] 2017-11-17 03:44:25,032 get url from mongo before
+[INFO] 2017-11-17 03:44:25,256 get url from oracle after count=0
+[INFO] 2017-11-17 03:45:25,269 get url from mongo before
+[INFO] 2017-11-17 03:45:25,496 get url from oracle after count=0
+[INFO] 2017-11-17 03:46:25,509 get url from mongo before
+[INFO] 2017-11-17 03:46:25,716 get url from oracle after count=0
+[INFO] 2017-11-17 03:47:25,737 get url from mongo before
+[INFO] 2017-11-17 03:47:25,960 get url from oracle after count=0
+[INFO] 2017-11-17 03:48:25,976 get url from mongo before
+[INFO] 2017-11-17 03:48:26,229 get url from oracle after count=0
+[INFO] 2017-11-17 03:49:26,249 get url from mongo before
+[INFO] 2017-11-17 03:49:26,470 get url from oracle after count=0
+[INFO] 2017-11-17 03:50:26,482 get url from mongo before
+[INFO] 2017-11-17 03:50:26,713 get url from oracle after count=0
+[INFO] 2017-11-17 03:51:26,726 get url from mongo before
+[INFO] 2017-11-17 03:51:26,976 get url from oracle after count=0
+[INFO] 2017-11-17 03:52:26,987 get url from mongo before
+[INFO] 2017-11-17 03:52:27,237 get url from oracle after count=0
+[INFO] 2017-11-17 03:53:27,250 get url from mongo before
+[INFO] 2017-11-17 03:53:27,519 get url from oracle after count=0
+[INFO] 2017-11-17 03:54:27,533 get url from mongo before
+[INFO] 2017-11-17 03:54:27,801 get url from oracle after count=0
+[INFO] 2017-11-17 03:55:27,819 get url from mongo before
+[INFO] 2017-11-17 03:55:28,066 get url from oracle after count=0
+[INFO] 2017-11-17 03:56:28,082 get url from mongo before
+[INFO] 2017-11-17 03:56:28,312 get url from oracle after count=0
+[INFO] 2017-11-17 03:57:28,331 get url from mongo before
+[INFO] 2017-11-17 03:57:28,565 get url from oracle after count=0
+[INFO] 2017-11-17 03:58:28,578 get url from mongo before
+[INFO] 2017-11-17 03:58:28,808 get url from oracle after count=0
+[INFO] 2017-11-17 03:59:28,822 get url from mongo before
+[INFO] 2017-11-17 03:59:29,032 get url from oracle after count=0
+[INFO] 2017-11-17 04:00:29,045 get url from mongo before
+[INFO] 2017-11-17 04:00:29,269 get url from oracle after count=0
+[INFO] 2017-11-17 04:01:29,288 get url from mongo before
+[INFO] 2017-11-17 04:01:29,513 get url from oracle after count=0
+[INFO] 2017-11-17 04:02:29,528 get url from mongo before
+[INFO] 2017-11-17 04:02:29,755 get url from oracle after count=0
+[INFO] 2017-11-17 04:03:29,770 get url from mongo before
+[INFO] 2017-11-17 04:03:29,992 get url from oracle after count=0
+[INFO] 2017-11-17 04:04:30,000 get url from mongo before
+[INFO] 2017-11-17 04:04:30,244 get url from oracle after count=0
+[INFO] 2017-11-17 04:05:30,260 get url from mongo before
+[INFO] 2017-11-17 04:05:30,473 get url from oracle after count=0
+[INFO] 2017-11-17 04:06:30,486 get url from mongo before
+[INFO] 2017-11-17 04:06:30,752 get url from oracle after count=0
+[INFO] 2017-11-17 04:07:30,763 get url from mongo before
+[INFO] 2017-11-17 04:07:31,015 get url from oracle after count=0
+[INFO] 2017-11-17 04:08:31,036 get url from mongo before
+[INFO] 2017-11-17 04:08:31,239 get url from oracle after count=0
+[INFO] 2017-11-17 04:09:31,256 get url from mongo before
+[INFO] 2017-11-17 04:09:31,486 get url from oracle after count=0
+[INFO] 2017-11-17 04:10:31,503 get url from mongo before
+[INFO] 2017-11-17 04:10:31,857 get url from oracle after count=0
+[INFO] 2017-11-17 04:11:31,868 get url from mongo before
+[INFO] 2017-11-17 04:11:32,095 get url from oracle after count=0
+[INFO] 2017-11-17 04:12:32,112 get url from mongo before
+[INFO] 2017-11-17 04:12:32,338 get url from oracle after count=0
+[INFO] 2017-11-17 04:13:32,404 get url from mongo before
+[INFO] 2017-11-17 04:13:32,632 get url from oracle after count=0
+[INFO] 2017-11-17 04:14:32,648 get url from mongo before
+[INFO] 2017-11-17 04:14:32,888 get url from oracle after count=0
+[INFO] 2017-11-17 04:15:32,904 get url from mongo before
+[INFO] 2017-11-17 04:15:33,161 get url from oracle after count=0
+[INFO] 2017-11-17 04:16:33,177 get url from mongo before
+[INFO] 2017-11-17 04:16:33,404 get url from oracle after count=0
+[INFO] 2017-11-17 04:17:33,415 get url from mongo before
+[INFO] 2017-11-17 04:17:33,698 get url from oracle after count=0
+[INFO] 2017-11-17 04:18:33,714 get url from mongo before
+[INFO] 2017-11-17 04:18:33,917 get url from oracle after count=0
+[INFO] 2017-11-17 04:19:33,928 get url from mongo before
+[INFO] 2017-11-17 04:19:34,164 get url from oracle after count=0
+[INFO] 2017-11-17 04:20:34,187 get url from mongo before
+[INFO] 2017-11-17 04:20:34,418 get url from oracle after count=0
+[INFO] 2017-11-17 04:21:34,433 get url from mongo before
+[INFO] 2017-11-17 04:21:34,648 get url from oracle after count=0
+[INFO] 2017-11-17 04:22:34,663 get url from mongo before
+[INFO] 2017-11-17 04:22:34,907 get url from oracle after count=0
+[INFO] 2017-11-17 04:23:34,923 get url from mongo before
+[INFO] 2017-11-17 04:23:35,151 get url from oracle after count=0
+[INFO] 2017-11-17 04:24:35,168 get url from mongo before
+[INFO] 2017-11-17 04:24:35,430 get url from oracle after count=0
+[INFO] 2017-11-17 04:25:35,448 get url from mongo before
+[INFO] 2017-11-17 04:25:35,677 get url from oracle after count=0
+[INFO] 2017-11-17 04:26:35,696 get url from mongo before
+[INFO] 2017-11-17 04:26:35,927 get url from oracle after count=0
+[INFO] 2017-11-17 04:27:35,944 get url from mongo before
+[INFO] 2017-11-17 04:27:36,279 get url from oracle after count=0
+[INFO] 2017-11-17 04:28:36,290 get url from mongo before
+[INFO] 2017-11-17 04:28:36,549 get url from oracle after count=0
+[INFO] 2017-11-17 04:29:36,571 get url from mongo before
+[INFO] 2017-11-17 04:29:36,836 get url from oracle after count=0
+[INFO] 2017-11-17 04:30:36,852 get url from mongo before
+[INFO] 2017-11-17 04:30:37,091 get url from oracle after count=0
+[INFO] 2017-11-17 04:31:37,105 get url from mongo before
+[INFO] 2017-11-17 04:31:37,371 get url from oracle after count=0
+[INFO] 2017-11-17 04:32:37,385 get url from mongo before
+[INFO] 2017-11-17 04:32:37,624 get url from oracle after count=0
+[INFO] 2017-11-17 04:33:37,644 get url from mongo before
+[INFO] 2017-11-17 04:33:37,859 get url from oracle after count=0
+[INFO] 2017-11-17 04:34:37,875 get url from mongo before
+[INFO] 2017-11-17 04:34:38,118 get url from oracle after count=0
+[INFO] 2017-11-17 04:40:09,079 get url from mongo before
+[INFO] 2017-11-17 04:40:09,290 get url from oracle after count=0
+[INFO] 2017-11-17 04:41:09,326 get url from mongo before
+[INFO] 2017-11-17 04:41:09,542 get url from oracle after count=0
+[INFO] 2017-11-17 04:42:09,559 get url from mongo before
+[INFO] 2017-11-17 04:42:09,792 get url from oracle after count=0
+[INFO] 2017-11-17 04:43:09,812 get url from mongo before
+[INFO] 2017-11-17 04:43:10,007 get url from oracle after count=0
+[INFO] 2017-11-17 04:44:10,020 get url from mongo before
+[INFO] 2017-11-17 04:44:10,246 get url from oracle after count=0
+[INFO] 2017-11-17 04:45:10,259 get url from mongo before
+[INFO] 2017-11-17 04:45:10,490 get url from oracle after count=0
+[INFO] 2017-11-17 04:46:10,507 get url from mongo before
+[INFO] 2017-11-17 04:46:10,746 get url from oracle after count=0
+[INFO] 2017-11-17 04:47:10,755 get url from mongo before
+[INFO] 2017-11-17 04:47:10,986 get url from oracle after count=0
+[INFO] 2017-11-17 04:48:11,003 get url from mongo before
+[INFO] 2017-11-17 04:48:11,246 get url from oracle after count=0
+[INFO] 2017-11-17 04:49:11,267 get url from mongo before
+[INFO] 2017-11-17 04:49:11,539 get url from oracle after count=0
+[INFO] 2017-11-17 04:50:11,552 get url from mongo before
+[INFO] 2017-11-17 04:50:11,799 get url from oracle after count=0
+[INFO] 2017-11-17 04:51:11,821 get url from mongo before
+[INFO] 2017-11-17 04:51:12,056 get url from oracle after count=0
+[INFO] 2017-11-17 04:52:12,073 get url from mongo before
+[INFO] 2017-11-17 04:52:12,301 get url from oracle after count=0
+[INFO] 2017-11-17 04:53:12,322 get url from mongo before
+[INFO] 2017-11-17 04:53:12,539 get url from oracle after count=0
+[INFO] 2017-11-17 04:54:12,552 get url from mongo before
+[INFO] 2017-11-17 04:54:12,759 get url from oracle after count=0
+[INFO] 2017-11-17 04:55:12,779 get url from mongo before
+[INFO] 2017-11-17 04:55:13,015 get url from oracle after count=0
+[INFO] 2017-11-17 04:56:13,026 get url from mongo before
+[INFO] 2017-11-17 04:56:13,250 get url from oracle after count=0
+[INFO] 2017-11-17 04:57:13,267 get url from mongo before
+[INFO] 2017-11-17 04:57:13,483 get url from oracle after count=0
+[INFO] 2017-11-17 04:58:13,503 get url from mongo before
+[INFO] 2017-11-17 04:58:13,783 get url from oracle after count=0
+[INFO] 2017-11-17 04:59:13,799 get url from mongo before
+[INFO] 2017-11-17 04:59:14,029 get url from oracle after count=0
+[INFO] 2017-11-17 05:00:14,040 get url from mongo before
+[INFO] 2017-11-17 05:00:14,286 get url from oracle after count=0
+[INFO] 2017-11-17 05:01:14,305 get url from mongo before
+[INFO] 2017-11-17 05:01:14,588 get url from oracle after count=0
+[INFO] 2017-11-17 05:02:14,608 get url from mongo before
+[INFO] 2017-11-17 05:02:14,836 get url from oracle after count=0
+[INFO] 2017-11-17 05:03:14,859 get url from mongo before
+[INFO] 2017-11-17 05:03:15,078 get url from oracle after count=0
+[INFO] 2017-11-17 05:04:15,096 get url from mongo before
+[INFO] 2017-11-17 05:04:15,388 get url from oracle after count=0
+[INFO] 2017-11-17 05:05:15,411 get url from mongo before
+[INFO] 2017-11-17 05:05:15,625 get url from oracle after count=0
+[INFO] 2017-11-17 05:06:15,641 get url from mongo before
+[INFO] 2017-11-17 05:06:15,852 get url from oracle after count=0
+[INFO] 2017-11-17 05:07:15,868 get url from mongo before
+[INFO] 2017-11-17 05:07:16,102 get url from oracle after count=0
+[INFO] 2017-11-17 05:08:16,117 get url from mongo before
+[INFO] 2017-11-17 05:08:16,344 get url from oracle after count=0
+[INFO] 2017-11-17 05:09:16,361 get url from mongo before
+[INFO] 2017-11-17 05:09:16,598 get url from oracle after count=0
+[INFO] 2017-11-17 05:10:16,611 get url from mongo before
+[INFO] 2017-11-17 05:10:16,839 get url from oracle after count=0
+[INFO] 2017-11-17 05:11:16,855 get url from mongo before
+[INFO] 2017-11-17 05:11:17,095 get url from oracle after count=0
+[INFO] 2017-11-17 05:12:17,112 get url from mongo before
+[INFO] 2017-11-17 05:12:17,405 get url from oracle after count=0
+[INFO] 2017-11-17 05:13:17,421 get url from mongo before
+[INFO] 2017-11-17 05:13:17,711 get url from oracle after count=0
+[INFO] 2017-11-17 05:14:17,726 get url from mongo before
+[INFO] 2017-11-17 05:14:17,983 get url from oracle after count=0
+[INFO] 2017-11-17 05:15:17,994 get url from mongo before
+[INFO] 2017-11-17 05:15:18,230 get url from oracle after count=0
+[INFO] 2017-11-17 05:16:18,247 get url from mongo before
+[INFO] 2017-11-17 05:16:18,503 get url from oracle after count=0
+[INFO] 2017-11-17 05:17:18,517 get url from mongo before
+[INFO] 2017-11-17 05:17:18,789 get url from oracle after count=0
+[INFO] 2017-11-17 05:18:18,803 get url from mongo before
+[INFO] 2017-11-17 05:18:19,061 get url from oracle after count=0
+[INFO] 2017-11-17 05:19:19,082 get url from mongo before
+[INFO] 2017-11-17 05:19:19,298 get url from oracle after count=0
+[INFO] 2017-11-17 05:20:19,312 get url from mongo before
+[INFO] 2017-11-17 05:20:19,530 get url from oracle after count=0
+[INFO] 2017-11-17 05:21:19,542 get url from mongo before
+[INFO] 2017-11-17 05:21:19,776 get url from oracle after count=0
+[INFO] 2017-11-17 05:22:19,792 get url from mongo before
+[INFO] 2017-11-17 05:22:20,022 get url from oracle after count=0
+[INFO] 2017-11-17 05:23:20,039 get url from mongo before
+[INFO] 2017-11-17 05:23:20,253 get url from oracle after count=0
+[INFO] 2017-11-17 05:24:20,273 get url from mongo before
+[INFO] 2017-11-17 05:24:20,492 get url from oracle after count=0
+[INFO] 2017-11-17 05:25:20,512 get url from mongo before
+[INFO] 2017-11-17 05:25:20,746 get url from oracle after count=0
+[INFO] 2017-11-17 05:26:20,760 get url from mongo before
+[INFO] 2017-11-17 05:26:21,042 get url from oracle after count=0
+[INFO] 2017-11-17 05:27:21,052 get url from mongo before
+[INFO] 2017-11-17 05:27:21,305 get url from oracle after count=0
+[INFO] 2017-11-17 05:28:21,322 get url from mongo before
+[INFO] 2017-11-17 05:28:21,546 get url from oracle after count=0
+[INFO] 2017-11-17 05:29:21,569 get url from mongo before
+[INFO] 2017-11-17 05:29:21,832 get url from oracle after count=0
+[INFO] 2017-11-17 05:30:21,848 get url from mongo before
+[INFO] 2017-11-17 05:30:22,098 get url from oracle after count=0
+[INFO] 2017-11-17 05:31:22,109 get url from mongo before
+[INFO] 2017-11-17 05:31:22,336 get url from oracle after count=0
+[INFO] 2017-11-17 05:32:22,358 get url from mongo before
+[INFO] 2017-11-17 05:32:22,582 get url from oracle after count=0
+[INFO] 2017-11-17 05:33:22,598 get url from mongo before
+[INFO] 2017-11-17 05:33:22,809 get url from oracle after count=0
+[INFO] 2017-11-17 05:34:22,825 get url from mongo before
+[INFO] 2017-11-17 05:34:23,040 get url from oracle after count=0
+[INFO] 2017-11-17 05:35:23,055 get url from mongo before
+[INFO] 2017-11-17 05:35:23,302 get url from oracle after count=0
+[INFO] 2017-11-17 05:36:23,319 get url from mongo before
+[INFO] 2017-11-17 05:36:23,555 get url from oracle after count=0
+[INFO] 2017-11-17 05:37:23,578 get url from mongo before
+[INFO] 2017-11-17 05:37:23,813 get url from oracle after count=0
+[INFO] 2017-11-17 05:38:23,828 get url from mongo before
+[INFO] 2017-11-17 05:38:24,058 get url from oracle after count=0
+[INFO] 2017-11-17 05:39:24,071 get url from mongo before
+[INFO] 2017-11-17 05:39:24,276 get url from oracle after count=0
+[INFO] 2017-11-17 05:44:59,492 get url from mongo before
+[INFO] 2017-11-17 05:44:59,733 get url from oracle after count=0
+[INFO] 2017-11-17 05:45:59,750 get url from mongo before
+[INFO] 2017-11-17 05:45:59,996 get url from oracle after count=0
+[INFO] 2017-11-17 05:47:00,006 get url from mongo before
+[INFO] 2017-11-17 05:47:00,244 get url from oracle after count=0
+[INFO] 2017-11-17 05:48:00,263 get url from mongo before
+[INFO] 2017-11-17 05:48:00,529 get url from oracle after count=0
+[INFO] 2017-11-17 05:49:00,549 get url from mongo before
+[INFO] 2017-11-17 05:49:00,793 get url from oracle after count=0
+[INFO] 2017-11-17 05:50:00,812 get url from mongo before
+[INFO] 2017-11-17 05:50:01,036 get url from oracle after count=0
+[INFO] 2017-11-17 05:51:01,042 get url from mongo before
+[INFO] 2017-11-17 05:51:01,266 get url from oracle after count=0
+[INFO] 2017-11-17 05:52:01,282 get url from mongo before
+[INFO] 2017-11-17 05:52:01,509 get url from oracle after count=0
+[INFO] 2017-11-17 05:53:01,523 get url from mongo before
+[INFO] 2017-11-17 05:53:01,759 get url from oracle after count=0
+[INFO] 2017-11-17 05:54:01,776 get url from mongo before
+[INFO] 2017-11-17 05:54:02,006 get url from oracle after count=0
+[INFO] 2017-11-17 05:55:02,023 get url from mongo before
+[INFO] 2017-11-17 05:55:02,252 get url from oracle after count=0
+[INFO] 2017-11-17 05:56:02,260 get url from mongo before
+[INFO] 2017-11-17 05:56:02,490 get url from oracle after count=0
+[INFO] 2017-11-17 05:57:02,506 get url from mongo before
+[INFO] 2017-11-17 05:57:02,750 get url from oracle after count=0
+[INFO] 2017-11-17 05:58:02,766 get url from mongo before
+[INFO] 2017-11-17 05:58:03,035 get url from oracle after count=0
+[INFO] 2017-11-17 05:59:03,052 get url from mongo before
+[INFO] 2017-11-17 05:59:03,328 get url from oracle after count=0
+[INFO] 2017-11-17 06:00:03,365 get url from mongo before
+[INFO] 2017-11-17 06:00:03,622 get url from oracle after count=0
+[INFO] 2017-11-17 06:01:03,637 get url from mongo before
+[INFO] 2017-11-17 06:01:03,855 get url from oracle after count=0
+[INFO] 2017-11-17 06:02:03,871 get url from mongo before
+[INFO] 2017-11-17 06:02:04,107 get url from oracle after count=0
+[INFO] 2017-11-17 06:03:04,130 get url from mongo before
+[INFO] 2017-11-17 06:03:04,345 get url from oracle after count=0
+[INFO] 2017-11-17 06:04:04,358 get url from mongo before
+[INFO] 2017-11-17 06:04:04,582 get url from oracle after count=0
+[INFO] 2017-11-17 06:05:04,598 get url from mongo before
+[INFO] 2017-11-17 06:05:04,828 get url from oracle after count=0
+[INFO] 2017-11-17 06:06:04,844 get url from mongo before
+[INFO] 2017-11-17 06:06:05,092 get url from oracle after count=0
+[INFO] 2017-11-17 06:07:05,111 get url from mongo before
+[INFO] 2017-11-17 06:07:05,332 get url from oracle after count=0
+[INFO] 2017-11-17 06:08:05,339 get url from mongo before
+[INFO] 2017-11-17 06:08:05,608 get url from oracle after count=0
+[INFO] 2017-11-17 06:09:05,625 get url from mongo before
+[INFO] 2017-11-17 06:09:05,940 get url from oracle after count=0
+[INFO] 2017-11-17 06:10:05,956 get url from mongo before
+[INFO] 2017-11-17 06:10:06,259 get url from oracle after count=0
+[INFO] 2017-11-17 06:11:06,273 get url from mongo before
+[INFO] 2017-11-17 06:11:06,484 get url from oracle after count=0
+[INFO] 2017-11-17 06:12:06,500 get url from mongo before
+[INFO] 2017-11-17 06:12:06,759 get url from oracle after count=0
+[INFO] 2017-11-17 06:13:06,773 get url from mongo before
+[INFO] 2017-11-17 06:13:07,006 get url from oracle after count=0
+[INFO] 2017-11-17 06:14:07,023 get url from mongo before
+[INFO] 2017-11-17 06:14:07,306 get url from oracle after count=0
+[INFO] 2017-11-17 06:15:07,318 get url from mongo before
+[INFO] 2017-11-17 06:15:07,589 get url from oracle after count=0
+[INFO] 2017-11-17 06:16:07,601 get url from mongo before
+[INFO] 2017-11-17 06:16:07,819 get url from oracle after count=0
+[INFO] 2017-11-17 06:17:07,834 get url from mongo before
+[INFO] 2017-11-17 06:17:08,042 get url from oracle after count=0
+[INFO] 2017-11-17 06:18:08,055 get url from mongo before
+[INFO] 2017-11-17 06:18:08,335 get url from oracle after count=0
+[INFO] 2017-11-17 06:19:08,351 get url from mongo before
+[INFO] 2017-11-17 06:19:08,578 get url from oracle after count=0
+[INFO] 2017-11-17 06:20:08,591 get url from mongo before
+[INFO] 2017-11-17 06:20:08,832 get url from oracle after count=0
+[INFO] 2017-11-17 06:21:08,848 get url from mongo before
+[INFO] 2017-11-17 06:21:09,078 get url from oracle after count=0
+[INFO] 2017-11-17 06:22:09,091 get url from mongo before
+[INFO] 2017-11-17 06:22:09,322 get url from oracle after count=0
+[INFO] 2017-11-17 06:23:09,335 get url from mongo before
+[INFO] 2017-11-17 06:23:09,615 get url from oracle after count=0
+[INFO] 2017-11-17 06:24:09,627 get url from mongo before
+[INFO] 2017-11-17 06:24:09,861 get url from oracle after count=0
+[INFO] 2017-11-17 06:25:09,875 get url from mongo before
+[INFO] 2017-11-17 06:25:10,130 get url from oracle after count=0
+[INFO] 2017-11-17 06:26:10,150 get url from mongo before
+[INFO] 2017-11-17 06:26:10,426 get url from oracle after count=0
+[INFO] 2017-11-17 06:27:10,440 get url from mongo before
+[INFO] 2017-11-17 06:27:10,733 get url from oracle after count=0
+[INFO] 2017-11-17 06:28:10,755 get url from mongo before
+[INFO] 2017-11-17 06:28:10,989 get url from oracle after count=0
+[INFO] 2017-11-17 06:29:11,005 get url from mongo before
+[INFO] 2017-11-17 06:29:11,257 get url from oracle after count=0
+[INFO] 2017-11-17 06:30:11,270 get url from mongo before
+[INFO] 2017-11-17 06:30:11,517 get url from oracle after count=0
+[INFO] 2017-11-17 06:31:11,538 get url from mongo before
+[INFO] 2017-11-17 06:31:11,779 get url from oracle after count=0
+[INFO] 2017-11-17 06:32:11,792 get url from mongo before
+[INFO] 2017-11-17 06:32:12,026 get url from oracle after count=0
+[INFO] 2017-11-17 06:33:12,040 get url from mongo before
+[INFO] 2017-11-17 06:33:12,253 get url from oracle after count=0
+[INFO] 2017-11-17 06:34:12,266 get url from mongo before
+[INFO] 2017-11-17 06:34:12,486 get url from oracle after count=0
+[INFO] 2017-11-17 06:35:12,512 get url from mongo before
+[INFO] 2017-11-17 06:35:12,749 get url from oracle after count=0
+[INFO] 2017-11-17 06:36:12,765 get url from mongo before
+[INFO] 2017-11-17 06:36:13,007 get url from oracle after count=0
+[INFO] 2017-11-17 06:37:13,026 get url from mongo before
+[INFO] 2017-11-17 06:37:13,289 get url from oracle after count=0
+[INFO] 2017-11-17 06:38:13,303 get url from mongo before
+[INFO] 2017-11-17 06:38:13,529 get url from oracle after count=0
+[INFO] 2017-11-17 06:39:13,548 get url from mongo before
+[INFO] 2017-11-17 06:39:13,831 get url from oracle after count=0
+[INFO] 2017-11-17 06:40:13,848 get url from mongo before
+[INFO] 2017-11-17 06:40:14,076 get url from oracle after count=0
+[INFO] 2017-11-17 06:41:14,089 get url from mongo before
+[INFO] 2017-11-17 06:41:14,316 get url from oracle after count=0
+[INFO] 2017-11-17 06:42:14,332 get url from mongo before
+[INFO] 2017-11-17 06:42:14,608 get url from oracle after count=0
+[INFO] 2017-11-17 06:43:14,624 get url from mongo before
+[INFO] 2017-11-17 06:43:14,864 get url from oracle after count=0
+[INFO] 2017-11-17 06:44:14,878 get url from mongo before
+[INFO] 2017-11-17 06:44:15,105 get url from oracle after count=0
+[INFO] 2017-11-17 06:49:47,930 get url from mongo before
+[INFO] 2017-11-17 06:49:48,213 get url from oracle after count=0
+[INFO] 2017-11-17 06:50:48,229 get url from mongo before
+[INFO] 2017-11-17 06:50:48,450 get url from oracle after count=0
+[INFO] 2017-11-17 06:51:48,467 get url from mongo before
+[INFO] 2017-11-17 06:51:48,694 get url from oracle after count=0
+[INFO] 2017-11-17 06:52:48,719 get url from mongo before
+[INFO] 2017-11-17 06:52:48,947 get url from oracle after count=0
+[INFO] 2017-11-17 06:53:48,967 get url from mongo before
+[INFO] 2017-11-17 06:53:49,209 get url from oracle after count=0
+[INFO] 2017-11-17 06:54:49,230 get url from mongo before
+[INFO] 2017-11-17 06:54:49,500 get url from oracle after count=0
+[INFO] 2017-11-17 06:55:49,516 get url from mongo before
+[INFO] 2017-11-17 06:55:49,776 get url from oracle after count=0
+[INFO] 2017-11-17 06:56:49,798 get url from mongo before
+[INFO] 2017-11-17 06:56:50,019 get url from oracle after count=0
+[INFO] 2017-11-17 06:57:50,038 get url from mongo before
+[INFO] 2017-11-17 06:57:50,243 get url from oracle after count=0
+[INFO] 2017-11-17 06:58:50,257 get url from mongo before
+[INFO] 2017-11-17 06:58:50,474 get url from oracle after count=0
+[INFO] 2017-11-17 06:59:50,492 get url from mongo before
+[INFO] 2017-11-17 06:59:50,776 get url from oracle after count=0
+[INFO] 2017-11-17 07:00:50,790 get url from mongo before
+[INFO] 2017-11-17 07:00:51,032 get url from oracle after count=0
+[INFO] 2017-11-17 07:01:51,043 get url from mongo before
+[INFO] 2017-11-17 07:01:51,253 get url from oracle after count=0
+[INFO] 2017-11-17 07:02:51,358 get url from mongo before
+[INFO] 2017-11-17 07:02:51,565 get url from oracle after count=0
+[INFO] 2017-11-17 07:03:51,578 get url from mongo before
+[INFO] 2017-11-17 07:03:51,790 get url from oracle after count=0
+[INFO] 2017-11-17 07:04:51,812 get url from mongo before
+[INFO] 2017-11-17 07:04:52,040 get url from oracle after count=0
+[INFO] 2017-11-17 07:05:52,061 get url from mongo before
+[INFO] 2017-11-17 07:05:52,285 get url from oracle after count=0
+[INFO] 2017-11-17 07:06:52,298 get url from mongo before
+[INFO] 2017-11-17 07:06:52,579 get url from oracle after count=0
+[INFO] 2017-11-17 07:07:52,585 get url from mongo before
+[INFO] 2017-11-17 07:07:52,815 get url from oracle after count=0
+[INFO] 2017-11-17 07:08:52,825 get url from mongo before
+[INFO] 2017-11-17 07:08:53,081 get url from oracle after count=0
+[INFO] 2017-11-17 07:09:53,094 get url from mongo before
+[INFO] 2017-11-17 07:09:53,312 get url from oracle after count=0
+[INFO] 2017-11-17 07:10:53,325 get url from mongo before
+[INFO] 2017-11-17 07:10:53,535 get url from oracle after count=0
+[INFO] 2017-11-17 07:11:53,558 get url from mongo before
+[INFO] 2017-11-17 07:11:53,828 get url from oracle after count=0
+[INFO] 2017-11-17 07:12:53,845 get url from mongo before
+[INFO] 2017-11-17 07:12:54,095 get url from oracle after count=0
+[INFO] 2017-11-17 07:13:54,105 get url from mongo before
+[INFO] 2017-11-17 07:13:54,362 get url from oracle after count=0
+[INFO] 2017-11-17 07:14:54,378 get url from mongo before
+[INFO] 2017-11-17 07:14:54,579 get url from oracle after count=0
+[INFO] 2017-11-17 07:15:54,589 get url from mongo before
+[INFO] 2017-11-17 07:15:54,805 get url from oracle after count=0
+[INFO] 2017-11-17 07:16:54,826 get url from mongo before
+[INFO] 2017-11-17 07:16:55,072 get url from oracle after count=0
+[INFO] 2017-11-17 07:17:55,084 get url from mongo before
+[INFO] 2017-11-17 07:17:55,312 get url from oracle after count=0
+[INFO] 2017-11-17 07:18:55,325 get url from mongo before
+[INFO] 2017-11-17 07:18:55,568 get url from oracle after count=0
+[INFO] 2017-11-17 07:19:55,582 get url from mongo before
+[INFO] 2017-11-17 07:19:55,838 get url from oracle after count=0
+[INFO] 2017-11-17 07:20:55,858 get url from mongo before
+[INFO] 2017-11-17 07:20:56,099 get url from oracle after count=0
+[INFO] 2017-11-17 07:21:56,121 get url from mongo before
+[INFO] 2017-11-17 07:21:56,335 get url from oracle after count=0
+[INFO] 2017-11-17 07:22:56,359 get url from mongo before
+[INFO] 2017-11-17 07:22:56,589 get url from oracle after count=0
+[INFO] 2017-11-17 07:23:56,605 get url from mongo before
+[INFO] 2017-11-17 07:23:56,857 get url from oracle after count=0
+[INFO] 2017-11-17 07:24:56,874 get url from mongo before
+[INFO] 2017-11-17 07:24:57,154 get url from oracle after count=0
+[INFO] 2017-11-17 07:25:57,168 get url from mongo before
+[INFO] 2017-11-17 07:25:57,415 get url from oracle after count=0
+[INFO] 2017-11-17 07:26:57,433 get url from mongo before
+[INFO] 2017-11-17 07:26:57,655 get url from oracle after count=0
+[INFO] 2017-11-17 07:27:57,671 get url from mongo before
+[INFO] 2017-11-17 07:27:57,890 get url from oracle after count=0
+[INFO] 2017-11-17 07:28:57,907 get url from mongo before
+[INFO] 2017-11-17 07:28:58,134 get url from oracle after count=0
+[INFO] 2017-11-17 07:29:58,164 get url from mongo before
+[INFO] 2017-11-17 07:29:58,395 get url from oracle after count=0
+[INFO] 2017-11-17 07:30:58,410 get url from mongo before
+[INFO] 2017-11-17 07:30:58,721 get url from oracle after count=0
+[INFO] 2017-11-17 07:31:58,736 get url from mongo before
+[INFO] 2017-11-17 07:31:58,980 get url from oracle after count=0
+[INFO] 2017-11-17 07:32:58,992 get url from mongo before
+[INFO] 2017-11-17 07:32:59,227 get url from oracle after count=0
+[INFO] 2017-11-17 07:33:59,242 get url from mongo before
+[INFO] 2017-11-17 07:33:59,474 get url from oracle after count=0
+[INFO] 2017-11-17 07:34:59,492 get url from mongo before
+[INFO] 2017-11-17 07:34:59,723 get url from oracle after count=0
+[INFO] 2017-11-17 07:35:59,743 get url from mongo before
+[INFO] 2017-11-17 07:35:59,979 get url from oracle after count=0
+[INFO] 2017-11-17 07:36:59,997 get url from mongo before
+[INFO] 2017-11-17 07:37:00,229 get url from oracle after count=0
+[INFO] 2017-11-17 07:38:00,244 get url from mongo before
+[INFO] 2017-11-17 07:38:00,470 get url from oracle after count=0
+[INFO] 2017-11-17 07:39:00,487 get url from mongo before
+[INFO] 2017-11-17 07:39:00,719 get url from oracle after count=0
+[INFO] 2017-11-17 07:40:00,733 get url from mongo before
+[INFO] 2017-11-17 07:40:00,947 get url from oracle after count=0
+[INFO] 2017-11-17 07:41:00,961 get url from mongo before
+[INFO] 2017-11-17 07:41:01,190 get url from oracle after count=0
+[INFO] 2017-11-17 07:42:01,201 get url from mongo before
+[INFO] 2017-11-17 07:42:01,410 get url from oracle after count=0
+[INFO] 2017-11-17 07:43:01,424 get url from mongo before
+[INFO] 2017-11-17 07:43:01,647 get url from oracle after count=0
+[INFO] 2017-11-17 07:44:01,665 get url from mongo before
+[INFO] 2017-11-17 07:44:01,911 get url from oracle after count=0
+[INFO] 2017-11-17 07:45:01,930 get url from mongo before
+[INFO] 2017-11-17 07:45:02,158 get url from oracle after count=0
+[INFO] 2017-11-17 07:46:02,171 get url from mongo before
+[INFO] 2017-11-17 07:46:02,466 get url from oracle after count=0
+[INFO] 2017-11-17 07:47:02,479 get url from mongo before
+[INFO] 2017-11-17 07:47:02,726 get url from oracle after count=0
+[INFO] 2017-11-17 07:48:02,740 get url from mongo before
+[INFO] 2017-11-17 07:48:02,957 get url from oracle after count=0
+[INFO] 2017-11-17 07:49:02,967 get url from mongo before
+[INFO] 2017-11-17 07:49:03,207 get url from oracle after count=0
+[INFO] 2017-11-17 07:54:40,148 get url from mongo before
+[INFO] 2017-11-17 07:54:40,385 get url from oracle after count=0
+[INFO] 2017-11-17 07:55:40,397 get url from mongo before
+[INFO] 2017-11-17 07:55:40,635 get url from oracle after count=0
+[INFO] 2017-11-17 07:56:40,651 get url from mongo before
+[INFO] 2017-11-17 07:56:40,878 get url from oracle after count=0
+[INFO] 2017-11-17 07:57:40,894 get url from mongo before
+[INFO] 2017-11-17 07:57:41,148 get url from oracle after count=0
+[INFO] 2017-11-17 07:58:41,290 get url from mongo before
+[INFO] 2017-11-17 07:58:41,565 get url from oracle after count=0
+[INFO] 2017-11-17 07:59:41,575 get url from mongo before
+[INFO] 2017-11-17 07:59:41,808 get url from oracle after count=0
+[INFO] 2017-11-17 08:00:41,823 get url from mongo before
+[INFO] 2017-11-17 08:00:42,042 get url from oracle after count=0
+[INFO] 2017-11-17 08:01:42,061 get url from mongo before
+[INFO] 2017-11-17 08:01:42,302 get url from oracle after count=0
+[INFO] 2017-11-17 08:02:42,319 get url from mongo before
+[INFO] 2017-11-17 08:02:42,556 get url from oracle after count=0
+[INFO] 2017-11-17 08:03:42,575 get url from mongo before
+[INFO] 2017-11-17 08:03:42,811 get url from oracle after count=0
+[INFO] 2017-11-17 08:04:42,823 get url from mongo before
+[INFO] 2017-11-17 08:04:43,059 get url from oracle after count=0
+[INFO] 2017-11-17 08:05:43,076 get url from mongo before
+[INFO] 2017-11-17 08:05:43,305 get url from oracle after count=0
+[INFO] 2017-11-17 08:06:43,322 get url from mongo before
+[INFO] 2017-11-17 08:06:43,556 get url from oracle after count=0
+[INFO] 2017-11-17 08:07:43,572 get url from mongo before
+[INFO] 2017-11-17 08:07:43,792 get url from oracle after count=0
+[INFO] 2017-11-17 08:08:43,805 get url from mongo before
+[INFO] 2017-11-17 08:08:44,073 get url from oracle after count=0
+[INFO] 2017-11-17 08:09:44,092 get url from mongo before
+[INFO] 2017-11-17 08:09:44,368 get url from oracle after count=0
+[INFO] 2017-11-17 08:10:44,385 get url from mongo before
+[INFO] 2017-11-17 08:10:44,598 get url from oracle after count=0
+[INFO] 2017-11-17 08:11:44,621 get url from mongo before
+[INFO] 2017-11-17 08:11:44,884 get url from oracle after count=0
+[INFO] 2017-11-17 08:12:44,894 get url from mongo before
+[INFO] 2017-11-17 08:12:45,112 get url from oracle after count=0
+[INFO] 2017-11-17 08:13:45,125 get url from mongo before
+[INFO] 2017-11-17 08:13:45,339 get url from oracle after count=0
+[INFO] 2017-11-17 08:14:45,354 get url from mongo before
+[INFO] 2017-11-17 08:14:45,627 get url from oracle after count=0
+[INFO] 2017-11-17 08:15:45,640 get url from mongo before
+[INFO] 2017-11-17 08:15:45,874 get url from oracle after count=0
+[INFO] 2017-11-17 08:16:45,891 get url from mongo before
+[INFO] 2017-11-17 08:16:46,125 get url from oracle after count=0
+[INFO] 2017-11-17 08:17:46,142 get url from mongo before
+[INFO] 2017-11-17 08:17:46,403 get url from oracle after count=0
+[INFO] 2017-11-17 08:18:46,415 get url from mongo before
+[INFO] 2017-11-17 08:18:46,684 get url from oracle after count=0
+[INFO] 2017-11-17 08:19:46,706 get url from mongo before
+[INFO] 2017-11-17 08:19:46,946 get url from oracle after count=0
+[INFO] 2017-11-17 08:20:46,961 get url from mongo before
+[INFO] 2017-11-17 08:20:47,263 get url from oracle after count=0
+[INFO] 2017-11-17 08:21:47,286 get url from mongo before
+[INFO] 2017-11-17 08:21:47,528 get url from oracle after count=0
+[INFO] 2017-11-17 08:22:47,545 get url from mongo before
+[INFO] 2017-11-17 08:22:47,763 get url from oracle after count=0
+[INFO] 2017-11-17 08:23:47,776 get url from mongo before
+[INFO] 2017-11-17 08:23:47,993 get url from oracle after count=0
+[INFO] 2017-11-17 08:24:48,006 get url from mongo before
+[INFO] 2017-11-17 08:24:48,224 get url from oracle after count=0
+[INFO] 2017-11-17 08:25:48,242 get url from mongo before
+[INFO] 2017-11-17 08:25:48,451 get url from oracle after count=0
+[INFO] 2017-11-17 08:26:48,464 get url from mongo before
+[INFO] 2017-11-17 08:26:48,677 get url from oracle after count=0
+[INFO] 2017-11-17 08:27:48,694 get url from mongo before
+[INFO] 2017-11-17 08:27:48,900 get url from oracle after count=0
+[INFO] 2017-11-17 08:28:48,914 get url from mongo before
+[INFO] 2017-11-17 08:28:49,148 get url from oracle after count=0
+[INFO] 2017-11-17 08:29:49,168 get url from mongo before
+[INFO] 2017-11-17 08:29:49,426 get url from oracle after count=0
+[INFO] 2017-11-17 08:30:49,438 get url from mongo before
+[INFO] 2017-11-17 08:30:49,657 get url from oracle after count=0
+[INFO] 2017-11-17 08:31:49,671 get url from mongo before
+[INFO] 2017-11-17 08:31:49,976 get url from oracle after count=0
+[INFO] 2017-11-17 08:32:49,992 get url from mongo before
+[INFO] 2017-11-17 08:32:50,233 get url from oracle after count=0
+[INFO] 2017-11-17 08:33:50,243 get url from mongo before
+[INFO] 2017-11-17 08:33:50,486 get url from oracle after count=0
+[INFO] 2017-11-17 08:34:50,503 get url from mongo before
+[INFO] 2017-11-17 08:34:50,743 get url from oracle after count=0
+[INFO] 2017-11-17 08:35:50,759 get url from mongo before
+[INFO] 2017-11-17 08:35:51,131 get url from oracle after count=0
+[INFO] 2017-11-17 08:36:51,148 get url from mongo before
+[INFO] 2017-11-17 08:36:51,388 get url from oracle after count=0
+[INFO] 2017-11-17 08:37:51,401 get url from mongo before
+[INFO] 2017-11-17 08:37:51,645 get url from oracle after count=0
+[INFO] 2017-11-17 08:38:51,658 get url from mongo before
+[INFO] 2017-11-17 08:38:51,884 get url from oracle after count=0
+[INFO] 2017-11-17 08:39:51,901 get url from mongo before
+[INFO] 2017-11-17 08:39:52,131 get url from oracle after count=0
+[INFO] 2017-11-17 08:40:52,145 get url from mongo before
+[INFO] 2017-11-17 08:40:52,374 get url from oracle after count=0
+[INFO] 2017-11-17 08:41:52,385 get url from mongo before
+[INFO] 2017-11-17 08:41:52,631 get url from oracle after count=0
+[INFO] 2017-11-17 08:42:52,645 get url from mongo before
+[INFO] 2017-11-17 08:42:52,911 get url from oracle after count=0
+[INFO] 2017-11-17 08:43:52,927 get url from mongo before
+[INFO] 2017-11-17 08:43:53,148 get url from oracle after count=0
+[INFO] 2017-11-17 08:44:53,165 get url from mongo before
+[INFO] 2017-11-17 08:44:53,420 get url from oracle after count=0
+[INFO] 2017-11-17 08:45:53,440 get url from mongo before
+[INFO] 2017-11-17 08:45:53,703 get url from oracle after count=0
+[INFO] 2017-11-17 08:46:53,714 get url from mongo before
+[INFO] 2017-11-17 08:46:53,977 get url from oracle after count=0
+[INFO] 2017-11-17 08:47:53,993 get url from mongo before
+[INFO] 2017-11-17 08:47:54,211 get url from oracle after count=0
+[INFO] 2017-11-17 08:48:54,224 get url from mongo before
+[INFO] 2017-11-17 08:48:54,469 get url from oracle after count=0
+[INFO] 2017-11-17 08:49:54,483 get url from mongo before
+[INFO] 2017-11-17 08:49:54,844 get url from oracle after count=0
+[INFO] 2017-11-17 08:50:54,865 get url from mongo before
+[INFO] 2017-11-17 08:50:55,111 get url from oracle after count=0
+[INFO] 2017-11-17 08:51:55,131 get url from mongo before
+[INFO] 2017-11-17 08:51:55,440 get url from oracle after count=0
+[INFO] 2017-11-17 08:52:55,461 get url from mongo before
+[INFO] 2017-11-17 08:52:55,700 get url from oracle after count=0
+[INFO] 2017-11-17 08:58:33,648 get url from mongo before
+[INFO] 2017-11-17 08:58:33,875 get url from oracle after count=0
+[INFO] 2017-11-17 08:59:33,894 get url from mongo before
+[INFO] 2017-11-17 08:59:34,117 get url from oracle after count=0
+[INFO] 2017-11-17 09:00:34,132 get url from mongo before
+[INFO] 2017-11-17 09:00:34,424 get url from oracle after count=0
+[INFO] 2017-11-17 09:01:34,440 get url from mongo before
+[INFO] 2017-11-17 09:01:34,673 get url from oracle after count=0
+[INFO] 2017-11-17 09:02:34,690 get url from mongo before
+[INFO] 2017-11-17 09:02:34,913 get url from oracle after count=0
+[INFO] 2017-11-17 09:03:34,930 get url from mongo before
+[INFO] 2017-11-17 09:03:35,141 get url from oracle after count=0
+[INFO] 2017-11-17 09:04:35,158 get url from mongo before
+[INFO] 2017-11-17 09:04:35,411 get url from oracle after count=0
+[INFO] 2017-11-17 09:05:35,426 get url from mongo before
+[INFO] 2017-11-17 09:05:35,694 get url from oracle after count=0
+[INFO] 2017-11-17 09:06:35,710 get url from mongo before
+[INFO] 2017-11-17 09:06:36,000 get url from oracle after count=0
+[INFO] 2017-11-17 09:07:36,033 get url from mongo before
+[INFO] 2017-11-17 09:07:36,266 get url from oracle after count=0
+[INFO] 2017-11-17 09:08:36,283 get url from mongo before
+[INFO] 2017-11-17 09:08:36,496 get url from oracle after count=0
+[INFO] 2017-11-17 09:09:36,503 get url from mongo before
+[INFO] 2017-11-17 09:09:36,704 get url from oracle after count=0
+[INFO] 2017-11-17 09:10:36,714 get url from mongo before
+[INFO] 2017-11-17 09:10:36,951 get url from oracle after count=0
+[INFO] 2017-11-17 09:11:36,963 get url from mongo before
+[INFO] 2017-11-17 09:11:37,338 get url from oracle after count=0
+[INFO] 2017-11-17 09:12:37,355 get url from mongo before
+[INFO] 2017-11-17 09:12:37,608 get url from oracle after count=0
+[INFO] 2017-11-17 09:13:37,618 get url from mongo before
+[INFO] 2017-11-17 09:13:37,842 get url from oracle after count=0
+[INFO] 2017-11-17 09:14:37,858 get url from mongo before
+[INFO] 2017-11-17 09:14:38,092 get url from oracle after count=0
+[INFO] 2017-11-17 09:15:38,108 get url from mongo before
+[INFO] 2017-11-17 09:15:38,305 get url from oracle after count=0
+[INFO] 2017-11-17 09:16:38,323 get url from mongo before
+[INFO] 2017-11-17 09:16:38,540 get url from oracle after count=0
+[INFO] 2017-11-17 09:17:38,555 get url from mongo before
+[INFO] 2017-11-17 09:17:38,776 get url from oracle after count=0
+[INFO] 2017-11-17 09:18:38,799 get url from mongo before
+[INFO] 2017-11-17 09:18:39,039 get url from oracle after count=0
+[INFO] 2017-11-17 09:19:39,138 get url from mongo before
+[INFO] 2017-11-17 09:19:39,378 get url from oracle after count=0
+[INFO] 2017-11-17 09:20:39,395 get url from mongo before
+[INFO] 2017-11-17 09:20:39,671 get url from oracle after count=0
+[INFO] 2017-11-17 09:21:39,690 get url from mongo before
+[INFO] 2017-11-17 09:21:39,901 get url from oracle after count=0
+[INFO] 2017-11-17 09:22:39,911 get url from mongo before
+[INFO] 2017-11-17 09:22:40,193 get url from oracle after count=0
+[INFO] 2017-11-17 09:23:40,210 get url from mongo before
+[INFO] 2017-11-17 09:23:40,496 get url from oracle after count=0
+[INFO] 2017-11-17 09:24:40,520 get url from mongo before
+[INFO] 2017-11-17 09:24:40,765 get url from oracle after count=0
+[INFO] 2017-11-17 09:25:40,779 get url from mongo before
+[INFO] 2017-11-17 09:25:41,000 get url from oracle after count=0
+[INFO] 2017-11-17 09:26:41,025 get url from mongo before
+[INFO] 2017-11-17 09:26:41,255 get url from oracle after count=0
+[INFO] 2017-11-17 09:27:41,279 get url from mongo before
+[INFO] 2017-11-17 09:27:41,543 get url from oracle after count=0
+[INFO] 2017-11-17 09:28:41,562 get url from mongo before
+[INFO] 2017-11-17 09:28:41,914 get url from oracle after count=0
+[INFO] 2017-11-17 09:29:41,930 get url from mongo before
+[INFO] 2017-11-17 09:29:42,177 get url from oracle after count=0
+[INFO] 2017-11-17 09:30:42,197 get url from mongo before
+[INFO] 2017-11-17 09:30:42,426 get url from oracle after count=0
+[INFO] 2017-11-17 09:31:42,448 get url from mongo before
+[INFO] 2017-11-17 09:31:42,665 get url from oracle after count=0
+[INFO] 2017-11-17 09:32:42,677 get url from mongo before
+[INFO] 2017-11-17 09:32:42,891 get url from oracle after count=0
+[INFO] 2017-11-17 09:33:42,907 get url from mongo before
+[INFO] 2017-11-17 09:33:43,164 get url from oracle after count=0
+[INFO] 2017-11-17 09:34:43,187 get url from mongo before
+[INFO] 2017-11-17 09:34:43,405 get url from oracle after count=0
+[INFO] 2017-11-17 09:35:43,427 get url from mongo before
+[INFO] 2017-11-17 09:35:43,627 get url from oracle after count=0
+[INFO] 2017-11-17 09:36:43,644 get url from mongo before
+[INFO] 2017-11-17 09:36:43,918 get url from oracle after count=0
+[INFO] 2017-11-17 09:37:43,934 get url from mongo before
+[INFO] 2017-11-17 09:37:44,161 get url from oracle after count=0
+[INFO] 2017-11-17 09:38:44,240 get url from mongo before
+[INFO] 2017-11-17 09:38:44,470 get url from oracle after count=0
+[INFO] 2017-11-17 09:39:44,484 get url from mongo before
+[INFO] 2017-11-17 09:39:44,836 get url from oracle after count=0
+[INFO] 2017-11-17 09:40:44,855 get url from mongo before
+[INFO] 2017-11-17 09:40:45,111 get url from oracle after count=0
+[INFO] 2017-11-17 09:41:45,127 get url from mongo before
+[INFO] 2017-11-17 09:41:45,359 get url from oracle after count=0
+[INFO] 2017-11-17 09:42:45,378 get url from mongo before
+[INFO] 2017-11-17 09:42:45,634 get url from oracle after count=0
+[INFO] 2017-11-17 09:43:45,651 get url from mongo before
+[INFO] 2017-11-17 09:43:45,857 get url from oracle after count=0
+[INFO] 2017-11-17 09:44:45,875 get url from mongo before
+[INFO] 2017-11-17 09:44:46,168 get url from oracle after count=1
+[INFO] 2017-11-17 09:44:46,183 before url=http://gzdz536.taobao.com
+[INFO] 2017-11-17 09:44:46,240 Starting new HTTP connection (1): gzdz536.taobao.com
+[INFO] 2017-11-17 09:44:46,387 Starting new HTTPS connection (1): gzdz536.taobao.com
+[INFO] 2017-11-17 09:44:47,960 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=0 second_index=-1
+[INFO] 2017-11-17 09:44:48,085 insert new website url=http://gzdz536.taobao.com memberid=104658316
+[INFO] 2017-11-17 09:44:48,105 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-11-17 09:44:48,125 get url from mongo before
+[INFO] 2017-11-17 09:44:48,380 get url from oracle after count=1
+[INFO] 2017-11-17 09:44:48,391 before url=http://gzdz536.taobao.com
+[INFO] 2017-11-17 09:44:48,437 Starting new HTTP connection (1): gzdz536.taobao.com
+[INFO] 2017-11-17 09:44:48,548 Starting new HTTPS connection (1): gzdz536.taobao.com
+[INFO] 2017-11-17 09:44:48,868 insert new website url=http://gzdz536.taobao.com memberid=104658316
+[INFO] 2017-11-17 09:44:48,881 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-11-17 09:44:48,888 get url from mongo before
+[INFO] 2017-11-17 09:44:49,112 get url from oracle after count=1
+[INFO] 2017-11-17 09:45:02,032 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_47 111.161.24.49
+requests: support
+[ERROR] 2017-11-17 09:50:42,345 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 10:05:52,415 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=-1
+[WARNING] 2017-11-17 10:05:57,964 browser quit error:[Error 5] 
+[INFO] 2017-11-17 10:06:10,844 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_19 60.28.11.213
+requests: support
+[ERROR] 2017-11-17 10:38:49,819 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 10:48:49,835 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=-1
+[WARNING] 2017-11-17 10:48:53,900 browser quit error:[Error 5] 
+[INFO] 2017-11-17 10:49:06,615 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_52 60.28.11.246
+requests: support
+[ERROR] 2017-11-17 10:50:38,700 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 11:00:38,714 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=-1
+[WARNING] 2017-11-17 11:00:46,710 browser quit error:[Error 5] 
+[INFO] 2017-11-17 11:00:58,444 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_47 125.39.72.58
+requests: support
+[INFO] 2017-11-17 11:24:50,446 getpagelist one category complete. [master] url=http://gzdz536.taobao.com memberid=104658316 catid=869377243 catname=三端集成稳压器 count=1050
+[ERROR] 2017-11-17 11:24:51,049 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 11:34:51,062 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=0
+[WARNING] 2017-11-17 11:34:56,249 browser quit error:[Error 5] 
+[INFO] 2017-11-17 11:35:07,164 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_28 60.28.11.222
+requests: support
+[ERROR] 2017-11-17 11:37:08,519 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 11:47:08,539 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=0
+[WARNING] 2017-11-17 11:47:14,413 browser quit error:[Error 5] 
+[INFO] 2017-11-17 11:47:27,546 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_52 125.39.72.117
+requests: support
+[ERROR] 2017-11-17 12:06:25,740 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 12:22:06,799 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=0
+[WARNING] 2017-11-17 12:22:20,075 browser quit error:[Error 5] 
+[INFO] 2017-11-17 12:22:33,499 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_35 125.39.0.165
+requests: support
+[ERROR] 2017-11-17 12:28:38,019 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 12:38:38,042 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=0
+[WARNING] 2017-11-17 12:38:51,197 browser quit error:[Error 5] 
+[INFO] 2017-11-17 12:39:08,917 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_44 125.39.72.55
+requests: support
+[ERROR] 2017-11-17 12:44:54,242 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 12:54:54,265 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=0
+[WARNING] 2017-11-17 12:54:58,288 browser quit error:[Error 5] 
+[INFO] 2017-11-17 12:55:10,940 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_34 125.39.72.99
+requests: support
+[ERROR] 2017-11-17 12:58:42,811 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 13:08:42,832 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=0
+[WARNING] 2017-11-17 13:08:49,023 browser quit error:[Error 5] 
+[INFO] 2017-11-17 13:09:00,194 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_52 111.161.24.54
+requests: support
+[INFO] 2017-11-17 13:35:44,990 getpagelist one category complete. [slaves] url=http://gzdz536.taobao.com memberid=104658316 catid=869377243 catname=高频晶体管 catpid=869377243 catpname=三端集成稳压器 count=1163
+[ERROR] 2017-11-17 13:36:29,338 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 13:46:29,358 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=1
+[WARNING] 2017-11-17 13:46:35,808 browser quit error:[Error 5] 
+[INFO] 2017-11-17 13:46:51,101 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_36 125.39.0.166
+requests: support
+[ERROR] 2017-11-17 13:51:38,684 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 14:01:38,707 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=1
+[WARNING] 2017-11-17 14:01:43,842 browser quit error:[Error 5] 
+[INFO] 2017-11-17 14:01:57,792 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_40 125.39.72.51
+requests: support
+[ERROR] 2017-11-17 14:13:05,529 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 14:28:34,204 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=1
+[WARNING] 2017-11-17 14:28:44,099 browser quit error:[Error 5] 
+[INFO] 2017-11-17 14:28:57,387 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_7 111.161.24.9
+requests: support
+[ERROR] 2017-11-17 14:35:05,138 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 14:45:05,158 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=1
+[WARNING] 2017-11-17 14:45:12,019 browser quit error:[Error 5] 
+[INFO] 2017-11-17 14:45:23,697 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_4 125.39.72.69
+requests: support
+[INFO] 2017-11-17 14:57:43,401 getpagelist one category complete. [slaves] url=http://gzdz536.taobao.com memberid=104658316 catid=869377243 catname=低频晶体管 catpid=869377243 catpname=三端集成稳压器 count=773
+[ERROR] 2017-11-17 15:05:53,594 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 15:15:53,608 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=2
+[WARNING] 2017-11-17 15:16:06,786 browser quit error:[Error 5] 
+[INFO] 2017-11-17 15:16:25,390 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_39 60.28.11.233
+requests: support
+[ERROR] 2017-11-17 15:20:45,726 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 15:36:45,492 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=2
+[WARNING] 2017-11-17 15:36:52,319 browser quit error:[Error 5] 
+[INFO] 2017-11-17 15:37:10,181 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_4 60.28.11.198
+requests: support
+[ERROR] 2017-11-17 15:42:00,674 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 15:52:00,709 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=2
+[WARNING] 2017-11-17 15:52:07,657 browser quit error:[Error 5] 
+[INFO] 2017-11-17 15:52:22,635 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_42 125.39.0.172
+requests: support
+[ERROR] 2017-11-17 16:00:28,628 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 16:10:28,644 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=2
+[WARNING] 2017-11-17 16:10:39,125 browser quit error:[Error 5] 
+[INFO] 2017-11-17 16:10:53,743 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_15 125.39.72.80
+requests: support
+[ERROR] 2017-11-17 16:20:16,599 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 16:30:16,628 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=2
+[WARNING] 2017-11-17 16:30:26,641 browser quit error:[Error 5] 
+[INFO] 2017-11-17 16:30:38,105 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_37 60.28.110.103
+requests: support
+[ERROR] 2017-11-17 16:43:07,601 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 16:53:07,625 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=2
+[WARNING] 2017-11-17 16:53:13,710 browser quit error:[Error 5] 
+[INFO] 2017-11-17 16:53:28,312 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_22 60.28.110.88
+requests: support
+[INFO] 2017-11-17 16:54:21,434 insert records succeed url=http://gzdz536.taobao.com memberid=104658316 category_count=0 page_count=2986
+[INFO] 2017-11-17 16:54:21,457 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=0 second_index=-1
+[WARNING] 2017-11-17 16:54:31,029 browser quit error:[Error 5] 
+[INFO] 2017-11-17 16:54:43,654 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_19 111.161.24.21
+requests: support
+[INFO] 2017-11-17 16:55:01,434 before url=http://gzdz536.taobao.com
+[INFO] 2017-11-17 16:55:01,467 Starting new HTTP connection (1): gzdz536.taobao.com
+[INFO] 2017-11-17 16:55:01,599 Starting new HTTPS connection (1): gzdz536.taobao.com
+[INFO] 2017-11-17 16:55:02,102 insert new website url=http://gzdz536.taobao.com memberid=104658316
+[INFO] 2017-11-17 16:55:02,124 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-11-17 16:55:02,134 get url from mongo before
+[INFO] 2017-11-17 16:55:02,388 get url from oracle after count=2
+[ERROR] 2017-11-17 16:59:20,088 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 17:09:20,115 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=-1
+[WARNING] 2017-11-17 17:09:26,959 browser quit error:[Error 5] 
+[INFO] 2017-11-17 17:09:41,450 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_47 125.39.149.49
+requests: support
+[ERROR] 2017-11-17 17:21:46,013 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 17:31:46,026 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=-1
+[WARNING] 2017-11-17 17:31:50,191 browser quit error:[Error 5] 
+[INFO] 2017-11-17 17:32:04,503 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_32 125.39.0.162
+requests: support
+[ERROR] 2017-11-17 18:06:23,742 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 18:16:23,778 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=-1
+[WARNING] 2017-11-17 18:16:38,838 browser quit error:[Error 5] 
+[INFO] 2017-11-17 18:16:52,964 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_15 125.39.0.145
+requests: support
+[ERROR] 2017-11-17 18:17:52,431 insert records error len(records)=0 memberid=104658316
+[INFO] 2017-11-17 18:17:52,657 insert records succeed url=http://gzdz536.taobao.com memberid=104658316 category_count=0 page_count=0
+[INFO] 2017-11-17 18:17:52,683 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=0 second_index=-1
+[WARNING] 2017-11-17 18:18:01,832 browser quit error:[Error 5] 
+[INFO] 2017-11-17 18:18:18,253 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_3 125.39.149.5
+requests: support
+[INFO] 2017-11-17 18:18:45,569 before url=http://shop151637833.taobao.com
+[INFO] 2017-11-17 18:18:45,621 Starting new HTTP connection (1): shop151637833.taobao.com
+[INFO] 2017-11-17 18:18:45,766 Starting new HTTPS connection (1): shop151637833.taobao.com
+[INFO] 2017-11-17 18:18:46,171 insert new website url=http://shop151637833.taobao.com memberid=151637833
+[ERROR] 2017-11-17 18:22:34,740 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 18:32:34,779 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=-1
+[WARNING] 2017-11-17 18:32:47,627 browser quit error:[Error 5] 
+[INFO] 2017-11-17 18:33:00,494 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_3 125.39.72.68
+requests: support
+[ERROR] 2017-11-17 18:39:02,157 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 18:54:45,522 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=-1
+[WARNING] 2017-11-17 18:54:49,625 browser quit error:[Error 5] 
+[INFO] 2017-11-17 18:55:00,582 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_6 125.39.149.8
+requests: support
+[ERROR] 2017-11-17 19:01:19,075 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 19:11:19,107 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=-1
+[WARNING] 2017-11-17 19:11:30,750 browser quit error:[Error 5] 
+[INFO] 2017-11-17 19:11:45,009 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_52 125.39.0.182
+requests: support
+[ERROR] 2017-11-17 19:16:55,923 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 19:26:55,947 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=-1
+[WARNING] 2017-11-17 19:27:00,596 browser quit error:[Error 5] 
+[INFO] 2017-11-17 19:27:12,594 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_10 125.39.149.12
+requests: support
+[ERROR] 2017-11-17 19:40:48,796 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 19:56:21,654 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=-1
+[WARNING] 2017-11-17 19:56:27,400 browser quit error:[Error 5] 
+[INFO] 2017-11-17 19:56:40,134 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_20 125.39.72.85
+requests: support
+[ERROR] 2017-11-17 20:00:17,362 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 20:10:17,381 open homepage with selenium url=http://gzdz536.taobao.com memberid=104658316 first_index=1 second_index=-1
+[WARNING] 2017-11-17 20:10:23,500 browser quit error:[Error 5] 
+[INFO] 2017-11-17 20:10:36,773 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_7 60.28.11.201
+requests: support
+[ERROR] 2017-11-17 20:11:46,644 insert records error len(records)=0 memberid=104658316
+[INFO] 2017-11-17 20:11:46,865 insert records succeed url=http://gzdz536.taobao.com memberid=104658316 category_count=0 page_count=0
+[INFO] 2017-11-17 20:11:46,898 open homepage with selenium url=http://shop151637833.taobao.com memberid=151637833 first_index=0 second_index=-1
+[WARNING] 2017-11-17 20:11:51,914 browser quit error:[Error 5] 
+[INFO] 2017-11-17 20:12:02,536 before url=http://shop345391762.taobao.com
+[INFO] 2017-11-17 20:12:02,585 Starting new HTTP connection (1): shop345391762.taobao.com
+[INFO] 2017-11-17 20:12:02,723 Starting new HTTPS connection (1): shop345391762.taobao.com
+[INFO] 2017-11-17 20:12:03,207 insert new website url=http://shop345391762.taobao.com memberid=345391762
+[INFO] 2017-11-17 20:12:03,220 read oracle complete! taobao_count=2 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-11-17 20:12:03,236 get url from mongo before
+[INFO] 2017-11-17 20:12:03,447 get url from oracle after count=2
+[INFO] 2017-11-17 20:12:04,303 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_22 60.28.110.88
+requests: support
+[INFO] 2017-11-17 20:14:22,611 getpagelist one category complete. [master] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=工业平板电脑 count=45
+[INFO] 2017-11-17 20:14:53,415 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname= catpid=1203901976 catpname=工业平板电脑 count=2
+[INFO] 2017-11-17 20:15:13,526 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=7寸工业平板电脑 catpid=1203901976 catpname=工业平板电脑 count=8
+[ERROR] 2017-11-17 20:15:36,538 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 20:25:36,555 open homepage with selenium url=http://shop151637833.taobao.com memberid=151637833 first_index=1 second_index=2
+[WARNING] 2017-11-17 20:25:48,473 browser quit error:[Error 5] 
+[INFO] 2017-11-17 20:26:06,670 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_50 125.39.149.52
+requests: support
+[INFO] 2017-11-17 20:27:37,266 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=8寸工业平板电脑 catpid=1203901976 catpname=工业平板电脑 count=3
+[INFO] 2017-11-17 20:28:20,990 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname= catpid=1203901976 catpname=工业平板电脑 count=13
+[INFO] 2017-11-17 20:28:59,186 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=12寸工业平板电脑 catpid=1203901976 catpname=工业平板电脑 count=8
+[INFO] 2017-11-17 20:29:21,058 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=15寸工业平板电脑 catpid=1203901976 catpname=工业平板电脑 count=6
+[INFO] 2017-11-17 20:29:44,520 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=17寸工业平板电脑 catpid=1203901976 catpname=工业平板电脑 count=5
+[INFO] 2017-11-17 20:30:10,382 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=19寸工业平板电脑 catpid=1203901976 catpname=工业平板电脑 count=6
+[INFO] 2017-11-17 20:30:40,611 getpagelist one category complete. [master] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905586 catname=工控机 count=14
+[INFO] 2017-11-17 20:31:07,032 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905586 catname=嵌入式工控机 catpid=1203905586 catpname=工控机 count=14
+[INFO] 2017-11-17 20:31:22,196 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905586 catname= catpid=1203905586 catpname=工控机 count=0
+[INFO] 2017-11-17 20:31:37,575 getpagelist one category complete. [master] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905589 catname=液晶屏 count=2
+[INFO] 2017-11-17 20:31:55,572 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905589 catname=10.4寸液晶屏 catpid=1203905589 catpname=液晶屏 count=2
+[INFO] 2017-11-17 20:32:14,714 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905589 catname=12.1寸液晶屏 catpid=1203905589 catpname=液晶屏 count=1
+[INFO] 2017-11-17 20:32:33,792 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905589 catname=15寸液晶屏 catpid=1203905589 catpname=液晶屏 count=1
+[INFO] 2017-11-17 20:32:56,625 getpagelist one category complete. [master] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905600 catname=电脑配件 count=6
+[ERROR] 2017-11-17 20:33:06,154 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 20:43:06,219 open homepage with selenium url=http://shop151637833.taobao.com memberid=151637833 first_index=5 second_index=-1
+[WARNING] 2017-11-17 20:43:11,295 browser quit error:[Error 5] 
+[INFO] 2017-11-17 20:43:27,641 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_45 111.161.24.47
+requests: support
+[INFO] 2017-11-17 20:44:48,453 getpagelist one category complete. [master] url=http://shop151637833.taobao.com memberid=151637833 catid=1203907201 catname=工控主板 count=1
+[INFO] 2017-11-17 20:45:11,461 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203907201 catname=3.5寸主板 catpid=1203907201 catpname=工控主板 count=0
+[INFO] 2017-11-17 20:45:31,621 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203907201 catname=5寸主板 catpid=1203907201 catpname=工控主板 count=1
+[INFO] 2017-11-17 20:45:36,566 insert records succeed url=http://shop151637833.taobao.com memberid=151637833 category_count=0 page_count=138
+[INFO] 2017-11-17 20:45:36,589 open homepage with selenium url=http://shop345391762.taobao.com memberid=345391762 first_index=0 second_index=-1
+[WARNING] 2017-11-17 20:45:47,482 browser quit error:[Error 5] 
+[INFO] 2017-11-17 20:46:01,214 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_16 125.39.0.146
+requests: support
+[INFO] 2017-11-17 20:46:03,515 before url=http://shop151637833.taobao.com
+[INFO] 2017-11-17 20:46:03,563 Starting new HTTP connection (1): shop151637833.taobao.com
+[INFO] 2017-11-17 20:46:03,703 Starting new HTTPS connection (1): shop151637833.taobao.com
+[INFO] 2017-11-17 20:46:04,276 insert new website url=http://shop151637833.taobao.com memberid=151637833
+[INFO] 2017-11-17 20:47:59,289 getpagelist one category complete. [master] url=http://shop345391762.taobao.com memberid=345391762 catid= catname=所有宝贝 count=70
+[INFO] 2017-11-17 20:47:59,555 insert records succeed url=http://shop345391762.taobao.com memberid=345391762 category_count=0 page_count=70
+[INFO] 2017-11-17 20:47:59,565 open homepage with selenium url=http://shop151637833.taobao.com memberid=151637833 first_index=0 second_index=-1
+[INFO] 2017-11-17 20:48:04,290 before url=http://shop345391762.taobao.com
+[INFO] 2017-11-17 20:48:04,335 Starting new HTTP connection (1): shop345391762.taobao.com
+[INFO] 2017-11-17 20:48:04,480 Starting new HTTPS connection (1): shop345391762.taobao.com
+[INFO] 2017-11-17 20:48:04,836 insert new website url=http://shop345391762.taobao.com memberid=345391762
+[INFO] 2017-11-17 20:48:04,862 read oracle complete! taobao_count=2 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-11-17 20:48:04,875 get url from mongo before
+[INFO] 2017-11-17 20:48:05,089 get url from oracle after count=1
+[WARNING] 2017-11-17 20:48:07,121 browser quit error:[Error 5] 
+[INFO] 2017-11-17 20:48:18,645 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_45 125.39.149.47
+requests: support
+[INFO] 2017-11-17 20:50:10,187 getpagelist one category complete. [master] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=工业平板电脑 count=45
+[INFO] 2017-11-17 20:50:24,071 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=5寸工业平板电脑 catpid=1203901976 catpname=工业平板电脑 count=2
+[INFO] 2017-11-17 20:50:43,654 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=7寸工业平板电脑 catpid=1203901976 catpname=工业平板电脑 count=8
+[INFO] 2017-11-17 20:50:57,782 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=8寸工业平板电脑 catpid=1203901976 catpname=工业平板电脑 count=3
+[INFO] 2017-11-17 20:51:18,101 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=10寸工业平板电脑 catpid=1203901976 catpname=工业平板电脑 count=13
+[INFO] 2017-11-17 20:51:36,194 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=12寸工业平板电脑 catpid=1203901976 catpname=工业平板电脑 count=8
+[INFO] 2017-11-17 20:51:51,467 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=15寸工业平板电脑 catpid=1203901976 catpname=工业平板电脑 count=6
+[INFO] 2017-11-17 20:52:08,592 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=17寸工业平板电脑 catpid=1203901976 catpname=工业平板电脑 count=5
+[INFO] 2017-11-17 20:52:31,161 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203901976 catname=19寸工业平板电脑 catpid=1203901976 catpname=工业平板电脑 count=6
+[INFO] 2017-11-17 20:52:58,094 getpagelist one category complete. [master] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905586 catname=工控机 count=14
+[INFO] 2017-11-17 20:53:15,446 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905586 catname=嵌入式工控机 catpid=1203905586 catpname=工控机 count=14
+[INFO] 2017-11-17 20:53:33,003 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905586 catname=上架工控机 catpid=1203905586 catpname=工控机 count=0
+[INFO] 2017-11-17 20:53:54,822 getpagelist one category complete. [master] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905589 catname=液晶屏 count=2
+[INFO] 2017-11-17 20:54:11,424 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905589 catname=10.4寸液晶屏 catpid=1203905589 catpname=液晶屏 count=2
+[INFO] 2017-11-17 20:54:36,663 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905589 catname=12.1寸液晶屏 catpid=1203905589 catpname=液晶屏 count=1
+[INFO] 2017-11-17 21:00:35,085 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905589 catname=15寸液晶屏 catpid=1203905589 catpname=液晶屏 count=1
+[INFO] 2017-11-17 21:01:08,029 getpagelist one category complete. [master] url=http://shop151637833.taobao.com memberid=151637833 catid=1203905600 catname=电脑配件 count=1
+[ERROR] 2017-11-17 21:01:12,507 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 21:11:12,525 open homepage with selenium url=http://shop151637833.taobao.com memberid=151637833 first_index=5 second_index=-1
+[WARNING] 2017-11-17 21:11:22,148 browser quit error:[Error 5] 
+[INFO] 2017-11-17 21:11:36,532 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_24 125.39.72.89
+requests: support
+[INFO] 2017-11-17 21:13:19,188 getpagelist one category complete. [master] url=http://shop151637833.taobao.com memberid=151637833 catid=1203907201 catname=工控主板 count=1
+[INFO] 2017-11-17 21:13:42,849 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203907201 catname=3.5寸主板 catpid=1203907201 catpname=工控主板 count=0
+[INFO] 2017-11-17 21:14:08,805 getpagelist one category complete. [slaves] url=http://shop151637833.taobao.com memberid=151637833 catid=1203907201 catname=5寸主板 catpid=1203907201 catpname=工控主板 count=1
+[INFO] 2017-11-17 21:14:15,680 insert records succeed url=http://shop151637833.taobao.com memberid=151637833 category_count=0 page_count=133
+[INFO] 2017-11-17 21:14:15,700 open homepage with selenium url=http://shop345391762.taobao.com memberid=345391762 first_index=0 second_index=-1
+[WARNING] 2017-11-17 21:14:20,921 browser quit error:[Error 5] 
+[INFO] 2017-11-17 21:14:35,615 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_43 125.39.149.45
+requests: support
+[INFO] 2017-11-17 21:14:42,555 before url=http://shop513260874.taobao.com
+[INFO] 2017-11-17 21:14:42,608 Starting new HTTP connection (1): shop513260874.taobao.com
+[INFO] 2017-11-17 21:14:42,746 Starting new HTTPS connection (1): shop513260874.taobao.com
+[INFO] 2017-11-17 21:14:43,073 insert new website url=http://shop513260874.taobao.com memberid=513260874
+[INFO] 2017-11-17 21:14:43,095 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-11-17 21:14:43,115 get url from mongo before
+[INFO] 2017-11-17 21:14:43,344 get url from oracle after count=1
+[INFO] 2017-11-17 21:17:57,380 getpagelist one category complete. [master] url=http://shop345391762.taobao.com memberid=345391762 catid= catname=所有宝贝 count=70
+[INFO] 2017-11-17 21:17:57,640 insert records succeed url=http://shop345391762.taobao.com memberid=345391762 category_count=0 page_count=70
+[INFO] 2017-11-17 21:17:57,661 open homepage with selenium url=http://shop513260874.taobao.com memberid=513260874 first_index=0 second_index=-1
+[WARNING] 2017-11-17 21:18:09,539 browser quit error:[Error 5] 
+[INFO] 2017-11-17 21:18:25,220 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_3 60.28.110.69
+requests: support
+[INFO] 2017-11-17 21:18:43,369 before url=http://shop513260874.taobao.com
+[INFO] 2017-11-17 21:18:43,408 Starting new HTTP connection (1): shop513260874.taobao.com
+[INFO] 2017-11-17 21:18:43,532 Starting new HTTPS connection (1): shop513260874.taobao.com
+[INFO] 2017-11-17 21:18:43,848 insert new website url=http://shop513260874.taobao.com memberid=513260874
+[INFO] 2017-11-17 21:18:43,862 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-11-17 21:18:43,875 get url from mongo before
+[INFO] 2017-11-17 21:18:44,088 get url from oracle after count=1
+[INFO] 2017-11-17 21:19:43,154 getpagelist one category complete. [master] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040063 catname=YPA系列烫平机 count=9
+[INFO] 2017-11-17 21:20:09,260 getpagelist one category complete. [slaves] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040063 catname=烫平机配件类 catpid=1347040063 catpname=YPA系列烫平机 count=9
+[INFO] 2017-11-17 21:21:24,095 getpagelist one category complete. [master] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040046 catname=XGQ系列洗脱机 count=44
+[INFO] 2017-11-17 21:22:06,812 getpagelist one category complete. [slaves] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040046 catname=洗脱机电脑板类 catpid=1347040046 catpname=XGQ系列洗脱机 count=24
+[INFO] 2017-11-17 21:23:08,283 getpagelist one category complete. [slaves] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040046 catname=洗脱机配件类 catpid=1347040046 catpname=XGQ系列洗脱机 count=34
+[INFO] 2017-11-17 21:23:39,358 getpagelist one category complete. [master] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040049 catname=SWA801系列烘干机 count=22
+[INFO] 2017-11-17 21:24:01,075 getpagelist one category complete. [slaves] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040049 catname=烘干机电脑板类 catpid=1347040049 catpname=SWA801系列烘干机 count=12
+[INFO] 2017-11-17 21:24:25,082 getpagelist one category complete. [slaves] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040049 catname=烘干机配件类 catpid=1347040049 catpname=SWA801系列烘干机 count=16
+[INFO] 2017-11-17 21:25:00,654 getpagelist one category complete. [master] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040052 catname=ZD3300系列折叠机 count=7
+[ERROR] 2017-11-17 21:25:08,101 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 21:35:08,127 open homepage with selenium url=http://shop513260874.taobao.com memberid=513260874 first_index=4 second_index=0
+[WARNING] 2017-11-17 21:35:16,127 browser quit error:[Error 5] 
+[INFO] 2017-11-17 21:35:32,164 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_47 125.39.149.49
+requests: support
+[ERROR] 2017-11-17 21:36:38,752 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="1347040053">...</li> is not clickable at point (1679, 439). Other element would receive the click: <span class="js-sc-m-title big-title omit" data-id="1347040052">...</span>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 21:46:38,778 open homepage with selenium url=http://shop513260874.taobao.com memberid=513260874 first_index=4 second_index=0
+[WARNING] 2017-11-17 21:46:44,530 browser quit error:[Error 5] 
+[INFO] 2017-11-17 21:46:56,854 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_8 125.39.72.19
+requests: support
+[ERROR] 2017-11-17 21:47:58,740 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="1347040053">...</li> is not clickable at point (1679, 439). Other element would receive the click: <span class="js-sc-m-title big-title omit" data-id="1347040052">...</span>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 21:57:58,770 open homepage with selenium url=http://shop513260874.taobao.com memberid=513260874 first_index=4 second_index=0
+[WARNING] 2017-11-17 21:58:06,430 browser quit error:[Error 5] 
+[INFO] 2017-11-17 21:58:22,104 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_48 125.39.0.178
+requests: support
+[INFO] 2017-11-17 21:59:04,641 insert records succeed url=http://shop513260874.taobao.com memberid=513260874 category_count=0 page_count=177
+[INFO] 2017-11-17 21:59:04,658 open homepage with selenium url=http://shop513260874.taobao.com memberid=513260874 first_index=0 second_index=-1
+[WARNING] 2017-11-17 21:59:12,177 browser quit error:[Error 5] 
+[INFO] 2017-11-17 21:59:28,334 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_33 125.39.0.163
+requests: support
+[INFO] 2017-11-17 21:59:44,171 before url=http://shop513260874.taobao.com
+[INFO] 2017-11-17 21:59:44,223 Starting new HTTP connection (1): shop513260874.taobao.com
+[INFO] 2017-11-17 21:59:44,346 Starting new HTTPS connection (1): shop513260874.taobao.com
+[INFO] 2017-11-17 21:59:44,943 insert new website url=http://shop513260874.taobao.com memberid=513260874
+[INFO] 2017-11-17 21:59:45,026 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-11-17 21:59:45,043 get url from mongo before
+[INFO] 2017-11-17 21:59:45,266 get url from oracle after count=0
+[INFO] 2017-11-17 22:06:16,130 get url from mongo before
+[INFO] 2017-11-17 22:06:16,348 get url from oracle after count=0
+[INFO] 2017-11-17 22:06:41,118 getpagelist one category complete. [master] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040063 catname=YPA系列烫平机 count=9
+[INFO] 2017-11-17 22:07:16,368 get url from mongo before
+[INFO] 2017-11-17 22:07:16,601 get url from oracle after count=0
+[INFO] 2017-11-17 22:07:19,390 getpagelist one category complete. [slaves] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040063 catname=烫平机配件类 catpid=1347040063 catpname=YPA系列烫平机 count=9
+[INFO] 2017-11-17 22:08:16,615 get url from mongo before
+[INFO] 2017-11-17 22:08:16,854 get url from oracle after count=0
+[INFO] 2017-11-17 22:08:39,973 getpagelist one category complete. [master] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040046 catname=XGQ系列洗脱机 count=44
+[INFO] 2017-11-17 22:09:11,678 getpagelist one category complete. [slaves] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040046 catname=洗脱机电脑板类 catpid=1347040046 catpname=XGQ系列洗脱机 count=24
+[INFO] 2017-11-17 22:09:16,878 get url from mongo before
+[INFO] 2017-11-17 22:09:17,137 get url from oracle after count=0
+[INFO] 2017-11-17 22:10:13,019 getpagelist one category complete. [slaves] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040046 catname=洗脱机配件类 catpid=1347040046 catpname=XGQ系列洗脱机 count=34
+[INFO] 2017-11-17 22:10:17,157 get url from mongo before
+[INFO] 2017-11-17 22:10:17,539 get url from oracle after count=0
+[INFO] 2017-11-17 22:10:57,144 getpagelist one category complete. [master] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040049 catname=SWA801系列烘干机 count=22
+[ERROR] 2017-11-17 22:11:05,778 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 22:11:17,553 get url from mongo before
+[INFO] 2017-11-17 22:11:17,954 get url from oracle after count=0
+[INFO] 2017-11-17 22:12:17,973 get url from mongo before
+[INFO] 2017-11-17 22:12:18,180 get url from oracle after count=0
+[INFO] 2017-11-17 22:13:18,198 get url from mongo before
+[INFO] 2017-11-17 22:13:18,438 get url from oracle after count=0
+[INFO] 2017-11-17 22:14:18,457 get url from mongo before
+[INFO] 2017-11-17 22:14:18,775 get url from oracle after count=0
+[INFO] 2017-11-17 22:15:18,790 get url from mongo before
+[INFO] 2017-11-17 22:15:19,173 get url from oracle after count=0
+[INFO] 2017-11-17 22:16:19,190 get url from mongo before
+[INFO] 2017-11-17 22:16:19,404 get url from oracle after count=0
+[INFO] 2017-11-17 22:17:19,427 get url from mongo before
+[INFO] 2017-11-17 22:17:19,644 get url from oracle after count=0
+[INFO] 2017-11-17 22:18:19,654 get url from mongo before
+[INFO] 2017-11-17 22:18:19,917 get url from oracle after count=0
+[INFO] 2017-11-17 22:19:19,930 get url from mongo before
+[INFO] 2017-11-17 22:19:20,153 get url from oracle after count=0
+[INFO] 2017-11-17 22:20:20,173 get url from mongo before
+[INFO] 2017-11-17 22:20:20,413 get url from oracle after count=0
+[INFO] 2017-11-17 22:21:05,812 open homepage with selenium url=http://shop513260874.taobao.com memberid=513260874 first_index=3 second_index=0
+[WARNING] 2017-11-17 22:21:11,598 browser quit error:[Error 5] 
+[INFO] 2017-11-17 22:21:20,431 get url from mongo before
+[INFO] 2017-11-17 22:21:20,694 get url from oracle after count=0
+[INFO] 2017-11-17 22:21:26,240 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_50 125.39.72.61
+requests: support
+[INFO] 2017-11-17 22:22:20,720 get url from mongo before
+[INFO] 2017-11-17 22:22:21,003 get url from oracle after count=0
+[INFO] 2017-11-17 22:22:44,926 getpagelist one category complete. [slaves] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040049 catname=烘干机电脑板类 catpid=1347040049 catpname=SWA801系列烘干机 count=12
+[ERROR] 2017-11-17 22:22:53,704 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="1347040051">...</li> is not clickable at point (1679, 345). Other element would receive the click: <span class="js-sc-m-title big-title omit" data-id="1347040049">...</span>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 22:23:21,020 get url from mongo before
+[INFO] 2017-11-17 22:23:21,279 get url from oracle after count=0
+[INFO] 2017-11-17 22:24:21,298 get url from mongo before
+[INFO] 2017-11-17 22:24:21,552 get url from oracle after count=0
+[INFO] 2017-11-17 22:25:21,572 get url from mongo before
+[INFO] 2017-11-17 22:25:21,825 get url from oracle after count=0
+[INFO] 2017-11-17 22:26:21,836 get url from mongo before
+[INFO] 2017-11-17 22:26:22,101 get url from oracle after count=0
+[INFO] 2017-11-17 22:27:22,125 get url from mongo before
+[INFO] 2017-11-17 22:27:22,384 get url from oracle after count=0
+[INFO] 2017-11-17 22:28:22,394 get url from mongo before
+[INFO] 2017-11-17 22:28:22,630 get url from oracle after count=0
+[INFO] 2017-11-17 22:29:22,645 get url from mongo before
+[INFO] 2017-11-17 22:29:22,861 get url from oracle after count=0
+[INFO] 2017-11-17 22:30:22,875 get url from mongo before
+[INFO] 2017-11-17 22:30:23,138 get url from oracle after count=0
+[INFO] 2017-11-17 22:31:23,153 get url from mongo before
+[INFO] 2017-11-17 22:31:23,371 get url from oracle after count=0
+[INFO] 2017-11-17 22:32:23,388 get url from mongo before
+[INFO] 2017-11-17 22:32:23,622 get url from oracle after count=0
+[INFO] 2017-11-17 22:32:53,727 open homepage with selenium url=http://shop513260874.taobao.com memberid=513260874 first_index=3 second_index=1
+[WARNING] 2017-11-17 22:32:58,095 browser quit error:[Error 5] 
+[INFO] 2017-11-17 22:33:13,493 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_9 60.28.11.203
+requests: support
+[INFO] 2017-11-17 22:33:23,637 get url from mongo before
+[INFO] 2017-11-17 22:33:23,865 get url from oracle after count=0
+[INFO] 2017-11-17 22:33:53,730 insert records succeed url=http://shop513260874.taobao.com memberid=513260874 category_count=0 page_count=154
+[INFO] 2017-11-17 22:33:53,750 open homepage with selenium url=http://shop513260874.taobao.com memberid=513260874 first_index=0 second_index=-1
+[WARNING] 2017-11-17 22:34:02,316 browser quit error:[Error 5] 
+[INFO] 2017-11-17 22:34:18,187 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_33 125.39.149.35
+requests: support
+[INFO] 2017-11-17 22:34:23,887 get url from mongo before
+[INFO] 2017-11-17 22:34:24,125 get url from oracle after count=0
+[INFO] 2017-11-17 22:35:24,148 get url from mongo before
+[INFO] 2017-11-17 22:35:24,601 get url from oracle after count=0
+[INFO] 2017-11-17 22:35:39,819 getpagelist one category complete. [master] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040063 catname=YPA系列烫平机 count=9
+[INFO] 2017-11-17 22:36:08,203 getpagelist one category complete. [slaves] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040063 catname=烫平机配件类 catpid=1347040063 catpname=YPA系列烫平机 count=9
+[INFO] 2017-11-17 22:36:24,619 get url from mongo before
+[INFO] 2017-11-17 22:36:24,851 get url from oracle after count=0
+[INFO] 2017-11-17 22:37:21,125 getpagelist one category complete. [master] url=http://shop513260874.taobao.com memberid=513260874 catid=1347040046 catname=XGQ系列洗脱机 count=44
+[INFO] 2017-11-17 22:37:24,868 get url from mongo before
+[INFO] 2017-11-17 22:37:25,153 get url from oracle after count=0
+[ERROR] 2017-11-17 22:37:30,918 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 22:38:25,164 get url from mongo before
+[INFO] 2017-11-17 22:38:25,385 get url from oracle after count=0
+[INFO] 2017-11-17 22:39:25,407 get url from mongo before
+[INFO] 2017-11-17 22:39:25,654 get url from oracle after count=0
+[INFO] 2017-11-17 22:40:25,673 get url from mongo before
+[INFO] 2017-11-17 22:40:25,890 get url from oracle after count=0
+[INFO] 2017-11-17 22:41:25,907 get url from mongo before
+[INFO] 2017-11-17 22:41:26,134 get url from oracle after count=0
+[INFO] 2017-11-17 22:42:26,365 get url from mongo before
+[INFO] 2017-11-17 22:42:26,582 get url from oracle after count=0
+[INFO] 2017-11-17 22:43:26,605 get url from mongo before
+[INFO] 2017-11-17 22:43:26,822 get url from oracle after count=0
+[INFO] 2017-11-17 22:44:26,838 get url from mongo before
+[INFO] 2017-11-17 22:44:27,065 get url from oracle after count=0
+[INFO] 2017-11-17 22:45:27,078 get url from mongo before
+[INFO] 2017-11-17 22:45:27,301 get url from oracle after count=0
+[INFO] 2017-11-17 22:46:27,311 get url from mongo before
+[INFO] 2017-11-17 22:46:27,588 get url from oracle after count=0
+[INFO] 2017-11-17 22:47:27,598 get url from mongo before
+[INFO] 2017-11-17 22:47:27,828 get url from oracle after count=0
+[INFO] 2017-11-17 22:47:30,940 open homepage with selenium url=http://shop513260874.taobao.com memberid=513260874 first_index=2 second_index=0
+[WARNING] 2017-11-17 22:47:37,125 browser quit error:[Error 5] 
+[INFO] 2017-11-17 22:47:52,058 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_9 125.39.0.139
+requests: support
+[INFO] 2017-11-17 22:48:27,924 get url from mongo before
+[INFO] 2017-11-17 22:48:28,174 get url from oracle after count=0
+[ERROR] 2017-11-17 22:48:50,970 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="1347040047">...</li> is not clickable at point (1679, 251). Other element would receive the click: <span class="js-sc-m-title big-title omit" data-id="1347040046">...</span>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 22:49:28,214 get url from mongo before
+[INFO] 2017-11-17 22:49:28,427 get url from oracle after count=0
+[INFO] 2017-11-17 22:50:28,448 get url from mongo before
+[INFO] 2017-11-17 22:50:28,690 get url from oracle after count=0
+[INFO] 2017-11-17 22:51:28,714 get url from mongo before
+[INFO] 2017-11-17 22:51:28,921 get url from oracle after count=0
+[INFO] 2017-11-17 22:52:28,931 get url from mongo before
+[INFO] 2017-11-17 22:52:29,226 get url from oracle after count=0
+[INFO] 2017-11-17 22:53:29,242 get url from mongo before
+[INFO] 2017-11-17 22:53:29,446 get url from oracle after count=0
+[INFO] 2017-11-17 22:54:29,457 get url from mongo before
+[INFO] 2017-11-17 22:54:29,683 get url from oracle after count=0
+[INFO] 2017-11-17 22:55:29,697 get url from mongo before
+[INFO] 2017-11-17 22:55:29,960 get url from oracle after count=0
+[INFO] 2017-11-17 22:56:29,974 get url from mongo before
+[INFO] 2017-11-17 22:56:30,244 get url from oracle after count=0
+[INFO] 2017-11-17 22:57:30,262 get url from mongo before
+[INFO] 2017-11-17 22:57:30,473 get url from oracle after count=0
+[INFO] 2017-11-17 22:58:30,493 get url from mongo before
+[INFO] 2017-11-17 22:58:30,698 get url from oracle after count=0
+[INFO] 2017-11-17 22:58:51,006 open homepage with selenium url=http://shop513260874.taobao.com memberid=513260874 first_index=2 second_index=0
+[WARNING] 2017-11-17 22:58:55,571 browser quit error:[Error 5] 
+[INFO] 2017-11-17 22:59:09,980 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_38 125.39.72.49
+requests: support
+[INFO] 2017-11-17 22:59:30,713 get url from mongo before
+[INFO] 2017-11-17 22:59:30,941 get url from oracle after count=0
+[ERROR] 2017-11-17 23:00:01,858 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="1347040047">...</li> is not clickable at point (1679, 251). Other element would receive the click: <span class="js-sc-m-title big-title omit" data-id="1347040046">...</span>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-11-17 23:00:30,963 get url from mongo before
+[INFO] 2017-11-17 23:00:31,312 get url from oracle after count=0
+[INFO] 2017-11-17 23:01:31,328 get url from mongo before
+[INFO] 2017-11-17 23:01:31,565 get url from oracle after count=0
+[INFO] 2017-11-17 23:02:31,586 get url from mongo before
+[INFO] 2017-11-17 23:02:31,816 get url from oracle after count=0
+[INFO] 2017-11-17 23:03:31,829 get url from mongo before
+[INFO] 2017-11-17 23:03:32,033 get url from oracle after count=0
+[INFO] 2017-11-17 23:04:32,046 get url from mongo before
+[INFO] 2017-11-17 23:04:32,292 get url from oracle after count=0
+[INFO] 2017-11-17 23:05:32,319 get url from mongo before
+[INFO] 2017-11-17 23:05:32,565 get url from oracle after count=0
+[INFO] 2017-11-17 23:12:02,095 get url from mongo before
+[INFO] 2017-11-17 23:12:02,336 get url from oracle after count=0
+[INFO] 2017-11-17 23:13:02,357 get url from mongo before
+[INFO] 2017-11-17 23:13:02,604 get url from oracle after count=0
+[INFO] 2017-11-17 23:14:02,624 get url from mongo before
+[INFO] 2017-11-17 23:14:02,855 get url from oracle after count=0
+[INFO] 2017-11-17 23:15:02,868 get url from mongo before
+[INFO] 2017-11-17 23:15:03,082 get url from oracle after count=0
+[INFO] 2017-11-17 23:15:31,413 open homepage with selenium url=http://shop513260874.taobao.com memberid=513260874 first_index=2 second_index=0
+[WARNING] 2017-11-17 23:15:42,408 browser quit error:[Error 5] 
+[INFO] 2017-11-17 23:15:57,456 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_12 125.39.72.23
+requests: support
+[INFO] 2017-11-17 23:16:03,098 get url from mongo before
+[INFO] 2017-11-17 23:16:03,447 get url from oracle after count=0
+[INFO] 2017-11-17 23:16:35,650 insert records succeed url=http://shop513260874.taobao.com memberid=513260874 category_count=0 page_count=62
+[INFO] 2017-11-17 23:17:03,460 get url from mongo before
+[INFO] 2017-11-17 23:17:03,668 get url from oracle after count=0
+[INFO] 2017-11-17 23:18:03,681 get url from mongo before
+[INFO] 2017-11-17 23:18:03,977 get url from oracle after count=0
+[INFO] 2017-11-17 23:19:04,007 get url from mongo before
+[INFO] 2017-11-17 23:19:04,279 get url from oracle after count=0
+[INFO] 2017-11-17 23:20:04,296 get url from mongo before
+[INFO] 2017-11-17 23:20:04,565 get url from oracle after count=0
+[INFO] 2017-11-17 23:21:04,579 get url from mongo before
+[INFO] 2017-11-17 23:21:04,788 get url from oracle after count=0
+[INFO] 2017-11-17 23:22:04,809 get url from mongo before
+[INFO] 2017-11-17 23:22:05,042 get url from oracle after count=0
+[INFO] 2017-11-17 23:23:05,066 get url from mongo before
+[INFO] 2017-11-17 23:23:05,295 get url from oracle after count=0
+[INFO] 2017-11-17 23:24:05,319 get url from mongo before
+[INFO] 2017-11-17 23:24:05,526 get url from oracle after count=0
+[INFO] 2017-11-17 23:25:05,546 get url from mongo before
+[INFO] 2017-11-17 23:25:05,846 get url from oracle after count=0
+[INFO] 2017-11-17 23:26:05,869 get url from mongo before
+[INFO] 2017-11-17 23:26:06,214 get url from oracle after count=0
+[INFO] 2017-11-17 23:27:06,237 get url from mongo before
+[INFO] 2017-11-17 23:27:06,479 get url from oracle after count=0
+[INFO] 2017-11-17 23:28:06,500 get url from mongo before
+[INFO] 2017-11-17 23:28:06,694 get url from oracle after count=0
+[INFO] 2017-11-17 23:29:06,713 get url from mongo before
+[INFO] 2017-11-17 23:29:06,951 get url from oracle after count=0
+[INFO] 2017-11-17 23:30:06,969 get url from mongo before
+[INFO] 2017-11-17 23:30:07,184 get url from oracle after count=0
+[INFO] 2017-11-17 23:31:07,210 get url from mongo before
+[INFO] 2017-11-17 23:31:07,437 get url from oracle after count=0
+[INFO] 2017-11-17 23:32:07,453 get url from mongo before
+[INFO] 2017-11-17 23:32:07,655 get url from oracle after count=0
+[INFO] 2017-11-17 23:33:07,667 get url from mongo before
+[INFO] 2017-11-17 23:33:07,908 get url from oracle after count=0
+[INFO] 2017-11-17 23:34:07,930 get url from mongo before
+[INFO] 2017-11-17 23:34:08,148 get url from oracle after count=0
+[INFO] 2017-11-17 23:35:08,167 get url from mongo before
+[INFO] 2017-11-17 23:35:08,375 get url from oracle after count=0
+[INFO] 2017-11-17 23:36:08,390 get url from mongo before
+[INFO] 2017-11-17 23:36:08,647 get url from oracle after count=0
+[INFO] 2017-11-17 23:37:08,775 get url from mongo before
+[INFO] 2017-11-17 23:37:09,000 get url from oracle after count=0
+[INFO] 2017-11-17 23:38:09,023 get url from mongo before
+[INFO] 2017-11-17 23:38:09,230 get url from oracle after count=0
+[INFO] 2017-11-17 23:39:09,246 get url from mongo before
+[INFO] 2017-11-17 23:39:09,461 get url from oracle after count=0
+[INFO] 2017-11-17 23:40:09,477 get url from mongo before
+[INFO] 2017-11-17 23:40:09,693 get url from oracle after count=0
+[INFO] 2017-11-17 23:41:09,713 get url from mongo before
+[INFO] 2017-11-17 23:41:09,934 get url from oracle after count=0
+[INFO] 2017-11-17 23:42:09,948 get url from mongo before
+[INFO] 2017-11-17 23:42:10,165 get url from oracle after count=0
+[INFO] 2017-11-17 23:43:10,174 get url from mongo before
+[INFO] 2017-11-17 23:43:10,420 get url from oracle after count=0
+[INFO] 2017-11-17 23:44:10,430 get url from mongo before
+[INFO] 2017-11-17 23:44:10,667 get url from oracle after count=0
+[INFO] 2017-11-17 23:45:10,678 get url from mongo before
+[INFO] 2017-11-17 23:45:10,901 get url from oracle after count=0
+[INFO] 2017-11-17 23:46:10,937 get url from mongo before
+[INFO] 2017-11-17 23:46:11,150 get url from oracle after count=0
+[INFO] 2017-11-17 23:47:11,170 get url from mongo before
+[INFO] 2017-11-17 23:47:11,454 get url from oracle after count=0
+[INFO] 2017-11-17 23:48:11,473 get url from mongo before
+[INFO] 2017-11-17 23:48:11,730 get url from oracle after count=0
+[INFO] 2017-11-17 23:49:11,780 get url from mongo before
+[INFO] 2017-11-17 23:49:12,022 get url from oracle after count=0
+[INFO] 2017-11-17 23:50:12,043 get url from mongo before
+[INFO] 2017-11-17 23:50:12,253 get url from oracle after count=0
+[INFO] 2017-11-17 23:51:12,272 get url from mongo before
+[INFO] 2017-11-17 23:51:12,500 get url from oracle after count=0
+[INFO] 2017-11-17 23:52:12,510 get url from mongo before
+[INFO] 2017-11-17 23:52:12,740 get url from oracle after count=0
+[INFO] 2017-11-17 23:53:12,765 get url from mongo before
+[INFO] 2017-11-17 23:53:12,986 get url from oracle after count=0
+[INFO] 2017-11-17 23:54:13,009 get url from mongo before
+[INFO] 2017-11-17 23:54:13,217 get url from oracle after count=0
+[INFO] 2017-11-17 23:55:13,240 get url from mongo before
+[INFO] 2017-11-17 23:55:13,447 get url from oracle after count=0
+[INFO] 2017-11-17 23:56:13,469 get url from mongo before
+[INFO] 2017-11-17 23:56:13,753 get url from oracle after count=0
+[INFO] 2017-11-17 23:57:13,773 get url from mongo before
+[INFO] 2017-11-17 23:57:13,990 get url from oracle after count=0
+[INFO] 2017-11-17 23:58:14,012 get url from mongo before
+[INFO] 2017-11-17 23:58:14,236 get url from oracle after count=0
+[INFO] 2017-11-17 23:59:14,259 get url from mongo before
+[INFO] 2017-11-17 23:59:14,490 get url from oracle after count=0

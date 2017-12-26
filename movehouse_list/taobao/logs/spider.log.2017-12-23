@@ -1,0 +1,752 @@
+[INFO] 2017-12-23 11:27:10,698 Starting new HTTPS connection (1): shop109338666.taobao.com
+[INFO] 2017-12-23 11:27:10,917 insert new website url=http://shop109338666.taobao.com memberid=109338666
+[INFO] 2017-12-23 11:27:10,917 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-23 11:27:10,933 get url from mongo before
+[INFO] 2017-12-23 11:27:11,230 get url from oracle after count=1
+[WARNING] 2017-12-23 11:27:11,605 browser quit error:[Error 5] 
+[INFO] 2017-12-23 11:27:19,313 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_49 111.161.24.51
+requests: support
+[INFO] 2017-12-23 11:28:50,719 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=客车 count=27
+[INFO] 2017-12-23 11:29:37,723 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=气囊 catpid=1294424801 catpname=客车 count=25
+[INFO] 2017-12-23 11:29:57,506 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=盖板 catpid=1294424801 catpname=客车 count=1
+[INFO] 2017-12-23 11:30:18,628 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=底座 catpid=1294424801 catpname=客车 count=1
+[INFO] 2017-12-23 11:30:29,082 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=其他 catpid=1294424801 catpname=客车 count=0
+[ERROR] 2017-12-23 11:31:06,634 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 11:41:06,654 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=2 second_index=-1
+[WARNING] 2017-12-23 11:41:14,596 browser quit error:[Error 5] 
+[INFO] 2017-12-23 11:41:32,844 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_37 111.161.24.39
+requests: support
+[INFO] 2017-12-23 11:43:48,573 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=卡车 count=71
+[INFO] 2017-12-23 11:44:01,295 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=驾驶室气囊 catpid=1294424805 catpname=卡车 count=30
+[INFO] 2017-12-23 11:44:14,293 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=座椅气囊 catpid=1294424805 catpname=卡车 count=3
+[ERROR] 2017-12-23 11:44:56,160 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 11:54:56,174 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=2 second_index=2
+[WARNING] 2017-12-23 11:54:59,711 browser quit error:[Error 5] 
+[ERROR] 2017-12-23 11:55:22,632 something error! Message: unknown error: failed to wait for extension background page to load: chrome-extension://mpjjjahblmgpbmegfckamldokleleonf/_generated_background_page.html
+from timeout
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 12:05:22,648 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=2 second_index=2
+[INFO] 2017-12-23 12:05:44,970 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_33 125.39.72.98
+requests: support
+[INFO] 2017-12-23 12:08:08,653 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=浮动桥承载气囊 catpid=1294424805 catpname=卡车 count=31
+[INFO] 2017-12-23 12:08:51,309 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=浮动桥提升气囊 catpid=1294424805 catpname=卡车 count=5
+[INFO] 2017-12-23 12:09:13,667 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=改装专用气囊 catpid=1294424805 catpname=卡车 count=3
+[INFO] 2017-12-23 12:09:33,312 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=电磁阀 catpid=1294424805 catpname=卡车 count=0
+[ERROR] 2017-12-23 12:09:52,723 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 12:24:19,608 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=2 second_index=6
+[WARNING] 2017-12-23 12:24:23,154 browser quit error:[Error 5] 
+[INFO] 2017-12-23 12:24:43,127 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_49 125.39.72.60
+requests: support
+[INFO] 2017-12-23 12:25:34,519 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=其他 catpid=1294424805 catpname=卡车 count=0
+[INFO] 2017-12-23 12:27:20,509 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=轿车 count=77
+[INFO] 2017-12-23 12:28:13,834 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=空气减震器 catpid=1294424811 catpname=轿车 count=20
+[INFO] 2017-12-23 12:28:58,743 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=修理包 catpid=1294424811 catpname=轿车 count=11
+[INFO] 2017-12-23 12:29:41,035 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=气包 catpid=1294424811 catpname=轿车 count=15
+[INFO] 2017-12-23 12:30:22,714 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=空气悬挂打气泵 catpid=1294424811 catpname=轿车 count=26
+[INFO] 2017-12-23 12:31:03,805 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=改装专用 catpid=1294424811 catpname=轿车 count=9
+[INFO] 2017-12-23 12:31:38,655 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=空气悬挂分配阀 catpid=1294424811 catpname=轿车 count=6
+[INFO] 2017-12-23 12:32:06,168 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=其他 catpid=1294424811 catpname=轿车 count=0
+[INFO] 2017-12-23 12:32:36,398 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=工业 count=0
+[ERROR] 2017-12-23 12:32:41,082 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="1294424818">...</li> is not clickable at point (1780, 909). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 12:42:41,085 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=4 second_index=0
+[WARNING] 2017-12-23 12:42:43,744 browser quit error:[Error 5] 
+[INFO] 2017-12-23 12:42:56,207 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_29 125.39.72.40
+requests: support
+[INFO] 2017-12-23 12:44:24,078 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=单囊式空气弹簧 catpid=1294424817 catpname=工业 count=42
+[INFO] 2017-12-23 12:46:37,885 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=双囊式空气弹簧 catpid=1294424817 catpname=工业 count=76
+[INFO] 2017-12-23 12:47:10,644 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=三囊式空气弹簧 catpid=1294424817 catpname=工业 count=19
+[INFO] 2017-12-23 12:47:24,132 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=四囊式空气弹簧 catpid=1294424817 catpname=工业 count=4
+[INFO] 2017-12-23 12:47:39,790 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=五囊式空气弹簧 catpid=1294424817 catpname=工业 count=1
+[INFO] 2017-12-23 12:48:20,431 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=气动元件 catpid=1294424817 catpname=工业 count=6
+[INFO] 2017-12-23 12:48:34,611 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=其他 catpid=1294424817 catpname=工业 count=0
+[ERROR] 2017-12-23 12:48:44,302 something error! Message: unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 12:58:44,321 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=5 second_index=-1
+[WARNING] 2017-12-23 12:58:45,476 browser quit error:[Error 5] 
+[INFO] 2017-12-23 12:58:55,828 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_2 125.39.72.13
+requests: support
+[INFO] 2017-12-23 13:00:04,427 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424822 catname=其他 count=0
+[INFO] 2017-12-23 13:00:05,221 insert records succeed url=http://shop109338666.taobao.com memberid=109338666 category_count=0 page_count=509
+[INFO] 2017-12-23 13:00:05,234 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=0 second_index=-1
+[WARNING] 2017-12-23 13:00:07,940 browser quit error:[Error 5] 
+[INFO] 2017-12-23 13:00:19,566 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_34 125.39.72.45
+requests: support
+[INFO] 2017-12-23 13:00:38,368 before url=http://shop109338666.taobao.com
+[INFO] 2017-12-23 13:00:38,417 Starting new HTTP connection (1): shop109338666.taobao.com
+[INFO] 2017-12-23 13:00:38,555 Starting new HTTPS connection (1): shop109338666.taobao.com
+[INFO] 2017-12-23 13:00:38,953 insert new website url=http://shop109338666.taobao.com memberid=109338666
+[INFO] 2017-12-23 13:00:38,982 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-23 13:00:39,006 get url from mongo before
+[INFO] 2017-12-23 13:00:39,332 get url from oracle after count=0
+[ERROR] 2017-12-23 13:01:19,551 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 13:01:39,346 get url from mongo before
+[INFO] 2017-12-23 13:01:39,598 get url from oracle after count=0
+[INFO] 2017-12-23 13:02:39,615 get url from mongo before
+[INFO] 2017-12-23 13:02:39,839 get url from oracle after count=0
+[INFO] 2017-12-23 13:03:39,874 get url from mongo before
+[INFO] 2017-12-23 13:03:40,092 get url from oracle after count=0
+[INFO] 2017-12-23 13:04:40,092 get url from mongo before
+[INFO] 2017-12-23 13:04:40,325 get url from oracle after count=0
+[INFO] 2017-12-23 13:05:40,341 get url from mongo before
+[INFO] 2017-12-23 13:05:40,555 get url from oracle after count=0
+[INFO] 2017-12-23 13:06:40,572 get url from mongo before
+[INFO] 2017-12-23 13:06:40,944 get url from oracle after count=0
+[INFO] 2017-12-23 13:07:40,957 get url from mongo before
+[INFO] 2017-12-23 13:07:41,332 get url from oracle after count=0
+[INFO] 2017-12-23 13:08:41,334 get url from mongo before
+[INFO] 2017-12-23 13:08:41,618 get url from oracle after count=0
+[INFO] 2017-12-23 13:09:41,651 get url from mongo before
+[INFO] 2017-12-23 13:09:41,900 get url from oracle after count=0
+[INFO] 2017-12-23 13:10:41,976 get url from mongo before
+[INFO] 2017-12-23 13:10:42,223 get url from oracle after count=0
+[INFO] 2017-12-23 13:11:19,568 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=1 second_index=-1
+[WARNING] 2017-12-23 13:11:21,506 browser quit error:[Error 5] 
+[INFO] 2017-12-23 13:11:42,257 get url from mongo before
+[INFO] 2017-12-23 13:11:42,539 get url from oracle after count=0
+[INFO] 2017-12-23 13:11:44,910 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_1 60.28.11.195
+requests: support
+[INFO] 2017-12-23 13:12:42,558 get url from mongo before
+[INFO] 2017-12-23 13:12:42,809 get url from oracle after count=0
+[INFO] 2017-12-23 13:13:10,549 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=客车 count=27
+[INFO] 2017-12-23 13:13:42,829 get url from mongo before
+[INFO] 2017-12-23 13:13:43,081 get url from oracle after count=0
+[INFO] 2017-12-23 13:13:59,121 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=气囊 catpid=1294424801 catpname=客车 count=25
+[INFO] 2017-12-23 13:14:24,250 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=盖板 catpid=1294424801 catpname=客车 count=1
+[INFO] 2017-12-23 13:14:43,096 get url from mongo before
+[INFO] 2017-12-23 13:14:43,301 get url from oracle after count=0
+[INFO] 2017-12-23 13:15:03,056 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=底座 catpid=1294424801 catpname=客车 count=1
+[ERROR] 2017-12-23 13:15:23,134 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 13:15:43,328 get url from mongo before
+[INFO] 2017-12-23 13:15:43,546 get url from oracle after count=0
+[INFO] 2017-12-23 13:16:43,576 get url from mongo before
+[INFO] 2017-12-23 13:16:43,812 get url from oracle after count=0
+[INFO] 2017-12-23 13:17:43,823 get url from mongo before
+[INFO] 2017-12-23 13:17:44,043 get url from oracle after count=0
+[INFO] 2017-12-23 13:18:44,058 get url from mongo before
+[INFO] 2017-12-23 13:18:44,309 get url from oracle after count=0
+[INFO] 2017-12-23 13:19:44,338 get url from mongo before
+[INFO] 2017-12-23 13:19:44,569 get url from oracle after count=0
+[INFO] 2017-12-23 13:25:10,757 get url from mongo before
+[INFO] 2017-12-23 13:25:10,986 get url from oracle after count=0
+[INFO] 2017-12-23 13:26:11,000 get url from mongo before
+[INFO] 2017-12-23 13:26:11,242 get url from oracle after count=0
+[INFO] 2017-12-23 13:27:11,259 get url from mongo before
+[INFO] 2017-12-23 13:27:11,571 get url from oracle after count=0
+[INFO] 2017-12-23 13:28:11,588 get url from mongo before
+[INFO] 2017-12-23 13:28:11,799 get url from oracle after count=0
+[INFO] 2017-12-23 13:29:11,815 get url from mongo before
+[INFO] 2017-12-23 13:29:12,033 get url from oracle after count=0
+[INFO] 2017-12-23 13:29:49,313 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=1 second_index=3
+[WARNING] 2017-12-23 13:29:54,862 browser quit error:[Error 5] 
+[INFO] 2017-12-23 13:30:12,042 get url from mongo before
+[INFO] 2017-12-23 13:30:12,278 get url from oracle after count=0
+[INFO] 2017-12-23 13:30:15,358 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_40 60.28.11.234
+requests: support
+[INFO] 2017-12-23 13:31:12,302 get url from mongo before
+[INFO] 2017-12-23 13:31:12,539 get url from oracle after count=0
+[INFO] 2017-12-23 13:31:16,986 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=其他 catpid=1294424801 catpname=客车 count=0
+[INFO] 2017-12-23 13:32:12,555 get url from mongo before
+[INFO] 2017-12-23 13:32:12,802 get url from oracle after count=0
+[INFO] 2017-12-23 13:33:12,818 get url from mongo before
+[INFO] 2017-12-23 13:33:13,079 get url from oracle after count=0
+[INFO] 2017-12-23 13:33:53,891 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=卡车 count=71
+[INFO] 2017-12-23 13:34:13,098 get url from mongo before
+[INFO] 2017-12-23 13:34:13,319 get url from oracle after count=0
+[INFO] 2017-12-23 13:34:30,539 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=驾驶室气囊 catpid=1294424805 catpname=卡车 count=30
+[INFO] 2017-12-23 13:35:13,334 get url from mongo before
+[INFO] 2017-12-23 13:35:13,559 get url from oracle after count=0
+[INFO] 2017-12-23 13:35:20,740 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=座椅气囊 catpid=1294424805 catpname=卡车 count=3
+[INFO] 2017-12-23 13:36:13,572 get url from mongo before
+[INFO] 2017-12-23 13:36:13,918 get url from oracle after count=0
+[INFO] 2017-12-23 13:36:16,312 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=浮动桥承载气囊 catpid=1294424805 catpname=卡车 count=31
+[INFO] 2017-12-23 13:36:51,825 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=浮动桥提升气囊 catpid=1294424805 catpname=卡车 count=5
+[INFO] 2017-12-23 13:37:13,934 get url from mongo before
+[INFO] 2017-12-23 13:37:14,312 get url from oracle after count=0
+[INFO] 2017-12-23 13:37:28,448 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=改装专用气囊 catpid=1294424805 catpname=卡车 count=3
+[INFO] 2017-12-23 13:38:12,858 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=电磁阀 catpid=1294424805 catpname=卡车 count=3
+[INFO] 2017-12-23 13:38:14,331 get url from mongo before
+[INFO] 2017-12-23 13:38:14,565 get url from oracle after count=0
+[INFO] 2017-12-23 13:38:34,743 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=其他 catpid=1294424805 catpname=卡车 count=0
+[INFO] 2017-12-23 13:39:14,581 get url from mongo before
+[INFO] 2017-12-23 13:39:14,809 get url from oracle after count=0
+[INFO] 2017-12-23 13:40:14,826 get url from mongo before
+[INFO] 2017-12-23 13:40:15,056 get url from oracle after count=0
+[INFO] 2017-12-23 13:40:42,979 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=轿车 count=77
+[ERROR] 2017-12-23 13:40:55,549 something error! Message: unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 13:41:15,066 get url from mongo before
+[INFO] 2017-12-23 13:41:15,308 get url from oracle after count=0
+[INFO] 2017-12-23 13:42:15,326 get url from mongo before
+[INFO] 2017-12-23 13:42:15,548 get url from oracle after count=0
+[INFO] 2017-12-23 13:43:15,558 get url from mongo before
+[INFO] 2017-12-23 13:43:15,821 get url from oracle after count=0
+[INFO] 2017-12-23 13:44:15,835 get url from mongo before
+[INFO] 2017-12-23 13:44:16,043 get url from oracle after count=0
+[INFO] 2017-12-23 13:45:16,061 get url from mongo before
+[INFO] 2017-12-23 13:45:16,278 get url from oracle after count=0
+[INFO] 2017-12-23 13:46:16,305 get url from mongo before
+[INFO] 2017-12-23 13:46:16,532 get url from oracle after count=0
+[INFO] 2017-12-23 13:47:16,546 get url from mongo before
+[INFO] 2017-12-23 13:47:16,773 get url from oracle after count=0
+[INFO] 2017-12-23 13:48:16,792 get url from mongo before
+[INFO] 2017-12-23 13:48:17,013 get url from oracle after count=0
+[INFO] 2017-12-23 13:49:17,025 get url from mongo before
+[INFO] 2017-12-23 13:49:17,276 get url from oracle after count=0
+[INFO] 2017-12-23 13:50:17,292 get url from mongo before
+[INFO] 2017-12-23 13:50:17,519 get url from oracle after count=0
+[INFO] 2017-12-23 13:50:55,565 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=0
+[WARNING] 2017-12-23 13:50:57,926 browser quit error:[Error 5] 
+[INFO] 2017-12-23 13:51:16,802 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_6 60.28.110.72
+requests: support
+[INFO] 2017-12-23 13:51:17,529 get url from mongo before
+[INFO] 2017-12-23 13:51:17,802 get url from oracle after count=0
+[INFO] 2017-12-23 13:52:17,825 get url from mongo before
+[INFO] 2017-12-23 13:52:18,045 get url from oracle after count=0
+[INFO] 2017-12-23 13:53:03,881 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=空气减震器 catpid=1294424811 catpname=轿车 count=20
+[INFO] 2017-12-23 13:53:18,055 get url from mongo before
+[INFO] 2017-12-23 13:53:18,528 get url from oracle after count=0
+[INFO] 2017-12-23 13:53:20,747 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=修理包 catpid=1294424811 catpname=轿车 count=11
+[INFO] 2017-12-23 13:54:10,756 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=气包 catpid=1294424811 catpname=轿车 count=15
+[INFO] 2017-12-23 13:54:18,549 get url from mongo before
+[INFO] 2017-12-23 13:54:18,910 get url from oracle after count=0
+[INFO] 2017-12-23 13:54:56,104 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=空气悬挂打气泵 catpid=1294424811 catpname=轿车 count=26
+[ERROR] 2017-12-23 13:55:05,990 something error! Message: unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 13:55:18,921 get url from mongo before
+[INFO] 2017-12-23 13:55:19,164 get url from oracle after count=0
+[INFO] 2017-12-23 13:56:19,318 get url from mongo before
+[INFO] 2017-12-23 13:56:19,568 get url from oracle after count=0
+[INFO] 2017-12-23 13:57:19,586 get url from mongo before
+[INFO] 2017-12-23 13:57:19,848 get url from oracle after count=0
+[INFO] 2017-12-23 13:58:19,868 get url from mongo before
+[INFO] 2017-12-23 13:58:20,108 get url from oracle after count=0
+[INFO] 2017-12-23 13:59:20,122 get url from mongo before
+[INFO] 2017-12-23 13:59:20,325 get url from oracle after count=0
+[INFO] 2017-12-23 14:00:20,326 get url from mongo before
+[INFO] 2017-12-23 14:00:20,575 get url from oracle after count=0
+[INFO] 2017-12-23 14:01:20,598 get url from mongo before
+[INFO] 2017-12-23 14:01:20,854 get url from oracle after count=0
+[INFO] 2017-12-23 14:02:20,855 get url from mongo before
+[INFO] 2017-12-23 14:02:21,096 get url from oracle after count=0
+[INFO] 2017-12-23 14:03:21,111 get url from mongo before
+[INFO] 2017-12-23 14:03:21,336 get url from oracle after count=0
+[INFO] 2017-12-23 14:04:21,352 get url from mongo before
+[INFO] 2017-12-23 14:04:21,582 get url from oracle after count=0
+[INFO] 2017-12-23 14:05:06,006 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=4
+[WARNING] 2017-12-23 14:05:07,354 browser quit error:[Error 5] 
+[INFO] 2017-12-23 14:05:21,599 get url from mongo before
+[INFO] 2017-12-23 14:05:21,841 get url from oracle after count=0
+[ERROR] 2017-12-23 14:05:35,309 something error! Message: unknown error: failed to wait for extension background page to load: chrome-extension://kinaphhlaejgdpkbcdimjiapbdbfdfgf/_generated_background_page.html
+from timeout
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 14:06:21,881 get url from mongo before
+[INFO] 2017-12-23 14:06:22,099 get url from oracle after count=0
+[INFO] 2017-12-23 14:07:22,101 get url from mongo before
+[INFO] 2017-12-23 14:07:22,318 get url from oracle after count=0
+[INFO] 2017-12-23 14:08:22,332 get url from mongo before
+[INFO] 2017-12-23 14:08:22,552 get url from oracle after count=0
+[INFO] 2017-12-23 14:09:22,565 get url from mongo before
+[INFO] 2017-12-23 14:09:22,806 get url from oracle after count=0
+[INFO] 2017-12-23 14:10:22,845 get url from mongo before
+[INFO] 2017-12-23 14:10:23,078 get url from oracle after count=0
+[INFO] 2017-12-23 14:11:23,094 get url from mongo before
+[INFO] 2017-12-23 14:11:23,342 get url from oracle after count=0
+[INFO] 2017-12-23 14:12:23,357 get url from mongo before
+[INFO] 2017-12-23 14:12:23,607 get url from oracle after count=0
+[INFO] 2017-12-23 14:13:23,621 get url from mongo before
+[INFO] 2017-12-23 14:13:23,908 get url from oracle after count=0
+[INFO] 2017-12-23 14:14:23,944 get url from mongo before
+[INFO] 2017-12-23 14:14:24,148 get url from oracle after count=0
+[INFO] 2017-12-23 14:15:24,148 get url from mongo before
+[INFO] 2017-12-23 14:15:24,476 get url from oracle after count=0
+[INFO] 2017-12-23 14:15:35,323 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=4
+[INFO] 2017-12-23 14:16:02,388 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_45 125.39.72.110
+requests: support
+[INFO] 2017-12-23 14:16:24,476 get url from mongo before
+[INFO] 2017-12-23 14:16:24,710 get url from oracle after count=0
+[INFO] 2017-12-23 14:17:24,729 get url from mongo before
+[INFO] 2017-12-23 14:17:24,953 get url from oracle after count=0
+[INFO] 2017-12-23 14:18:04,892 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=改装专用 catpid=1294424811 catpname=轿车 count=9
+[INFO] 2017-12-23 14:18:24,964 get url from mongo before
+[INFO] 2017-12-23 14:18:25,193 get url from oracle after count=0
+[INFO] 2017-12-23 14:18:40,009 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=空气悬挂分配阀 catpid=1294424811 catpname=轿车 count=6
+[INFO] 2017-12-23 14:19:10,694 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=其他 catpid=1294424811 catpname=轿车 count=0
+[INFO] 2017-12-23 14:19:25,211 get url from mongo before
+[INFO] 2017-12-23 14:19:25,473 get url from oracle after count=0
+[INFO] 2017-12-23 14:20:25,499 get url from mongo before
+[INFO] 2017-12-23 14:20:25,776 get url from oracle after count=0
+[INFO] 2017-12-23 14:21:25,796 get url from mongo before
+[INFO] 2017-12-23 14:21:26,016 get url from oracle after count=0
+[INFO] 2017-12-23 14:22:26,401 get url from mongo before
+[INFO] 2017-12-23 14:22:26,638 get url from oracle after count=0
+[INFO] 2017-12-23 14:23:26,650 get url from mongo before
+[INFO] 2017-12-23 14:23:26,871 get url from oracle after count=0
+[INFO] 2017-12-23 14:29:06,835 get url from mongo before
+[INFO] 2017-12-23 14:29:07,124 get url from oracle after count=0
+[INFO] 2017-12-23 14:29:29,230 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=工业 count=148
+[INFO] 2017-12-23 14:30:07,135 get url from mongo before
+[INFO] 2017-12-23 14:30:07,476 get url from oracle after count=0
+[INFO] 2017-12-23 14:31:07,493 get url from mongo before
+[INFO] 2017-12-23 14:31:07,711 get url from oracle after count=0
+[INFO] 2017-12-23 14:31:24,158 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=单囊式空气弹簧 catpid=1294424817 catpname=工业 count=42
+[INFO] 2017-12-23 14:32:07,729 get url from mongo before
+[INFO] 2017-12-23 14:32:07,946 get url from oracle after count=0
+[INFO] 2017-12-23 14:33:07,960 get url from mongo before
+[INFO] 2017-12-23 14:33:08,243 get url from oracle after count=0
+[INFO] 2017-12-23 14:34:08,256 get url from mongo before
+[INFO] 2017-12-23 14:34:08,482 get url from oracle after count=0
+[INFO] 2017-12-23 14:34:35,743 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=双囊式空气弹簧 catpid=1294424817 catpname=工业 count=76
+[INFO] 2017-12-23 14:35:08,496 get url from mongo before
+[INFO] 2017-12-23 14:35:08,756 get url from oracle after count=0
+[INFO] 2017-12-23 14:35:23,645 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=三囊式空气弹簧 catpid=1294424817 catpname=工业 count=19
+[INFO] 2017-12-23 14:35:53,615 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=四囊式空气弹簧 catpid=1294424817 catpname=工业 count=4
+[INFO] 2017-12-23 14:36:08,767 get url from mongo before
+[INFO] 2017-12-23 14:36:09,006 get url from oracle after count=0
+[INFO] 2017-12-23 14:36:23,338 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=五囊式空气弹簧 catpid=1294424817 catpname=工业 count=1
+[INFO] 2017-12-23 14:37:09,025 get url from mongo before
+[INFO] 2017-12-23 14:37:09,250 get url from oracle after count=0
+[INFO] 2017-12-23 14:37:13,322 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=气动元件 catpid=1294424817 catpname=工业 count=6
+[ERROR] 2017-12-23 14:37:25,058 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="1294424821">...</li> is not clickable at point (1780, 894). Other element would receive the click: <div>...</div>
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 14:38:09,272 get url from mongo before
+[INFO] 2017-12-23 14:38:09,601 get url from oracle after count=0
+[INFO] 2017-12-23 14:39:09,624 get url from mongo before
+[INFO] 2017-12-23 14:39:09,858 get url from oracle after count=0
+[INFO] 2017-12-23 14:40:09,869 get url from mongo before
+[INFO] 2017-12-23 14:40:10,089 get url from oracle after count=0
+[INFO] 2017-12-23 14:41:10,105 get url from mongo before
+[INFO] 2017-12-23 14:41:10,368 get url from oracle after count=0
+[INFO] 2017-12-23 14:42:10,381 get url from mongo before
+[INFO] 2017-12-23 14:42:10,766 get url from oracle after count=0
+[INFO] 2017-12-23 14:43:10,790 get url from mongo before
+[INFO] 2017-12-23 14:43:11,201 get url from oracle after count=0
+[INFO] 2017-12-23 14:44:11,203 get url from mongo before
+[INFO] 2017-12-23 14:44:11,438 get url from oracle after count=0
+[INFO] 2017-12-23 14:45:11,457 get url from mongo before
+[INFO] 2017-12-23 14:45:11,671 get url from oracle after count=0
+[INFO] 2017-12-23 14:46:11,687 get url from mongo before
+[INFO] 2017-12-23 14:46:11,994 get url from oracle after count=0
+[INFO] 2017-12-23 14:47:12,012 get url from mongo before
+[INFO] 2017-12-23 14:47:12,240 get url from oracle after count=0
+[INFO] 2017-12-23 14:47:25,066 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=4 second_index=6
+[WARNING] 2017-12-23 14:47:27,351 browser quit error:[Error 5] 
+[INFO] 2017-12-23 14:48:03,907 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_22 111.161.24.24
+requests: support
+[INFO] 2017-12-23 14:48:12,260 get url from mongo before
+[INFO] 2017-12-23 14:48:12,667 get url from oracle after count=0
+[INFO] 2017-12-23 14:49:12,678 get url from mongo before
+[INFO] 2017-12-23 14:49:12,921 get url from oracle after count=0
+[INFO] 2017-12-23 14:49:17,546 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=其他 catpid=1294424817 catpname=工业 count=0
+[INFO] 2017-12-23 14:49:29,170 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424822 catname=其他 count=0
+[INFO] 2017-12-23 14:49:29,963 insert records succeed url=http://shop109338666.taobao.com memberid=109338666 category_count=0 page_count=660
+[INFO] 2017-12-23 14:49:30,053 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=0 second_index=-1
+[WARNING] 2017-12-23 14:49:32,596 browser quit error:[Error 5] 
+[INFO] 2017-12-23 14:50:03,279 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_41 125.39.72.106
+requests: support
+[INFO] 2017-12-23 14:50:12,921 get url from mongo before
+[INFO] 2017-12-23 14:50:13,183 get url from oracle after count=0
+[INFO] 2017-12-23 14:51:12,608 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=客车 count=27
+[INFO] 2017-12-23 14:51:13,197 get url from mongo before
+[INFO] 2017-12-23 14:51:13,400 get url from oracle after count=0
+[INFO] 2017-12-23 14:52:06,134 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=气囊 catpid=1294424801 catpname=客车 count=25
+[INFO] 2017-12-23 14:52:13,411 get url from mongo before
+[INFO] 2017-12-23 14:52:13,651 get url from oracle after count=0
+[INFO] 2017-12-23 14:52:31,690 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=盖板 catpid=1294424801 catpname=客车 count=1
+[INFO] 2017-12-23 14:52:47,778 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=底座 catpid=1294424801 catpname=客车 count=1
+[ERROR] 2017-12-23 14:53:00,227 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 14:53:13,667 get url from mongo before
+[INFO] 2017-12-23 14:53:13,867 get url from oracle after count=0
+[INFO] 2017-12-23 14:54:13,904 get url from mongo before
+[INFO] 2017-12-23 14:54:14,134 get url from oracle after count=0
+[INFO] 2017-12-23 14:55:14,134 get url from mongo before
+[INFO] 2017-12-23 14:55:14,352 get url from oracle after count=0
+[INFO] 2017-12-23 14:56:14,368 get url from mongo before
+[INFO] 2017-12-23 14:56:14,572 get url from oracle after count=0
+[INFO] 2017-12-23 14:57:14,592 get url from mongo before
+[INFO] 2017-12-23 14:57:14,825 get url from oracle after count=0
+[INFO] 2017-12-23 14:58:14,842 get url from mongo before
+[INFO] 2017-12-23 14:58:15,319 get url from oracle after count=0
+[INFO] 2017-12-23 14:59:15,332 get url from mongo before
+[INFO] 2017-12-23 14:59:15,542 get url from oracle after count=0
+[INFO] 2017-12-23 15:00:15,552 get url from mongo before
+[INFO] 2017-12-23 15:00:15,790 get url from oracle after count=0
+[INFO] 2017-12-23 15:01:15,806 get url from mongo before
+[INFO] 2017-12-23 15:01:16,076 get url from oracle after count=0
+[INFO] 2017-12-23 15:02:16,094 get url from mongo before
+[INFO] 2017-12-23 15:02:16,332 get url from oracle after count=0
+[INFO] 2017-12-23 15:03:00,239 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=1 second_index=3
+[WARNING] 2017-12-23 15:03:02,336 browser quit error:[Error 5] 
+[INFO] 2017-12-23 15:03:16,355 get url from mongo before
+[INFO] 2017-12-23 15:03:16,569 get url from oracle after count=0
+[INFO] 2017-12-23 15:03:21,276 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_48 60.28.110.114
+requests: support
+[INFO] 2017-12-23 15:04:16,569 get url from mongo before
+[INFO] 2017-12-23 15:04:16,960 get url from oracle after count=0
+[INFO] 2017-12-23 15:04:27,846 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=其他 catpid=1294424801 catpname=客车 count=0
+[INFO] 2017-12-23 15:05:16,976 get url from mongo before
+[INFO] 2017-12-23 15:05:17,246 get url from oracle after count=0
+[INFO] 2017-12-23 15:06:17,263 get url from mongo before
+[INFO] 2017-12-23 15:06:17,486 get url from oracle after count=0
+[INFO] 2017-12-23 15:06:23,188 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=卡车 count=71
+[ERROR] 2017-12-23 15:06:34,499 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 15:07:17,496 get url from mongo before
+[INFO] 2017-12-23 15:07:17,749 get url from oracle after count=0
+[INFO] 2017-12-23 15:08:17,757 get url from mongo before
+[INFO] 2017-12-23 15:08:17,884 get url from oracle after count=0
+[INFO] 2017-12-23 15:09:17,901 get url from mongo before
+[INFO] 2017-12-23 15:09:18,237 get url from oracle after count=0
+[INFO] 2017-12-23 15:10:18,252 get url from mongo before
+[INFO] 2017-12-23 15:10:18,448 get url from oracle after count=0
+[INFO] 2017-12-23 15:11:18,463 get url from mongo before
+[INFO] 2017-12-23 15:11:18,818 get url from oracle after count=0
+[INFO] 2017-12-23 15:12:18,835 get url from mongo before
+[INFO] 2017-12-23 15:12:19,051 get url from oracle after count=0
+[INFO] 2017-12-23 15:13:19,052 get url from mongo before
+[INFO] 2017-12-23 15:13:19,282 get url from oracle after count=0
+[INFO] 2017-12-23 15:14:19,299 get url from mongo before
+[INFO] 2017-12-23 15:14:19,509 get url from oracle after count=0
+[INFO] 2017-12-23 15:15:19,530 get url from mongo before
+[INFO] 2017-12-23 15:15:19,790 get url from oracle after count=0
+[INFO] 2017-12-23 15:16:19,809 get url from mongo before
+[INFO] 2017-12-23 15:16:20,069 get url from oracle after count=0
+[INFO] 2017-12-23 15:16:34,506 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=2 second_index=0
+[WARNING] 2017-12-23 15:16:37,193 browser quit error:[Error 5] 
+[INFO] 2017-12-23 15:16:56,615 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_38 111.161.24.40
+requests: support
+[INFO] 2017-12-23 15:17:20,088 get url from mongo before
+[INFO] 2017-12-23 15:17:20,359 get url from oracle after count=0
+[INFO] 2017-12-23 15:18:20,378 get url from mongo before
+[INFO] 2017-12-23 15:18:20,584 get url from oracle after count=0
+[INFO] 2017-12-23 15:18:31,433 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=驾驶室气囊 catpid=1294424805 catpname=卡车 count=30
+[INFO] 2017-12-23 15:18:54,354 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=座椅气囊 catpid=1294424805 catpname=卡车 count=3
+[INFO] 2017-12-23 15:19:20,595 get url from mongo before
+[INFO] 2017-12-23 15:19:20,846 get url from oracle after count=0
+[INFO] 2017-12-23 15:20:16,538 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=浮动桥承载气囊 catpid=1294424805 catpname=卡车 count=31
+[INFO] 2017-12-23 15:20:20,875 get url from mongo before
+[INFO] 2017-12-23 15:20:21,102 get url from oracle after count=0
+[ERROR] 2017-12-23 15:20:30,016 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 15:21:21,122 get url from mongo before
+[INFO] 2017-12-23 15:21:21,335 get url from oracle after count=0
+[INFO] 2017-12-23 15:22:21,358 get url from mongo before
+[INFO] 2017-12-23 15:22:21,598 get url from oracle after count=0
+[INFO] 2017-12-23 15:23:21,654 get url from mongo before
+[INFO] 2017-12-23 15:23:21,871 get url from oracle after count=0
+[INFO] 2017-12-23 15:24:21,871 get url from mongo before
+[INFO] 2017-12-23 15:24:22,342 get url from oracle after count=0
+[INFO] 2017-12-23 15:25:22,345 get url from mongo before
+[INFO] 2017-12-23 15:25:22,668 get url from oracle after count=0
+[INFO] 2017-12-23 15:26:22,701 get url from mongo before
+[INFO] 2017-12-23 15:26:22,927 get url from oracle after count=0
+[INFO] 2017-12-23 15:27:22,947 get url from mongo before
+[INFO] 2017-12-23 15:27:23,141 get url from oracle after count=0
+[INFO] 2017-12-23 15:28:23,141 get url from mongo before
+[INFO] 2017-12-23 15:28:23,369 get url from oracle after count=0
+[INFO] 2017-12-23 15:33:45,322 get url from mongo before
+[INFO] 2017-12-23 15:33:45,546 get url from oracle after count=0
+[INFO] 2017-12-23 15:34:45,563 get url from mongo before
+[INFO] 2017-12-23 15:34:45,868 get url from oracle after count=0
+[INFO] 2017-12-23 15:34:51,970 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=2 second_index=3
+[WARNING] 2017-12-23 15:35:02,167 browser quit error:[Error 5] 
+[INFO] 2017-12-23 15:35:28,724 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_40 125.39.0.170
+requests: support
+[INFO] 2017-12-23 15:35:45,881 get url from mongo before
+[INFO] 2017-12-23 15:35:46,112 get url from oracle after count=0
+[INFO] 2017-12-23 15:36:32,934 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=浮动桥提升气囊 catpid=1294424805 catpname=卡车 count=5
+[INFO] 2017-12-23 15:36:46,128 get url from mongo before
+[INFO] 2017-12-23 15:36:46,394 get url from oracle after count=0
+[INFO] 2017-12-23 15:37:16,111 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=改装专用气囊 catpid=1294424805 catpname=卡车 count=3
+[INFO] 2017-12-23 15:37:30,966 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=电磁阀 catpid=1294424805 catpname=卡车 count=0
+[INFO] 2017-12-23 15:37:46,423 get url from mongo before
+[INFO] 2017-12-23 15:37:46,671 get url from oracle after count=0
+[INFO] 2017-12-23 15:37:48,509 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=其他 catpid=1294424805 catpname=卡车 count=0
+[ERROR] 2017-12-23 15:38:12,463 something error! Message: unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 15:38:46,681 get url from mongo before
+[INFO] 2017-12-23 15:38:46,950 get url from oracle after count=0
+[INFO] 2017-12-23 15:39:46,966 get url from mongo before
+[INFO] 2017-12-23 15:39:47,207 get url from oracle after count=0
+[INFO] 2017-12-23 15:40:47,220 get url from mongo before
+[INFO] 2017-12-23 15:40:47,428 get url from oracle after count=0
+[INFO] 2017-12-23 15:41:47,447 get url from mongo before
+[INFO] 2017-12-23 15:41:47,687 get url from oracle after count=0
+[INFO] 2017-12-23 15:42:47,697 get url from mongo before
+[INFO] 2017-12-23 15:42:47,917 get url from oracle after count=0
+[INFO] 2017-12-23 15:43:47,930 get url from mongo before
+[INFO] 2017-12-23 15:43:48,181 get url from oracle after count=0
+[INFO] 2017-12-23 15:44:48,200 get url from mongo before
+[INFO] 2017-12-23 15:44:48,414 get url from oracle after count=0
+[INFO] 2017-12-23 15:45:48,440 get url from mongo before
+[INFO] 2017-12-23 15:45:48,665 get url from oracle after count=0
+[INFO] 2017-12-23 15:46:48,665 get url from mongo before
+[INFO] 2017-12-23 15:46:48,897 get url from oracle after count=0
+[INFO] 2017-12-23 15:47:48,911 get url from mongo before
+[INFO] 2017-12-23 15:47:49,345 get url from oracle after count=0
+[INFO] 2017-12-23 15:48:12,476 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=-1
+[WARNING] 2017-12-23 15:48:15,263 browser quit error:[Error 5] 
+[INFO] 2017-12-23 15:48:49,348 get url from mongo before
+[INFO] 2017-12-23 15:48:49,621 get url from oracle after count=0
+[ERROR] 2017-12-23 15:48:55,977 something error! Message: unknown error: failed to wait for extension background page to load: chrome-extension://pmmglaeioboffnhdgdglmcfjlfjddnbg/_generated_background_page.html
+from timeout
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 15:49:49,657 get url from mongo before
+[INFO] 2017-12-23 15:49:49,766 get url from oracle after count=0
+[INFO] 2017-12-23 15:50:49,766 get url from mongo before
+[INFO] 2017-12-23 15:50:49,990 get url from oracle after count=0
+[INFO] 2017-12-23 15:51:50,006 get url from mongo before
+[INFO] 2017-12-23 15:51:50,267 get url from oracle after count=0
+[INFO] 2017-12-23 15:52:50,286 get url from mongo before
+[INFO] 2017-12-23 15:52:50,490 get url from oracle after count=0
+[INFO] 2017-12-23 15:53:50,519 get url from mongo before
+[INFO] 2017-12-23 15:53:50,729 get url from oracle after count=0
+[INFO] 2017-12-23 15:54:50,739 get url from mongo before
+[INFO] 2017-12-23 15:54:50,996 get url from oracle after count=0
+[INFO] 2017-12-23 15:55:51,022 get url from mongo before
+[INFO] 2017-12-23 15:55:51,243 get url from oracle after count=0
+[INFO] 2017-12-23 15:56:51,265 get url from mongo before
+[INFO] 2017-12-23 15:56:51,483 get url from oracle after count=0
+[INFO] 2017-12-23 15:57:51,503 get url from mongo before
+[INFO] 2017-12-23 15:57:51,720 get url from oracle after count=0
+[INFO] 2017-12-23 15:58:51,729 get url from mongo before
+[INFO] 2017-12-23 15:58:51,938 get url from oracle after count=0
+[INFO] 2017-12-23 15:58:55,986 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=-1
+[INFO] 2017-12-23 15:59:15,369 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_13 125.39.0.143
+requests: support
+[INFO] 2017-12-23 15:59:51,961 get url from mongo before
+[INFO] 2017-12-23 15:59:52,193 get url from oracle after count=0
+[INFO] 2017-12-23 16:00:52,207 get url from mongo before
+[INFO] 2017-12-23 16:00:52,459 get url from oracle after count=0
+[INFO] 2017-12-23 16:01:52,476 get url from mongo before
+[INFO] 2017-12-23 16:01:52,701 get url from oracle after count=0
+[INFO] 2017-12-23 16:02:50,585 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=轿车 count=77
+[INFO] 2017-12-23 16:02:52,713 get url from mongo before
+[INFO] 2017-12-23 16:02:52,875 get url from oracle after count=0
+[INFO] 2017-12-23 16:03:20,707 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname= catpid=1294424811 catpname=轿车 count=20
+[INFO] 2017-12-23 16:03:52,884 get url from mongo before
+[INFO] 2017-12-23 16:03:53,275 get url from oracle after count=0
+[ERROR] 2017-12-23 16:04:42,499 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 16:04:53,306 get url from mongo before
+[INFO] 2017-12-23 16:04:53,572 get url from oracle after count=1
+[INFO] 2017-12-23 16:04:53,707 before url=http://shop69729652.taobao.com
+[INFO] 2017-12-23 16:04:53,788 Starting new HTTP connection (1): shop69729652.taobao.com
+[INFO] 2017-12-23 16:04:56,523 Starting new HTTPS connection (1): shop69729652.taobao.com
+[INFO] 2017-12-23 16:04:57,200 insert new website url=http://shop69729652.taobao.com memberid=69729652
+[INFO] 2017-12-23 16:04:57,267 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-23 16:04:57,378 get url from mongo before
+[INFO] 2017-12-23 16:04:57,648 get url from oracle after count=1
+[INFO] 2017-12-23 16:14:42,523 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[WARNING] 2017-12-23 16:16:03,710 browser quit error:[Error 5] 
+[ERROR] 2017-12-23 16:18:16,865 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 16:28:16,867 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[INFO] 2017-12-23 16:29:23,059 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_21 125.39.149.23
+requests: support
+[ERROR] 2017-12-23 16:46:34,107 something error! Message: timeout
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 16:56:34,131 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[WARNING] 2017-12-23 16:58:01,806 browser quit error:[Error 5] 
+[ERROR] 2017-12-23 17:00:32,687 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 17:10:32,717 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 17:11:51,803 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 17:21:51,838 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 17:22:02,513 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-23 17:32:02,535 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 17:34:10,780 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 17:51:57,815 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 17:53:38,114 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 18:03:38,154 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 18:05:22,546 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 18:15:24,930 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 18:16:42,802 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 18:26:42,838 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 18:28:04,973 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 18:38:04,999 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 18:39:31,197 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 18:49:31,226 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 18:51:15,131 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 19:09:21,019 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 19:11:29,486 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 19:21:29,505 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 19:24:34,115 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 19:34:34,130 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 19:36:41,622 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 19:46:41,647 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 19:48:08,073 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 19:58:08,092 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 19:59:48,559 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 20:17:06,822 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 20:18:35,838 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 20:28:35,865 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 20:28:47,131 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-23 20:38:47,151 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 20:40:49,503 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 20:50:49,530 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 20:51:09,016 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-23 21:01:09,043 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 21:03:00,632 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 21:20:06,690 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 21:24:11,563 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 21:34:11,576 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 21:36:39,526 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 21:46:39,549 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 21:52:28,062 something error! Message: unknown error: failed to wait for extension background page to load: chrome-extension://iopnbekcoiifhnkmhfdbahcbbdpckcme/_generated_background_page.html
+from timeout
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 22:02:28,089 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 22:04:46,289 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 22:14:46,318 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 22:16:24,196 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 22:33:27,427 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 22:35:57,453 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 22:45:57,473 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 22:47:19,196 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 22:57:19,224 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 22:58:54,263 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 23:08:54,299 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 23:09:09,924 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-23 23:19:09,990 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 23:20:30,628 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 23:37:52,311 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 23:43:08,885 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-23 23:53:08,921 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-23 23:54:21,631 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+

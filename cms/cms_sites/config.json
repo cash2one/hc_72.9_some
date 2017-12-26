@@ -1,0 +1,11 @@
+{
+	"webui" : {
+		"username" : "root",
+		"password" : "1qaz2wsx3cde",
+		"need-auth" : true,
+		"port" : 8080 
+	},
+        "result_worker" :{
+                "result_cls" : "pipelines.CmscrawlPipeline"
+        }
+}

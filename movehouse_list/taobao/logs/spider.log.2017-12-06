@@ -1,0 +1,1278 @@
+[WARNING] 2017-12-06 00:05:31,529 browser quit error:[Error 5] 
+[INFO] 2017-12-06 00:05:38,744 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_31 111.161.24.33
+requests: support
+[ERROR] 2017-12-06 00:06:14,931 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 00:18:35,736 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 00:18:39,165 browser quit error:[Error 5] 
+[INFO] 2017-12-06 00:18:46,085 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_5 125.39.72.16
+requests: support
+[ERROR] 2017-12-06 00:19:15,496 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 00:29:15,532 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 00:29:22,641 browser quit error:[Error 5] 
+[INFO] 2017-12-06 00:29:29,953 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_0 111.161.24.2
+requests: support
+[ERROR] 2017-12-06 00:30:09,096 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 00:40:09,111 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 00:40:14,288 browser quit error:[Error 5] 
+[INFO] 2017-12-06 00:40:21,785 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_16 60.28.110.82
+requests: support
+[ERROR] 2017-12-06 00:41:05,369 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 00:51:05,390 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 00:51:11,519 browser quit error:[Error 5] 
+[INFO] 2017-12-06 00:51:17,815 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_40 60.28.110.106
+requests: support
+[ERROR] 2017-12-06 00:51:58,871 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 01:01:58,890 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 01:02:02,691 browser quit error:[Error 5] 
+[INFO] 2017-12-06 01:02:12,053 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_22 125.39.149.24
+requests: support
+[ERROR] 2017-12-06 01:02:47,959 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 01:12:47,982 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 01:12:51,318 browser quit error:[Error 5] 
+[INFO] 2017-12-06 01:12:58,670 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_53 125.39.72.64
+requests: support
+[ERROR] 2017-12-06 01:16:08,463 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 01:26:08,484 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 01:26:11,236 browser quit error:[Error 5] 
+[INFO] 2017-12-06 01:26:18,048 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_33 125.39.72.44
+requests: support
+[ERROR] 2017-12-06 01:26:45,282 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 01:36:45,299 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 01:36:48,805 browser quit error:[Error 5] 
+[INFO] 2017-12-06 01:36:57,844 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_11 125.39.149.13
+requests: support
+[ERROR] 2017-12-06 01:37:37,960 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 01:47:37,974 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 01:47:40,323 browser quit error:[Error 5] 
+[INFO] 2017-12-06 01:47:46,591 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_17 60.28.11.211
+requests: support
+[ERROR] 2017-12-06 01:48:16,532 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 01:58:16,551 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 01:58:20,130 browser quit error:[Error 5] 
+[INFO] 2017-12-06 01:58:27,734 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_37 60.28.11.231
+requests: support
+[ERROR] 2017-12-06 01:59:08,283 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 02:09:08,322 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 02:09:12,336 browser quit error:[Error 5] 
+[INFO] 2017-12-06 02:09:20,305 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_0 60.28.110.66
+requests: support
+[ERROR] 2017-12-06 02:09:58,680 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 02:22:22,704 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 02:22:27,963 browser quit error:[Error 5] 
+[INFO] 2017-12-06 02:22:35,230 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_50 125.39.0.180
+requests: support
+[ERROR] 2017-12-06 02:23:18,703 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 02:33:18,724 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 02:33:23,257 browser quit error:[Error 5] 
+[INFO] 2017-12-06 02:33:30,188 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_34 60.28.11.228
+requests: support
+[ERROR] 2017-12-06 02:34:14,723 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 02:44:14,736 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 02:44:18,464 browser quit error:[Error 5] 
+[INFO] 2017-12-06 02:44:26,674 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_52 125.39.0.182
+requests: support
+[ERROR] 2017-12-06 02:45:09,628 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 02:55:09,648 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 02:55:12,457 browser quit error:[Error 5] 
+[INFO] 2017-12-06 02:55:20,753 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_24 111.161.24.26
+requests: support
+[ERROR] 2017-12-06 02:55:51,147 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 03:05:51,174 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 03:05:55,266 browser quit error:[Error 5] 
+[INFO] 2017-12-06 03:06:03,417 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_37 125.39.149.39
+requests: support
+[ERROR] 2017-12-06 03:06:44,391 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 03:16:44,408 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 03:16:48,821 browser quit error:[Error 5] 
+[INFO] 2017-12-06 03:16:57,209 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_20 60.28.110.86
+requests: support
+[ERROR] 2017-12-06 03:17:37,680 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="u33dc98" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 03:30:10,986 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 03:30:14,441 browser quit error:[Error 5] 
+[INFO] 2017-12-06 03:30:20,844 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_28 60.28.11.222
+requests: support
+[ERROR] 2017-12-06 03:31:01,283 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 03:41:01,299 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 03:41:05,443 browser quit error:[Error 5] 
+[INFO] 2017-12-06 03:41:13,500 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_27 125.39.72.92
+requests: support
+[ERROR] 2017-12-06 03:42:14,846 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="i8a6526" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 03:52:14,871 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 03:52:18,184 browser quit error:[Error 5] 
+[INFO] 2017-12-06 03:52:24,351 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_42 125.39.149.44
+requests: support
+[ERROR] 2017-12-06 03:53:00,510 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="v3129d6" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 04:03:00,523 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 04:03:02,736 browser quit error:[Error 5] 
+[INFO] 2017-12-06 04:03:09,163 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_12 125.39.149.14
+requests: support
+[ERROR] 2017-12-06 04:03:36,210 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 04:13:36,224 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 04:13:38,611 browser quit error:[Error 5] 
+[INFO] 2017-12-06 04:13:44,693 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_38 125.39.72.103
+requests: support
+[ERROR] 2017-12-06 04:14:11,615 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 04:26:40,404 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 04:26:44,536 browser quit error:[Error 5] 
+[INFO] 2017-12-06 04:26:52,315 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_3 125.39.149.5
+requests: support
+[ERROR] 2017-12-06 04:27:33,042 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 04:37:33,065 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 04:37:35,220 browser quit error:[Error 5] 
+[INFO] 2017-12-06 04:37:42,186 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_22 111.161.24.24
+requests: support
+[ERROR] 2017-12-06 04:38:09,473 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 04:48:09,489 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 04:48:14,269 browser quit error:[Error 5] 
+[INFO] 2017-12-06 04:48:22,746 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_18 125.39.72.83
+requests: support
+[ERROR] 2017-12-06 04:49:01,467 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 04:59:01,484 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 04:59:05,213 browser quit error:[Error 5] 
+[INFO] 2017-12-06 04:59:11,736 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_13 125.39.149.15
+requests: support
+[ERROR] 2017-12-06 04:59:51,398 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 05:09:51,415 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 05:09:55,854 browser quit error:[Error 5] 
+[INFO] 2017-12-06 05:10:03,980 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_9 125.39.0.139
+requests: support
+[ERROR] 2017-12-06 05:10:43,506 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 05:20:43,523 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 05:20:45,838 browser quit error:[Error 5] 
+[INFO] 2017-12-06 05:20:52,908 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_48 125.39.0.178
+requests: support
+[ERROR] 2017-12-06 05:21:27,332 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 05:33:58,201 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 05:34:02,763 browser quit error:[Error 5] 
+[INFO] 2017-12-06 05:34:12,759 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_39 60.28.110.105
+requests: support
+[ERROR] 2017-12-06 05:34:50,068 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 05:44:50,082 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 05:44:52,683 browser quit error:[Error 5] 
+[INFO] 2017-12-06 05:45:01,339 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_40 125.39.0.170
+requests: support
+[ERROR] 2017-12-06 05:45:33,194 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 05:55:33,210 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 05:55:37,227 browser quit error:[Error 5] 
+[INFO] 2017-12-06 05:55:44,815 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_48 125.39.0.178
+requests: support
+[ERROR] 2017-12-06 05:56:24,801 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 06:06:24,813 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 06:06:29,065 browser quit error:[Error 5] 
+[INFO] 2017-12-06 06:06:36,375 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_53 111.161.24.55
+requests: support
+[ERROR] 2017-12-06 06:07:16,165 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 06:17:16,180 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 06:17:20,361 browser quit error:[Error 5] 
+[INFO] 2017-12-06 06:17:27,420 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_47 60.28.11.241
+requests: support
+[ERROR] 2017-12-06 06:18:07,165 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 06:30:34,200 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 06:30:40,315 browser quit error:[Error 5] 
+[INFO] 2017-12-06 06:30:50,897 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_6 125.39.72.71
+requests: support
+[ERROR] 2017-12-06 06:31:27,967 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 06:41:27,986 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 06:41:30,213 browser quit error:[Error 5] 
+[INFO] 2017-12-06 06:41:37,342 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_54 60.28.110.120
+requests: support
+[ERROR] 2017-12-06 06:42:23,385 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 06:52:23,398 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 06:52:27,927 browser quit error:[Error 5] 
+[INFO] 2017-12-06 06:52:37,637 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_43 125.39.72.54
+requests: support
+[ERROR] 2017-12-06 06:53:17,671 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 07:03:17,691 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 07:03:20,999 browser quit error:[Error 5] 
+[INFO] 2017-12-06 07:03:26,943 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_55 125.39.0.185
+requests: support
+[ERROR] 2017-12-06 07:03:57,739 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 07:13:57,756 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 07:14:00,079 browser quit error:[Error 5] 
+[INFO] 2017-12-06 07:14:06,270 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_36 125.39.72.101
+requests: support
+[ERROR] 2017-12-06 07:14:37,592 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 07:24:37,605 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 07:24:41,322 browser quit error:[Error 5] 
+[INFO] 2017-12-06 07:24:50,532 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_7 125.39.72.72
+requests: support
+[ERROR] 2017-12-06 07:25:29,217 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 07:37:53,707 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 07:37:56,359 browser quit error:[Error 5] 
+[INFO] 2017-12-06 07:38:04,134 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_22 125.39.0.152
+requests: support
+[ERROR] 2017-12-06 07:38:31,086 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 07:48:31,108 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 07:48:36,424 browser quit error:[Error 5] 
+[INFO] 2017-12-06 07:48:44,700 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_35 125.39.149.37
+requests: support
+[ERROR] 2017-12-06 07:49:22,782 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="t3850ea" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 07:59:22,796 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 07:59:26,342 browser quit error:[Error 5] 
+[INFO] 2017-12-06 07:59:33,056 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_49 125.39.149.51
+requests: support
+[ERROR] 2017-12-06 08:00:39,625 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 08:10:39,653 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 08:10:42,835 browser quit error:[Error 5] 
+[INFO] 2017-12-06 08:10:49,769 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_2 125.39.72.13
+requests: support
+[ERROR] 2017-12-06 08:11:28,782 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="o8afe2e" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 08:21:28,815 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 08:21:32,426 browser quit error:[Error 5] 
+[INFO] 2017-12-06 08:21:41,641 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_14 60.28.110.80
+requests: support
+[ERROR] 2017-12-06 08:22:12,362 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 08:34:30,246 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 08:34:34,142 browser quit error:[Error 5] 
+[INFO] 2017-12-06 08:34:42,164 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_36 125.39.149.38
+requests: support
+[ERROR] 2017-12-06 08:35:19,081 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 08:45:19,101 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 08:45:25,601 browser quit error:[Error 5] 
+[INFO] 2017-12-06 08:45:32,298 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_23 125.39.0.153
+requests: support
+[ERROR] 2017-12-06 08:46:10,082 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 08:56:10,105 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 08:56:14,176 browser quit error:[Error 5] 
+[INFO] 2017-12-06 08:56:21,713 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_39 125.39.72.104
+requests: support
+[ERROR] 2017-12-06 08:57:04,141 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 09:07:04,157 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 09:07:08,664 browser quit error:[Error 5] 
+[INFO] 2017-12-06 09:07:16,270 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_24 125.39.149.26
+requests: support
+[ERROR] 2017-12-06 09:07:56,214 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 09:17:56,233 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 09:17:59,197 browser quit error:[Error 5] 
+[INFO] 2017-12-06 09:18:07,233 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_42 125.39.149.44
+requests: support
+[ERROR] 2017-12-06 09:18:45,813 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 09:28:45,845 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 09:28:50,407 browser quit error:[Error 5] 
+[INFO] 2017-12-06 09:28:57,707 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_49 60.28.11.243
+requests: support
+[ERROR] 2017-12-06 09:29:42,948 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 09:42:22,900 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 09:42:27,628 browser quit error:[Error 5] 
+[INFO] 2017-12-06 09:42:34,338 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_28 125.39.149.30
+requests: support
+[ERROR] 2017-12-06 09:43:15,957 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="b1fc901" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 09:53:15,974 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 09:53:18,937 browser quit error:[Error 5] 
+[INFO] 2017-12-06 09:53:27,611 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_31 60.28.11.225
+requests: support
+[ERROR] 2017-12-06 09:54:09,266 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 10:04:09,286 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 10:04:13,446 browser quit error:[Error 5] 
+[INFO] 2017-12-06 10:04:21,247 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_27 60.28.110.93
+requests: support
+[ERROR] 2017-12-06 10:05:02,660 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 10:15:02,671 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 10:15:07,470 browser quit error:[Error 5] 
+[INFO] 2017-12-06 10:15:15,122 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_24 125.39.72.35
+requests: support
+[ERROR] 2017-12-06 10:15:56,868 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 10:25:56,895 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 10:26:00,773 browser quit error:[Error 5] 
+[INFO] 2017-12-06 10:26:08,378 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_44 125.39.72.109
+requests: support
+[ERROR] 2017-12-06 10:26:48,505 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 10:39:25,490 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 10:39:30,081 browser quit error:[Error 5] 
+[INFO] 2017-12-06 10:39:38,089 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_20 60.28.110.86
+requests: support
+[ERROR] 2017-12-06 10:40:20,457 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 10:50:20,471 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 10:50:26,351 browser quit error:[Error 5] 
+[INFO] 2017-12-06 10:50:34,007 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_33 111.161.24.35
+requests: support
+[ERROR] 2017-12-06 10:51:16,134 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 11:01:16,157 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 11:01:21,345 browser quit error:[Error 5] 
+[INFO] 2017-12-06 11:01:28,806 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_32 60.28.110.98
+requests: support
+[ERROR] 2017-12-06 11:02:13,164 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 11:12:13,190 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 11:12:14,828 browser quit error:[Error 5] 
+[INFO] 2017-12-06 11:12:22,684 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_48 60.28.110.114
+requests: support
+[ERROR] 2017-12-06 11:13:02,329 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 11:23:02,346 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 11:23:04,611 browser quit error:[Error 5] 
+[INFO] 2017-12-06 11:23:11,299 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_18 125.39.0.148
+requests: support
+[ERROR] 2017-12-06 11:23:46,188 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="w3bf4a7" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 11:33:46,229 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 11:33:48,667 browser quit error:[Error 5] 
+[INFO] 2017-12-06 11:33:56,094 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_14 125.39.149.16
+requests: support
+[ERROR] 2017-12-06 11:34:23,977 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 11:46:45,990 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 11:46:49,384 browser quit error:[Error 5] 
+[INFO] 2017-12-06 11:46:58,164 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_15 125.39.72.80
+requests: support
+[ERROR] 2017-12-06 11:47:39,121 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="a210dcd" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 11:57:39,144 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 11:57:42,230 browser quit error:[Error 5] 
+[INFO] 2017-12-06 11:57:50,786 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_49 111.161.24.51
+requests: support
+[ERROR] 2017-12-06 11:58:20,187 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 12:08:20,207 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 12:08:26,588 browser quit error:[Error 5] 
+[INFO] 2017-12-06 12:08:33,987 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_55 125.39.72.120
+requests: support
+[ERROR] 2017-12-06 12:09:03,068 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 12:19:03,085 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 12:19:06,724 browser quit error:[Error 5] 
+[INFO] 2017-12-06 12:19:13,740 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_40 125.39.72.105
+requests: support
+[ERROR] 2017-12-06 12:20:17,859 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 12:30:17,888 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 12:30:23,361 browser quit error:[Error 5] 
+[INFO] 2017-12-06 12:30:31,160 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_31 125.39.72.96
+requests: support
+[ERROR] 2017-12-06 12:31:18,049 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 12:44:25,915 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 12:44:29,663 browser quit error:[Error 5] 
+[INFO] 2017-12-06 12:44:38,680 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_4 125.39.72.69
+requests: support
+[ERROR] 2017-12-06 12:45:16,289 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 12:55:16,302 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 12:55:18,648 browser quit error:[Error 5] 
+[INFO] 2017-12-06 12:55:25,359 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_45 60.28.11.239
+requests: support
+[ERROR] 2017-12-06 12:55:51,829 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 13:05:51,845 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 13:05:54,280 browser quit error:[Error 5] 
+[INFO] 2017-12-06 13:06:01,750 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_22 60.28.110.88
+requests: support
+[ERROR] 2017-12-06 13:06:47,543 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="m438b9" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 13:16:47,596 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 13:16:49,473 browser quit error:[Error 5] 
+[INFO] 2017-12-06 13:16:59,630 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_9 125.39.149.11
+requests: support
+[ERROR] 2017-12-06 13:17:47,229 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 13:27:47,257 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 13:27:51,546 browser quit error:[Error 5] 
+[INFO] 2017-12-06 13:27:58,605 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_26 125.39.149.28
+requests: support
+[ERROR] 2017-12-06 13:28:37,687 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 13:38:37,703 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 13:38:40,674 browser quit error:[Error 5] 
+[INFO] 2017-12-06 13:38:48,473 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_33 60.28.110.99
+requests: support
+[ERROR] 2017-12-06 13:39:31,563 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 13:51:47,661 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 13:51:51,012 browser quit error:[Error 5] 
+[INFO] 2017-12-06 13:51:57,967 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_46 125.39.149.48
+requests: support
+[ERROR] 2017-12-06 13:52:44,319 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 14:02:44,334 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 14:02:47,813 browser quit error:[Error 5] 
+[INFO] 2017-12-06 14:02:55,480 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_4 125.39.72.69
+requests: support
+[ERROR] 2017-12-06 14:03:43,012 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 14:13:43,026 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 14:13:46,433 browser quit error:[Error 5] 
+[INFO] 2017-12-06 14:13:53,252 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_35 60.28.110.101
+requests: support
+[ERROR] 2017-12-06 14:14:29,661 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="o3ed929" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 14:24:29,697 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 14:24:32,621 browser quit error:[Error 5] 
+[INFO] 2017-12-06 14:24:40,352 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_8 125.39.0.138
+requests: support
+[ERROR] 2017-12-06 14:25:20,125 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 14:35:20,157 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 14:35:24,466 browser quit error:[Error 5] 
+[INFO] 2017-12-06 14:35:35,259 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_60 125.39.0.190
+requests: support
+[ERROR] 2017-12-06 14:36:14,608 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 14:48:40,611 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 14:48:43,165 browser quit error:[Error 5] 
+[INFO] 2017-12-06 14:48:50,323 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_33 111.161.24.35
+requests: support
+[ERROR] 2017-12-06 14:49:23,956 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 14:59:23,980 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 14:59:26,829 browser quit error:[Error 5] 
+[INFO] 2017-12-06 14:59:34,293 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_47 125.39.72.58
+requests: support
+[ERROR] 2017-12-06 15:00:11,128 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 15:10:11,141 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 15:10:14,637 browser quit error:[Error 5] 
+[INFO] 2017-12-06 15:10:22,924 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_27 125.39.72.92
+requests: support
+[ERROR] 2017-12-06 15:11:03,078 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 15:21:03,101 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 15:21:06,144 browser quit error:[Error 5] 
+[INFO] 2017-12-06 15:21:14,104 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_53 125.39.72.64
+requests: support
+[ERROR] 2017-12-06 15:21:54,576 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 15:31:54,588 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 15:31:57,375 browser quit error:[Error 5] 
+[INFO] 2017-12-06 15:32:04,980 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_18 60.28.11.212
+requests: support
+[ERROR] 2017-12-06 15:32:45,641 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 15:42:45,665 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 15:42:48,415 browser quit error:[Error 5] 
+[INFO] 2017-12-06 15:42:56,410 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_17 125.39.72.28
+requests: support
+[ERROR] 2017-12-06 15:43:35,289 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 15:56:34,273 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 15:56:36,490 browser quit error:[Error 5] 
+[INFO] 2017-12-06 15:56:43,816 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_45 125.39.72.56
+requests: support
+[ERROR] 2017-12-06 15:57:10,244 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="n33159f" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 16:07:10,263 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 16:07:13,349 browser quit error:[Error 5] 
+[INFO] 2017-12-06 16:07:21,492 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_48 125.39.149.50
+requests: support
+[ERROR] 2017-12-06 16:07:58,072 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 16:17:58,099 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 16:18:01,032 browser quit error:[Error 5] 
+[INFO] 2017-12-06 16:18:08,530 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_49 125.39.149.51
+requests: support
+[ERROR] 2017-12-06 16:18:44,976 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 16:28:44,996 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 16:28:51,292 browser quit error:[Error 5] 
+[INFO] 2017-12-06 16:28:58,947 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_38 125.39.0.168
+requests: support
+[ERROR] 2017-12-06 16:29:39,875 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 16:39:39,901 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 16:39:43,753 browser quit error:[Error 5] 
+[INFO] 2017-12-06 16:39:52,664 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_13 125.39.72.24
+requests: support
+[ERROR] 2017-12-06 16:40:59,934 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 16:51:00,042 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 16:51:02,296 browser quit error:[Error 5] 
+[INFO] 2017-12-06 16:51:10,776 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_54 60.28.11.248
+requests: support
+[ERROR] 2017-12-06 16:53:59,055 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 17:03:59,066 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 17:04:02,437 browser quit error:[Error 5] 
+[INFO] 2017-12-06 17:04:09,674 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_4 60.28.110.70
+requests: support
+[ERROR] 2017-12-06 17:04:51,543 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="f746c8c" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 17:14:51,575 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 17:14:54,818 browser quit error:[Error 5] 
+[INFO] 2017-12-06 17:15:01,516 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_10 125.39.0.140
+requests: support
+[ERROR] 2017-12-06 17:15:38,803 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 17:25:38,831 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 17:25:42,229 browser quit error:[Error 5] 
+[INFO] 2017-12-06 17:25:51,506 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_48 125.39.72.59
+requests: support
+[ERROR] 2017-12-06 17:26:34,045 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 17:36:34,065 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 17:36:37,184 browser quit error:[Error 5] 
+[INFO] 2017-12-06 17:36:46,096 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_54 125.39.72.119
+requests: support
+[ERROR] 2017-12-06 17:37:26,121 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 17:47:26,158 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 17:47:28,956 browser quit error:[Error 5] 
+[INFO] 2017-12-06 17:47:36,096 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_49 125.39.149.51
+requests: support
+[ERROR] 2017-12-06 17:48:17,036 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 18:01:04,914 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 18:01:11,148 browser quit error:[Error 5] 
+[INFO] 2017-12-06 18:01:20,023 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_38 125.39.149.40
+requests: support
+[ERROR] 2017-12-06 18:02:04,869 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 18:12:04,882 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 18:12:09,167 browser quit error:[Error 5] 
+[INFO] 2017-12-06 18:12:16,447 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_12 60.28.11.206
+requests: support
+[ERROR] 2017-12-06 18:13:03,207 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 18:23:03,217 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 18:23:06,209 browser quit error:[Error 5] 
+[INFO] 2017-12-06 18:23:16,342 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_51 60.28.110.117
+requests: support
+[ERROR] 2017-12-06 18:23:42,871 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 18:33:42,901 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 18:33:47,829 browser quit error:[Error 5] 
+[INFO] 2017-12-06 18:33:56,325 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_29 125.39.72.94
+requests: support
+[ERROR] 2017-12-06 18:34:34,980 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 18:44:34,993 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 18:44:39,608 browser quit error:[Error 5] 
+[INFO] 2017-12-06 18:44:46,576 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_42 125.39.0.172
+requests: support
+[ERROR] 2017-12-06 18:45:27,542 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 18:55:27,566 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 18:55:30,549 browser quit error:[Error 5] 
+[INFO] 2017-12-06 18:55:39,236 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_19 125.39.72.30
+requests: support
+[ERROR] 2017-12-06 18:56:08,150 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 19:08:56,976 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 19:09:00,190 browser quit error:[Error 5] 
+[INFO] 2017-12-06 19:09:09,032 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_47 125.39.72.112
+requests: support
+[ERROR] 2017-12-06 19:09:45,023 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 19:19:45,051 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 19:19:49,290 browser quit error:[Error 5] 
+[INFO] 2017-12-06 19:19:59,753 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_33 111.161.24.35
+requests: support
+[ERROR] 2017-12-06 19:20:37,838 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 19:30:37,851 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 19:30:41,986 browser quit error:[Error 5] 
+[INFO] 2017-12-06 19:30:48,953 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_9 60.28.11.203
+requests: support
+[ERROR] 2017-12-06 19:31:27,792 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 19:41:27,809 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 19:41:31,390 browser quit error:[Error 5] 
+[INFO] 2017-12-06 19:41:37,848 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_6 125.39.0.136
+requests: support
+[ERROR] 2017-12-06 19:42:18,378 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 19:52:18,395 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 19:52:22,812 browser quit error:[Error 5] 
+[INFO] 2017-12-06 19:52:29,907 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_41 125.39.72.52
+requests: support
+[ERROR] 2017-12-06 19:53:08,240 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 20:05:46,010 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 20:05:52,328 browser quit error:[Error 5] 
+[INFO] 2017-12-06 20:06:00,187 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_25 60.28.11.219
+requests: support
+[ERROR] 2017-12-06 20:06:35,381 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 20:16:35,405 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 20:16:41,723 browser quit error:[Error 5] 
+[INFO] 2017-12-06 20:16:50,237 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_46 111.161.24.48
+requests: support
+[ERROR] 2017-12-06 20:17:24,845 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 20:27:24,858 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 20:27:27,332 browser quit error:[Error 5] 
+[INFO] 2017-12-06 20:27:33,677 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_1 125.39.0.131
+requests: support
+[ERROR] 2017-12-06 20:28:03,355 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 20:38:03,367 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 20:38:05,819 browser quit error:[Error 5] 
+[INFO] 2017-12-06 20:38:12,203 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_45 60.28.11.239
+requests: support
+[ERROR] 2017-12-06 20:38:40,171 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 20:48:40,213 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 20:48:42,960 browser quit error:[Error 5] 
+[INFO] 2017-12-06 20:48:51,016 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_10 111.161.24.12
+requests: support
+[INFO] 2017-12-06 20:49:12,023 insert records succeed url=http://wuxiweishuo.taobao.com memberid=36244991 category_count=0 page_count=3076
+[INFO] 2017-12-06 20:49:12,036 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=0 second_index=-1
+[WARNING] 2017-12-06 20:49:17,457 browser quit error:[Error 5] 
+[INFO] 2017-12-06 20:49:24,298 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_44 125.39.72.109
+requests: support
+[INFO] 2017-12-06 20:49:47,546 before url=http://wuxiweishuo.taobao.com
+[INFO] 2017-12-06 20:49:47,891 Starting new HTTP connection (1): wuxiweishuo.taobao.com
+[INFO] 2017-12-06 20:50:10,552 Starting new HTTPS connection (1): wuxiweishuo.taobao.com
+[INFO] 2017-12-06 20:50:11,253 insert new website url=http://wuxiweishuo.taobao.com memberid=36244991
+[INFO] 2017-12-06 20:50:11,266 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-06 20:50:11,279 get url from mongo before
+[INFO] 2017-12-06 20:50:11,535 get url from oracle after count=4
+[INFO] 2017-12-06 21:06:12,653 getpagelist one category complete. [master] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=编码器 count=1110
+[ERROR] 2017-12-06 21:06:15,755 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 21:16:15,776 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=1 second_index=0
+[WARNING] 2017-12-06 21:16:19,750 browser quit error:[Error 5] 
+[INFO] 2017-12-06 21:16:27,648 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_41 125.39.72.52
+requests: support
+[INFO] 2017-12-06 21:19:50,621 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【Koyo 光 洋】 catpid=142053001 catpname=编码器 count=240
+[ERROR] 2017-12-06 21:19:54,194 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 21:29:54,210 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=1 second_index=1
+[WARNING] 2017-12-06 21:30:01,073 browser quit error:[Error 5] 
+[INFO] 2017-12-06 21:30:08,335 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_27 111.161.24.29
+requests: support
+[INFO] 2017-12-06 21:30:59,717 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【 OMRON欧姆龙】 catpid=142053001 catpname=编码器 count=4
+[INFO] 2017-12-06 21:38:10,210 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname= catpid=142053001 catpname=编码器 count=510
+[ERROR] 2017-12-06 21:38:13,644 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 21:48:13,661 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=1 second_index=3
+[WARNING] 2017-12-06 21:48:18,717 browser quit error:[Error 5] 
+[INFO] 2017-12-06 21:48:25,773 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_3 125.39.149.5
+requests: support
+[INFO] 2017-12-06 21:49:19,780 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【瑞普安华高】 catpid=142053001 catpname=编码器 count=28
+[INFO] 2017-12-06 21:50:45,960 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【科 瑞 特】 catpid=142053001 catpname=编码器 count=138
+[INFO] 2017-12-06 21:51:12,288 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【 鑫 亚 】 catpid=142053001 catpname=编码器 count=18
+[ERROR] 2017-12-06 21:51:15,148 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 22:01:15,168 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=1 second_index=6
+[WARNING] 2017-12-06 22:01:20,936 browser quit error:[Error 5] 
+[INFO] 2017-12-06 22:01:28,032 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_35 125.39.0.165
+requests: support
+[INFO] 2017-12-06 22:02:48,568 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【 瑞 佳 信 】 catpid=142053001 catpname=编码器 count=61
+[INFO] 2017-12-06 22:03:40,519 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【 长春捷民】 catpid=142053001 catpname=编码器 count=61
+[INFO] 2017-12-06 22:04:01,726 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【威硕】 catpid=142053001 catpname=编码器 count=1
+[ERROR] 2017-12-06 22:04:04,507 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 22:17:11,144 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=1 second_index=9
+[WARNING] 2017-12-06 22:17:13,671 browser quit error:[Error 5] 
+[INFO] 2017-12-06 22:17:18,510 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_31 111.161.24.33
+requests: support
+[INFO] 2017-12-06 22:17:57,490 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【宜科】 catpid=142053001 catpname=编码器 count=0
+[INFO] 2017-12-06 22:18:44,763 getpagelist one category complete. [master] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=Koyo光洋接近开关 count=62
+[ERROR] 2017-12-06 22:18:48,413 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 22:28:48,430 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=2 second_index=0
+[WARNING] 2017-12-06 22:28:51,871 browser quit error:[Error 5] 
+[INFO] 2017-12-06 22:29:02,559 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_42 60.28.11.236
+requests: support
+[INFO] 2017-12-06 22:29:43,846 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=【APS-GM系列】 catpid=411582588 catpname=Koyo光洋接近开关 count=2
+[INFO] 2017-12-06 22:29:59,724 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=【APS-GMD系列】 catpid=411582588 catpname=Koyo光洋接近开关 count=13
+[INFO] 2017-12-06 22:30:13,440 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=【APS-GK系列】 catpid=411582588 catpname=Koyo光洋接近开关 count=2
+[INFO] 2017-12-06 22:30:27,227 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=【APS-30/31系列】 catpid=411582588 catpname=Koyo光洋接近开关 count=4
+[INFO] 2017-12-06 22:30:47,509 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=【APS-F/U/M/S系列】 catpid=411582588 catpname=Koyo光洋接近开关 count=23
+[INFO] 2017-12-06 22:31:07,059 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=【APS-10-15系列】 catpid=411582588 catpname=Koyo光洋接近开关 count=13
+[INFO] 2017-12-06 22:31:28,102 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=【CS-16/31/85系列】 catpid=411582588 catpname=Koyo光洋接近开关 count=13
+[ERROR] 2017-12-06 22:31:31,512 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 22:41:31,529 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=-1
+[WARNING] 2017-12-06 22:41:37,157 browser quit error:[Error 5] 
+[INFO] 2017-12-06 22:41:44,453 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_16 125.39.0.146
+requests: support
+[INFO] 2017-12-06 22:47:45,894 getpagelist one category complete. [master] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=继电器 count=390
+[ERROR] 2017-12-06 22:47:48,997 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 22:57:49,019 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=0
+[WARNING] 2017-12-06 22:57:54,186 browser quit error:[Error 5] 
+[INFO] 2017-12-06 22:58:01,779 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_47 125.39.0.177
+requests: support
+[INFO] 2017-12-06 22:59:17,805 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【finder芬德】 catpid=207988977 catpname=继电器 count=57
+[INFO] 2017-12-06 22:59:34,178 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【omron欧姆龙】 catpid=207988977 catpname=继电器 count=6
+[INFO] 2017-12-06 22:59:51,836 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【honeywell霍尼韦尔】 catpid=207988977 catpname=继电器 count=0
+[INFO] 2017-12-06 23:00:06,887 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【松川继电器】 catpid=207988977 catpname=继电器 count=0
+[INFO] 2017-12-06 23:00:23,256 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【和泉继电器】 catpid=207988977 catpname=继电器 count=0
+[INFO] 2017-12-06 23:00:45,246 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【宏发继电器】 catpid=207988977 catpname=继电器 count=0
+[ERROR] 2017-12-06 23:00:50,157 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 23:13:41,562 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=6
+[WARNING] 2017-12-06 23:13:44,831 browser quit error:[Error 5] 
+[INFO] 2017-12-06 23:13:53,496 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_24 60.28.110.90
+requests: support
+[INFO] 2017-12-06 23:15:16,908 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【金海继电器】 catpid=207988977 catpname=继电器 count=40
+[INFO] 2017-12-06 23:16:09,332 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【NHDE洪都继电器】 catpid=207988977 catpname=继电器 count=69
+[INFO] 2017-12-06 23:16:25,756 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname= catpid=207988977 catpname=继电器 count=6
+[INFO] 2017-12-06 23:16:51,555 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【FBF新溪南继电器】 catpid=207988977 catpname=继电器 count=6
+[ERROR] 2017-12-06 23:16:54,519 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 23:26:54,538 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=10
+[WARNING] 2017-12-06 23:27:00,417 browser quit error:[Error 5] 
+[INFO] 2017-12-06 23:27:06,821 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_30 111.161.24.32
+requests: support
+[INFO] 2017-12-06 23:27:55,375 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【三友继电器】 catpid=207988977 catpname=继电器 count=0
+[INFO] 2017-12-06 23:28:09,480 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【普利得继电器】 catpid=207988977 catpname=继电器 count=8
+[INFO] 2017-12-06 23:28:36,582 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【RELY瑞莱继电器】 catpid=207988977 catpname=继电器 count=32
+[INFO] 2017-12-06 23:28:46,821 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【申乐继电器】 catpid=207988977 catpname=继电器 count=0
+[INFO] 2017-12-06 23:29:00,345 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【高压干簧继电器】 catpid=207988977 catpname=继电器 count=8
+[ERROR] 2017-12-06 23:29:05,099 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="p24520e" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 23:39:05,118 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 23:39:09,714 browser quit error:[Error 5] 
+[INFO] 2017-12-06 23:39:19,049 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_36 125.39.149.38
+requests: support
+[ERROR] 2017-12-06 23:39:55,841 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-06 23:49:55,859 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-06 23:49:58,944 browser quit error:[Error 5] 
+[INFO] 2017-12-06 23:50:07,944 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_46 111.161.24.48
+requests: support
+[ERROR] 2017-12-06 23:50:41,753 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+

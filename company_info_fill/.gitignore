@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+*.txt
+*.log*
+.idea
+.idea/*

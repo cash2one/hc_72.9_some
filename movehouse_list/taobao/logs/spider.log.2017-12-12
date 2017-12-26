@@ -1,0 +1,66 @@
+[INFO] 2017-12-12 10:33:48,805 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_33 60.28.11.227
+requests: support
+[INFO] 2017-12-12 10:35:11,206 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=客车 count=27
+[INFO] 2017-12-12 10:35:45,723 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=气囊 catpid=1294424801 catpname=客车 count=25
+[INFO] 2017-12-12 10:35:59,997 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=盖板 catpid=1294424801 catpname=客车 count=1
+[INFO] 2017-12-12 10:36:16,244 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=底座 catpid=1294424801 catpname=客车 count=1
+[INFO] 2017-12-12 10:36:34,963 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424801 catname=其他 catpid=1294424801 catpname=客车 count=0
+[INFO] 2017-12-12 10:37:43,010 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=卡车 count=66
+[INFO] 2017-12-12 10:38:19,654 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=驾驶室气囊 catpid=1294424805 catpname=卡车 count=28
+[INFO] 2017-12-12 10:38:34,372 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=座椅气囊 catpid=1294424805 catpname=卡车 count=3
+[INFO] 2017-12-12 10:39:07,730 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=浮动桥承载气囊 catpid=1294424805 catpname=卡车 count=30
+[INFO] 2017-12-12 10:39:23,825 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=浮动桥提升气囊 catpid=1294424805 catpname=卡车 count=3
+[INFO] 2017-12-12 10:39:48,319 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=改装专用气囊 catpid=1294424805 catpname=卡车 count=3
+[INFO] 2017-12-12 10:40:08,148 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=电磁阀 catpid=1294424805 catpname=卡车 count=0
+[INFO] 2017-12-12 10:40:27,171 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424805 catname=其他 catpid=1294424805 catpname=卡车 count=0
+[INFO] 2017-12-12 10:41:40,233 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=轿车 count=79
+[INFO] 2017-12-12 10:42:10,298 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=空气减震器 catpid=1294424811 catpname=轿车 count=19
+[INFO] 2017-12-12 10:42:31,253 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=修理包 catpid=1294424811 catpname=轿车 count=10
+[ERROR] 2017-12-12 10:42:37,664 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-12 10:52:37,676 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=2
+[WARNING] 2017-12-12 10:52:44,250 browser quit error:[Error 5] 
+[INFO] 2017-12-12 10:53:01,871 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_17 60.28.11.211
+requests: support
+[INFO] 2017-12-12 10:54:25,983 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=气包 catpid=1294424811 catpname=轿车 count=14
+[INFO] 2017-12-12 10:54:57,740 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=空气悬挂打气泵 catpid=1294424811 catpname=轿车 count=26
+[INFO] 2017-12-12 10:55:17,565 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=改装专用 catpid=1294424811 catpname=轿车 count=9
+[INFO] 2017-12-12 10:55:39,469 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=空气悬挂分配阀 catpid=1294424811 catpname=轿车 count=9
+[INFO] 2017-12-12 10:55:57,951 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424811 catname=其他 catpid=1294424811 catpname=轿车 count=0
+[ERROR] 2017-12-12 10:57:01,852 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-12 11:11:54,252 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=4 second_index=-1
+[WARNING] 2017-12-12 11:12:01,572 browser quit error:[Error 5] 
+[INFO] 2017-12-12 11:12:22,387 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_7 60.28.110.73
+requests: support
+[INFO] 2017-12-12 11:16:57,546 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=工业 count=148
+[INFO] 2017-12-12 11:18:25,931 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=单囊式空气弹簧 catpid=1294424817 catpname=工业 count=42
+[INFO] 2017-12-12 11:20:15,733 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=双囊式空气弹簧 catpid=1294424817 catpname=工业 count=76
+[INFO] 2017-12-12 11:20:53,473 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=三囊式空气弹簧 catpid=1294424817 catpname=工业 count=19
+[INFO] 2017-12-12 11:21:32,440 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=四囊式空气弹簧 catpid=1294424817 catpname=工业 count=4
+[INFO] 2017-12-12 11:22:18,549 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=五囊式空气弹簧 catpid=1294424817 catpname=工业 count=1
+[INFO] 2017-12-12 11:22:43,979 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname=气动元件 catpid=1294424817 catpname=工业 count=6
+[INFO] 2017-12-12 11:22:58,601 getpagelist one category complete. [slaves] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424817 catname= catpid=1294424817 catpname=工业 count=0
+[INFO] 2017-12-12 11:23:24,930 getpagelist one category complete. [master] url=http://shop109338666.taobao.com memberid=109338666 catid=1294424822 catname=其他 count=0
+[ERROR] 2017-12-12 11:23:26,463 set list page status error reconnect! sql=update cor_website_move set SEARCH_LISTPAGE_STATUS=:1 where id=:2 or website=:3 err=ORA-03135: connection lost contact
+Process ID: 123378
+Session ID: 526 Serial number: 41635
+
+[ERROR] 2017-12-12 11:23:26,635 something error! ORA-03114: not connected to ORACLE
+
+[INFO] 2017-12-12 11:33:26,654 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=6 second_index=-1
+[WARNING] 2017-12-12 11:33:36,650 browser quit error:[Error 5] 
+[INFO] 2017-12-12 11:33:49,562 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_2 60.28.110.68
+requests: support

@@ -1,0 +1,592 @@
+[INFO] 2017-12-25 00:07:05,236 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 00:09:35,568 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 00:26:26,667 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 00:26:36,654 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-25 00:36:36,673 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 00:38:11,483 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 00:48:11,507 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[INFO] 2017-12-25 00:48:17,645 Could not get IP address for host: localhost
+[ERROR] 2017-12-25 00:48:29,864 something error! [Errno 11004] getaddrinfo failed
+[INFO] 2017-12-25 00:58:29,882 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 01:00:01,581 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 01:10:01,608 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 01:11:19,714 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 01:21:19,746 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[INFO] 2017-12-25 01:21:57,415 Could not get IP address for host: localhost
+[ERROR] 2017-12-25 01:22:12,213 something error! [Errno 11004] getaddrinfo failed
+[INFO] 2017-12-25 01:39:24,322 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 01:40:48,427 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 01:50:48,450 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 01:56:06,690 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 02:06:06,707 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 02:07:36,562 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 02:17:36,596 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 02:17:53,729 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-25 02:27:53,760 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 02:29:58,407 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 02:47:04,687 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 02:48:47,532 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 02:58:47,569 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 03:00:01,894 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 03:10:01,921 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 03:11:41,207 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 03:21:41,233 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 03:27:49,842 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 03:37:49,869 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 03:46:33,059 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 03:56:33,155 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 03:59:03,849 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 04:09:03,917 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 04:11:20,407 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 04:21:20,424 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 04:24:00,921 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 04:34:01,043 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 04:38:53,575 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 04:55:56,401 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 04:59:20,230 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 05:09:20,256 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 05:10:40,469 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 05:20:40,496 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 05:22:19,885 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 05:32:19,908 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 05:36:05,558 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 05:46:05,589 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 05:48:00,934 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 06:04:49,433 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 06:07:06,045 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 06:17:06,092 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 06:20:39,292 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 06:30:39,296 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 06:31:08,795 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-25 06:41:08,821 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 06:44:30,345 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-25 06:54:30,368 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 06:56:12,523 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 07:13:09,073 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 07:14:29,210 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 07:24:29,240 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 07:25:31,634 something error! Message: Can not connect to the Service D:\movehouse_list\taobao\chromedriver.exe
+
+[INFO] 2017-12-25 07:35:31,711 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 07:37:12,229 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 07:47:12,265 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 07:54:11,371 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 08:04:11,391 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 08:06:42,759 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 08:23:19,526 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 08:23:24,933 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-25 08:33:24,957 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 08:34:26,516 something error! Message: Can not connect to the Service D:\movehouse_list\taobao\chromedriver.exe
+
+[INFO] 2017-12-25 08:44:26,551 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 08:45:22,986 something error! Message: unknown error: failed to wait for extension background page to load: chrome-extension://mhjddbdedhekboklcclgafmhlnmofgof/_generated_background_page.html
+from timeout
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 08:55:23,002 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[INFO] 2017-12-25 08:56:16,661 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_43 125.39.72.108
+requests: support
+[ERROR] 2017-12-25 09:04:40,390 something error! Message: timeout
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 09:19:26,878 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[WARNING] 2017-12-25 09:20:29,174 browser quit error:[Error 5] 
+[ERROR] 2017-12-25 09:22:15,615 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 09:32:16,253 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 09:36:20,066 something error! Message: unknown error: failed to wait for extension background page to load: chrome-extension://hplmnegffakfbmknmikoahenmlfckbof/_generated_background_page.html
+from timeout
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 09:46:20,081 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-25 09:49:03,141 something error! Message: unknown error: failed to wait for extension background page to load: chrome-extension://iifdcjdicmafnifjgngbjlnpdogccmnj/_generated_background_page.html
+from timeout
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 09:59:03,177 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[INFO] 2017-12-25 17:49:02,486 start
+[INFO] 2017-12-25 17:49:02,487 start
+[INFO] 2017-12-25 17:49:03,046 read website start!
+[INFO] 2017-12-25 17:49:03,046 read website start!
+[INFO] 2017-12-25 17:49:03,062 get url from mongo before
+[INFO] 2017-12-25 17:49:03,062 get url from mongo before
+[INFO] 2017-12-25 17:49:03,155 initialize tj proxy size=421
+[INFO] 2017-12-25 17:49:03,187 initialize tj proxy size=421
+[INFO] 2017-12-25 17:49:03,342 get url from oracle after count=5
+[INFO] 2017-12-25 17:49:03,342 before url=http://shop69729652.taobao.com
+[INFO] 2017-12-25 17:49:03,390 get url from oracle after count=5
+[INFO] 2017-12-25 17:49:03,390 before url=http://shop69729652.taobao.com
+[INFO] 2017-12-25 17:49:03,530 Starting new HTTP connection (1): shop69729652.taobao.com
+[INFO] 2017-12-25 17:49:03,530 Starting new HTTP connection (1): shop69729652.taobao.com
+[INFO] 2017-12-25 17:49:03,733 Starting new HTTPS connection (1): shop69729652.taobao.com
+[INFO] 2017-12-25 17:49:03,812 Starting new HTTPS connection (1): shop69729652.taobao.com
+[INFO] 2017-12-25 17:49:05,233 open homepage with selenium url=http://shop69729652.taobao.com memberid=69729652 first_index=0 second_index=-1
+[INFO] 2017-12-25 17:49:05,250 insert new website url=http://shop69729652.taobao.com memberid=69729652
+[INFO] 2017-12-25 17:49:05,250 before url=http://totide.taobao.com
+[INFO] 2017-12-25 17:49:05,250 open homepage with selenium url=http://shop69729652.taobao.com memberid=69729652 first_index=0 second_index=-1
+[INFO] 2017-12-25 17:49:05,250 Starting new HTTP connection (1): totide.taobao.com
+[INFO] 2017-12-25 17:49:05,265 insert new website url=http://shop69729652.taobao.com memberid=69729652
+[INFO] 2017-12-25 17:49:05,265 before url=http://totide.taobao.com
+[INFO] 2017-12-25 17:49:05,265 Starting new HTTP connection (1): totide.taobao.com
+[INFO] 2017-12-25 17:49:05,375 Starting new HTTPS connection (1): totide.taobao.com
+[INFO] 2017-12-25 17:49:05,483 Starting new HTTPS connection (1): totide.taobao.com
+[INFO] 2017-12-25 17:49:05,655 insert new website url=http://totide.taobao.com memberid=65325558
+[INFO] 2017-12-25 17:49:05,671 insert new website url=http://totide.taobao.com memberid=65325558
+[INFO] 2017-12-25 17:49:20,969 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_17 60.28.11.211
+requests: support
+[INFO] 2017-12-25 17:49:26,311 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_11 60.28.110.77
+requests: support
+[ERROR] 2017-12-25 17:50:32,729 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 17:51:13,750 getpagelist one category complete. [master] url=http://shop69729652.taobao.com memberid=69729652 catid=1165068510 catname=潜水渣浆泵 count=58
+[INFO] 2017-12-25 17:51:48,670 getpagelist one category complete. [master] url=http://shop69729652.taobao.com memberid=69729652 catid=1165068509 catname=潜水排沙泵 count=36
+[INFO] 2017-12-25 17:52:02,664 getpagelist one category complete. [master] url=http://shop69729652.taobao.com memberid=69729652 catid=1165068508 catname=混流泵 count=9
+[ERROR] 2017-12-25 17:52:24,089 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 18:02:24,111 open homepage with selenium url=http://shop69729652.taobao.com memberid=69729652 first_index=4 second_index=-1
+[WARNING] 2017-12-25 18:02:26,339 browser quit error:[Error 5] 
+[INFO] 2017-12-25 18:02:37,417 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_55 125.39.72.120
+requests: support
+[INFO] 2017-12-25 18:03:44,144 getpagelist one category complete. [master] url=http://shop69729652.taobao.com memberid=69729652 catid=496715555 catname=渣浆泵 count=48
+[INFO] 2017-12-25 18:04:14,980 getpagelist one category complete. [master] url=http://shop69729652.taobao.com memberid=69729652 catid=496715556 catname=泥浆泵 count=40
+[INFO] 2017-12-25 18:04:45,572 getpagelist one category complete. [master] url=http://shop69729652.taobao.com memberid=69729652 catid=496715557 catname=清水泵 count=34
+[ERROR] 2017-12-25 18:04:54,380 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 18:14:54,397 open homepage with selenium url=http://shop69729652.taobao.com memberid=69729652 first_index=7 second_index=-1
+[WARNING] 2017-12-25 18:14:55,967 browser quit error:[Error 5] 
+[INFO] 2017-12-25 18:15:07,838 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_4 111.161.24.6
+requests: support
+[INFO] 2017-12-25 18:16:09,825 getpagelist one category complete. [master] url=http://shop69729652.taobao.com memberid=69729652 catid=496715558 catname=多级泵 count=17
+[INFO] 2017-12-25 18:16:39,269 getpagelist one category complete. [master] url=http://shop69729652.taobao.com memberid=69729652 catid=1239654191 catname=WQ QW排污泵 count=38
+[INFO] 2017-12-25 18:16:53,473 getpagelist one category complete. [master] url=http://shop69729652.taobao.com memberid=69729652 catid=1239654192 catname=不锈钢排污泵 count=14
+[INFO] 2017-12-25 18:17:10,372 getpagelist one category complete. [master] url=http://shop69729652.taobao.com memberid=69729652 catid=1239654193 catname=QJ潜水泵 count=15
+[INFO] 2017-12-25 18:17:28,512 getpagelist one category complete. [master] url=http://shop69729652.taobao.com memberid=69729652 catid=1280542382 catname=抽沙泵 count=20
+[ERROR] 2017-12-25 18:17:35,266 something error! Message: unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 18:29:43,460 open homepage with selenium url=http://shop69729652.taobao.com memberid=69729652 first_index=12 second_index=-1
+[WARNING] 2017-12-25 18:29:45,375 browser quit error:[Error 5] 
+[INFO] 2017-12-25 18:30:05,575 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_27 60.28.110.93
+requests: support
+[INFO] 2017-12-25 18:31:00,936 getpagelist one category complete. [master] url=http://shop69729652.taobao.com memberid=69729652 catid=1280542383 catname=深井泵 count=3
+[INFO] 2017-12-25 18:31:14,443 getpagelist one category complete. [master] url=http://shop69729652.taobao.com memberid=69729652 catid=1280542384 catname=水泵配件 count=0
+[INFO] 2017-12-25 18:31:15,130 insert records succeed url=http://shop69729652.taobao.com memberid=69729652 category_count=0 page_count=332
+[INFO] 2017-12-25 18:31:15,148 open homepage with selenium url=http://totide.taobao.com memberid=65325558 first_index=0 second_index=-1
+[WARNING] 2017-12-25 18:31:17,131 browser quit error:[Error 5] 
+[INFO] 2017-12-25 18:31:36,351 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_31 60.28.110.97
+requests: support
+[INFO] 2017-12-25 18:32:13,923 before url=http://shop439335977.taobao.com
+[INFO] 2017-12-25 18:32:13,967 Starting new HTTP connection (1): shop439335977.taobao.com
+[INFO] 2017-12-25 18:32:14,552 Starting new HTTPS connection (1): shop439335977.taobao.com
+[INFO] 2017-12-25 18:32:15,210 insert new website url=http://shop439335977.taobao.com memberid=439335977
+[ERROR] 2017-12-25 18:32:16,032 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 18:42:16,055 open homepage with selenium url=http://totide.taobao.com memberid=65325558 first_index=1 second_index=-1
+[WARNING] 2017-12-25 18:42:26,322 browser quit error:[Error 5] 
+[INFO] 2017-12-25 18:42:40,818 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_55 60.28.110.121
+requests: support
+[INFO] 2017-12-25 18:43:32,678 getpagelist one category complete. [master] url=http://totide.taobao.com memberid=65325558 catid=1244185425 catname=烤盘 count=1
+[INFO] 2017-12-25 18:43:58,102 getpagelist one category complete. [master] url=http://totide.taobao.com memberid=65325558 catid=333022011 catname=比萨炉 count=18
+[INFO] 2017-12-25 18:44:06,911 getpagelist one category complete. [master] url=http://totide.taobao.com memberid=65325558 catid=799478000 catname=烧鸡炉 count=6
+[INFO] 2017-12-25 18:44:20,875 getpagelist one category complete. [master] url=http://totide.taobao.com memberid=65325558 catid=333022016 catname=中东烤炉 count=0
+[INFO] 2017-12-25 18:44:37,964 getpagelist one category complete. [master] url=http://totide.taobao.com memberid=65325558 catid=333022020 catname=保温餐车 count=7
+[INFO] 2017-12-25 18:44:51,779 getpagelist one category complete. [master] url=http://totide.taobao.com memberid=65325558 catid=333032063 catname=火山石烧烤炉 count=1
+[INFO] 2017-12-25 18:44:53,163 insert records succeed url=http://totide.taobao.com memberid=65325558 category_count=0 page_count=33
+[INFO] 2017-12-25 18:44:53,259 open homepage with selenium url=http://shop439335977.taobao.com memberid=439335977 first_index=0 second_index=-1
+[WARNING] 2017-12-25 18:44:55,877 browser quit error:[Error 5] 
+[INFO] 2017-12-25 18:45:11,934 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_33 111.161.24.35
+requests: support
+[INFO] 2017-12-25 18:45:15,273 before url=http://shop144537595.taobao.com
+[INFO] 2017-12-25 18:45:15,312 Starting new HTTP connection (1): shop144537595.taobao.com
+[INFO] 2017-12-25 18:45:15,470 Starting new HTTPS connection (1): shop144537595.taobao.com
+[INFO] 2017-12-25 18:45:16,069 insert new website url=http://shop144537595.taobao.com memberid=144537595
+[INFO] 2017-12-25 18:46:05,562 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606943 catname=环保型喷淋塔 count=1
+[INFO] 2017-12-25 18:46:21,115 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606944 catname=光氧催化废气处理设备 count=1
+[INFO] 2017-12-25 18:46:30,042 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606945 catname=活性炭环保箱 count=2
+[INFO] 2017-12-25 18:46:39,826 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606946 catname=环保型水帘柜 count=1
+[INFO] 2017-12-25 18:46:46,278 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606947 catname=无泵水帘喷漆柜 count=1
+[INFO] 2017-12-25 18:46:52,976 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606948 catname=环保型打磨吸尘柜 count=1
+[ERROR] 2017-12-25 18:47:00,259 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 18:57:00,270 open homepage with selenium url=http://shop439335977.taobao.com memberid=439335977 first_index=7 second_index=-1
+[WARNING] 2017-12-25 18:57:02,767 browser quit error:[Error 5] 
+[INFO] 2017-12-25 18:57:21,596 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_23 60.28.110.89
+requests: support
+[INFO] 2017-12-25 18:58:01,493 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606949 catname=环保型塑粉回收机 count=0
+[INFO] 2017-12-25 18:58:08,424 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606950 catname=环保型打磨台 count=1
+[INFO] 2017-12-25 18:58:27,002 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606951 catname=焊烟净化器 count=3
+[INFO] 2017-12-25 18:58:41,005 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606952 catname=静电喷塑机 count=0
+[INFO] 2017-12-25 18:58:53,759 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606953 catname=举升机配件 count=1
+[INFO] 2017-12-25 18:59:04,924 getpagelist one category complete. [master] url=http://shop439335977.taobao.com memberid=439335977 catid=1349606954 catname=扫地机 count=0
+[INFO] 2017-12-25 18:59:05,283 insert records succeed url=http://shop439335977.taobao.com memberid=439335977 category_count=0 page_count=12
+[INFO] 2017-12-25 18:59:05,299 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=0 second_index=-1
+[WARNING] 2017-12-25 18:59:06,690 browser quit error:[Error 5] 
+[INFO] 2017-12-25 18:59:16,101 before url=http://shop309546658.taobao.com
+[INFO] 2017-12-25 18:59:16,101 Starting new HTTP connection (1): shop309546658.taobao.com
+[INFO] 2017-12-25 18:59:16,101 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_20 125.39.149.22
+requests: support
+[INFO] 2017-12-25 18:59:16,463 Starting new HTTPS connection (1): shop309546658.taobao.com
+[INFO] 2017-12-25 18:59:17,372 insert new website url=http://shop309546658.taobao.com memberid=309546658
+[INFO] 2017-12-25 18:59:17,384 read oracle complete! taobao_count=5 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-25 18:59:17,403 get url from mongo before
+[INFO] 2017-12-25 18:59:17,638 get url from oracle after count=2
+[INFO] 2017-12-25 19:00:26,815 getpagelist one category complete. [master] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=龙迅/Lontium count=51
+[INFO] 2017-12-25 19:00:34,401 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=LCD控制器 catpid=1334747374 catpname=龙迅/Lontium count=3
+[INFO] 2017-12-25 19:00:50,568 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=KEY catpid=1334747374 catpname=龙迅/Lontium count=4
+[INFO] 2017-12-25 19:01:07,744 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=HDMI扩展 catpid=1334747374 catpname=龙迅/Lontium count=1
+[INFO] 2017-12-25 19:01:22,147 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=HDMi分配器 catpid=1334747374 catpname=龙迅/Lontium count=4
+[ERROR] 2017-12-25 19:01:30,763 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 19:11:30,783 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=1 second_index=4
+[WARNING] 2017-12-25 19:11:31,996 browser quit error:[Error 5] 
+[INFO] 2017-12-25 19:11:43,280 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_35 125.39.72.100
+requests: support
+[INFO] 2017-12-25 19:12:30,746 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=HDMI延长器 catpid=1334747374 catpname=龙迅/Lontium count=0
+[INFO] 2017-12-25 19:12:45,250 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=HDMI发射器 catpid=1334747374 catpname=龙迅/Lontium count=5
+[INFO] 2017-12-25 19:12:58,437 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=HDMI接收器 catpid=1334747374 catpname=龙迅/Lontium count=1
+[INFO] 2017-12-25 19:13:09,244 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=HDMI/MHL开关 catpid=1334747374 catpname=龙迅/Lontium count=2
+[INFO] 2017-12-25 19:13:23,707 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=HDMI/MHL矩阵芯片 catpid=1334747374 catpname=龙迅/Lontium count=1
+[INFO] 2017-12-25 19:13:37,088 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=HDMI转换器 catpid=1334747374 catpname=龙迅/Lontium count=7
+[ERROR] 2017-12-25 19:13:45,928 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 19:25:41,918 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=1 second_index=10
+[WARNING] 2017-12-25 19:25:43,492 browser quit error:[Error 5] 
+[INFO] 2017-12-25 19:26:04,002 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_30 125.39.72.95
+requests: support
+[INFO] 2017-12-25 19:26:54,957 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=DP catpid=1334747374 catpname=龙迅/Lontium count=11
+[INFO] 2017-12-25 19:27:16,105 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=MIPI/LVDS catpid=1334747374 catpname=龙迅/Lontium count=10
+[INFO] 2017-12-25 19:27:32,720 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=TYPE C catpid=1334747374 catpname=龙迅/Lontium count=2
+[INFO] 2017-12-25 19:27:43,085 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=USB catpid=1334747374 catpname=龙迅/Lontium count=4
+[INFO] 2017-12-25 19:27:53,851 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334747374 catname=MHL 转HDMI/RGB catpid=1334747374 catpname=龙迅/Lontium count=4
+[ERROR] 2017-12-25 19:28:36,983 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 19:38:36,999 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=2 second_index=-1
+[WARNING] 2017-12-25 19:38:39,246 browser quit error:[Error 5] 
+[INFO] 2017-12-25 19:38:57,161 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_45 60.28.110.111
+requests: support
+[INFO] 2017-12-25 19:40:21,924 getpagelist one category complete. [master] url=http://shop144537595.taobao.com memberid=144537595 catid=1334751092 catname=集成电路 count=63
+[INFO] 2017-12-25 19:40:30,539 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334751092 catname=CIRUSLOGI catpid=1334751092 catpname=集成电路 count=0
+[INFO] 2017-12-25 19:40:57,782 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334751092 catname=TI catpid=1334751092 catpname=集成电路 count=31
+[ERROR] 2017-12-25 19:41:05,829 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 19:51:05,845 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=2 second_index=2
+[WARNING] 2017-12-25 19:51:07,276 browser quit error:[Error 5] 
+[INFO] 2017-12-25 19:51:22,677 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_36 60.28.110.102
+requests: support
+[INFO] 2017-12-25 19:52:13,265 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334751092 catname=STM catpid=1334751092 catpname=集成电路 count=2
+[INFO] 2017-12-25 19:52:28,519 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334751092 catname=IR catpid=1334751092 catpname=集成电路 count=0
+[INFO] 2017-12-25 19:52:39,121 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334751092 catname=MAX/美信 catpid=1334751092 catpname=集成电路 count=0
+[INFO] 2017-12-25 19:52:53,082 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334751092 catname=ON/安森美 catpid=1334751092 catpname=集成电路 count=1
+[INFO] 2017-12-25 19:53:08,855 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334751092 catname=FSC/仙童 catpid=1334751092 catpname=集成电路 count=0
+[INFO] 2017-12-25 19:53:24,755 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334751092 catname=HOLTEK/合泰 catpid=1334751092 catpname=集成电路 count=20
+[ERROR] 2017-12-25 19:53:35,568 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 20:03:35,582 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=2 second_index=8
+[WARNING] 2017-12-25 20:03:44,628 browser quit error:[Error 5] 
+[INFO] 2017-12-25 20:04:02,140 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_54 60.28.110.120
+requests: support
+[INFO] 2017-12-25 20:05:16,746 getpagelist one category complete. [slaves] url=http://shop144537595.taobao.com memberid=144537595 catid=1334751092 catname=CS系列 catpid=1334751092 catpname=集成电路 count=9
+[ERROR] 2017-12-25 20:06:35,740 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 20:16:35,762 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 20:16:39,625 browser quit error:[Error 5] 
+[INFO] 2017-12-25 20:16:59,105 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_31 60.28.11.225
+requests: support
+[ERROR] 2017-12-25 20:19:00,190 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 20:30:54,039 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 20:30:55,917 browser quit error:[Error 5] 
+[INFO] 2017-12-25 20:31:10,839 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_12 125.39.72.23
+requests: support
+[ERROR] 2017-12-25 20:33:34,492 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 20:43:34,509 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 20:43:37,072 browser quit error:[Error 5] 
+[INFO] 2017-12-25 20:43:55,750 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_60 125.39.149.62
+requests: support
+[ERROR] 2017-12-25 20:46:12,864 something error! Message: unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 20:56:12,884 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 20:56:15,742 browser quit error:[Error 5] 
+[INFO] 2017-12-25 20:56:35,601 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_28 125.39.72.39
+requests: support
+[ERROR] 2017-12-25 20:58:46,997 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 21:08:47,010 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 21:08:52,151 browser quit error:[Error 5] 
+[INFO] 2017-12-25 21:09:12,374 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_33 125.39.149.35
+requests: support
+[ERROR] 2017-12-25 21:11:31,316 something error! Message: unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 21:21:31,335 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 21:21:35,183 browser quit error:[Error 5] 
+[INFO] 2017-12-25 21:21:54,627 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_44 60.28.110.110
+requests: support
+[ERROR] 2017-12-25 21:23:53,990 something error! Message: unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 21:35:51,005 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 21:35:52,326 browser quit error:[Error 5] 
+[INFO] 2017-12-25 21:36:17,410 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_17 125.39.149.19
+requests: support
+[ERROR] 2017-12-25 21:36:26,867 something error! Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='js-nav-csch fun csch']"}
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 21:46:26,884 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 21:46:28,619 browser quit error:[Error 5] 
+[INFO] 2017-12-25 21:46:45,400 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_10 60.28.11.204
+requests: support
+[ERROR] 2017-12-25 21:48:57,365 something error! Message: unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 21:58:57,381 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 21:59:00,096 browser quit error:[Error 5] 
+[INFO] 2017-12-25 21:59:16,437 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_9 125.39.72.20
+requests: support
+[ERROR] 2017-12-25 22:01:43,510 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 22:11:43,528 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 22:11:45,855 browser quit error:[Error 5] 
+[INFO] 2017-12-25 22:12:07,484 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_11 125.39.149.13
+requests: support
+[ERROR] 2017-12-25 22:14:24,427 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 22:24:24,438 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 22:24:27,483 browser quit error:[Error 5] 
+[INFO] 2017-12-25 22:24:47,739 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_59 60.28.11.253
+requests: support
+[ERROR] 2017-12-25 22:27:07,976 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 22:39:06,707 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 22:39:09,204 browser quit error:[Error 5] 
+[INFO] 2017-12-25 22:39:28,970 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_45 125.39.0.175
+requests: support
+[ERROR] 2017-12-25 22:41:31,108 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 22:51:31,132 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 22:51:32,339 browser quit error:[Error 5] 
+[INFO] 2017-12-25 22:51:41,259 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_33 60.28.11.227
+requests: support
+[ERROR] 2017-12-25 22:54:05,051 something error! Message: unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 23:04:05,079 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 23:04:06,391 browser quit error:[Error 5] 
+[INFO] 2017-12-25 23:04:19,599 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_1 125.39.0.131
+requests: support
+[ERROR] 2017-12-25 23:06:49,634 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 23:16:49,655 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 23:16:56,411 browser quit error:[Error 5] 
+[INFO] 2017-12-25 23:17:16,895 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_41 125.39.72.106
+requests: support
+[ERROR] 2017-12-25 23:19:25,517 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 23:31:21,302 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 23:31:27,187 browser quit error:[Error 5] 
+[INFO] 2017-12-25 23:31:46,582 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_13 111.161.24.15
+requests: support
+[ERROR] 2017-12-25 23:34:01,563 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 23:44:01,582 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 23:44:05,963 browser quit error:[Error 5] 
+[INFO] 2017-12-25 23:44:25,246 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_47 60.28.11.241
+requests: support
+[ERROR] 2017-12-25 23:47:03,924 something error! Message: unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-25 23:57:03,947 open homepage with selenium url=http://shop144537595.taobao.com memberid=144537595 first_index=3 second_index=-1
+[WARNING] 2017-12-25 23:57:05,240 browser quit error:[Error 5] 
+[INFO] 2017-12-25 23:57:16,055 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_7 60.28.110.73
+requests: support
+[ERROR] 2017-12-25 23:59:39,934 something error! Message: unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=63.0.3239.108)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+

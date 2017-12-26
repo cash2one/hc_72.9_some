@@ -1,0 +1,224 @@
+# -*- coding: utf-8 -*-
+import sys
+# sys.path.append('/tools/python_common')
+import os
+import logging
+import time
+import datetime
+import redis
+import re
+from pymongo import MongoClient
+from function import logInit
+from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.chrome.options import Options
+import selenium.webdriver.support.ui as ui
+import random
+import traceback
+from proxy import proxy
+
+redis_hosts = ['10.10.10.27', '192.168.245.31', '172.16.252.22', '172.16.248.22']
+MOBILE_PREFIX_LIST=['130','131','132','133','134','135','136','137','138','139','150','151','152','153','155','156','157','158','159','170','176','177','178','180','181','182','183','184','185','186','187','188','189']
+CONTACT_US_LIST = [u'联系我们', u'关于']
+
+class PcCompany():
+    def __init__(self, browser_type='chrome'):
+        self.logger = logging.getLogger('PcCompany')
+        self.init_mongo()
+        self.init_redis()
+        self.proxy = proxy('chrome')
+        self.init_browser(browser_type)
+
+    def __del__(self):
+        self.browser_quit()
+
+    def init_redis(self):
+        for host in redis_hosts:
+            redis_pool = redis.ConnectionPool(host=host, port=6379, socket_timeout=2)
+            # redis_pool = redis.ConnectionPool(host=host, port=7901, socket_timeout=2)
+            r = redis.Redis(connection_pool = redis_pool)
+            try:
+                last_len = r.llen('ALI_COMPANY_KEYWORD_LIST')
+                break
+            except redis.exceptions.ConnectionError:
+                continue
+        self.redis_db = redis.Redis(connection_pool = redis_pool)
+
+    def init_mongo(self):
+        self.mongo_db = MongoClient('192.168.60.64', 10010).company_info
+
+    def init_browser(self, browser_type):
+        self.browser = self.proxy.get_new_webdriver_with_proxy()
+        self.browser.maximize_window()
+        self.pid = self.browser.service.process.pid
+        self.wait = ui.WebDriverWait(self.browser, 20)
+
+    def browser_quit(self):
+        try:
+            if self.browser:
+                self.browser.quit()
+                os.kill(self.pid, 9)
+        except Exception, e:
+            self.logger.warning("browser quit error:%s" %(str(e)))
+        finally:
+            self.browser = None
+
+    def browser_quit_others(self):
+        if len(self.browser.window_handles) == 1:
+            self.browser.switch_to_window(self.browser.window_handles[0])
+        else:
+            for h in self.browser.window_handles[1:]:
+                self.browser.switch_to_window(h)
+                self.browser.close()
+            self.browser.switch_to_window(self.browser.window_handles[0])
+
+    def get_company(self):
+        while True:
+            name = self.redis_db.lpop('COMPANY_NAME_QUEUE')
+            if not name:
+                continue
+            if len(name) <= 6:
+                continue
+            break
+        return name
+
+    def parse(self, name):
+        if self.browser.current_url.find('tianyancha') < 0:
+            self.browser.get('http://www.tianyancha.com')
+            ele = self.browser.find_element_by_xpath("//input[@id='live-search']")
+            ele.clear()
+            ele.send_keys(name)
+            self.browser.find_element_by_xpath("//div[@class='input-group-addon search_button']").click()
+        else:
+            ele = self.browser.find_element_by_xpath("//input[@id='live-search']")
+            ele.clear()
+            ele.send_keys(name)
+            self.browser.find_element_by_xpath("//div[@class='input-group-addon input-search-v1']").click()
+
+        try:
+            self.wait.until(lambda broswer: self.browser.find_element_by_xpath("//div[@class='row pb10']/div/a|//div[@class='f14 margin-auto text-left']/img[1]"))
+        except Exception, e:
+            self.logger.error('parse wait error! url=%s ip=%s (%s)', self.browser.current_url, self.proxy.proxy_info['source_ip'], (e))
+            if self.browser.current_url.find('antirobot') >= 0:
+                raise
+            return {}
+
+        try:
+            ele = self.browser.find_element_by_xpath("//div[@class='f14 margin-auto text-left']/img[1]")
+            return {}
+        except NoSuchElementException:
+            pass
+
+        handles = self.browser.find_elements_by_xpath("//div[@class='row pb10']/div/a")
+        handles[0].click()
+        if len(self.browser.window_handles) == 1:
+            time.sleep(5)
+        self.browser.switch_to_window(self.browser.window_handles[-1])
+
+        ## parse home page
+        self.wait.until(lambda broswer: self.browser.find_element_by_xpath("//div[@class='company_header_width ie9Style']/div/span"))
+        item = self.parse_item()
+        self.logger.info('page parse %s (%s)', self.browser.current_url, item)
+        time.sleep(2)
+        self.browser_quit_others()
+
+        return item
+
+    def parse_item(self):
+        item = {}
+        field_and_xpath = {
+            'tianyancha_contacter': "//table[@class='table companyInfo-table text-center f14']/tbody/tr/td[1]/a",
+            'tianyancha_company_name': "//div[@class='company_header_width ie9Style']/div/span",
+            'web_url': "//div[@class='company_header_width ie9Style']/div/div[3]/div/a",
+            'phone': "//div[@class='company_header_width ie9Style']/div/div[2]/div/span[2]"
+        }
+        for field in field_and_xpath:
+            item[field] = ''
+            try:
+                item[field] = self.browser.find_element_by_xpath(field_and_xpath[field]).text
+            except NoSuchElementException:
+                continue
+        ## process phone
+        phone = item['phone']
+        del item['phone']
+        phone = '' if phone == u'暂无' else phone
+        regex_mp = re.compile(u'1[0-9]{10}')
+        regex_phone = re.compile(u'400[0-9]{7}|800[0-9]{7}|0\d{2,3}-\d{5,9}|0\d{2,3}-\d{5,9}')
+        result_mp=regex_mp.findall(phone)
+        result_phone = regex_phone.findall(phone)
+        item['tianyancha_telephone'] = ','.join(result_phone)
+        mobile_contact = filter(lambda x: x[:3] in MOBILE_PREFIX_LIST, set(result_mp))
+        item['tianyancha_mp'] = ','.join(mobile_contact)
+
+        return item
+
+    def update_mongo(self, name, item):
+        if item.get('tianyancha_telephone', '') or item.get('tianyancha_mp', ''):
+            item['tianyancha_status'] = 1
+            item['update_date'] = datetime.datetime.now()
+        else:
+            item['tianyancha_status'] = 2
+
+        if item.get('web_url', ''):
+            mongo_item = self.mongo_db.fill_info.find_one({'company_name': name})
+            if not mongo_item.get('web_url', '') or mongo_item.get('web_status', 2) == 2:
+                item['web_status'] = 0
+            else:
+                del item['web_url']
+        if 'web_url' in item and not item['web_url']:
+            del item['web_url']
+
+        self.mongo_db.fill_info.update(
+            {'company_name': name},
+            {'$set': item}
+        )
+        self.logger.info('%s %s %s %s %s',
+                         'find' if item['tianyancha_status'] == 1 else 'not find',
+                         name,
+                         item.get('tianyancha_mp', ''),
+                         item.get('tianyancha_telephone', ''),
+                         item.get('web_url', '')
+                         )
+
+
+if __name__ == '__main__':
+    dirname = os.path.split(os.path.abspath(sys.argv[0]))[0]
+    log_file = dirname + '/logs/spider.log'
+    logInit(log_file, logging.INFO, True, 0)
+
+    tc = cc = 0
+    while True:
+        try:
+            if datetime.datetime.now().hour < 8 or datetime.datetime.now().hour >= 20:
+                logging.info('sleep time 20:00 - 8:00')
+                time.sleep(10 * 60)
+                continue
+            pc = PcCompany()
+            cc = 0
+            ed = random.randrange(15, 50)
+        except Exception, e:
+            logging.error(str(traceback.format_exc()))
+            time.sleep(10)
+            continue
+
+        while cc <= ed:
+            try:
+                name = pc.get_company()
+                # name = u'山西诚林建设工程有限公司晋中分公司'
+                if not name:
+                    logging.info('no company name need to fetch! sleep 5s')
+                    time.sleep(5)
+                    continue
+                name = name.decode('utf-8')
+                logging.info('fetch company %s', name)
+                item = pc.parse(name)
+                pc.update_mongo(name, item)
+                cc += 1
+                tc += 1
+                logging.info('%d:%d', tc, cc)
+            except Exception, e:
+                logging.error(str(traceback.format_exc()))
+                pc.browser_quit()
+                break
+            time.sleep(random.randrange(4,10))
+

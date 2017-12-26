@@ -1,0 +1,2653 @@
+[WARNING] 2017-11-24 00:11:38,470 browser quit error:[Error 5] 
+[INFO] 2017-11-24 00:11:54,926 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_16 60.28.11.210
+requests: support
+[INFO] 2017-11-24 00:13:15,671 getpagelist one category complete. [master] url=http://shop64342921.taobao.com memberid=64342921 catid=1302147708 catname=pe管件 count=3
+[INFO] 2017-11-24 00:13:15,973 insert records succeed url=http://shop64342921.taobao.com memberid=64342921 category_count=0 page_count=7
+[INFO] 2017-11-24 00:13:15,992 open homepage with selenium url=http://shop64342921.taobao.com memberid=64342921 first_index=0 second_index=-1
+[WARNING] 2017-11-24 00:13:22,469 browser quit error:[Error 5] 
+[INFO] 2017-11-24 00:13:36,351 before url=http://shop64342921.taobao.com
+[INFO] 2017-11-24 00:13:36,410 Starting new HTTP connection (1): shop64342921.taobao.com
+[INFO] 2017-11-24 00:13:36,520 Starting new HTTPS connection (1): shop64342921.taobao.com
+[INFO] 2017-11-24 00:13:36,789 insert new website url=http://shop64342921.taobao.com memberid=64342921
+[INFO] 2017-11-24 00:13:36,809 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-11-24 00:13:36,828 get url from mongo before
+[INFO] 2017-11-24 00:13:37,040 get url from oracle after count=0
+[INFO] 2017-11-24 00:13:37,878 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_49 60.28.110.115
+requests: support
+[INFO] 2017-11-24 00:14:37,076 get url from mongo before
+[INFO] 2017-11-24 00:14:37,279 get url from oracle after count=0
+[INFO] 2017-11-24 00:14:59,020 getpagelist one category complete. [master] url=http://shop64342921.taobao.com memberid=64342921 catid=1302147706 catname=pe盘管 count=2
+[INFO] 2017-11-24 00:15:20,607 getpagelist one category complete. [master] url=http://shop64342921.taobao.com memberid=64342921 catid=1302147707 catname= count=2
+[INFO] 2017-11-24 00:15:37,296 get url from mongo before
+[INFO] 2017-11-24 00:15:37,496 get url from oracle after count=0
+[INFO] 2017-11-24 00:15:52,444 getpagelist one category complete. [master] url=http://shop64342921.taobao.com memberid=64342921 catid=1302147708 catname=pe管件 count=3
+[INFO] 2017-11-24 00:15:52,701 insert records succeed url=http://shop64342921.taobao.com memberid=64342921 category_count=0 page_count=7
+[INFO] 2017-11-24 00:15:52,717 open homepage with selenium url=http://shop64342921.taobao.com memberid=64342921 first_index=0 second_index=-1
+[WARNING] 2017-11-24 00:16:04,857 browser quit error:[Error 5] 
+[INFO] 2017-11-24 00:16:21,153 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_28 125.39.72.39
+requests: support
+[INFO] 2017-11-24 00:16:37,509 get url from mongo before
+[INFO] 2017-11-24 00:16:37,713 get url from oracle after count=0
+[INFO] 2017-11-24 00:17:37,732 get url from mongo before
+[INFO] 2017-11-24 00:17:37,950 get url from oracle after count=0
+[ERROR] 2017-11-24 00:18:08,298 something error! need login
+[INFO] 2017-11-24 00:18:37,967 get url from mongo before
+[INFO] 2017-11-24 00:18:38,170 get url from oracle after count=0
+[INFO] 2017-11-24 00:19:38,322 get url from mongo before
+[INFO] 2017-11-24 00:19:38,536 get url from oracle after count=0
+[INFO] 2017-11-24 00:20:38,552 get url from mongo before
+[INFO] 2017-11-24 00:20:38,762 get url from oracle after count=0
+[INFO] 2017-11-24 00:21:38,775 get url from mongo before
+[INFO] 2017-11-24 00:21:38,983 get url from oracle after count=0
+[INFO] 2017-11-24 00:22:39,003 get url from mongo before
+[INFO] 2017-11-24 00:22:39,209 get url from oracle after count=0
+[INFO] 2017-11-24 00:23:39,226 get url from mongo before
+[INFO] 2017-11-24 00:23:39,345 get url from oracle after count=0
+[INFO] 2017-11-24 00:24:39,367 get url from mongo before
+[INFO] 2017-11-24 00:24:39,566 get url from oracle after count=0
+[INFO] 2017-11-24 00:25:39,578 get url from mongo before
+[INFO] 2017-11-24 00:25:39,792 get url from oracle after count=0
+[INFO] 2017-11-24 00:26:39,808 get url from mongo before
+[INFO] 2017-11-24 00:26:40,016 get url from oracle after count=0
+[INFO] 2017-11-24 00:27:40,035 get url from mongo before
+[INFO] 2017-11-24 00:27:40,246 get url from oracle after count=0
+[INFO] 2017-11-24 00:28:08,312 open homepage with selenium url=http://shop64342921.taobao.com memberid=64342921 first_index=1 second_index=-1
+[WARNING] 2017-11-24 00:28:15,657 browser quit error:[Error 5] 
+[INFO] 2017-11-24 00:28:31,006 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_10 125.39.149.12
+requests: support
+[INFO] 2017-11-24 00:28:40,266 get url from mongo before
+[INFO] 2017-11-24 00:28:40,480 get url from oracle after count=0
+[INFO] 2017-11-24 00:29:40,496 get url from mongo before
+[INFO] 2017-11-24 00:29:40,752 get url from oracle after count=0
+[INFO] 2017-11-24 00:29:53,996 getpagelist one category complete. [master] url=http://shop64342921.taobao.com memberid=64342921 catid=1302147706 catname=pe盘管 count=2
+[INFO] 2017-11-24 00:30:22,819 getpagelist one category complete. [master] url=http://shop64342921.taobao.com memberid=64342921 catid=1302147707 catname=pe直管 count=2
+[INFO] 2017-11-24 00:30:40,775 get url from mongo before
+[INFO] 2017-11-24 00:30:40,997 get url from oracle after count=0
+[INFO] 2017-11-24 00:30:50,673 getpagelist one category complete. [master] url=http://shop64342921.taobao.com memberid=64342921 catid=1302147708 catname=pe管件 count=3
+[INFO] 2017-11-24 00:30:50,977 insert records succeed url=http://shop64342921.taobao.com memberid=64342921 category_count=0 page_count=7
+[INFO] 2017-11-24 00:31:41,013 get url from mongo before
+[INFO] 2017-11-24 00:31:41,216 get url from oracle after count=0
+[INFO] 2017-11-24 00:32:41,303 get url from mongo before
+[INFO] 2017-11-24 00:32:41,494 get url from oracle after count=0
+[INFO] 2017-11-24 00:33:41,510 get url from mongo before
+[INFO] 2017-11-24 00:33:41,730 get url from oracle after count=0
+[INFO] 2017-11-24 00:39:54,552 get url from mongo before
+[INFO] 2017-11-24 00:39:54,770 get url from oracle after count=0
+[INFO] 2017-11-24 00:40:54,786 get url from mongo before
+[INFO] 2017-11-24 00:40:55,032 get url from oracle after count=0
+[INFO] 2017-11-24 00:41:55,049 get url from mongo before
+[INFO] 2017-11-24 00:41:55,256 get url from oracle after count=0
+[INFO] 2017-11-24 00:42:55,272 get url from mongo before
+[INFO] 2017-11-24 00:42:55,494 get url from oracle after count=0
+[INFO] 2017-11-24 00:43:55,507 get url from mongo before
+[INFO] 2017-11-24 00:43:55,756 get url from oracle after count=0
+[INFO] 2017-11-24 00:44:55,766 get url from mongo before
+[INFO] 2017-11-24 00:44:55,970 get url from oracle after count=0
+[INFO] 2017-11-24 00:45:55,990 get url from mongo before
+[INFO] 2017-11-24 00:45:56,209 get url from oracle after count=0
+[INFO] 2017-11-24 00:46:56,219 get url from mongo before
+[INFO] 2017-11-24 00:46:56,420 get url from oracle after count=0
+[INFO] 2017-11-24 00:47:56,443 get url from mongo before
+[INFO] 2017-11-24 00:47:56,667 get url from oracle after count=0
+[INFO] 2017-11-24 00:48:56,681 get url from mongo before
+[INFO] 2017-11-24 00:48:56,907 get url from oracle after count=0
+[INFO] 2017-11-24 00:49:56,930 get url from mongo before
+[INFO] 2017-11-24 00:49:57,153 get url from oracle after count=0
+[INFO] 2017-11-24 00:50:57,170 get url from mongo before
+[INFO] 2017-11-24 00:50:57,394 get url from oracle after count=0
+[INFO] 2017-11-24 00:51:57,417 get url from mongo before
+[INFO] 2017-11-24 00:51:57,638 get url from oracle after count=0
+[INFO] 2017-11-24 00:52:57,655 get url from mongo before
+[INFO] 2017-11-24 00:52:57,858 get url from oracle after count=0
+[INFO] 2017-11-24 00:53:57,872 get url from mongo before
+[INFO] 2017-11-24 00:53:58,109 get url from oracle after count=0
+[INFO] 2017-11-24 00:54:58,141 get url from mongo before
+[INFO] 2017-11-24 00:54:58,365 get url from oracle after count=0
+[INFO] 2017-11-24 00:55:58,394 get url from mongo before
+[INFO] 2017-11-24 00:55:58,605 get url from oracle after count=0
+[INFO] 2017-11-24 00:56:58,621 get url from mongo before
+[INFO] 2017-11-24 00:56:58,914 get url from oracle after count=0
+[INFO] 2017-11-24 00:57:58,930 get url from mongo before
+[INFO] 2017-11-24 00:57:59,155 get url from oracle after count=0
+[INFO] 2017-11-24 00:58:59,171 get url from mongo before
+[INFO] 2017-11-24 00:58:59,398 get url from oracle after count=0
+[INFO] 2017-11-24 00:59:59,411 get url from mongo before
+[INFO] 2017-11-24 00:59:59,641 get url from oracle after count=0
+[INFO] 2017-11-24 01:00:59,661 get url from mongo before
+[INFO] 2017-11-24 01:00:59,862 get url from oracle after count=0
+[INFO] 2017-11-24 01:01:59,878 get url from mongo before
+[INFO] 2017-11-24 01:02:00,105 get url from oracle after count=0
+[INFO] 2017-11-24 01:03:00,125 get url from mongo before
+[INFO] 2017-11-24 01:03:00,361 get url from oracle after count=0
+[INFO] 2017-11-24 01:04:00,375 get url from mongo before
+[INFO] 2017-11-24 01:04:00,585 get url from oracle after count=0
+[INFO] 2017-11-24 01:05:00,598 get url from mongo before
+[INFO] 2017-11-24 01:05:00,822 get url from oracle after count=0
+[INFO] 2017-11-24 01:06:00,836 get url from mongo before
+[INFO] 2017-11-24 01:06:01,059 get url from oracle after count=0
+[INFO] 2017-11-24 01:07:01,075 get url from mongo before
+[INFO] 2017-11-24 01:07:01,288 get url from oracle after count=0
+[INFO] 2017-11-24 01:08:01,315 get url from mongo before
+[INFO] 2017-11-24 01:08:01,519 get url from oracle after count=0
+[INFO] 2017-11-24 01:09:01,539 get url from mongo before
+[INFO] 2017-11-24 01:09:01,744 get url from oracle after count=0
+[INFO] 2017-11-24 01:10:01,759 get url from mongo before
+[INFO] 2017-11-24 01:10:01,984 get url from oracle after count=0
+[INFO] 2017-11-24 01:11:01,997 get url from mongo before
+[INFO] 2017-11-24 01:11:02,211 get url from oracle after count=0
+[INFO] 2017-11-24 01:12:02,227 get url from mongo before
+[INFO] 2017-11-24 01:12:02,453 get url from oracle after count=0
+[INFO] 2017-11-24 01:13:02,469 get url from mongo before
+[INFO] 2017-11-24 01:13:02,691 get url from oracle after count=0
+[INFO] 2017-11-24 01:14:02,706 get url from mongo before
+[INFO] 2017-11-24 01:14:02,917 get url from oracle after count=0
+[INFO] 2017-11-24 01:15:02,936 get url from mongo before
+[INFO] 2017-11-24 01:15:03,164 get url from oracle after count=0
+[INFO] 2017-11-24 01:16:03,178 get url from mongo before
+[INFO] 2017-11-24 01:16:03,401 get url from oracle after count=0
+[INFO] 2017-11-24 01:17:03,415 get url from mongo before
+[INFO] 2017-11-24 01:17:03,644 get url from oracle after count=0
+[INFO] 2017-11-24 01:18:03,657 get url from mongo before
+[INFO] 2017-11-24 01:18:03,887 get url from oracle after count=0
+[INFO] 2017-11-24 01:19:03,903 get url from mongo before
+[INFO] 2017-11-24 01:19:04,131 get url from oracle after count=0
+[INFO] 2017-11-24 01:20:04,150 get url from mongo before
+[INFO] 2017-11-24 01:20:04,372 get url from oracle after count=0
+[INFO] 2017-11-24 01:21:04,394 get url from mongo before
+[INFO] 2017-11-24 01:21:04,615 get url from oracle after count=0
+[INFO] 2017-11-24 01:22:04,631 get url from mongo before
+[INFO] 2017-11-24 01:22:04,857 get url from oracle after count=0
+[INFO] 2017-11-24 01:23:04,878 get url from mongo before
+[INFO] 2017-11-24 01:23:05,088 get url from oracle after count=0
+[INFO] 2017-11-24 01:24:05,108 get url from mongo before
+[INFO] 2017-11-24 01:24:05,305 get url from oracle after count=0
+[INFO] 2017-11-24 01:25:05,319 get url from mongo before
+[INFO] 2017-11-24 01:25:05,528 get url from oracle after count=0
+[INFO] 2017-11-24 01:26:05,540 get url from mongo before
+[INFO] 2017-11-24 01:26:05,842 get url from oracle after count=0
+[INFO] 2017-11-24 01:27:05,861 get url from mongo before
+[INFO] 2017-11-24 01:27:06,109 get url from oracle after count=0
+[INFO] 2017-11-24 01:28:06,131 get url from mongo before
+[INFO] 2017-11-24 01:28:06,338 get url from oracle after count=0
+[INFO] 2017-11-24 01:29:06,358 get url from mongo before
+[INFO] 2017-11-24 01:29:06,559 get url from oracle after count=0
+[INFO] 2017-11-24 01:30:06,569 get url from mongo before
+[INFO] 2017-11-24 01:30:06,782 get url from oracle after count=0
+[INFO] 2017-11-24 01:31:06,795 get url from mongo before
+[INFO] 2017-11-24 01:31:07,009 get url from oracle after count=0
+[INFO] 2017-11-24 01:32:07,049 get url from mongo before
+[INFO] 2017-11-24 01:32:07,259 get url from oracle after count=0
+[INFO] 2017-11-24 01:33:07,272 get url from mongo before
+[INFO] 2017-11-24 01:33:07,484 get url from oracle after count=0
+[INFO] 2017-11-24 01:34:07,510 get url from mongo before
+[INFO] 2017-11-24 01:34:07,720 get url from oracle after count=0
+[INFO] 2017-11-24 01:35:07,733 get url from mongo before
+[INFO] 2017-11-24 01:35:07,959 get url from oracle after count=0
+[INFO] 2017-11-24 01:36:07,977 get url from mongo before
+[INFO] 2017-11-24 01:36:08,167 get url from oracle after count=0
+[INFO] 2017-11-24 01:37:08,180 get url from mongo before
+[INFO] 2017-11-24 01:37:08,394 get url from oracle after count=0
+[INFO] 2017-11-24 01:38:08,405 get url from mongo before
+[INFO] 2017-11-24 01:38:08,615 get url from oracle after count=0
+[INFO] 2017-11-24 01:44:11,473 get url from mongo before
+[INFO] 2017-11-24 01:44:11,737 get url from oracle after count=0
+[INFO] 2017-11-24 01:45:12,019 get url from mongo before
+[INFO] 2017-11-24 01:45:12,216 get url from oracle after count=0
+[INFO] 2017-11-24 01:46:12,232 get url from mongo before
+[INFO] 2017-11-24 01:46:12,447 get url from oracle after count=0
+[INFO] 2017-11-24 01:47:12,464 get url from mongo before
+[INFO] 2017-11-24 01:47:12,687 get url from oracle after count=0
+[INFO] 2017-11-24 01:48:12,703 get url from mongo before
+[INFO] 2017-11-24 01:48:12,917 get url from oracle after count=0
+[INFO] 2017-11-24 01:49:12,936 get url from mongo before
+[INFO] 2017-11-24 01:49:13,176 get url from oracle after count=0
+[INFO] 2017-11-24 01:50:13,193 get url from mongo before
+[INFO] 2017-11-24 01:50:13,391 get url from oracle after count=0
+[INFO] 2017-11-24 01:51:13,404 get url from mongo before
+[INFO] 2017-11-24 01:51:13,634 get url from oracle after count=0
+[INFO] 2017-11-24 01:52:13,653 get url from mongo before
+[INFO] 2017-11-24 01:52:13,888 get url from oracle after count=0
+[INFO] 2017-11-24 01:53:13,907 get url from mongo before
+[INFO] 2017-11-24 01:53:14,121 get url from oracle after count=0
+[INFO] 2017-11-24 01:54:14,134 get url from mongo before
+[INFO] 2017-11-24 01:54:14,358 get url from oracle after count=0
+[INFO] 2017-11-24 01:55:14,381 get url from mongo before
+[INFO] 2017-11-24 01:55:14,584 get url from oracle after count=0
+[INFO] 2017-11-24 01:56:14,599 get url from mongo before
+[INFO] 2017-11-24 01:56:14,822 get url from oracle after count=0
+[INFO] 2017-11-24 01:57:14,865 get url from mongo before
+[INFO] 2017-11-24 01:57:15,076 get url from oracle after count=0
+[INFO] 2017-11-24 01:58:15,101 get url from mongo before
+[INFO] 2017-11-24 01:58:15,319 get url from oracle after count=0
+[INFO] 2017-11-24 01:59:15,339 get url from mongo before
+[INFO] 2017-11-24 01:59:15,548 get url from oracle after count=0
+[INFO] 2017-11-24 02:00:15,561 get url from mongo before
+[INFO] 2017-11-24 02:00:15,773 get url from oracle after count=0
+[INFO] 2017-11-24 02:01:15,891 get url from mongo before
+[INFO] 2017-11-24 02:01:16,081 get url from oracle after count=0
+[INFO] 2017-11-24 02:02:16,099 get url from mongo before
+[INFO] 2017-11-24 02:02:16,365 get url from oracle after count=0
+[INFO] 2017-11-24 02:03:16,378 get url from mongo before
+[INFO] 2017-11-24 02:03:16,584 get url from oracle after count=0
+[INFO] 2017-11-24 02:04:16,595 get url from mongo before
+[INFO] 2017-11-24 02:04:16,802 get url from oracle after count=0
+[INFO] 2017-11-24 02:05:16,819 get url from mongo before
+[INFO] 2017-11-24 02:05:17,109 get url from oracle after count=0
+[INFO] 2017-11-24 02:06:17,118 get url from mongo before
+[INFO] 2017-11-24 02:06:17,331 get url from oracle after count=0
+[INFO] 2017-11-24 02:07:17,342 get url from mongo before
+[INFO] 2017-11-24 02:07:17,584 get url from oracle after count=0
+[INFO] 2017-11-24 02:08:17,605 get url from mongo before
+[INFO] 2017-11-24 02:08:17,828 get url from oracle after count=0
+[INFO] 2017-11-24 02:09:17,841 get url from mongo before
+[INFO] 2017-11-24 02:09:18,065 get url from oracle after count=0
+[INFO] 2017-11-24 02:10:18,082 get url from mongo before
+[INFO] 2017-11-24 02:10:18,296 get url from oracle after count=0
+[INFO] 2017-11-24 02:11:18,309 get url from mongo before
+[INFO] 2017-11-24 02:11:18,523 get url from oracle after count=0
+[INFO] 2017-11-24 02:12:18,540 get url from mongo before
+[INFO] 2017-11-24 02:12:18,755 get url from oracle after count=0
+[INFO] 2017-11-24 02:13:18,772 get url from mongo before
+[INFO] 2017-11-24 02:13:18,990 get url from oracle after count=0
+[INFO] 2017-11-24 02:14:19,105 get url from mongo before
+[INFO] 2017-11-24 02:14:19,328 get url from oracle after count=0
+[INFO] 2017-11-24 02:15:19,348 get url from mongo before
+[INFO] 2017-11-24 02:15:19,559 get url from oracle after count=0
+[INFO] 2017-11-24 02:16:19,572 get url from mongo before
+[INFO] 2017-11-24 02:16:19,769 get url from oracle after count=0
+[INFO] 2017-11-24 02:17:19,786 get url from mongo before
+[INFO] 2017-11-24 02:17:20,013 get url from oracle after count=0
+[INFO] 2017-11-24 02:18:20,032 get url from mongo before
+[INFO] 2017-11-24 02:18:20,260 get url from oracle after count=0
+[INFO] 2017-11-24 02:19:20,279 get url from mongo before
+[INFO] 2017-11-24 02:19:20,496 get url from oracle after count=0
+[INFO] 2017-11-24 02:20:20,506 get url from mongo before
+[INFO] 2017-11-24 02:20:20,720 get url from oracle after count=0
+[INFO] 2017-11-24 02:21:20,736 get url from mongo before
+[INFO] 2017-11-24 02:21:20,963 get url from oracle after count=0
+[INFO] 2017-11-24 02:22:20,983 get url from mongo before
+[INFO] 2017-11-24 02:22:21,200 get url from oracle after count=0
+[INFO] 2017-11-24 02:23:21,220 get url from mongo before
+[INFO] 2017-11-24 02:23:21,440 get url from oracle after count=0
+[INFO] 2017-11-24 02:24:21,456 get url from mongo before
+[INFO] 2017-11-24 02:24:21,664 get url from oracle after count=0
+[INFO] 2017-11-24 02:25:21,680 get url from mongo before
+[INFO] 2017-11-24 02:25:21,888 get url from oracle after count=0
+[INFO] 2017-11-24 02:26:22,161 get url from mongo before
+[INFO] 2017-11-24 02:26:22,395 get url from oracle after count=0
+[INFO] 2017-11-24 02:27:22,408 get url from mongo before
+[INFO] 2017-11-24 02:27:22,631 get url from oracle after count=0
+[INFO] 2017-11-24 02:28:22,645 get url from mongo before
+[INFO] 2017-11-24 02:28:22,862 get url from oracle after count=0
+[INFO] 2017-11-24 02:29:22,875 get url from mongo before
+[INFO] 2017-11-24 02:29:23,092 get url from oracle after count=0
+[INFO] 2017-11-24 02:30:23,107 get url from mongo before
+[INFO] 2017-11-24 02:30:23,335 get url from oracle after count=0
+[INFO] 2017-11-24 02:31:23,354 get url from mongo before
+[INFO] 2017-11-24 02:31:23,592 get url from oracle after count=0
+[INFO] 2017-11-24 02:32:23,608 get url from mongo before
+[INFO] 2017-11-24 02:32:23,828 get url from oracle after count=0
+[INFO] 2017-11-24 02:33:23,842 get url from mongo before
+[INFO] 2017-11-24 02:33:24,042 get url from oracle after count=0
+[INFO] 2017-11-24 02:34:24,059 get url from mongo before
+[INFO] 2017-11-24 02:34:24,288 get url from oracle after count=0
+[INFO] 2017-11-24 02:35:24,302 get url from mongo before
+[INFO] 2017-11-24 02:35:24,533 get url from oracle after count=0
+[INFO] 2017-11-24 02:36:24,548 get url from mongo before
+[INFO] 2017-11-24 02:36:24,776 get url from oracle after count=0
+[INFO] 2017-11-24 02:37:24,848 get url from mongo before
+[INFO] 2017-11-24 02:37:25,076 get url from oracle after count=0
+[INFO] 2017-11-24 02:38:25,089 get url from mongo before
+[INFO] 2017-11-24 02:38:25,312 get url from oracle after count=0
+[INFO] 2017-11-24 02:39:25,319 get url from mongo before
+[INFO] 2017-11-24 02:39:25,536 get url from oracle after count=0
+[INFO] 2017-11-24 02:40:25,553 get url from mongo before
+[INFO] 2017-11-24 02:40:25,766 get url from oracle after count=0
+[INFO] 2017-11-24 02:41:25,782 get url from mongo before
+[INFO] 2017-11-24 02:41:25,996 get url from oracle after count=0
+[INFO] 2017-11-24 02:42:26,010 get url from mongo before
+[INFO] 2017-11-24 02:42:26,226 get url from oracle after count=0
+[INFO] 2017-11-24 02:43:26,243 get url from mongo before
+[INFO] 2017-11-24 02:43:26,464 get url from oracle after count=0
+[INFO] 2017-11-24 02:49:33,101 get url from mongo before
+[INFO] 2017-11-24 02:49:33,334 get url from oracle after count=0
+[INFO] 2017-11-24 02:50:33,355 get url from mongo before
+[INFO] 2017-11-24 02:50:33,572 get url from oracle after count=0
+[INFO] 2017-11-24 02:51:33,602 get url from mongo before
+[INFO] 2017-11-24 02:51:33,829 get url from oracle after count=0
+[INFO] 2017-11-24 02:52:33,865 get url from mongo before
+[INFO] 2017-11-24 02:52:34,091 get url from oracle after count=0
+[INFO] 2017-11-24 02:53:34,115 get url from mongo before
+[INFO] 2017-11-24 02:53:34,342 get url from oracle after count=0
+[INFO] 2017-11-24 02:54:34,362 get url from mongo before
+[INFO] 2017-11-24 02:54:34,568 get url from oracle after count=0
+[INFO] 2017-11-24 02:55:34,581 get url from mongo before
+[INFO] 2017-11-24 02:55:34,776 get url from oracle after count=0
+[INFO] 2017-11-24 02:56:34,789 get url from mongo before
+[INFO] 2017-11-24 02:56:34,993 get url from oracle after count=0
+[INFO] 2017-11-24 02:57:35,017 get url from mongo before
+[INFO] 2017-11-24 02:57:35,232 get url from oracle after count=0
+[INFO] 2017-11-24 02:58:35,253 get url from mongo before
+[INFO] 2017-11-24 02:58:35,469 get url from oracle after count=0
+[INFO] 2017-11-24 02:59:35,482 get url from mongo before
+[INFO] 2017-11-24 02:59:35,693 get url from oracle after count=0
+[INFO] 2017-11-24 03:00:35,707 get url from mongo before
+[INFO] 2017-11-24 03:00:35,931 get url from oracle after count=0
+[INFO] 2017-11-24 03:01:35,948 get url from mongo before
+[INFO] 2017-11-24 03:01:36,171 get url from oracle after count=0
+[INFO] 2017-11-24 03:02:36,193 get url from mongo before
+[INFO] 2017-11-24 03:02:36,401 get url from oracle after count=0
+[INFO] 2017-11-24 03:03:36,421 get url from mongo before
+[INFO] 2017-11-24 03:03:36,638 get url from oracle after count=0
+[INFO] 2017-11-24 03:04:36,648 get url from mongo before
+[INFO] 2017-11-24 03:04:36,871 get url from oracle after count=0
+[INFO] 2017-11-24 03:05:36,887 get url from mongo before
+[INFO] 2017-11-24 03:05:37,101 get url from oracle after count=0
+[INFO] 2017-11-24 03:06:37,119 get url from mongo before
+[INFO] 2017-11-24 03:06:37,361 get url from oracle after count=0
+[INFO] 2017-11-24 03:07:37,378 get url from mongo before
+[INFO] 2017-11-24 03:07:37,614 get url from oracle after count=0
+[INFO] 2017-11-24 03:08:37,628 get url from mongo before
+[INFO] 2017-11-24 03:08:37,838 get url from oracle after count=0
+[INFO] 2017-11-24 03:09:37,861 get url from mongo before
+[INFO] 2017-11-24 03:09:38,088 get url from oracle after count=0
+[INFO] 2017-11-24 03:10:38,105 get url from mongo before
+[INFO] 2017-11-24 03:10:38,322 get url from oracle after count=0
+[INFO] 2017-11-24 03:11:38,348 get url from mongo before
+[INFO] 2017-11-24 03:11:38,585 get url from oracle after count=0
+[INFO] 2017-11-24 03:12:38,604 get url from mongo before
+[INFO] 2017-11-24 03:12:38,819 get url from oracle after count=0
+[INFO] 2017-11-24 03:13:38,835 get url from mongo before
+[INFO] 2017-11-24 03:13:39,051 get url from oracle after count=0
+[INFO] 2017-11-24 03:14:39,071 get url from mongo before
+[INFO] 2017-11-24 03:14:39,279 get url from oracle after count=0
+[INFO] 2017-11-24 03:15:39,292 get url from mongo before
+[INFO] 2017-11-24 03:15:39,519 get url from oracle after count=0
+[INFO] 2017-11-24 03:16:39,540 get url from mongo before
+[INFO] 2017-11-24 03:16:39,750 get url from oracle after count=0
+[INFO] 2017-11-24 03:17:39,765 get url from mongo before
+[INFO] 2017-11-24 03:17:40,048 get url from oracle after count=0
+[INFO] 2017-11-24 03:18:40,066 get url from mongo before
+[INFO] 2017-11-24 03:18:40,299 get url from oracle after count=0
+[INFO] 2017-11-24 03:19:40,318 get url from mongo before
+[INFO] 2017-11-24 03:19:40,566 get url from oracle after count=0
+[INFO] 2017-11-24 03:20:40,579 get url from mongo before
+[INFO] 2017-11-24 03:20:40,796 get url from oracle after count=0
+[INFO] 2017-11-24 03:21:40,815 get url from mongo before
+[INFO] 2017-11-24 03:21:41,032 get url from oracle after count=0
+[INFO] 2017-11-24 03:22:41,051 get url from mongo before
+[INFO] 2017-11-24 03:22:41,267 get url from oracle after count=0
+[INFO] 2017-11-24 03:23:41,282 get url from mongo before
+[INFO] 2017-11-24 03:23:41,496 get url from oracle after count=0
+[INFO] 2017-11-24 03:24:41,506 get url from mongo before
+[INFO] 2017-11-24 03:24:41,717 get url from oracle after count=0
+[INFO] 2017-11-24 03:25:41,730 get url from mongo before
+[INFO] 2017-11-24 03:25:41,951 get url from oracle after count=0
+[INFO] 2017-11-24 03:26:41,966 get url from mongo before
+[INFO] 2017-11-24 03:26:42,178 get url from oracle after count=0
+[INFO] 2017-11-24 03:27:42,197 get url from mongo before
+[INFO] 2017-11-24 03:27:42,418 get url from oracle after count=0
+[INFO] 2017-11-24 03:28:42,431 get url from mongo before
+[INFO] 2017-11-24 03:28:42,638 get url from oracle after count=0
+[INFO] 2017-11-24 03:29:42,657 get url from mongo before
+[INFO] 2017-11-24 03:29:42,875 get url from oracle after count=0
+[INFO] 2017-11-24 03:30:42,894 get url from mongo before
+[INFO] 2017-11-24 03:30:43,128 get url from oracle after count=0
+[INFO] 2017-11-24 03:31:43,148 get url from mongo before
+[INFO] 2017-11-24 03:31:43,358 get url from oracle after count=0
+[INFO] 2017-11-24 03:32:43,371 get url from mongo before
+[INFO] 2017-11-24 03:32:43,582 get url from oracle after count=0
+[INFO] 2017-11-24 03:33:43,595 get url from mongo before
+[INFO] 2017-11-24 03:33:43,875 get url from oracle after count=0
+[INFO] 2017-11-24 03:34:43,898 get url from mongo before
+[INFO] 2017-11-24 03:34:44,111 get url from oracle after count=0
+[INFO] 2017-11-24 03:35:44,130 get url from mongo before
+[INFO] 2017-11-24 03:35:44,355 get url from oracle after count=0
+[INFO] 2017-11-24 03:36:44,374 get url from mongo before
+[INFO] 2017-11-24 03:36:44,598 get url from oracle after count=0
+[INFO] 2017-11-24 03:37:44,615 get url from mongo before
+[INFO] 2017-11-24 03:37:44,825 get url from oracle after count=0
+[INFO] 2017-11-24 03:38:44,845 get url from mongo before
+[INFO] 2017-11-24 03:38:45,055 get url from oracle after count=0
+[INFO] 2017-11-24 03:39:45,075 get url from mongo before
+[INFO] 2017-11-24 03:39:45,279 get url from oracle after count=0
+[INFO] 2017-11-24 03:40:45,299 get url from mongo before
+[INFO] 2017-11-24 03:40:45,519 get url from oracle after count=0
+[INFO] 2017-11-24 03:41:45,530 get url from mongo before
+[INFO] 2017-11-24 03:41:45,749 get url from oracle after count=0
+[INFO] 2017-11-24 03:42:45,769 get url from mongo before
+[INFO] 2017-11-24 03:42:46,003 get url from oracle after count=0
+[INFO] 2017-11-24 03:43:46,022 get url from mongo before
+[INFO] 2017-11-24 03:43:46,236 get url from oracle after count=0
+[INFO] 2017-11-24 03:44:46,253 get url from mongo before
+[INFO] 2017-11-24 03:44:46,457 get url from oracle after count=0
+[INFO] 2017-11-24 03:45:46,579 get url from mongo before
+[INFO] 2017-11-24 03:45:46,799 get url from oracle after count=0
+[INFO] 2017-11-24 03:46:46,819 get url from mongo before
+[INFO] 2017-11-24 03:46:47,028 get url from oracle after count=0
+[INFO] 2017-11-24 03:47:47,046 get url from mongo before
+[INFO] 2017-11-24 03:47:47,249 get url from oracle after count=0
+[INFO] 2017-11-24 03:48:47,266 get url from mongo before
+[INFO] 2017-11-24 03:48:47,522 get url from oracle after count=0
+[INFO] 2017-11-24 03:54:53,490 get url from mongo before
+[INFO] 2017-11-24 03:54:53,727 get url from oracle after count=0
+[INFO] 2017-11-24 03:55:53,749 get url from mongo before
+[INFO] 2017-11-24 03:55:53,993 get url from oracle after count=0
+[INFO] 2017-11-24 03:56:54,002 get url from mongo before
+[INFO] 2017-11-24 03:56:54,214 get url from oracle after count=0
+[INFO] 2017-11-24 03:57:54,233 get url from mongo before
+[INFO] 2017-11-24 03:57:54,461 get url from oracle after count=0
+[INFO] 2017-11-24 03:58:54,473 get url from mongo before
+[INFO] 2017-11-24 03:58:54,693 get url from oracle after count=0
+[INFO] 2017-11-24 03:59:54,707 get url from mongo before
+[INFO] 2017-11-24 03:59:54,948 get url from oracle after count=0
+[INFO] 2017-11-24 04:00:54,964 get url from mongo before
+[INFO] 2017-11-24 04:00:55,177 get url from oracle after count=0
+[INFO] 2017-11-24 04:01:55,194 get url from mongo before
+[INFO] 2017-11-24 04:01:55,404 get url from oracle after count=0
+[INFO] 2017-11-24 04:02:55,415 get url from mongo before
+[INFO] 2017-11-24 04:02:55,632 get url from oracle after count=0
+[INFO] 2017-11-24 04:03:55,651 get url from mongo before
+[INFO] 2017-11-24 04:03:55,868 get url from oracle after count=0
+[INFO] 2017-11-24 04:04:55,881 get url from mongo before
+[INFO] 2017-11-24 04:04:56,118 get url from oracle after count=0
+[INFO] 2017-11-24 04:05:56,140 get url from mongo before
+[INFO] 2017-11-24 04:05:56,368 get url from oracle after count=0
+[INFO] 2017-11-24 04:06:56,384 get url from mongo before
+[INFO] 2017-11-24 04:06:56,617 get url from oracle after count=0
+[INFO] 2017-11-24 04:07:56,640 get url from mongo before
+[INFO] 2017-11-24 04:07:56,894 get url from oracle after count=0
+[INFO] 2017-11-24 04:08:56,917 get url from mongo before
+[INFO] 2017-11-24 04:08:57,154 get url from oracle after count=0
+[INFO] 2017-11-24 04:09:57,173 get url from mongo before
+[INFO] 2017-11-24 04:09:57,380 get url from oracle after count=0
+[INFO] 2017-11-24 04:10:57,398 get url from mongo before
+[INFO] 2017-11-24 04:10:57,618 get url from oracle after count=0
+[INFO] 2017-11-24 04:11:57,631 get url from mongo before
+[INFO] 2017-11-24 04:11:57,844 get url from oracle after count=0
+[INFO] 2017-11-24 04:12:57,867 get url from mongo before
+[INFO] 2017-11-24 04:12:58,099 get url from oracle after count=0
+[INFO] 2017-11-24 04:13:58,117 get url from mongo before
+[INFO] 2017-11-24 04:13:58,339 get url from oracle after count=0
+[INFO] 2017-11-24 04:14:58,371 get url from mongo before
+[INFO] 2017-11-24 04:14:58,582 get url from oracle after count=0
+[INFO] 2017-11-24 04:15:58,595 get url from mongo before
+[INFO] 2017-11-24 04:15:58,812 get url from oracle after count=0
+[INFO] 2017-11-24 04:16:58,828 get url from mongo before
+[INFO] 2017-11-24 04:16:59,052 get url from oracle after count=0
+[INFO] 2017-11-24 04:17:59,072 get url from mongo before
+[INFO] 2017-11-24 04:17:59,328 get url from oracle after count=0
+[INFO] 2017-11-24 04:18:59,351 get url from mongo before
+[INFO] 2017-11-24 04:18:59,573 get url from oracle after count=0
+[INFO] 2017-11-24 04:19:59,592 get url from mongo before
+[INFO] 2017-11-24 04:19:59,828 get url from oracle after count=0
+[INFO] 2017-11-24 04:20:59,854 get url from mongo before
+[INFO] 2017-11-24 04:21:00,062 get url from oracle after count=0
+[INFO] 2017-11-24 04:22:00,078 get url from mongo before
+[INFO] 2017-11-24 04:22:00,278 get url from oracle after count=0
+[INFO] 2017-11-24 04:23:00,290 get url from mongo before
+[INFO] 2017-11-24 04:23:00,517 get url from oracle after count=0
+[INFO] 2017-11-24 04:24:00,542 get url from mongo before
+[INFO] 2017-11-24 04:24:00,759 get url from oracle after count=0
+[INFO] 2017-11-24 04:25:00,782 get url from mongo before
+[INFO] 2017-11-24 04:25:01,013 get url from oracle after count=0
+[INFO] 2017-11-24 04:26:01,032 get url from mongo before
+[INFO] 2017-11-24 04:26:01,269 get url from oracle after count=0
+[INFO] 2017-11-24 04:27:01,286 get url from mongo before
+[INFO] 2017-11-24 04:27:01,513 get url from oracle after count=0
+[INFO] 2017-11-24 04:28:01,523 get url from mongo before
+[INFO] 2017-11-24 04:28:01,779 get url from oracle after count=0
+[INFO] 2017-11-24 04:29:01,796 get url from mongo before
+[INFO] 2017-11-24 04:29:02,016 get url from oracle after count=0
+[INFO] 2017-11-24 04:30:02,030 get url from mongo before
+[INFO] 2017-11-24 04:30:02,263 get url from oracle after count=0
+[INFO] 2017-11-24 04:31:02,282 get url from mongo before
+[INFO] 2017-11-24 04:31:02,503 get url from oracle after count=0
+[INFO] 2017-11-24 04:32:02,516 get url from mongo before
+[INFO] 2017-11-24 04:32:02,733 get url from oracle after count=0
+[INFO] 2017-11-24 04:33:02,750 get url from mongo before
+[INFO] 2017-11-24 04:33:02,971 get url from oracle after count=0
+[INFO] 2017-11-24 04:34:02,986 get url from mongo before
+[INFO] 2017-11-24 04:34:03,197 get url from oracle after count=0
+[INFO] 2017-11-24 04:35:03,210 get url from mongo before
+[INFO] 2017-11-24 04:35:03,431 get url from oracle after count=0
+[INFO] 2017-11-24 04:36:03,453 get url from mongo before
+[INFO] 2017-11-24 04:36:03,671 get url from oracle after count=0
+[INFO] 2017-11-24 04:37:03,700 get url from mongo before
+[INFO] 2017-11-24 04:37:03,927 get url from oracle after count=0
+[INFO] 2017-11-24 04:38:03,946 get url from mongo before
+[INFO] 2017-11-24 04:38:04,171 get url from oracle after count=0
+[INFO] 2017-11-24 04:39:04,184 get url from mongo before
+[INFO] 2017-11-24 04:39:04,414 get url from oracle after count=0
+[INFO] 2017-11-24 04:40:04,431 get url from mongo before
+[INFO] 2017-11-24 04:40:04,655 get url from oracle after count=0
+[INFO] 2017-11-24 04:41:04,673 get url from mongo before
+[INFO] 2017-11-24 04:41:04,884 get url from oracle after count=0
+[INFO] 2017-11-24 04:42:04,907 get url from mongo before
+[INFO] 2017-11-24 04:42:05,127 get url from oracle after count=0
+[INFO] 2017-11-24 04:43:05,157 get url from mongo before
+[INFO] 2017-11-24 04:43:05,368 get url from oracle after count=0
+[INFO] 2017-11-24 04:44:05,385 get url from mongo before
+[INFO] 2017-11-24 04:44:05,615 get url from oracle after count=0
+[INFO] 2017-11-24 04:45:05,631 get url from mongo before
+[INFO] 2017-11-24 04:45:05,858 get url from oracle after count=0
+[INFO] 2017-11-24 04:46:05,872 get url from mongo before
+[INFO] 2017-11-24 04:46:06,095 get url from oracle after count=0
+[INFO] 2017-11-24 04:47:06,118 get url from mongo before
+[INFO] 2017-11-24 04:47:06,328 get url from oracle after count=0
+[INFO] 2017-11-24 04:48:06,348 get url from mongo before
+[INFO] 2017-11-24 04:48:06,566 get url from oracle after count=0
+[INFO] 2017-11-24 04:49:06,585 get url from mongo before
+[INFO] 2017-11-24 04:49:06,805 get url from oracle after count=0
+[INFO] 2017-11-24 04:50:06,822 get url from mongo before
+[INFO] 2017-11-24 04:50:07,069 get url from oracle after count=0
+[INFO] 2017-11-24 04:51:07,085 get url from mongo before
+[INFO] 2017-11-24 04:51:07,484 get url from oracle after count=0
+[INFO] 2017-11-24 04:52:07,499 get url from mongo before
+[INFO] 2017-11-24 04:52:07,724 get url from oracle after count=0
+[INFO] 2017-11-24 04:53:07,737 get url from mongo before
+[INFO] 2017-11-24 04:53:07,960 get url from oracle after count=0
+[INFO] 2017-11-24 04:54:07,976 get url from mongo before
+[INFO] 2017-11-24 04:54:08,178 get url from oracle after count=0
+[INFO] 2017-11-24 05:00:07,950 get url from mongo before
+[INFO] 2017-11-24 05:00:08,211 get url from oracle after count=0
+[INFO] 2017-11-24 05:01:08,223 get url from mongo before
+[INFO] 2017-11-24 05:01:08,447 get url from oracle after count=0
+[INFO] 2017-11-24 05:02:08,459 get url from mongo before
+[INFO] 2017-11-24 05:02:08,696 get url from oracle after count=0
+[INFO] 2017-11-24 05:03:08,707 get url from mongo before
+[INFO] 2017-11-24 05:03:08,914 get url from oracle after count=0
+[INFO] 2017-11-24 05:04:08,933 get url from mongo before
+[INFO] 2017-11-24 05:04:09,140 get url from oracle after count=0
+[INFO] 2017-11-24 05:05:09,154 get url from mongo before
+[INFO] 2017-11-24 05:05:09,359 get url from oracle after count=0
+[INFO] 2017-11-24 05:06:09,377 get url from mongo before
+[INFO] 2017-11-24 05:06:09,608 get url from oracle after count=0
+[INFO] 2017-11-24 05:07:09,625 get url from mongo before
+[INFO] 2017-11-24 05:07:09,842 get url from oracle after count=0
+[INFO] 2017-11-24 05:08:09,858 get url from mongo before
+[INFO] 2017-11-24 05:08:10,069 get url from oracle after count=0
+[INFO] 2017-11-24 05:09:10,082 get url from mongo before
+[INFO] 2017-11-24 05:09:10,315 get url from oracle after count=0
+[INFO] 2017-11-24 05:10:10,332 get url from mongo before
+[INFO] 2017-11-24 05:10:10,546 get url from oracle after count=0
+[INFO] 2017-11-24 05:11:10,556 get url from mongo before
+[INFO] 2017-11-24 05:11:10,914 get url from oracle after count=0
+[INFO] 2017-11-24 05:12:10,928 get url from mongo before
+[INFO] 2017-11-24 05:12:11,141 get url from oracle after count=0
+[INFO] 2017-11-24 05:13:11,164 get url from mongo before
+[INFO] 2017-11-24 05:13:11,365 get url from oracle after count=0
+[INFO] 2017-11-24 05:14:11,378 get url from mongo before
+[INFO] 2017-11-24 05:14:11,621 get url from oracle after count=0
+[INFO] 2017-11-24 05:15:11,640 get url from mongo before
+[INFO] 2017-11-24 05:15:11,861 get url from oracle after count=0
+[INFO] 2017-11-24 05:16:11,891 get url from mongo before
+[INFO] 2017-11-24 05:16:12,119 get url from oracle after count=0
+[INFO] 2017-11-24 05:17:12,134 get url from mongo before
+[INFO] 2017-11-24 05:17:12,342 get url from oracle after count=0
+[INFO] 2017-11-24 05:18:12,354 get url from mongo before
+[INFO] 2017-11-24 05:18:12,582 get url from oracle after count=0
+[INFO] 2017-11-24 05:19:12,595 get url from mongo before
+[INFO] 2017-11-24 05:19:12,815 get url from oracle after count=0
+[INFO] 2017-11-24 05:20:12,832 get url from mongo before
+[INFO] 2017-11-24 05:20:13,082 get url from oracle after count=0
+[INFO] 2017-11-24 05:21:13,302 get url from mongo before
+[INFO] 2017-11-24 05:21:13,512 get url from oracle after count=0
+[INFO] 2017-11-24 05:22:13,525 get url from mongo before
+[INFO] 2017-11-24 05:22:13,730 get url from oracle after count=0
+[INFO] 2017-11-24 05:23:13,746 get url from mongo before
+[INFO] 2017-11-24 05:23:13,996 get url from oracle after count=0
+[INFO] 2017-11-24 05:24:14,012 get url from mongo before
+[INFO] 2017-11-24 05:24:14,232 get url from oracle after count=0
+[INFO] 2017-11-24 05:25:14,246 get url from mongo before
+[INFO] 2017-11-24 05:25:14,469 get url from oracle after count=0
+[INFO] 2017-11-24 05:26:14,493 get url from mongo before
+[INFO] 2017-11-24 05:26:14,710 get url from oracle after count=0
+[INFO] 2017-11-24 05:27:14,730 get url from mongo before
+[INFO] 2017-11-24 05:27:14,973 get url from oracle after count=0
+[INFO] 2017-11-24 05:28:14,987 get url from mongo before
+[INFO] 2017-11-24 05:28:15,203 get url from oracle after count=0
+[INFO] 2017-11-24 05:29:15,217 get url from mongo before
+[INFO] 2017-11-24 05:29:15,446 get url from oracle after count=0
+[INFO] 2017-11-24 05:30:15,471 get url from mongo before
+[INFO] 2017-11-24 05:30:15,697 get url from oracle after count=0
+[INFO] 2017-11-24 05:31:15,714 get url from mongo before
+[INFO] 2017-11-24 05:31:15,940 get url from oracle after count=0
+[INFO] 2017-11-24 05:32:15,956 get url from mongo before
+[INFO] 2017-11-24 05:32:16,194 get url from oracle after count=0
+[INFO] 2017-11-24 05:33:16,207 get url from mongo before
+[INFO] 2017-11-24 05:33:16,457 get url from oracle after count=0
+[INFO] 2017-11-24 05:34:16,473 get url from mongo before
+[INFO] 2017-11-24 05:34:16,694 get url from oracle after count=0
+[INFO] 2017-11-24 05:35:16,709 get url from mongo before
+[INFO] 2017-11-24 05:35:16,943 get url from oracle after count=0
+[INFO] 2017-11-24 05:36:16,960 get url from mongo before
+[INFO] 2017-11-24 05:36:17,180 get url from oracle after count=0
+[INFO] 2017-11-24 05:37:17,204 get url from mongo before
+[INFO] 2017-11-24 05:37:17,413 get url from oracle after count=0
+[INFO] 2017-11-24 05:38:17,431 get url from mongo before
+[INFO] 2017-11-24 05:38:17,655 get url from oracle after count=0
+[INFO] 2017-11-24 05:39:17,674 get url from mongo before
+[INFO] 2017-11-24 05:39:17,888 get url from oracle after count=0
+[INFO] 2017-11-24 05:40:17,898 get url from mongo before
+[INFO] 2017-11-24 05:40:18,108 get url from oracle after count=0
+[INFO] 2017-11-24 05:41:18,127 get url from mongo before
+[INFO] 2017-11-24 05:41:18,355 get url from oracle after count=0
+[INFO] 2017-11-24 05:42:18,375 get url from mongo before
+[INFO] 2017-11-24 05:42:18,575 get url from oracle after count=0
+[INFO] 2017-11-24 05:43:18,591 get url from mongo before
+[INFO] 2017-11-24 05:43:18,803 get url from oracle after count=0
+[INFO] 2017-11-24 05:44:18,821 get url from mongo before
+[INFO] 2017-11-24 05:44:19,051 get url from oracle after count=0
+[INFO] 2017-11-24 05:45:19,066 get url from mongo before
+[INFO] 2017-11-24 05:45:19,273 get url from oracle after count=0
+[INFO] 2017-11-24 05:46:19,286 get url from mongo before
+[INFO] 2017-11-24 05:46:19,494 get url from oracle after count=0
+[INFO] 2017-11-24 05:47:19,507 get url from mongo before
+[INFO] 2017-11-24 05:47:19,726 get url from oracle after count=0
+[INFO] 2017-11-24 05:48:19,742 get url from mongo before
+[INFO] 2017-11-24 05:48:19,973 get url from oracle after count=0
+[INFO] 2017-11-24 05:49:19,992 get url from mongo before
+[INFO] 2017-11-24 05:49:20,197 get url from oracle after count=0
+[INFO] 2017-11-24 05:50:20,213 get url from mongo before
+[INFO] 2017-11-24 05:50:20,437 get url from oracle after count=0
+[INFO] 2017-11-24 05:51:20,450 get url from mongo before
+[INFO] 2017-11-24 05:51:20,687 get url from oracle after count=0
+[INFO] 2017-11-24 05:52:20,703 get url from mongo before
+[INFO] 2017-11-24 05:52:20,938 get url from oracle after count=0
+[INFO] 2017-11-24 05:53:20,950 get url from mongo before
+[INFO] 2017-11-24 05:53:21,176 get url from oracle after count=0
+[INFO] 2017-11-24 05:54:21,184 get url from mongo before
+[INFO] 2017-11-24 05:54:21,411 get url from oracle after count=0
+[INFO] 2017-11-24 05:55:21,423 get url from mongo before
+[INFO] 2017-11-24 05:55:21,743 get url from oracle after count=0
+[INFO] 2017-11-24 05:56:21,762 get url from mongo before
+[INFO] 2017-11-24 05:56:21,993 get url from oracle after count=0
+[INFO] 2017-11-24 05:57:22,006 get url from mongo before
+[INFO] 2017-11-24 05:57:22,233 get url from oracle after count=0
+[INFO] 2017-11-24 05:58:22,299 get url from mongo before
+[INFO] 2017-11-24 05:58:22,500 get url from oracle after count=0
+[INFO] 2017-11-24 06:04:32,601 get url from mongo before
+[INFO] 2017-11-24 06:04:32,801 get url from oracle after count=0
+[INFO] 2017-11-24 06:05:32,819 get url from mongo before
+[INFO] 2017-11-24 06:05:33,049 get url from oracle after count=0
+[INFO] 2017-11-24 06:06:33,059 get url from mongo before
+[INFO] 2017-11-24 06:06:33,289 get url from oracle after count=0
+[INFO] 2017-11-24 06:07:33,305 get url from mongo before
+[INFO] 2017-11-24 06:07:33,539 get url from oracle after count=0
+[INFO] 2017-11-24 06:08:33,558 get url from mongo before
+[INFO] 2017-11-24 06:08:33,776 get url from oracle after count=0
+[INFO] 2017-11-24 06:09:33,788 get url from mongo before
+[INFO] 2017-11-24 06:09:34,013 get url from oracle after count=0
+[INFO] 2017-11-24 06:10:34,029 get url from mongo before
+[INFO] 2017-11-24 06:10:34,252 get url from oracle after count=0
+[INFO] 2017-11-24 06:11:34,262 get url from mongo before
+[INFO] 2017-11-24 06:11:34,489 get url from oracle after count=0
+[INFO] 2017-11-24 06:12:34,516 get url from mongo before
+[INFO] 2017-11-24 06:12:34,789 get url from oracle after count=0
+[INFO] 2017-11-24 06:13:34,806 get url from mongo before
+[INFO] 2017-11-24 06:13:35,013 get url from oracle after count=0
+[INFO] 2017-11-24 06:14:35,032 get url from mongo before
+[INFO] 2017-11-24 06:14:35,290 get url from oracle after count=0
+[INFO] 2017-11-24 06:15:35,311 get url from mongo before
+[INFO] 2017-11-24 06:15:35,529 get url from oracle after count=0
+[INFO] 2017-11-24 06:16:35,542 get url from mongo before
+[INFO] 2017-11-24 06:16:35,746 get url from oracle after count=0
+[INFO] 2017-11-24 06:17:35,759 get url from mongo before
+[INFO] 2017-11-24 06:17:35,983 get url from oracle after count=0
+[INFO] 2017-11-24 06:18:36,010 get url from mongo before
+[INFO] 2017-11-24 06:18:36,217 get url from oracle after count=0
+[INFO] 2017-11-24 06:19:36,236 get url from mongo before
+[INFO] 2017-11-24 06:19:36,450 get url from oracle after count=0
+[INFO] 2017-11-24 06:20:36,467 get url from mongo before
+[INFO] 2017-11-24 06:20:36,683 get url from oracle after count=0
+[INFO] 2017-11-24 06:21:36,700 get url from mongo before
+[INFO] 2017-11-24 06:21:36,944 get url from oracle after count=0
+[INFO] 2017-11-24 06:22:36,956 get url from mongo before
+[INFO] 2017-11-24 06:22:37,180 get url from oracle after count=0
+[INFO] 2017-11-24 06:23:37,191 get url from mongo before
+[INFO] 2017-11-24 06:23:37,424 get url from oracle after count=0
+[INFO] 2017-11-24 06:24:37,454 get url from mongo before
+[INFO] 2017-11-24 06:24:37,665 get url from oracle after count=0
+[INFO] 2017-11-24 06:25:37,681 get url from mongo before
+[INFO] 2017-11-24 06:25:37,904 get url from oracle after count=0
+[INFO] 2017-11-24 06:26:37,930 get url from mongo before
+[INFO] 2017-11-24 06:26:38,161 get url from oracle after count=0
+[INFO] 2017-11-24 06:27:38,168 get url from mongo before
+[INFO] 2017-11-24 06:27:38,398 get url from oracle after count=0
+[INFO] 2017-11-24 06:28:38,415 get url from mongo before
+[INFO] 2017-11-24 06:28:38,635 get url from oracle after count=0
+[INFO] 2017-11-24 06:29:38,654 get url from mongo before
+[INFO] 2017-11-24 06:29:38,877 get url from oracle after count=0
+[INFO] 2017-11-24 06:30:38,898 get url from mongo before
+[INFO] 2017-11-24 06:30:39,108 get url from oracle after count=0
+[INFO] 2017-11-24 06:31:39,122 get url from mongo before
+[INFO] 2017-11-24 06:31:39,351 get url from oracle after count=0
+[INFO] 2017-11-24 06:32:39,368 get url from mongo before
+[INFO] 2017-11-24 06:32:39,608 get url from oracle after count=0
+[INFO] 2017-11-24 06:33:39,618 get url from mongo before
+[INFO] 2017-11-24 06:33:39,832 get url from oracle after count=0
+[INFO] 2017-11-24 06:34:39,844 get url from mongo before
+[INFO] 2017-11-24 06:34:40,105 get url from oracle after count=0
+[INFO] 2017-11-24 06:35:40,124 get url from mongo before
+[INFO] 2017-11-24 06:35:40,361 get url from oracle after count=0
+[INFO] 2017-11-24 06:36:40,371 get url from mongo before
+[INFO] 2017-11-24 06:36:40,500 get url from oracle after count=0
+[INFO] 2017-11-24 06:37:40,525 get url from mongo before
+[INFO] 2017-11-24 06:37:40,736 get url from oracle after count=0
+[INFO] 2017-11-24 06:38:40,755 get url from mongo before
+[INFO] 2017-11-24 06:38:40,967 get url from oracle after count=0
+[INFO] 2017-11-24 06:39:40,979 get url from mongo before
+[INFO] 2017-11-24 06:39:41,191 get url from oracle after count=0
+[INFO] 2017-11-24 06:40:41,368 get url from mongo before
+[INFO] 2017-11-24 06:40:41,592 get url from oracle after count=0
+[INFO] 2017-11-24 06:41:41,612 get url from mongo before
+[INFO] 2017-11-24 06:41:41,819 get url from oracle after count=0
+[INFO] 2017-11-24 06:42:41,838 get url from mongo before
+[INFO] 2017-11-24 06:42:42,052 get url from oracle after count=0
+[INFO] 2017-11-24 06:43:42,059 get url from mongo before
+[INFO] 2017-11-24 06:43:42,279 get url from oracle after count=0
+[INFO] 2017-11-24 06:44:42,299 get url from mongo before
+[INFO] 2017-11-24 06:44:42,509 get url from oracle after count=0
+[INFO] 2017-11-24 06:45:42,535 get url from mongo before
+[INFO] 2017-11-24 06:45:42,812 get url from oracle after count=0
+[INFO] 2017-11-24 06:46:42,832 get url from mongo before
+[INFO] 2017-11-24 06:46:43,039 get url from oracle after count=0
+[INFO] 2017-11-24 06:47:43,059 get url from mongo before
+[INFO] 2017-11-24 06:47:43,276 get url from oracle after count=0
+[INFO] 2017-11-24 06:48:43,288 get url from mongo before
+[INFO] 2017-11-24 06:48:43,513 get url from oracle after count=0
+[INFO] 2017-11-24 06:49:43,523 get url from mongo before
+[INFO] 2017-11-24 06:49:43,743 get url from oracle after count=0
+[INFO] 2017-11-24 06:50:43,755 get url from mongo before
+[INFO] 2017-11-24 06:50:43,973 get url from oracle after count=0
+[INFO] 2017-11-24 06:51:43,994 get url from mongo before
+[INFO] 2017-11-24 06:51:44,286 get url from oracle after count=0
+[INFO] 2017-11-24 06:52:44,365 get url from mongo before
+[INFO] 2017-11-24 06:52:44,592 get url from oracle after count=0
+[INFO] 2017-11-24 06:53:44,604 get url from mongo before
+[INFO] 2017-11-24 06:53:44,812 get url from oracle after count=0
+[INFO] 2017-11-24 06:54:44,835 get url from mongo before
+[INFO] 2017-11-24 06:54:45,056 get url from oracle after count=0
+[INFO] 2017-11-24 06:55:45,072 get url from mongo before
+[INFO] 2017-11-24 06:55:45,292 get url from oracle after count=0
+[INFO] 2017-11-24 06:56:45,303 get url from mongo before
+[INFO] 2017-11-24 06:56:45,506 get url from oracle after count=0
+[INFO] 2017-11-24 06:57:45,520 get url from mongo before
+[INFO] 2017-11-24 06:57:45,734 get url from oracle after count=0
+[INFO] 2017-11-24 06:58:45,750 get url from mongo before
+[INFO] 2017-11-24 06:58:45,986 get url from oracle after count=0
+[INFO] 2017-11-24 06:59:46,002 get url from mongo before
+[INFO] 2017-11-24 06:59:46,226 get url from oracle after count=0
+[INFO] 2017-11-24 07:00:46,243 get url from mongo before
+[INFO] 2017-11-24 07:00:46,464 get url from oracle after count=0
+[INFO] 2017-11-24 07:01:46,476 get url from mongo before
+[INFO] 2017-11-24 07:01:46,687 get url from oracle after count=0
+[INFO] 2017-11-24 07:02:46,713 get url from mongo before
+[INFO] 2017-11-24 07:02:46,930 get url from oracle after count=0
+[INFO] 2017-11-24 07:03:46,940 get url from mongo before
+[INFO] 2017-11-24 07:03:47,155 get url from oracle after count=0
+[INFO] 2017-11-24 07:10:01,885 get url from mongo before
+[INFO] 2017-11-24 07:10:02,107 get url from oracle after count=0
+[INFO] 2017-11-24 07:11:02,118 get url from mongo before
+[INFO] 2017-11-24 07:11:02,351 get url from oracle after count=0
+[INFO] 2017-11-24 07:12:02,375 get url from mongo before
+[INFO] 2017-11-24 07:12:02,591 get url from oracle after count=0
+[INFO] 2017-11-24 07:13:02,612 get url from mongo before
+[INFO] 2017-11-24 07:13:02,819 get url from oracle after count=0
+[INFO] 2017-11-24 07:14:02,842 get url from mongo before
+[INFO] 2017-11-24 07:14:03,066 get url from oracle after count=0
+[INFO] 2017-11-24 07:15:03,072 get url from mongo before
+[INFO] 2017-11-24 07:15:03,299 get url from oracle after count=0
+[INFO] 2017-11-24 07:16:03,319 get url from mongo before
+[INFO] 2017-11-24 07:16:03,551 get url from oracle after count=0
+[INFO] 2017-11-24 07:17:03,569 get url from mongo before
+[INFO] 2017-11-24 07:17:03,776 get url from oracle after count=0
+[INFO] 2017-11-24 07:18:03,799 get url from mongo before
+[INFO] 2017-11-24 07:18:04,022 get url from oracle after count=0
+[INFO] 2017-11-24 07:19:04,039 get url from mongo before
+[INFO] 2017-11-24 07:19:04,250 get url from oracle after count=0
+[INFO] 2017-11-24 07:20:04,266 get url from mongo before
+[INFO] 2017-11-24 07:20:04,479 get url from oracle after count=0
+[INFO] 2017-11-24 07:21:04,493 get url from mongo before
+[INFO] 2017-11-24 07:21:04,710 get url from oracle after count=0
+[INFO] 2017-11-24 07:22:04,727 get url from mongo before
+[INFO] 2017-11-24 07:22:04,928 get url from oracle after count=0
+[INFO] 2017-11-24 07:23:04,954 get url from mongo before
+[INFO] 2017-11-24 07:23:05,154 get url from oracle after count=0
+[INFO] 2017-11-24 07:24:05,174 get url from mongo before
+[INFO] 2017-11-24 07:24:05,382 get url from oracle after count=0
+[INFO] 2017-11-24 07:25:05,398 get url from mongo before
+[INFO] 2017-11-24 07:25:05,632 get url from oracle after count=0
+[INFO] 2017-11-24 07:26:05,651 get url from mongo before
+[INFO] 2017-11-24 07:26:05,880 get url from oracle after count=0
+[INFO] 2017-11-24 07:27:05,900 get url from mongo before
+[INFO] 2017-11-24 07:27:06,109 get url from oracle after count=0
+[INFO] 2017-11-24 07:28:06,127 get url from mongo before
+[INFO] 2017-11-24 07:28:06,410 get url from oracle after count=0
+[INFO] 2017-11-24 07:29:06,423 get url from mongo before
+[INFO] 2017-11-24 07:29:06,644 get url from oracle after count=0
+[INFO] 2017-11-24 07:30:06,663 get url from mongo before
+[INFO] 2017-11-24 07:30:06,887 get url from oracle after count=0
+[INFO] 2017-11-24 07:31:06,901 get url from mongo before
+[INFO] 2017-11-24 07:31:07,117 get url from oracle after count=0
+[INFO] 2017-11-24 07:32:07,128 get url from mongo before
+[INFO] 2017-11-24 07:32:07,358 get url from oracle after count=0
+[INFO] 2017-11-24 07:33:07,374 get url from mongo before
+[INFO] 2017-11-24 07:33:07,585 get url from oracle after count=0
+[INFO] 2017-11-24 07:34:07,601 get url from mongo before
+[INFO] 2017-11-24 07:34:07,812 get url from oracle after count=0
+[INFO] 2017-11-24 07:35:07,832 get url from mongo before
+[INFO] 2017-11-24 07:35:08,040 get url from oracle after count=0
+[INFO] 2017-11-24 07:36:08,062 get url from mongo before
+[INFO] 2017-11-24 07:36:08,269 get url from oracle after count=0
+[INFO] 2017-11-24 07:37:08,282 get url from mongo before
+[INFO] 2017-11-24 07:37:08,500 get url from oracle after count=0
+[INFO] 2017-11-24 07:38:08,517 get url from mongo before
+[INFO] 2017-11-24 07:38:08,720 get url from oracle after count=0
+[INFO] 2017-11-24 07:39:08,740 get url from mongo before
+[INFO] 2017-11-24 07:39:08,950 get url from oracle after count=0
+[INFO] 2017-11-24 07:40:08,967 get url from mongo before
+[INFO] 2017-11-24 07:40:09,206 get url from oracle after count=0
+[INFO] 2017-11-24 07:41:09,223 get url from mongo before
+[INFO] 2017-11-24 07:41:09,447 get url from oracle after count=0
+[INFO] 2017-11-24 07:42:09,466 get url from mongo before
+[INFO] 2017-11-24 07:42:09,677 get url from oracle after count=0
+[INFO] 2017-11-24 07:43:09,696 get url from mongo before
+[INFO] 2017-11-24 07:43:09,990 get url from oracle after count=0
+[INFO] 2017-11-24 07:44:10,005 get url from mongo before
+[INFO] 2017-11-24 07:44:10,213 get url from oracle after count=0
+[INFO] 2017-11-24 07:45:10,229 get url from mongo before
+[INFO] 2017-11-24 07:45:10,451 get url from oracle after count=0
+[INFO] 2017-11-24 07:46:10,467 get url from mongo before
+[INFO] 2017-11-24 07:46:10,566 get url from oracle after count=0
+[INFO] 2017-11-24 07:47:10,598 get url from mongo before
+[INFO] 2017-11-24 07:47:10,816 get url from oracle after count=0
+[INFO] 2017-11-24 07:48:10,829 get url from mongo before
+[INFO] 2017-11-24 07:48:11,088 get url from oracle after count=0
+[INFO] 2017-11-24 07:49:11,115 get url from mongo before
+[INFO] 2017-11-24 07:49:11,331 get url from oracle after count=0
+[INFO] 2017-11-24 07:50:11,348 get url from mongo before
+[INFO] 2017-11-24 07:50:11,549 get url from oracle after count=0
+[INFO] 2017-11-24 07:51:11,572 get url from mongo before
+[INFO] 2017-11-24 07:51:11,898 get url from oracle after count=0
+[INFO] 2017-11-24 07:52:11,914 get url from mongo before
+[INFO] 2017-11-24 07:52:12,138 get url from oracle after count=0
+[INFO] 2017-11-24 07:53:12,154 get url from mongo before
+[INFO] 2017-11-24 07:53:12,375 get url from oracle after count=0
+[INFO] 2017-11-24 07:54:12,388 get url from mongo before
+[INFO] 2017-11-24 07:54:12,601 get url from oracle after count=0
+[INFO] 2017-11-24 07:55:12,614 get url from mongo before
+[INFO] 2017-11-24 07:55:12,822 get url from oracle after count=0
+[INFO] 2017-11-24 07:56:12,835 get url from mongo before
+[INFO] 2017-11-24 07:56:13,065 get url from oracle after count=0
+[INFO] 2017-11-24 07:57:13,082 get url from mongo before
+[INFO] 2017-11-24 07:57:13,299 get url from oracle after count=0
+[INFO] 2017-11-24 07:58:13,319 get url from mongo before
+[INFO] 2017-11-24 07:58:13,539 get url from oracle after count=0
+[INFO] 2017-11-24 07:59:13,555 get url from mongo before
+[INFO] 2017-11-24 07:59:13,790 get url from oracle after count=0
+[INFO] 2017-11-24 08:00:13,805 get url from mongo before
+[INFO] 2017-11-24 08:00:14,017 get url from oracle after count=0
+[INFO] 2017-11-24 08:01:14,033 get url from mongo before
+[INFO] 2017-11-24 08:01:14,266 get url from oracle after count=0
+[INFO] 2017-11-24 08:02:14,282 get url from mongo before
+[INFO] 2017-11-24 08:02:14,500 get url from oracle after count=0
+[INFO] 2017-11-24 08:03:14,523 get url from mongo before
+[INFO] 2017-11-24 08:03:14,740 get url from oracle after count=0
+[INFO] 2017-11-24 08:04:14,756 get url from mongo before
+[INFO] 2017-11-24 08:04:14,969 get url from oracle after count=0
+[INFO] 2017-11-24 08:05:14,992 get url from mongo before
+[INFO] 2017-11-24 08:05:15,190 get url from oracle after count=0
+[INFO] 2017-11-24 08:06:15,206 get url from mongo before
+[INFO] 2017-11-24 08:06:15,446 get url from oracle after count=0
+[INFO] 2017-11-24 08:07:15,467 get url from mongo before
+[INFO] 2017-11-24 08:07:15,667 get url from oracle after count=0
+[INFO] 2017-11-24 08:08:15,700 get url from mongo before
+[INFO] 2017-11-24 08:08:15,920 get url from oracle after count=0
+[INFO] 2017-11-24 08:09:15,930 get url from mongo before
+[INFO] 2017-11-24 08:09:16,138 get url from oracle after count=0
+[INFO] 2017-11-24 08:15:40,584 get url from mongo before
+[INFO] 2017-11-24 08:15:40,802 get url from oracle after count=0
+[INFO] 2017-11-24 08:16:40,819 get url from mongo before
+[INFO] 2017-11-24 08:16:41,030 get url from oracle after count=0
+[INFO] 2017-11-24 08:17:41,042 get url from mongo before
+[INFO] 2017-11-24 08:17:41,246 get url from oracle after count=0
+[INFO] 2017-11-24 08:18:41,259 get url from mongo before
+[INFO] 2017-11-24 08:18:41,483 get url from oracle after count=0
+[INFO] 2017-11-24 08:19:41,505 get url from mongo before
+[INFO] 2017-11-24 08:19:41,730 get url from oracle after count=0
+[INFO] 2017-11-24 08:20:41,746 get url from mongo before
+[INFO] 2017-11-24 08:20:41,950 get url from oracle after count=0
+[INFO] 2017-11-24 08:21:41,963 get url from mongo before
+[INFO] 2017-11-24 08:21:42,200 get url from oracle after count=0
+[INFO] 2017-11-24 08:22:42,213 get url from mongo before
+[INFO] 2017-11-24 08:22:42,421 get url from oracle after count=0
+[INFO] 2017-11-24 08:23:42,440 get url from mongo before
+[INFO] 2017-11-24 08:23:42,644 get url from oracle after count=0
+[INFO] 2017-11-24 08:24:42,663 get url from mongo before
+[INFO] 2017-11-24 08:24:42,884 get url from oracle after count=0
+[INFO] 2017-11-24 08:25:42,901 get url from mongo before
+[INFO] 2017-11-24 08:25:43,194 get url from oracle after count=0
+[INFO] 2017-11-24 08:26:43,211 get url from mongo before
+[INFO] 2017-11-24 08:26:43,427 get url from oracle after count=0
+[INFO] 2017-11-24 08:27:43,457 get url from mongo before
+[INFO] 2017-11-24 08:27:43,654 get url from oracle after count=0
+[INFO] 2017-11-24 08:28:43,674 get url from mongo before
+[INFO] 2017-11-24 08:28:43,924 get url from oracle after count=0
+[INFO] 2017-11-24 08:29:43,941 get url from mongo before
+[INFO] 2017-11-24 08:29:44,164 get url from oracle after count=0
+[INFO] 2017-11-24 08:30:44,180 get url from mongo before
+[INFO] 2017-11-24 08:30:44,407 get url from oracle after count=0
+[INFO] 2017-11-24 08:31:44,428 get url from mongo before
+[INFO] 2017-11-24 08:31:44,638 get url from oracle after count=0
+[INFO] 2017-11-24 08:32:44,654 get url from mongo before
+[INFO] 2017-11-24 08:32:44,878 get url from oracle after count=0
+[INFO] 2017-11-24 08:33:44,895 get url from mongo before
+[INFO] 2017-11-24 08:33:45,098 get url from oracle after count=0
+[INFO] 2017-11-24 08:34:45,117 get url from mongo before
+[INFO] 2017-11-24 08:34:45,325 get url from oracle after count=0
+[INFO] 2017-11-24 08:35:45,338 get url from mongo before
+[INFO] 2017-11-24 08:35:45,596 get url from oracle after count=0
+[INFO] 2017-11-24 08:36:45,615 get url from mongo before
+[INFO] 2017-11-24 08:36:45,819 get url from oracle after count=0
+[INFO] 2017-11-24 08:37:45,835 get url from mongo before
+[INFO] 2017-11-24 08:37:46,049 get url from oracle after count=0
+[INFO] 2017-11-24 08:38:46,062 get url from mongo before
+[INFO] 2017-11-24 08:38:46,280 get url from oracle after count=0
+[INFO] 2017-11-24 08:39:46,299 get url from mongo before
+[INFO] 2017-11-24 08:39:46,505 get url from oracle after count=0
+[INFO] 2017-11-24 08:40:46,520 get url from mongo before
+[INFO] 2017-11-24 08:40:46,742 get url from oracle after count=0
+[INFO] 2017-11-24 08:41:46,756 get url from mongo before
+[INFO] 2017-11-24 08:41:46,986 get url from oracle after count=0
+[INFO] 2017-11-24 08:42:47,002 get url from mongo before
+[INFO] 2017-11-24 08:42:47,224 get url from oracle after count=0
+[INFO] 2017-11-24 08:43:47,243 get url from mongo before
+[INFO] 2017-11-24 08:43:47,457 get url from oracle after count=0
+[INFO] 2017-11-24 08:44:47,470 get url from mongo before
+[INFO] 2017-11-24 08:44:47,668 get url from oracle after count=0
+[INFO] 2017-11-24 08:45:47,691 get url from mongo before
+[INFO] 2017-11-24 08:45:47,894 get url from oracle after count=0
+[INFO] 2017-11-24 08:46:47,911 get url from mongo before
+[INFO] 2017-11-24 08:46:48,161 get url from oracle after count=0
+[INFO] 2017-11-24 08:47:48,177 get url from mongo before
+[INFO] 2017-11-24 08:47:48,385 get url from oracle after count=0
+[INFO] 2017-11-24 08:48:48,470 get url from mongo before
+[INFO] 2017-11-24 08:48:48,693 get url from oracle after count=0
+[INFO] 2017-11-24 08:49:48,714 get url from mongo before
+[INFO] 2017-11-24 08:49:48,924 get url from oracle after count=0
+[INFO] 2017-11-24 08:50:48,946 get url from mongo before
+[INFO] 2017-11-24 08:50:49,165 get url from oracle after count=0
+[INFO] 2017-11-24 08:51:49,180 get url from mongo before
+[INFO] 2017-11-24 08:51:49,384 get url from oracle after count=0
+[INFO] 2017-11-24 08:52:49,401 get url from mongo before
+[INFO] 2017-11-24 08:52:49,624 get url from oracle after count=0
+[INFO] 2017-11-24 08:53:49,641 get url from mongo before
+[INFO] 2017-11-24 08:53:49,858 get url from oracle after count=0
+[INFO] 2017-11-24 08:54:49,874 get url from mongo before
+[INFO] 2017-11-24 08:54:50,131 get url from oracle after count=0
+[INFO] 2017-11-24 08:55:50,148 get url from mongo before
+[INFO] 2017-11-24 08:55:50,382 get url from oracle after count=0
+[INFO] 2017-11-24 08:56:50,398 get url from mongo before
+[INFO] 2017-11-24 08:56:50,592 get url from oracle after count=0
+[INFO] 2017-11-24 08:57:50,607 get url from mongo before
+[INFO] 2017-11-24 08:57:50,809 get url from oracle after count=0
+[INFO] 2017-11-24 08:58:50,838 get url from mongo before
+[INFO] 2017-11-24 08:58:51,032 get url from oracle after count=0
+[INFO] 2017-11-24 08:59:51,052 get url from mongo before
+[INFO] 2017-11-24 08:59:51,276 get url from oracle after count=0
+[INFO] 2017-11-24 09:00:51,296 get url from mongo before
+[INFO] 2017-11-24 09:00:51,528 get url from oracle after count=0
+[INFO] 2017-11-24 09:01:51,546 get url from mongo before
+[INFO] 2017-11-24 09:01:51,756 get url from oracle after count=0
+[INFO] 2017-11-24 09:02:51,776 get url from mongo before
+[INFO] 2017-11-24 09:02:51,984 get url from oracle after count=0
+[INFO] 2017-11-24 09:03:52,009 get url from mongo before
+[INFO] 2017-11-24 09:03:52,214 get url from oracle after count=0
+[INFO] 2017-11-24 09:04:52,227 get url from mongo before
+[INFO] 2017-11-24 09:04:52,437 get url from oracle after count=0
+[INFO] 2017-11-24 09:05:52,464 get url from mongo before
+[INFO] 2017-11-24 09:05:52,667 get url from oracle after count=0
+[INFO] 2017-11-24 09:06:52,680 get url from mongo before
+[INFO] 2017-11-24 09:06:52,891 get url from oracle after count=0
+[INFO] 2017-11-24 09:07:52,905 get url from mongo before
+[INFO] 2017-11-24 09:07:53,134 get url from oracle after count=0
+[INFO] 2017-11-24 09:08:53,151 get url from mongo before
+[INFO] 2017-11-24 09:08:53,381 get url from oracle after count=0
+[INFO] 2017-11-24 09:09:53,398 get url from mongo before
+[INFO] 2017-11-24 09:09:53,631 get url from oracle after count=0
+[INFO] 2017-11-24 09:10:53,651 get url from mongo before
+[INFO] 2017-11-24 09:10:53,875 get url from oracle after count=0
+[INFO] 2017-11-24 09:11:53,897 get url from mongo before
+[INFO] 2017-11-24 09:11:54,112 get url from oracle after count=0
+[INFO] 2017-11-24 09:12:54,137 get url from mongo before
+[INFO] 2017-11-24 09:12:54,338 get url from oracle after count=0
+[INFO] 2017-11-24 09:13:54,351 get url from mongo before
+[INFO] 2017-11-24 09:13:54,595 get url from oracle after count=0
+[INFO] 2017-11-24 09:14:54,615 get url from mongo before
+[INFO] 2017-11-24 09:14:54,842 get url from oracle after count=0
+[INFO] 2017-11-24 09:21:16,578 get url from mongo before
+[INFO] 2017-11-24 09:21:16,799 get url from oracle after count=0
+[INFO] 2017-11-24 09:22:16,816 get url from mongo before
+[INFO] 2017-11-24 09:22:17,030 get url from oracle after count=0
+[INFO] 2017-11-24 09:23:17,045 get url from mongo before
+[INFO] 2017-11-24 09:23:17,256 get url from oracle after count=0
+[INFO] 2017-11-24 09:24:17,276 get url from mongo before
+[INFO] 2017-11-24 09:24:17,497 get url from oracle after count=0
+[INFO] 2017-11-24 09:25:17,509 get url from mongo before
+[INFO] 2017-11-24 09:25:17,720 get url from oracle after count=0
+[INFO] 2017-11-24 09:26:17,736 get url from mongo before
+[INFO] 2017-11-24 09:26:17,976 get url from oracle after count=0
+[INFO] 2017-11-24 09:27:18,012 get url from mongo before
+[INFO] 2017-11-24 09:27:18,229 get url from oracle after count=0
+[INFO] 2017-11-24 09:28:18,244 get url from mongo before
+[INFO] 2017-11-24 09:28:18,473 get url from oracle after count=0
+[INFO] 2017-11-24 09:29:18,510 get url from mongo before
+[INFO] 2017-11-24 09:29:18,724 get url from oracle after count=0
+[INFO] 2017-11-24 09:30:18,740 get url from mongo before
+[INFO] 2017-11-24 09:30:18,957 get url from oracle after count=0
+[INFO] 2017-11-24 09:31:18,996 get url from mongo before
+[INFO] 2017-11-24 09:31:19,224 get url from oracle after count=0
+[INFO] 2017-11-24 09:32:19,240 get url from mongo before
+[INFO] 2017-11-24 09:32:19,463 get url from oracle after count=0
+[INFO] 2017-11-24 09:33:19,484 get url from mongo before
+[INFO] 2017-11-24 09:33:19,816 get url from oracle after count=0
+[INFO] 2017-11-24 09:34:19,832 get url from mongo before
+[INFO] 2017-11-24 09:34:20,046 get url from oracle after count=0
+[INFO] 2017-11-24 09:35:20,062 get url from mongo before
+[INFO] 2017-11-24 09:35:20,326 get url from oracle after count=0
+[INFO] 2017-11-24 09:36:20,345 get url from mongo before
+[INFO] 2017-11-24 09:36:20,569 get url from oracle after count=0
+[INFO] 2017-11-24 09:37:20,588 get url from mongo before
+[INFO] 2017-11-24 09:37:20,809 get url from oracle after count=0
+[INFO] 2017-11-24 09:38:20,825 get url from mongo before
+[INFO] 2017-11-24 09:38:21,036 get url from oracle after count=0
+[INFO] 2017-11-24 09:39:21,049 get url from mongo before
+[INFO] 2017-11-24 09:39:21,263 get url from oracle after count=0
+[INFO] 2017-11-24 09:40:21,280 get url from mongo before
+[INFO] 2017-11-24 09:40:21,523 get url from oracle after count=0
+[INFO] 2017-11-24 09:41:21,542 get url from mongo before
+[INFO] 2017-11-24 09:41:21,756 get url from oracle after count=0
+[INFO] 2017-11-24 09:42:21,769 get url from mongo before
+[INFO] 2017-11-24 09:42:21,996 get url from oracle after count=0
+[INFO] 2017-11-24 09:43:22,009 get url from mongo before
+[INFO] 2017-11-24 09:43:22,227 get url from oracle after count=0
+[INFO] 2017-11-24 09:44:22,246 get url from mongo before
+[INFO] 2017-11-24 09:44:22,457 get url from oracle after count=0
+[INFO] 2017-11-24 09:45:22,470 get url from mongo before
+[INFO] 2017-11-24 09:45:22,688 get url from oracle after count=0
+[INFO] 2017-11-24 09:46:22,701 get url from mongo before
+[INFO] 2017-11-24 09:46:22,921 get url from oracle after count=0
+[INFO] 2017-11-24 09:47:22,936 get url from mongo before
+[INFO] 2017-11-24 09:47:23,160 get url from oracle after count=0
+[INFO] 2017-11-24 09:48:23,250 get url from mongo before
+[INFO] 2017-11-24 09:48:23,479 get url from oracle after count=0
+[INFO] 2017-11-24 09:49:23,503 get url from mongo before
+[INFO] 2017-11-24 09:49:23,736 get url from oracle after count=0
+[INFO] 2017-11-24 09:50:23,747 get url from mongo before
+[INFO] 2017-11-24 09:50:23,966 get url from oracle after count=0
+[INFO] 2017-11-24 09:51:23,980 get url from mongo before
+[INFO] 2017-11-24 09:51:24,206 get url from oracle after count=0
+[INFO] 2017-11-24 09:52:24,220 get url from mongo before
+[INFO] 2017-11-24 09:52:24,438 get url from oracle after count=0
+[INFO] 2017-11-24 09:53:24,456 get url from mongo before
+[INFO] 2017-11-24 09:53:24,676 get url from oracle after count=0
+[INFO] 2017-11-24 09:54:24,700 get url from mongo before
+[INFO] 2017-11-24 09:54:24,914 get url from oracle after count=0
+[INFO] 2017-11-24 09:55:24,934 get url from mongo before
+[INFO] 2017-11-24 09:55:25,158 get url from oracle after count=0
+[INFO] 2017-11-24 09:56:25,178 get url from mongo before
+[INFO] 2017-11-24 09:56:25,299 get url from oracle after count=0
+[INFO] 2017-11-24 09:57:25,312 get url from mongo before
+[INFO] 2017-11-24 09:57:25,523 get url from oracle after count=0
+[INFO] 2017-11-24 09:58:25,540 get url from mongo before
+[INFO] 2017-11-24 09:58:25,755 get url from oracle after count=0
+[INFO] 2017-11-24 09:59:25,770 get url from mongo before
+[INFO] 2017-11-24 09:59:26,003 get url from oracle after count=0
+[INFO] 2017-11-24 10:00:26,022 get url from mongo before
+[INFO] 2017-11-24 10:00:26,243 get url from oracle after count=0
+[INFO] 2017-11-24 10:01:26,257 get url from mongo before
+[INFO] 2017-11-24 10:01:26,477 get url from oracle after count=0
+[INFO] 2017-11-24 10:02:26,505 get url from mongo before
+[INFO] 2017-11-24 10:02:26,700 get url from oracle after count=0
+[INFO] 2017-11-24 10:03:26,717 get url from mongo before
+[INFO] 2017-11-24 10:03:26,970 get url from oracle after count=0
+[INFO] 2017-11-24 10:04:26,976 get url from mongo before
+[INFO] 2017-11-24 10:04:27,223 get url from oracle after count=0
+[INFO] 2017-11-24 10:05:27,236 get url from mongo before
+[INFO] 2017-11-24 10:05:27,440 get url from oracle after count=0
+[INFO] 2017-11-24 10:06:27,453 get url from mongo before
+[INFO] 2017-11-24 10:06:27,686 get url from oracle after count=0
+[INFO] 2017-11-24 10:07:27,700 get url from mongo before
+[INFO] 2017-11-24 10:07:27,915 get url from oracle after count=0
+[INFO] 2017-11-24 10:08:27,937 get url from mongo before
+[INFO] 2017-11-24 10:08:28,184 get url from oracle after count=0
+[INFO] 2017-11-24 10:09:28,197 get url from mongo before
+[INFO] 2017-11-24 10:09:28,415 get url from oracle after count=0
+[INFO] 2017-11-24 10:10:28,433 get url from mongo before
+[INFO] 2017-11-24 10:10:28,654 get url from oracle after count=0
+[INFO] 2017-11-24 10:11:28,671 get url from mongo before
+[INFO] 2017-11-24 10:11:28,881 get url from oracle after count=0
+[INFO] 2017-11-24 10:12:28,891 get url from mongo before
+[INFO] 2017-11-24 10:12:29,092 get url from oracle after count=0
+[INFO] 2017-11-24 10:13:29,107 get url from mongo before
+[INFO] 2017-11-24 10:13:29,322 get url from oracle after count=0
+[INFO] 2017-11-24 10:14:29,342 get url from mongo before
+[INFO] 2017-11-24 10:14:29,549 get url from oracle after count=0
+[INFO] 2017-11-24 10:15:29,565 get url from mongo before
+[INFO] 2017-11-24 10:15:29,773 get url from oracle after count=0
+[INFO] 2017-11-24 10:16:29,789 get url from mongo before
+[INFO] 2017-11-24 10:16:30,019 get url from oracle after count=0
+[INFO] 2017-11-24 10:17:30,038 get url from mongo before
+[INFO] 2017-11-24 10:17:30,260 get url from oracle after count=0
+[INFO] 2017-11-24 10:18:30,286 get url from mongo before
+[INFO] 2017-11-24 10:18:30,507 get url from oracle after count=0
+[INFO] 2017-11-24 10:19:30,529 get url from mongo before
+[INFO] 2017-11-24 10:19:30,746 get url from oracle after count=0
+[INFO] 2017-11-24 10:25:46,510 get url from mongo before
+[INFO] 2017-11-24 10:25:46,714 get url from oracle after count=0
+[INFO] 2017-11-24 10:26:46,730 get url from mongo before
+[INFO] 2017-11-24 10:26:46,941 get url from oracle after count=0
+[INFO] 2017-11-24 10:27:46,951 get url from mongo before
+[INFO] 2017-11-24 10:27:47,198 get url from oracle after count=0
+[INFO] 2017-11-24 10:28:47,213 get url from mongo before
+[INFO] 2017-11-24 10:28:47,440 get url from oracle after count=0
+[INFO] 2017-11-24 10:29:47,457 get url from mongo before
+[INFO] 2017-11-24 10:29:47,671 get url from oracle after count=0
+[INFO] 2017-11-24 10:30:47,686 get url from mongo before
+[INFO] 2017-11-24 10:30:47,894 get url from oracle after count=0
+[INFO] 2017-11-24 10:31:47,911 get url from mongo before
+[INFO] 2017-11-24 10:31:48,150 get url from oracle after count=0
+[INFO] 2017-11-24 10:32:48,168 get url from mongo before
+[INFO] 2017-11-24 10:32:48,388 get url from oracle after count=0
+[INFO] 2017-11-24 10:33:48,407 get url from mongo before
+[INFO] 2017-11-24 10:33:48,625 get url from oracle after count=0
+[INFO] 2017-11-24 10:34:48,648 get url from mongo before
+[INFO] 2017-11-24 10:34:48,875 get url from oracle after count=0
+[INFO] 2017-11-24 10:35:48,894 get url from mongo before
+[INFO] 2017-11-24 10:35:49,112 get url from oracle after count=0
+[INFO] 2017-11-24 10:36:49,131 get url from mongo before
+[INFO] 2017-11-24 10:36:49,359 get url from oracle after count=0
+[INFO] 2017-11-24 10:37:49,374 get url from mongo before
+[INFO] 2017-11-24 10:37:49,792 get url from oracle after count=0
+[INFO] 2017-11-24 10:38:49,809 get url from mongo before
+[INFO] 2017-11-24 10:38:50,019 get url from oracle after count=0
+[INFO] 2017-11-24 10:39:50,032 get url from mongo before
+[INFO] 2017-11-24 10:39:50,246 get url from oracle after count=0
+[INFO] 2017-11-24 10:40:50,259 get url from mongo before
+[INFO] 2017-11-24 10:40:50,493 get url from oracle after count=0
+[INFO] 2017-11-24 10:41:50,513 get url from mongo before
+[INFO] 2017-11-24 10:41:50,707 get url from oracle after count=0
+[INFO] 2017-11-24 10:42:50,727 get url from mongo before
+[INFO] 2017-11-24 10:42:50,986 get url from oracle after count=0
+[INFO] 2017-11-24 10:43:50,994 get url from mongo before
+[INFO] 2017-11-24 10:43:51,232 get url from oracle after count=0
+[INFO] 2017-11-24 10:44:51,243 get url from mongo before
+[INFO] 2017-11-24 10:44:51,456 get url from oracle after count=0
+[INFO] 2017-11-24 10:45:51,473 get url from mongo before
+[INFO] 2017-11-24 10:45:51,694 get url from oracle after count=0
+[INFO] 2017-11-24 10:46:51,706 get url from mongo before
+[INFO] 2017-11-24 10:46:51,930 get url from oracle after count=0
+[INFO] 2017-11-24 10:47:51,950 get url from mongo before
+[INFO] 2017-11-24 10:47:52,216 get url from oracle after count=0
+[INFO] 2017-11-24 10:48:52,233 get url from mongo before
+[INFO] 2017-11-24 10:48:52,453 get url from oracle after count=0
+[INFO] 2017-11-24 10:49:52,470 get url from mongo before
+[INFO] 2017-11-24 10:49:52,687 get url from oracle after count=0
+[INFO] 2017-11-24 10:50:52,706 get url from mongo before
+[INFO] 2017-11-24 10:50:52,930 get url from oracle after count=0
+[INFO] 2017-11-24 10:51:52,948 get url from mongo before
+[INFO] 2017-11-24 10:51:53,138 get url from oracle after count=0
+[INFO] 2017-11-24 10:52:53,161 get url from mongo before
+[INFO] 2017-11-24 10:52:53,388 get url from oracle after count=0
+[INFO] 2017-11-24 10:53:53,407 get url from mongo before
+[INFO] 2017-11-24 10:53:53,605 get url from oracle after count=0
+[INFO] 2017-11-24 10:54:53,622 get url from mongo before
+[INFO] 2017-11-24 10:54:53,836 get url from oracle after count=0
+[INFO] 2017-11-24 10:55:54,282 get url from mongo before
+[INFO] 2017-11-24 10:55:54,503 get url from oracle after count=0
+[INFO] 2017-11-24 10:56:54,542 get url from mongo before
+[INFO] 2017-11-24 10:56:54,767 get url from oracle after count=0
+[INFO] 2017-11-24 10:57:54,785 get url from mongo before
+[INFO] 2017-11-24 10:57:55,003 get url from oracle after count=0
+[INFO] 2017-11-24 10:58:55,025 get url from mongo before
+[INFO] 2017-11-24 10:58:55,246 get url from oracle after count=0
+[INFO] 2017-11-24 10:59:55,269 get url from mongo before
+[INFO] 2017-11-24 10:59:55,667 get url from oracle after count=0
+[INFO] 2017-11-24 11:00:55,687 get url from mongo before
+[INFO] 2017-11-24 11:00:55,898 get url from oracle after count=0
+[INFO] 2017-11-24 11:01:55,915 get url from mongo before
+[INFO] 2017-11-24 11:01:56,157 get url from oracle after count=0
+[INFO] 2017-11-24 11:02:56,174 get url from mongo before
+[INFO] 2017-11-24 11:02:56,403 get url from oracle after count=0
+[INFO] 2017-11-24 11:03:56,430 get url from mongo before
+[INFO] 2017-11-24 11:03:56,647 get url from oracle after count=0
+[INFO] 2017-11-24 11:04:56,698 get url from mongo before
+[INFO] 2017-11-24 11:04:56,918 get url from oracle after count=0
+[INFO] 2017-11-24 11:05:56,938 get url from mongo before
+[INFO] 2017-11-24 11:05:57,155 get url from oracle after count=0
+[INFO] 2017-11-24 11:06:57,165 get url from mongo before
+[INFO] 2017-11-24 11:06:57,414 get url from oracle after count=0
+[INFO] 2017-11-24 11:07:57,428 get url from mongo before
+[INFO] 2017-11-24 11:07:57,667 get url from oracle after count=0
+[INFO] 2017-11-24 11:08:57,684 get url from mongo before
+[INFO] 2017-11-24 11:08:57,900 get url from oracle after count=0
+[INFO] 2017-11-24 11:09:57,915 get url from mongo before
+[INFO] 2017-11-24 11:09:58,115 get url from oracle after count=0
+[INFO] 2017-11-24 11:10:58,142 get url from mongo before
+[INFO] 2017-11-24 11:10:58,377 get url from oracle after count=0
+[INFO] 2017-11-24 11:11:58,398 get url from mongo before
+[INFO] 2017-11-24 11:11:58,598 get url from oracle after count=0
+[INFO] 2017-11-24 11:12:58,611 get url from mongo before
+[INFO] 2017-11-24 11:12:58,835 get url from oracle after count=0
+[INFO] 2017-11-24 11:13:58,960 get url from mongo before
+[INFO] 2017-11-24 11:13:59,184 get url from oracle after count=0
+[INFO] 2017-11-24 11:14:59,207 get url from mongo before
+[INFO] 2017-11-24 11:14:59,430 get url from oracle after count=0
+[INFO] 2017-11-24 11:15:59,451 get url from mongo before
+[INFO] 2017-11-24 11:15:59,680 get url from oracle after count=0
+[INFO] 2017-11-24 11:16:59,710 get url from mongo before
+[INFO] 2017-11-24 11:16:59,924 get url from oracle after count=0
+[INFO] 2017-11-24 11:17:59,940 get url from mongo before
+[INFO] 2017-11-24 11:18:00,164 get url from oracle after count=0
+[INFO] 2017-11-24 11:19:00,183 get url from mongo before
+[INFO] 2017-11-24 11:19:00,390 get url from oracle after count=0
+[INFO] 2017-11-24 11:20:00,403 get url from mongo before
+[INFO] 2017-11-24 11:20:00,622 get url from oracle after count=0
+[INFO] 2017-11-24 11:21:00,637 get url from mongo before
+[INFO] 2017-11-24 11:21:00,871 get url from oracle after count=0
+[INFO] 2017-11-24 11:22:00,888 get url from mongo before
+[INFO] 2017-11-24 11:22:01,101 get url from oracle after count=0
+[INFO] 2017-11-24 11:23:01,118 get url from mongo before
+[INFO] 2017-11-24 11:23:01,359 get url from oracle after count=0
+[INFO] 2017-11-24 11:24:01,374 get url from mongo before
+[INFO] 2017-11-24 11:24:01,573 get url from oracle after count=0
+[INFO] 2017-11-24 11:25:01,601 get url from mongo before
+[INFO] 2017-11-24 11:25:01,796 get url from oracle after count=0
+[INFO] 2017-11-24 11:31:27,332 get url from mongo before
+[INFO] 2017-11-24 11:31:27,546 get url from oracle after count=0
+[INFO] 2017-11-24 11:32:27,568 get url from mongo before
+[INFO] 2017-11-24 11:32:27,775 get url from oracle after count=0
+[INFO] 2017-11-24 11:33:27,801 get url from mongo before
+[INFO] 2017-11-24 11:33:28,016 get url from oracle after count=0
+[INFO] 2017-11-24 11:34:28,030 get url from mongo before
+[INFO] 2017-11-24 11:34:28,237 get url from oracle after count=0
+[INFO] 2017-11-24 11:35:28,257 get url from mongo before
+[INFO] 2017-11-24 11:35:28,497 get url from oracle after count=0
+[INFO] 2017-11-24 11:36:28,509 get url from mongo before
+[INFO] 2017-11-24 11:36:28,743 get url from oracle after count=0
+[INFO] 2017-11-24 11:37:28,756 get url from mongo before
+[INFO] 2017-11-24 11:37:28,960 get url from oracle after count=0
+[INFO] 2017-11-24 11:38:28,976 get url from mongo before
+[INFO] 2017-11-24 11:38:29,226 get url from oracle after count=0
+[INFO] 2017-11-24 11:39:29,242 get url from mongo before
+[INFO] 2017-11-24 11:39:29,461 get url from oracle after count=0
+[INFO] 2017-11-24 11:40:29,479 get url from mongo before
+[INFO] 2017-11-24 11:40:29,687 get url from oracle after count=0
+[INFO] 2017-11-24 11:41:29,710 get url from mongo before
+[INFO] 2017-11-24 11:41:29,923 get url from oracle after count=0
+[INFO] 2017-11-24 11:42:29,940 get url from mongo before
+[INFO] 2017-11-24 11:42:30,171 get url from oracle after count=0
+[INFO] 2017-11-24 11:43:30,188 get url from mongo before
+[INFO] 2017-11-24 11:43:30,421 get url from oracle after count=0
+[INFO] 2017-11-24 11:44:30,441 get url from mongo before
+[INFO] 2017-11-24 11:44:30,673 get url from oracle after count=0
+[INFO] 2017-11-24 11:45:30,691 get url from mongo before
+[INFO] 2017-11-24 11:45:30,913 get url from oracle after count=0
+[INFO] 2017-11-24 11:46:30,923 get url from mongo before
+[INFO] 2017-11-24 11:46:31,125 get url from oracle after count=0
+[INFO] 2017-11-24 11:47:31,142 get url from mongo before
+[INFO] 2017-11-24 11:47:31,392 get url from oracle after count=0
+[INFO] 2017-11-24 11:48:31,410 get url from mongo before
+[INFO] 2017-11-24 11:48:31,628 get url from oracle after count=0
+[INFO] 2017-11-24 11:49:31,641 get url from mongo before
+[INFO] 2017-11-24 11:49:31,871 get url from oracle after count=0
+[INFO] 2017-11-24 11:50:31,891 get url from mongo before
+[INFO] 2017-11-24 11:50:32,119 get url from oracle after count=0
+[INFO] 2017-11-24 11:51:32,142 get url from mongo before
+[INFO] 2017-11-24 11:51:32,354 get url from oracle after count=0
+[INFO] 2017-11-24 11:52:32,368 get url from mongo before
+[INFO] 2017-11-24 11:52:32,592 get url from oracle after count=0
+[INFO] 2017-11-24 11:53:32,617 get url from mongo before
+[INFO] 2017-11-24 11:53:32,831 get url from oracle after count=0
+[INFO] 2017-11-24 11:54:32,846 get url from mongo before
+[INFO] 2017-11-24 11:54:33,082 get url from oracle after count=0
+[INFO] 2017-11-24 11:55:33,094 get url from mongo before
+[INFO] 2017-11-24 11:55:33,305 get url from oracle after count=0
+[INFO] 2017-11-24 11:56:33,316 get url from mongo before
+[INFO] 2017-11-24 11:56:33,546 get url from oracle after count=0
+[INFO] 2017-11-24 11:57:33,563 get url from mongo before
+[INFO] 2017-11-24 11:57:33,769 get url from oracle after count=0
+[INFO] 2017-11-24 11:58:33,790 get url from mongo before
+[INFO] 2017-11-24 11:58:34,010 get url from oracle after count=0
+[INFO] 2017-11-24 11:59:34,036 get url from mongo before
+[INFO] 2017-11-24 11:59:34,252 get url from oracle after count=0
+[INFO] 2017-11-24 12:00:34,272 get url from mongo before
+[INFO] 2017-11-24 12:00:34,490 get url from oracle after count=0
+[INFO] 2017-11-24 12:01:34,506 get url from mongo before
+[INFO] 2017-11-24 12:01:34,717 get url from oracle after count=0
+[INFO] 2017-11-24 12:02:34,736 get url from mongo before
+[INFO] 2017-11-24 12:02:34,950 get url from oracle after count=0
+[INFO] 2017-11-24 12:03:34,959 get url from mongo before
+[INFO] 2017-11-24 12:03:35,161 get url from oracle after count=0
+[INFO] 2017-11-24 12:04:35,174 get url from mongo before
+[INFO] 2017-11-24 12:04:35,394 get url from oracle after count=0
+[INFO] 2017-11-24 12:05:35,483 get url from mongo before
+[INFO] 2017-11-24 12:05:35,698 get url from oracle after count=0
+[INFO] 2017-11-24 12:06:35,713 get url from mongo before
+[INFO] 2017-11-24 12:06:35,927 get url from oracle after count=0
+[INFO] 2017-11-24 12:07:35,943 get url from mongo before
+[INFO] 2017-11-24 12:07:36,174 get url from oracle after count=0
+[INFO] 2017-11-24 12:08:36,194 get url from mongo before
+[INFO] 2017-11-24 12:08:36,401 get url from oracle after count=0
+[INFO] 2017-11-24 12:09:36,421 get url from mongo before
+[INFO] 2017-11-24 12:09:36,621 get url from oracle after count=0
+[INFO] 2017-11-24 12:10:36,634 get url from mongo before
+[INFO] 2017-11-24 12:10:36,875 get url from oracle after count=0
+[INFO] 2017-11-24 12:11:36,894 get url from mongo before
+[INFO] 2017-11-24 12:11:37,105 get url from oracle after count=0
+[INFO] 2017-11-24 12:12:37,127 get url from mongo before
+[INFO] 2017-11-24 12:12:37,335 get url from oracle after count=0
+[INFO] 2017-11-24 12:13:37,355 get url from mongo before
+[INFO] 2017-11-24 12:13:37,578 get url from oracle after count=0
+[INFO] 2017-11-24 12:14:37,591 get url from mongo before
+[INFO] 2017-11-24 12:14:37,795 get url from oracle after count=0
+[INFO] 2017-11-24 12:15:37,812 get url from mongo before
+[INFO] 2017-11-24 12:15:38,046 get url from oracle after count=0
+[INFO] 2017-11-24 12:16:38,062 get url from mongo before
+[INFO] 2017-11-24 12:16:38,285 get url from oracle after count=0
+[INFO] 2017-11-24 12:17:38,301 get url from mongo before
+[INFO] 2017-11-24 12:17:38,506 get url from oracle after count=0
+[INFO] 2017-11-24 12:18:38,519 get url from mongo before
+[INFO] 2017-11-24 12:18:38,729 get url from oracle after count=0
+[INFO] 2017-11-24 12:19:38,743 get url from mongo before
+[INFO] 2017-11-24 12:19:38,950 get url from oracle after count=0
+[INFO] 2017-11-24 12:20:38,963 get url from mongo before
+[INFO] 2017-11-24 12:20:39,203 get url from oracle after count=0
+[INFO] 2017-11-24 12:21:39,220 get url from mongo before
+[INFO] 2017-11-24 12:21:39,523 get url from oracle after count=0
+[INFO] 2017-11-24 12:22:39,539 get url from mongo before
+[INFO] 2017-11-24 12:22:39,769 get url from oracle after count=0
+[INFO] 2017-11-24 12:23:39,789 get url from mongo before
+[INFO] 2017-11-24 12:23:39,994 get url from oracle after count=0
+[INFO] 2017-11-24 12:24:40,012 get url from mongo before
+[INFO] 2017-11-24 12:24:40,247 get url from oracle after count=0
+[INFO] 2017-11-24 12:25:40,263 get url from mongo before
+[INFO] 2017-11-24 12:25:40,483 get url from oracle after count=0
+[INFO] 2017-11-24 12:26:40,500 get url from mongo before
+[INFO] 2017-11-24 12:26:40,703 get url from oracle after count=0
+[INFO] 2017-11-24 12:27:40,714 get url from mongo before
+[INFO] 2017-11-24 12:27:40,938 get url from oracle after count=0
+[INFO] 2017-11-24 12:28:40,956 get url from mongo before
+[INFO] 2017-11-24 12:28:41,163 get url from oracle after count=0
+[INFO] 2017-11-24 12:29:41,180 get url from mongo before
+[INFO] 2017-11-24 12:29:41,403 get url from oracle after count=0
+[INFO] 2017-11-24 12:30:41,421 get url from mongo before
+[INFO] 2017-11-24 12:30:41,628 get url from oracle after count=0
+[INFO] 2017-11-24 12:37:19,822 get url from mongo before
+[INFO] 2017-11-24 12:37:20,059 get url from oracle after count=0
+[INFO] 2017-11-24 12:38:20,081 get url from mongo before
+[INFO] 2017-11-24 12:38:20,289 get url from oracle after count=0
+[INFO] 2017-11-24 12:39:20,315 get url from mongo before
+[INFO] 2017-11-24 12:39:20,530 get url from oracle after count=0
+[INFO] 2017-11-24 12:40:20,545 get url from mongo before
+[INFO] 2017-11-24 12:40:20,749 get url from oracle after count=0
+[INFO] 2017-11-24 12:41:20,766 get url from mongo before
+[INFO] 2017-11-24 12:41:20,976 get url from oracle after count=0
+[INFO] 2017-11-24 12:42:20,990 get url from mongo before
+[INFO] 2017-11-24 12:42:21,214 get url from oracle after count=0
+[INFO] 2017-11-24 12:43:21,233 get url from mongo before
+[INFO] 2017-11-24 12:43:21,482 get url from oracle after count=0
+[INFO] 2017-11-24 12:44:21,497 get url from mongo before
+[INFO] 2017-11-24 12:44:21,720 get url from oracle after count=0
+[INFO] 2017-11-24 12:45:21,736 get url from mongo before
+[INFO] 2017-11-24 12:45:21,937 get url from oracle after count=0
+[INFO] 2017-11-24 12:46:21,950 get url from mongo before
+[INFO] 2017-11-24 12:46:22,164 get url from oracle after count=0
+[INFO] 2017-11-24 12:47:22,181 get url from mongo before
+[INFO] 2017-11-24 12:47:22,391 get url from oracle after count=0
+[INFO] 2017-11-24 12:48:22,413 get url from mongo before
+[INFO] 2017-11-24 12:48:22,621 get url from oracle after count=0
+[INFO] 2017-11-24 12:49:22,637 get url from mongo before
+[INFO] 2017-11-24 12:49:22,841 get url from oracle after count=0
+[INFO] 2017-11-24 12:50:22,857 get url from mongo before
+[INFO] 2017-11-24 12:50:23,068 get url from oracle after count=0
+[INFO] 2017-11-24 12:51:23,082 get url from mongo before
+[INFO] 2017-11-24 12:51:23,289 get url from oracle after count=0
+[INFO] 2017-11-24 12:52:23,315 get url from mongo before
+[INFO] 2017-11-24 12:52:23,520 get url from oracle after count=0
+[INFO] 2017-11-24 12:53:23,542 get url from mongo before
+[INFO] 2017-11-24 12:53:23,766 get url from oracle after count=0
+[INFO] 2017-11-24 12:54:23,788 get url from mongo before
+[INFO] 2017-11-24 12:54:24,006 get url from oracle after count=0
+[INFO] 2017-11-24 12:55:24,016 get url from mongo before
+[INFO] 2017-11-24 12:55:24,237 get url from oracle after count=0
+[INFO] 2017-11-24 12:56:24,250 get url from mongo before
+[INFO] 2017-11-24 12:56:24,460 get url from oracle after count=0
+[INFO] 2017-11-24 12:57:24,470 get url from mongo before
+[INFO] 2017-11-24 12:57:24,670 get url from oracle after count=0
+[INFO] 2017-11-24 12:58:24,687 get url from mongo before
+[INFO] 2017-11-24 12:58:24,884 get url from oracle after count=0
+[INFO] 2017-11-24 12:59:24,901 get url from mongo before
+[INFO] 2017-11-24 12:59:25,128 get url from oracle after count=0
+[INFO] 2017-11-24 13:00:25,142 get url from mongo before
+[INFO] 2017-11-24 13:00:25,345 get url from oracle after count=0
+[INFO] 2017-11-24 13:01:25,361 get url from mongo before
+[INFO] 2017-11-24 13:01:25,602 get url from oracle after count=0
+[INFO] 2017-11-24 13:02:25,618 get url from mongo before
+[INFO] 2017-11-24 13:02:25,869 get url from oracle after count=0
+[INFO] 2017-11-24 13:03:25,884 get url from mongo before
+[INFO] 2017-11-24 13:03:26,095 get url from oracle after count=0
+[INFO] 2017-11-24 13:04:26,109 get url from mongo before
+[INFO] 2017-11-24 13:04:26,349 get url from oracle after count=0
+[INFO] 2017-11-24 13:05:26,371 get url from mongo before
+[INFO] 2017-11-24 13:05:26,665 get url from oracle after count=0
+[INFO] 2017-11-24 13:06:26,684 get url from mongo before
+[INFO] 2017-11-24 13:06:26,892 get url from oracle after count=0
+[INFO] 2017-11-24 13:07:26,907 get url from mongo before
+[INFO] 2017-11-24 13:07:27,121 get url from oracle after count=0
+[INFO] 2017-11-24 13:08:27,138 get url from mongo before
+[INFO] 2017-11-24 13:08:27,368 get url from oracle after count=0
+[INFO] 2017-11-24 13:09:27,385 get url from mongo before
+[INFO] 2017-11-24 13:09:27,619 get url from oracle after count=0
+[INFO] 2017-11-24 13:10:27,634 get url from mongo before
+[INFO] 2017-11-24 13:10:27,861 get url from oracle after count=0
+[INFO] 2017-11-24 13:11:27,875 get url from mongo before
+[INFO] 2017-11-24 13:11:28,095 get url from oracle after count=0
+[INFO] 2017-11-24 13:12:28,114 get url from mongo before
+[INFO] 2017-11-24 13:12:28,325 get url from oracle after count=0
+[INFO] 2017-11-24 13:13:28,342 get url from mongo before
+[INFO] 2017-11-24 13:13:28,569 get url from oracle after count=0
+[INFO] 2017-11-24 13:14:28,579 get url from mongo before
+[INFO] 2017-11-24 13:14:28,790 get url from oracle after count=0
+[INFO] 2017-11-24 13:15:28,798 get url from mongo before
+[INFO] 2017-11-24 13:15:29,009 get url from oracle after count=0
+[INFO] 2017-11-24 13:16:29,023 get url from mongo before
+[INFO] 2017-11-24 13:16:29,240 get url from oracle after count=0
+[INFO] 2017-11-24 13:17:29,253 get url from mongo before
+[INFO] 2017-11-24 13:17:29,469 get url from oracle after count=0
+[INFO] 2017-11-24 13:18:29,490 get url from mongo before
+[INFO] 2017-11-24 13:18:29,719 get url from oracle after count=0
+[INFO] 2017-11-24 13:19:29,740 get url from mongo before
+[INFO] 2017-11-24 13:19:30,332 get url from oracle after count=0
+[INFO] 2017-11-24 13:20:30,358 get url from mongo before
+[INFO] 2017-11-24 13:20:30,584 get url from oracle after count=0
+[INFO] 2017-11-24 13:21:30,594 get url from mongo before
+[INFO] 2017-11-24 13:21:30,801 get url from oracle after count=0
+[INFO] 2017-11-24 13:22:30,818 get url from mongo before
+[INFO] 2017-11-24 13:22:31,046 get url from oracle after count=0
+[INFO] 2017-11-24 13:23:31,059 get url from mongo before
+[INFO] 2017-11-24 13:23:31,283 get url from oracle after count=0
+[INFO] 2017-11-24 13:24:31,308 get url from mongo before
+[INFO] 2017-11-24 13:24:31,540 get url from oracle after count=0
+[INFO] 2017-11-24 13:25:31,743 get url from mongo before
+[INFO] 2017-11-24 13:25:31,944 get url from oracle after count=0
+[INFO] 2017-11-24 13:26:31,957 get url from mongo before
+[INFO] 2017-11-24 13:26:32,178 get url from oracle after count=0
+[INFO] 2017-11-24 13:27:32,194 get url from mongo before
+[INFO] 2017-11-24 13:27:32,420 get url from oracle after count=0
+[INFO] 2017-11-24 13:28:32,440 get url from mongo before
+[INFO] 2017-11-24 13:28:32,638 get url from oracle after count=0
+[INFO] 2017-11-24 13:29:32,653 get url from mongo before
+[INFO] 2017-11-24 13:29:32,872 get url from oracle after count=0
+[INFO] 2017-11-24 13:30:32,891 get url from mongo before
+[INFO] 2017-11-24 13:30:33,167 get url from oracle after count=0
+[INFO] 2017-11-24 13:31:33,193 get url from mongo before
+[INFO] 2017-11-24 13:31:33,418 get url from oracle after count=0
+[INFO] 2017-11-24 13:32:33,436 get url from mongo before
+[INFO] 2017-11-24 13:32:33,676 get url from oracle after count=0
+[INFO] 2017-11-24 13:33:33,688 get url from mongo before
+[INFO] 2017-11-24 13:33:33,901 get url from oracle after count=0
+[INFO] 2017-11-24 13:34:33,921 get url from mongo before
+[INFO] 2017-11-24 13:34:34,142 get url from oracle after count=0
+[INFO] 2017-11-24 13:35:34,155 get url from mongo before
+[INFO] 2017-11-24 13:35:34,380 get url from oracle after count=0
+[INFO] 2017-11-24 13:36:34,391 get url from mongo before
+[INFO] 2017-11-24 13:36:34,608 get url from oracle after count=0
+[INFO] 2017-11-24 13:43:08,207 get url from mongo before
+[INFO] 2017-11-24 13:43:08,428 get url from oracle after count=0
+[INFO] 2017-11-24 13:44:08,451 get url from mongo before
+[INFO] 2017-11-24 13:44:08,674 get url from oracle after count=0
+[INFO] 2017-11-24 13:45:08,690 get url from mongo before
+[INFO] 2017-11-24 13:45:08,898 get url from oracle after count=0
+[INFO] 2017-11-24 13:46:08,911 get url from mongo before
+[INFO] 2017-11-24 13:46:09,131 get url from oracle after count=0
+[INFO] 2017-11-24 13:47:09,155 get url from mongo before
+[INFO] 2017-11-24 13:47:09,457 get url from oracle after count=0
+[INFO] 2017-11-24 13:48:09,473 get url from mongo before
+[INFO] 2017-11-24 13:48:09,701 get url from oracle after count=0
+[INFO] 2017-11-24 13:49:09,720 get url from mongo before
+[INFO] 2017-11-24 13:49:09,934 get url from oracle after count=0
+[INFO] 2017-11-24 13:50:09,951 get url from mongo before
+[INFO] 2017-11-24 13:50:10,180 get url from oracle after count=0
+[INFO] 2017-11-24 13:51:10,197 get url from mongo before
+[INFO] 2017-11-24 13:51:10,410 get url from oracle after count=0
+[INFO] 2017-11-24 13:52:10,427 get url from mongo before
+[INFO] 2017-11-24 13:52:10,641 get url from oracle after count=0
+[INFO] 2017-11-24 13:53:10,658 get url from mongo before
+[INFO] 2017-11-24 13:53:10,875 get url from oracle after count=0
+[INFO] 2017-11-24 13:54:10,891 get url from mongo before
+[INFO] 2017-11-24 13:54:11,114 get url from oracle after count=0
+[INFO] 2017-11-24 13:55:11,128 get url from mongo before
+[INFO] 2017-11-24 13:55:11,357 get url from oracle after count=0
+[INFO] 2017-11-24 13:56:11,375 get url from mongo before
+[INFO] 2017-11-24 13:56:11,607 get url from oracle after count=0
+[INFO] 2017-11-24 13:57:11,628 get url from mongo before
+[INFO] 2017-11-24 13:57:11,857 get url from oracle after count=0
+[INFO] 2017-11-24 13:58:11,877 get url from mongo before
+[INFO] 2017-11-24 13:58:12,092 get url from oracle after count=0
+[INFO] 2017-11-24 13:59:12,516 get url from mongo before
+[INFO] 2017-11-24 13:59:12,733 get url from oracle after count=0
+[INFO] 2017-11-24 14:00:12,750 get url from mongo before
+[INFO] 2017-11-24 14:00:12,986 get url from oracle after count=0
+[INFO] 2017-11-24 14:01:13,005 get url from mongo before
+[INFO] 2017-11-24 14:01:13,220 get url from oracle after count=0
+[INFO] 2017-11-24 14:02:13,240 get url from mongo before
+[INFO] 2017-11-24 14:02:13,463 get url from oracle after count=0
+[INFO] 2017-11-24 14:03:13,480 get url from mongo before
+[INFO] 2017-11-24 14:03:13,698 get url from oracle after count=0
+[INFO] 2017-11-24 14:04:13,716 get url from mongo before
+[INFO] 2017-11-24 14:04:13,947 get url from oracle after count=0
+[INFO] 2017-11-24 14:05:13,963 get url from mongo before
+[INFO] 2017-11-24 14:05:14,164 get url from oracle after count=0
+[INFO] 2017-11-24 14:06:14,519 get url from mongo before
+[INFO] 2017-11-24 14:06:14,773 get url from oracle after count=0
+[INFO] 2017-11-24 14:07:14,790 get url from mongo before
+[INFO] 2017-11-24 14:07:15,016 get url from oracle after count=0
+[INFO] 2017-11-24 14:08:15,036 get url from mongo before
+[INFO] 2017-11-24 14:08:15,236 get url from oracle after count=0
+[INFO] 2017-11-24 14:09:15,256 get url from mongo before
+[INFO] 2017-11-24 14:09:15,457 get url from oracle after count=0
+[INFO] 2017-11-24 14:10:15,467 get url from mongo before
+[INFO] 2017-11-24 14:10:15,680 get url from oracle after count=0
+[INFO] 2017-11-24 14:11:15,693 get url from mongo before
+[INFO] 2017-11-24 14:11:16,305 get url from oracle after count=0
+[INFO] 2017-11-24 14:12:16,323 get url from mongo before
+[INFO] 2017-11-24 14:12:16,533 get url from oracle after count=0
+[INFO] 2017-11-24 14:13:16,551 get url from mongo before
+[INFO] 2017-11-24 14:13:16,765 get url from oracle after count=0
+[INFO] 2017-11-24 14:14:16,786 get url from mongo before
+[INFO] 2017-11-24 14:14:17,006 get url from oracle after count=0
+[INFO] 2017-11-24 14:15:17,026 get url from mongo before
+[INFO] 2017-11-24 14:15:17,266 get url from oracle after count=0
+[INFO] 2017-11-24 14:16:17,279 get url from mongo before
+[INFO] 2017-11-24 14:16:17,486 get url from oracle after count=0
+[INFO] 2017-11-24 14:17:17,503 get url from mongo before
+[INFO] 2017-11-24 14:17:17,713 get url from oracle after count=0
+[INFO] 2017-11-24 14:18:17,733 get url from mongo before
+[INFO] 2017-11-24 14:18:17,948 get url from oracle after count=0
+[INFO] 2017-11-24 14:19:17,960 get url from mongo before
+[INFO] 2017-11-24 14:19:18,151 get url from oracle after count=0
+[INFO] 2017-11-24 14:20:18,173 get url from mongo before
+[INFO] 2017-11-24 14:20:18,398 get url from oracle after count=0
+[INFO] 2017-11-24 14:21:18,415 get url from mongo before
+[INFO] 2017-11-24 14:21:18,615 get url from oracle after count=0
+[INFO] 2017-11-24 14:22:18,630 get url from mongo before
+[INFO] 2017-11-24 14:22:18,839 get url from oracle after count=0
+[INFO] 2017-11-24 14:23:18,852 get url from mongo before
+[INFO] 2017-11-24 14:23:19,061 get url from oracle after count=0
+[INFO] 2017-11-24 14:24:19,078 get url from mongo before
+[INFO] 2017-11-24 14:24:19,305 get url from oracle after count=0
+[INFO] 2017-11-24 14:25:19,319 get url from mongo before
+[INFO] 2017-11-24 14:25:19,523 get url from oracle after count=0
+[INFO] 2017-11-24 14:26:19,548 get url from mongo before
+[INFO] 2017-11-24 14:26:19,760 get url from oracle after count=0
+[INFO] 2017-11-24 14:27:19,776 get url from mongo before
+[INFO] 2017-11-24 14:27:19,993 get url from oracle after count=0
+[INFO] 2017-11-24 14:28:20,009 get url from mongo before
+[INFO] 2017-11-24 14:28:20,243 get url from oracle after count=0
+[INFO] 2017-11-24 14:29:20,256 get url from mongo before
+[INFO] 2017-11-24 14:29:20,470 get url from oracle after count=0
+[INFO] 2017-11-24 14:30:20,489 get url from mongo before
+[INFO] 2017-11-24 14:30:20,694 get url from oracle after count=0
+[INFO] 2017-11-24 14:31:20,707 get url from mongo before
+[INFO] 2017-11-24 14:31:20,920 get url from oracle after count=0
+[INFO] 2017-11-24 14:32:20,934 get url from mongo before
+[INFO] 2017-11-24 14:32:21,141 get url from oracle after count=0
+[INFO] 2017-11-24 14:33:21,221 get url from mongo before
+[INFO] 2017-11-24 14:33:21,444 get url from oracle after count=0
+[INFO] 2017-11-24 14:34:21,461 get url from mongo before
+[INFO] 2017-11-24 14:34:21,680 get url from oracle after count=0
+[INFO] 2017-11-24 14:35:21,700 get url from mongo before
+[INFO] 2017-11-24 14:35:21,917 get url from oracle after count=0
+[INFO] 2017-11-24 14:36:21,936 get url from mongo before
+[INFO] 2017-11-24 14:36:22,161 get url from oracle after count=0
+[INFO] 2017-11-24 14:37:22,180 get url from mongo before
+[INFO] 2017-11-24 14:37:22,385 get url from oracle after count=0
+[INFO] 2017-11-24 14:38:22,400 get url from mongo before
+[INFO] 2017-11-24 14:38:22,608 get url from oracle after count=0
+[INFO] 2017-11-24 14:39:22,625 get url from mongo before
+[INFO] 2017-11-24 14:39:22,832 get url from oracle after count=0
+[INFO] 2017-11-24 14:40:22,845 get url from mongo before
+[INFO] 2017-11-24 14:40:23,069 get url from oracle after count=0
+[INFO] 2017-11-24 14:41:23,082 get url from mongo before
+[INFO] 2017-11-24 14:41:23,319 get url from oracle after count=0
+[INFO] 2017-11-24 14:42:23,332 get url from mongo before
+[INFO] 2017-11-24 14:42:23,529 get url from oracle after count=0
+[INFO] 2017-11-24 14:48:27,127 get url from mongo before
+[INFO] 2017-11-24 14:48:27,339 get url from oracle after count=0
+[INFO] 2017-11-24 14:49:27,354 get url from mongo before
+[INFO] 2017-11-24 14:49:27,571 get url from oracle after count=0
+[INFO] 2017-11-24 14:50:27,585 get url from mongo before
+[INFO] 2017-11-24 14:50:27,815 get url from oracle after count=0
+[INFO] 2017-11-24 14:51:27,848 get url from mongo before
+[INFO] 2017-11-24 14:51:28,069 get url from oracle after count=0
+[INFO] 2017-11-24 14:52:28,084 get url from mongo before
+[INFO] 2017-11-24 14:52:28,305 get url from oracle after count=0
+[INFO] 2017-11-24 14:53:28,321 get url from mongo before
+[INFO] 2017-11-24 14:53:28,526 get url from oracle after count=0
+[INFO] 2017-11-24 14:54:28,555 get url from mongo before
+[INFO] 2017-11-24 14:54:28,776 get url from oracle after count=0
+[INFO] 2017-11-24 14:55:28,796 get url from mongo before
+[INFO] 2017-11-24 14:55:29,000 get url from oracle after count=0
+[INFO] 2017-11-24 14:56:29,012 get url from mongo before
+[INFO] 2017-11-24 14:56:29,217 get url from oracle after count=0
+[INFO] 2017-11-24 14:57:29,233 get url from mongo before
+[INFO] 2017-11-24 14:57:29,440 get url from oracle after count=0
+[INFO] 2017-11-24 14:58:29,454 get url from mongo before
+[INFO] 2017-11-24 14:58:29,740 get url from oracle after count=0
+[INFO] 2017-11-24 14:59:29,829 get url from mongo before
+[INFO] 2017-11-24 14:59:30,039 get url from oracle after count=0
+[INFO] 2017-11-24 15:00:30,058 get url from mongo before
+[INFO] 2017-11-24 15:00:30,283 get url from oracle after count=0
+[INFO] 2017-11-24 15:01:30,292 get url from mongo before
+[INFO] 2017-11-24 15:01:30,542 get url from oracle after count=0
+[INFO] 2017-11-24 15:02:30,562 get url from mongo before
+[INFO] 2017-11-24 15:02:30,789 get url from oracle after count=0
+[INFO] 2017-11-24 15:03:30,806 get url from mongo before
+[INFO] 2017-11-24 15:03:31,028 get url from oracle after count=0
+[INFO] 2017-11-24 15:04:31,038 get url from mongo before
+[INFO] 2017-11-24 15:04:31,256 get url from oracle after count=0
+[INFO] 2017-11-24 15:05:31,267 get url from mongo before
+[INFO] 2017-11-24 15:05:31,486 get url from oracle after count=0
+[INFO] 2017-11-24 15:06:31,503 get url from mongo before
+[INFO] 2017-11-24 15:06:31,710 get url from oracle after count=0
+[INFO] 2017-11-24 15:07:31,736 get url from mongo before
+[INFO] 2017-11-24 15:07:31,943 get url from oracle after count=0
+[INFO] 2017-11-24 15:08:31,959 get url from mongo before
+[INFO] 2017-11-24 15:08:32,150 get url from oracle after count=0
+[INFO] 2017-11-24 15:09:32,165 get url from mongo before
+[INFO] 2017-11-24 15:09:32,382 get url from oracle after count=0
+[INFO] 2017-11-24 15:10:32,398 get url from mongo before
+[INFO] 2017-11-24 15:10:32,598 get url from oracle after count=0
+[INFO] 2017-11-24 15:11:32,615 get url from mongo before
+[INFO] 2017-11-24 15:11:32,831 get url from oracle after count=0
+[INFO] 2017-11-24 15:12:32,842 get url from mongo before
+[INFO] 2017-11-24 15:12:33,046 get url from oracle after count=0
+[INFO] 2017-11-24 15:13:33,069 get url from mongo before
+[INFO] 2017-11-24 15:13:33,306 get url from oracle after count=0
+[INFO] 2017-11-24 15:14:33,321 get url from mongo before
+[INFO] 2017-11-24 15:14:33,540 get url from oracle after count=0
+[INFO] 2017-11-24 15:15:33,559 get url from mongo before
+[INFO] 2017-11-24 15:15:33,769 get url from oracle after count=0
+[INFO] 2017-11-24 15:16:33,790 get url from mongo before
+[INFO] 2017-11-24 15:16:34,012 get url from oracle after count=0
+[INFO] 2017-11-24 15:17:34,026 get url from mongo before
+[INFO] 2017-11-24 15:17:34,240 get url from oracle after count=0
+[INFO] 2017-11-24 15:18:34,394 get url from mongo before
+[INFO] 2017-11-24 15:18:34,627 get url from oracle after count=0
+[INFO] 2017-11-24 15:19:34,638 get url from mongo before
+[INFO] 2017-11-24 15:19:34,895 get url from oracle after count=0
+[INFO] 2017-11-24 15:20:34,915 get url from mongo before
+[INFO] 2017-11-24 15:20:35,134 get url from oracle after count=0
+[INFO] 2017-11-24 15:21:35,151 get url from mongo before
+[INFO] 2017-11-24 15:21:35,364 get url from oracle after count=0
+[INFO] 2017-11-24 15:22:35,382 get url from mongo before
+[INFO] 2017-11-24 15:22:35,586 get url from oracle after count=0
+[INFO] 2017-11-24 15:23:35,601 get url from mongo before
+[INFO] 2017-11-24 15:23:35,811 get url from oracle after count=0
+[INFO] 2017-11-24 15:24:35,822 get url from mongo before
+[INFO] 2017-11-24 15:24:36,019 get url from oracle after count=0
+[INFO] 2017-11-24 15:25:36,032 get url from mongo before
+[INFO] 2017-11-24 15:25:36,236 get url from oracle after count=0
+[INFO] 2017-11-24 15:26:36,253 get url from mongo before
+[INFO] 2017-11-24 15:26:36,454 get url from oracle after count=0
+[INFO] 2017-11-24 15:27:36,471 get url from mongo before
+[INFO] 2017-11-24 15:27:36,690 get url from oracle after count=0
+[INFO] 2017-11-24 15:28:36,707 get url from mongo before
+[INFO] 2017-11-24 15:28:36,926 get url from oracle after count=0
+[INFO] 2017-11-24 15:29:36,946 get url from mongo before
+[INFO] 2017-11-24 15:29:37,168 get url from oracle after count=0
+[INFO] 2017-11-24 15:30:37,181 get url from mongo before
+[INFO] 2017-11-24 15:30:37,394 get url from oracle after count=0
+[INFO] 2017-11-24 15:31:37,411 get url from mongo before
+[INFO] 2017-11-24 15:31:37,627 get url from oracle after count=0
+[INFO] 2017-11-24 15:32:37,641 get url from mongo before
+[INFO] 2017-11-24 15:32:37,859 get url from oracle after count=0
+[INFO] 2017-11-24 15:33:37,878 get url from mongo before
+[INFO] 2017-11-24 15:33:38,078 get url from oracle after count=0
+[INFO] 2017-11-24 15:34:38,091 get url from mongo before
+[INFO] 2017-11-24 15:34:38,305 get url from oracle after count=0
+[INFO] 2017-11-24 15:35:38,325 get url from mongo before
+[INFO] 2017-11-24 15:35:38,523 get url from oracle after count=0
+[INFO] 2017-11-24 15:36:38,542 get url from mongo before
+[INFO] 2017-11-24 15:36:38,756 get url from oracle after count=0
+[INFO] 2017-11-24 15:37:38,773 get url from mongo before
+[INFO] 2017-11-24 15:37:38,992 get url from oracle after count=0
+[INFO] 2017-11-24 15:38:39,005 get url from mongo before
+[INFO] 2017-11-24 15:38:39,207 get url from oracle after count=0
+[INFO] 2017-11-24 15:39:39,226 get url from mongo before
+[INFO] 2017-11-24 15:39:39,441 get url from oracle after count=0
+[INFO] 2017-11-24 15:40:39,461 get url from mongo before
+[INFO] 2017-11-24 15:40:39,681 get url from oracle after count=0
+[INFO] 2017-11-24 15:41:39,703 get url from mongo before
+[INFO] 2017-11-24 15:41:39,920 get url from oracle after count=0
+[INFO] 2017-11-24 15:42:39,934 get url from mongo before
+[INFO] 2017-11-24 15:42:40,140 get url from oracle after count=0
+[INFO] 2017-11-24 15:43:40,154 get url from mongo before
+[INFO] 2017-11-24 15:43:40,381 get url from oracle after count=0
+[INFO] 2017-11-24 15:44:40,397 get url from mongo before
+[INFO] 2017-11-24 15:44:40,602 get url from oracle after count=0
+[INFO] 2017-11-24 15:45:40,621 get url from mongo before
+[INFO] 2017-11-24 15:45:40,839 get url from oracle after count=0
+[INFO] 2017-11-24 15:46:40,857 get url from mongo before
+[INFO] 2017-11-24 15:46:41,066 get url from oracle after count=0
+[INFO] 2017-11-24 15:53:33,355 get url from mongo before
+[INFO] 2017-11-24 15:53:33,575 get url from oracle after count=0
+[INFO] 2017-11-24 15:54:33,592 get url from mongo before
+[INFO] 2017-11-24 15:54:33,809 get url from oracle after count=0
+[INFO] 2017-11-24 15:55:33,831 get url from mongo before
+[INFO] 2017-11-24 15:55:34,082 get url from oracle after count=0
+[INFO] 2017-11-24 15:56:34,095 get url from mongo before
+[INFO] 2017-11-24 15:56:34,306 get url from oracle after count=0
+[INFO] 2017-11-24 15:57:34,332 get url from mongo before
+[INFO] 2017-11-24 15:57:34,561 get url from oracle after count=0
+[INFO] 2017-11-24 15:58:34,575 get url from mongo before
+[INFO] 2017-11-24 15:58:34,798 get url from oracle after count=0
+[INFO] 2017-11-24 15:59:34,821 get url from mongo before
+[INFO] 2017-11-24 15:59:35,007 get url from oracle after count=0
+[INFO] 2017-11-24 16:00:35,028 get url from mongo before
+[INFO] 2017-11-24 16:00:35,250 get url from oracle after count=0
+[INFO] 2017-11-24 16:01:35,266 get url from mongo before
+[INFO] 2017-11-24 16:01:35,457 get url from oracle after count=0
+[INFO] 2017-11-24 16:02:35,473 get url from mongo before
+[INFO] 2017-11-24 16:02:35,684 get url from oracle after count=0
+[INFO] 2017-11-24 16:03:35,700 get url from mongo before
+[INFO] 2017-11-24 16:03:35,974 get url from oracle after count=0
+[INFO] 2017-11-24 16:04:36,012 get url from mongo before
+[INFO] 2017-11-24 16:04:36,233 get url from oracle after count=0
+[INFO] 2017-11-24 16:05:36,257 get url from mongo before
+[INFO] 2017-11-24 16:05:36,470 get url from oracle after count=0
+[INFO] 2017-11-24 16:06:36,480 get url from mongo before
+[INFO] 2017-11-24 16:06:36,710 get url from oracle after count=0
+[INFO] 2017-11-24 16:07:36,723 get url from mongo before
+[INFO] 2017-11-24 16:07:36,936 get url from oracle after count=0
+[INFO] 2017-11-24 16:08:36,951 get url from mongo before
+[INFO] 2017-11-24 16:08:37,165 get url from oracle after count=0
+[INFO] 2017-11-24 16:09:37,180 get url from mongo before
+[INFO] 2017-11-24 16:09:37,411 get url from oracle after count=0
+[INFO] 2017-11-24 16:10:37,426 get url from mongo before
+[INFO] 2017-11-24 16:10:37,704 get url from oracle after count=0
+[INFO] 2017-11-24 16:11:37,720 get url from mongo before
+[INFO] 2017-11-24 16:11:37,934 get url from oracle after count=0
+[INFO] 2017-11-24 16:12:37,953 get url from mongo before
+[INFO] 2017-11-24 16:12:38,186 get url from oracle after count=0
+[INFO] 2017-11-24 16:13:38,198 get url from mongo before
+[INFO] 2017-11-24 16:13:38,395 get url from oracle after count=0
+[INFO] 2017-11-24 16:14:38,418 get url from mongo before
+[INFO] 2017-11-24 16:14:38,694 get url from oracle after count=0
+[INFO] 2017-11-24 16:15:38,706 get url from mongo before
+[INFO] 2017-11-24 16:15:38,917 get url from oracle after count=0
+[INFO] 2017-11-24 16:16:38,934 get url from mongo before
+[INFO] 2017-11-24 16:16:39,151 get url from oracle after count=0
+[INFO] 2017-11-24 16:17:39,170 get url from mongo before
+[INFO] 2017-11-24 16:17:39,384 get url from oracle after count=0
+[INFO] 2017-11-24 16:18:39,411 get url from mongo before
+[INFO] 2017-11-24 16:18:39,617 get url from oracle after count=0
+[INFO] 2017-11-24 16:19:39,648 get url from mongo before
+[INFO] 2017-11-24 16:19:39,857 get url from oracle after count=0
+[INFO] 2017-11-24 16:20:39,874 get url from mongo before
+[INFO] 2017-11-24 16:20:40,082 get url from oracle after count=0
+[INFO] 2017-11-24 16:21:40,104 get url from mongo before
+[INFO] 2017-11-24 16:21:40,331 get url from oracle after count=0
+[INFO] 2017-11-24 16:22:40,351 get url from mongo before
+[INFO] 2017-11-24 16:22:40,582 get url from oracle after count=0
+[INFO] 2017-11-24 16:23:40,595 get url from mongo before
+[INFO] 2017-11-24 16:23:40,796 get url from oracle after count=0
+[INFO] 2017-11-24 16:24:40,816 get url from mongo before
+[INFO] 2017-11-24 16:24:41,046 get url from oracle after count=0
+[INFO] 2017-11-24 16:25:41,061 get url from mongo before
+[INFO] 2017-11-24 16:25:41,278 get url from oracle after count=0
+[INFO] 2017-11-24 16:26:41,292 get url from mongo before
+[INFO] 2017-11-24 16:26:41,507 get url from oracle after count=0
+[INFO] 2017-11-24 16:27:41,525 get url from mongo before
+[INFO] 2017-11-24 16:27:41,750 get url from oracle after count=0
+[INFO] 2017-11-24 16:28:41,770 get url from mongo before
+[INFO] 2017-11-24 16:28:42,002 get url from oracle after count=0
+[INFO] 2017-11-24 16:29:42,015 get url from mongo before
+[INFO] 2017-11-24 16:29:42,226 get url from oracle after count=0
+[INFO] 2017-11-24 16:30:42,247 get url from mongo before
+[INFO] 2017-11-24 16:30:42,476 get url from oracle after count=0
+[INFO] 2017-11-24 16:31:42,490 get url from mongo before
+[INFO] 2017-11-24 16:31:42,697 get url from oracle after count=0
+[INFO] 2017-11-24 16:32:42,707 get url from mongo before
+[INFO] 2017-11-24 16:32:42,924 get url from oracle after count=0
+[INFO] 2017-11-24 16:33:42,937 get url from mongo before
+[INFO] 2017-11-24 16:33:43,170 get url from oracle after count=0
+[INFO] 2017-11-24 16:34:43,194 get url from mongo before
+[INFO] 2017-11-24 16:34:43,404 get url from oracle after count=0
+[INFO] 2017-11-24 16:35:43,421 get url from mongo before
+[INFO] 2017-11-24 16:35:43,641 get url from oracle after count=0
+[INFO] 2017-11-24 16:36:43,654 get url from mongo before
+[INFO] 2017-11-24 16:36:43,892 get url from oracle after count=0
+[INFO] 2017-11-24 16:37:44,026 get url from mongo before
+[INFO] 2017-11-24 16:37:44,223 get url from oracle after count=0
+[INFO] 2017-11-24 16:38:44,239 get url from mongo before
+[INFO] 2017-11-24 16:38:44,457 get url from oracle after count=0
+[INFO] 2017-11-24 16:39:44,471 get url from mongo before
+[INFO] 2017-11-24 16:39:44,696 get url from oracle after count=0
+[INFO] 2017-11-24 16:40:44,719 get url from mongo before
+[INFO] 2017-11-24 16:40:44,940 get url from oracle after count=0
+[INFO] 2017-11-24 16:41:44,960 get url from mongo before
+[INFO] 2017-11-24 16:41:45,177 get url from oracle after count=0
+[INFO] 2017-11-24 16:42:45,191 get url from mongo before
+[INFO] 2017-11-24 16:42:45,400 get url from oracle after count=0
+[INFO] 2017-11-24 16:43:45,424 get url from mongo before
+[INFO] 2017-11-24 16:43:45,642 get url from oracle after count=0
+[INFO] 2017-11-24 16:44:45,660 get url from mongo before
+[INFO] 2017-11-24 16:44:45,871 get url from oracle after count=0
+[INFO] 2017-11-24 16:45:45,885 get url from mongo before
+[INFO] 2017-11-24 16:45:46,085 get url from oracle after count=0
+[INFO] 2017-11-24 16:46:46,108 get url from mongo before
+[INFO] 2017-11-24 16:46:46,339 get url from oracle after count=0
+[INFO] 2017-11-24 16:47:46,359 get url from mongo before
+[INFO] 2017-11-24 16:47:46,582 get url from oracle after count=0
+[INFO] 2017-11-24 16:48:46,601 get url from mongo before
+[INFO] 2017-11-24 16:48:46,818 get url from oracle after count=0
+[INFO] 2017-11-24 16:49:46,831 get url from mongo before
+[INFO] 2017-11-24 16:49:47,029 get url from oracle after count=0
+[INFO] 2017-11-24 16:50:47,042 get url from mongo before
+[INFO] 2017-11-24 16:50:47,269 get url from oracle after count=0
+[INFO] 2017-11-24 16:51:47,279 get url from mongo before
+[INFO] 2017-11-24 16:51:47,509 get url from oracle after count=0
+[INFO] 2017-11-24 16:52:47,539 get url from mongo before
+[INFO] 2017-11-24 16:52:47,772 get url from oracle after count=0
+[INFO] 2017-11-24 16:58:58,081 get url from mongo before
+[INFO] 2017-11-24 16:58:58,276 get url from oracle after count=0
+[INFO] 2017-11-24 16:59:58,289 get url from mongo before
+[INFO] 2017-11-24 16:59:58,513 get url from oracle after count=0
+[INFO] 2017-11-24 17:00:58,529 get url from mongo before
+[INFO] 2017-11-24 17:00:58,746 get url from oracle after count=0
+[INFO] 2017-11-24 17:01:58,762 get url from mongo before
+[INFO] 2017-11-24 17:01:58,976 get url from oracle after count=0
+[INFO] 2017-11-24 17:02:58,990 get url from mongo before
+[INFO] 2017-11-24 17:02:59,276 get url from oracle after count=0
+[INFO] 2017-11-24 17:03:59,296 get url from mongo before
+[INFO] 2017-11-24 17:03:59,539 get url from oracle after count=0
+[INFO] 2017-11-24 17:04:59,553 get url from mongo before
+[INFO] 2017-11-24 17:04:59,779 get url from oracle after count=0
+[INFO] 2017-11-24 17:05:59,796 get url from mongo before
+[INFO] 2017-11-24 17:06:00,025 get url from oracle after count=0
+[INFO] 2017-11-24 17:07:00,042 get url from mongo before
+[INFO] 2017-11-24 17:07:00,265 get url from oracle after count=0
+[INFO] 2017-11-24 17:08:00,279 get url from mongo before
+[INFO] 2017-11-24 17:08:00,500 get url from oracle after count=0
+[INFO] 2017-11-24 17:09:00,519 get url from mongo before
+[INFO] 2017-11-24 17:09:00,747 get url from oracle after count=0
+[INFO] 2017-11-24 17:10:00,760 get url from mongo before
+[INFO] 2017-11-24 17:10:00,976 get url from oracle after count=0
+[INFO] 2017-11-24 17:11:00,990 get url from mongo before
+[INFO] 2017-11-24 17:11:01,187 get url from oracle after count=0
+[INFO] 2017-11-24 17:12:01,319 get url from mongo before
+[INFO] 2017-11-24 17:12:01,536 get url from oracle after count=0
+[INFO] 2017-11-24 17:13:01,555 get url from mongo before
+[INFO] 2017-11-24 17:13:01,772 get url from oracle after count=0
+[INFO] 2017-11-24 17:14:01,792 get url from mongo before
+[INFO] 2017-11-24 17:14:02,005 get url from oracle after count=0
+[INFO] 2017-11-24 17:15:02,019 get url from mongo before
+[INFO] 2017-11-24 17:15:02,213 get url from oracle after count=0
+[INFO] 2017-11-24 17:16:02,230 get url from mongo before
+[INFO] 2017-11-24 17:16:02,447 get url from oracle after count=0
+[INFO] 2017-11-24 17:17:02,463 get url from mongo before
+[INFO] 2017-11-24 17:17:02,671 get url from oracle after count=0
+[INFO] 2017-11-24 17:18:02,691 get url from mongo before
+[INFO] 2017-11-24 17:18:02,910 get url from oracle after count=0
+[INFO] 2017-11-24 17:19:02,924 get url from mongo before
+[INFO] 2017-11-24 17:19:03,210 get url from oracle after count=0
+[INFO] 2017-11-24 17:20:03,227 get url from mongo before
+[INFO] 2017-11-24 17:20:03,424 get url from oracle after count=0
+[INFO] 2017-11-24 17:21:03,438 get url from mongo before
+[INFO] 2017-11-24 17:21:03,654 get url from oracle after count=0
+[INFO] 2017-11-24 17:22:03,671 get url from mongo before
+[INFO] 2017-11-24 17:22:03,868 get url from oracle after count=0
+[INFO] 2017-11-24 17:23:03,887 get url from mongo before
+[INFO] 2017-11-24 17:23:04,098 get url from oracle after count=0
+[INFO] 2017-11-24 17:24:04,115 get url from mongo before
+[INFO] 2017-11-24 17:24:04,319 get url from oracle after count=0
+[INFO] 2017-11-24 17:25:04,331 get url from mongo before
+[INFO] 2017-11-24 17:25:04,542 get url from oracle after count=0
+[INFO] 2017-11-24 17:26:04,565 get url from mongo before
+[INFO] 2017-11-24 17:26:04,894 get url from oracle after count=0
+[INFO] 2017-11-24 17:27:04,905 get url from mongo before
+[INFO] 2017-11-24 17:27:05,137 get url from oracle after count=0
+[INFO] 2017-11-24 17:28:05,153 get url from mongo before
+[INFO] 2017-11-24 17:28:05,375 get url from oracle after count=0
+[INFO] 2017-11-24 17:29:05,387 get url from mongo before
+[INFO] 2017-11-24 17:29:05,599 get url from oracle after count=0
+[INFO] 2017-11-24 17:30:05,617 get url from mongo before
+[INFO] 2017-11-24 17:30:05,836 get url from oracle after count=0
+[INFO] 2017-11-24 17:31:05,865 get url from mongo before
+[INFO] 2017-11-24 17:31:06,086 get url from oracle after count=0
+[INFO] 2017-11-24 17:32:06,141 get url from mongo before
+[INFO] 2017-11-24 17:32:06,375 get url from oracle after count=0
+[INFO] 2017-11-24 17:33:06,385 get url from mongo before
+[INFO] 2017-11-24 17:33:06,592 get url from oracle after count=0
+[INFO] 2017-11-24 17:34:06,614 get url from mongo before
+[INFO] 2017-11-24 17:34:06,815 get url from oracle after count=0
+[INFO] 2017-11-24 17:35:06,828 get url from mongo before
+[INFO] 2017-11-24 17:35:07,048 get url from oracle after count=0
+[INFO] 2017-11-24 17:36:07,065 get url from mongo before
+[INFO] 2017-11-24 17:36:07,290 get url from oracle after count=0
+[INFO] 2017-11-24 17:37:07,315 get url from mongo before
+[INFO] 2017-11-24 17:37:07,529 get url from oracle after count=0
+[INFO] 2017-11-24 17:38:07,543 get url from mongo before
+[INFO] 2017-11-24 17:38:07,772 get url from oracle after count=0
+[INFO] 2017-11-24 17:39:07,788 get url from mongo before
+[INFO] 2017-11-24 17:39:07,979 get url from oracle after count=0
+[INFO] 2017-11-24 17:40:08,000 get url from mongo before
+[INFO] 2017-11-24 17:40:08,237 get url from oracle after count=0
+[INFO] 2017-11-24 17:41:08,253 get url from mongo before
+[INFO] 2017-11-24 17:41:08,486 get url from oracle after count=0
+[INFO] 2017-11-24 17:42:08,499 get url from mongo before
+[INFO] 2017-11-24 17:42:08,710 get url from oracle after count=0
+[INFO] 2017-11-24 17:43:08,729 get url from mongo before
+[INFO] 2017-11-24 17:43:08,967 get url from oracle after count=0
+[INFO] 2017-11-24 17:44:08,987 get url from mongo before
+[INFO] 2017-11-24 17:44:09,207 get url from oracle after count=0
+[INFO] 2017-11-24 17:45:09,223 get url from mongo before
+[INFO] 2017-11-24 17:45:09,444 get url from oracle after count=0
+[INFO] 2017-11-24 17:46:09,457 get url from mongo before
+[INFO] 2017-11-24 17:46:09,687 get url from oracle after count=0
+[INFO] 2017-11-24 17:47:09,698 get url from mongo before
+[INFO] 2017-11-24 17:47:09,895 get url from oracle after count=0
+[INFO] 2017-11-24 17:48:09,908 get url from mongo before
+[INFO] 2017-11-24 17:48:10,138 get url from oracle after count=0
+[INFO] 2017-11-24 17:49:10,171 get url from mongo before
+[INFO] 2017-11-24 17:49:10,651 get url from oracle after count=0
+[INFO] 2017-11-24 17:50:10,667 get url from mongo before
+[INFO] 2017-11-24 17:50:10,884 get url from oracle after count=0
+[INFO] 2017-11-24 17:51:10,905 get url from mongo before
+[INFO] 2017-11-24 17:51:11,121 get url from oracle after count=0
+[INFO] 2017-11-24 17:52:11,132 get url from mongo before
+[INFO] 2017-11-24 17:52:11,357 get url from oracle after count=0
+[INFO] 2017-11-24 17:53:11,371 get url from mongo before
+[INFO] 2017-11-24 17:53:11,595 get url from oracle after count=0
+[INFO] 2017-11-24 17:54:11,608 get url from mongo before
+[INFO] 2017-11-24 17:54:11,829 get url from oracle after count=0
+[INFO] 2017-11-24 17:55:11,852 get url from mongo before
+[INFO] 2017-11-24 17:55:12,079 get url from oracle after count=0
+[INFO] 2017-11-24 17:56:12,098 get url from mongo before
+[INFO] 2017-11-24 17:56:12,325 get url from oracle after count=0
+[INFO] 2017-11-24 17:57:12,342 get url from mongo before
+[INFO] 2017-11-24 17:57:12,536 get url from oracle after count=0
+[INFO] 2017-11-24 17:58:12,553 get url from mongo before
+[INFO] 2017-11-24 17:58:12,786 get url from oracle after count=0
+[INFO] 2017-11-24 18:04:21,617 get url from mongo before
+[INFO] 2017-11-24 18:04:21,836 get url from oracle after count=0
+[INFO] 2017-11-24 18:05:21,857 get url from mongo before
+[INFO] 2017-11-24 18:05:22,082 get url from oracle after count=0
+[INFO] 2017-11-24 18:06:22,105 get url from mongo before
+[INFO] 2017-11-24 18:06:22,335 get url from oracle after count=0
+[INFO] 2017-11-24 18:07:22,351 get url from mongo before
+[INFO] 2017-11-24 18:07:22,566 get url from oracle after count=0
+[INFO] 2017-11-24 18:08:22,582 get url from mongo before
+[INFO] 2017-11-24 18:08:22,828 get url from oracle after count=0
+[INFO] 2017-11-24 18:09:22,842 get url from mongo before
+[INFO] 2017-11-24 18:09:23,061 get url from oracle after count=0
+[INFO] 2017-11-24 18:10:23,081 get url from mongo before
+[INFO] 2017-11-24 18:10:23,298 get url from oracle after count=0
+[INFO] 2017-11-24 18:11:23,312 get url from mongo before
+[INFO] 2017-11-24 18:11:23,538 get url from oracle after count=0
+[INFO] 2017-11-24 18:12:23,559 get url from mongo before
+[INFO] 2017-11-24 18:12:23,766 get url from oracle after count=0
+[INFO] 2017-11-24 18:13:23,790 get url from mongo before
+[INFO] 2017-11-24 18:13:24,003 get url from oracle after count=0
+[INFO] 2017-11-24 18:14:24,033 get url from mongo before
+[INFO] 2017-11-24 18:14:24,253 get url from oracle after count=0
+[INFO] 2017-11-24 18:15:24,267 get url from mongo before
+[INFO] 2017-11-24 18:15:24,473 get url from oracle after count=0
+[INFO] 2017-11-24 18:16:24,483 get url from mongo before
+[INFO] 2017-11-24 18:16:24,697 get url from oracle after count=0
+[INFO] 2017-11-24 18:17:24,710 get url from mongo before
+[INFO] 2017-11-24 18:17:24,924 get url from oracle after count=0
+[INFO] 2017-11-24 18:18:24,944 get url from mongo before
+[INFO] 2017-11-24 18:18:25,138 get url from oracle after count=0
+[INFO] 2017-11-24 18:19:25,157 get url from mongo before
+[INFO] 2017-11-24 18:19:25,388 get url from oracle after count=0
+[INFO] 2017-11-24 18:20:25,407 get url from mongo before
+[INFO] 2017-11-24 18:20:25,618 get url from oracle after count=0
+[INFO] 2017-11-24 18:21:25,637 get url from mongo before
+[INFO] 2017-11-24 18:21:25,848 get url from oracle after count=0
+[INFO] 2017-11-24 18:22:25,868 get url from mongo before
+[INFO] 2017-11-24 18:22:26,081 get url from oracle after count=0
+[INFO] 2017-11-24 18:23:26,098 get url from mongo before
+[INFO] 2017-11-24 18:23:26,311 get url from oracle after count=0
+[INFO] 2017-11-24 18:24:26,319 get url from mongo before
+[INFO] 2017-11-24 18:24:26,529 get url from oracle after count=0
+[INFO] 2017-11-24 18:25:26,543 get url from mongo before
+[INFO] 2017-11-24 18:25:26,825 get url from oracle after count=0
+[INFO] 2017-11-24 18:26:26,844 get url from mongo before
+[INFO] 2017-11-24 18:26:27,068 get url from oracle after count=0
+[INFO] 2017-11-24 18:27:27,085 get url from mongo before
+[INFO] 2017-11-24 18:27:27,322 get url from oracle after count=0
+[INFO] 2017-11-24 18:28:27,335 get url from mongo before
+[INFO] 2017-11-24 18:28:27,549 get url from oracle after count=0
+[INFO] 2017-11-24 18:29:27,575 get url from mongo before
+[INFO] 2017-11-24 18:29:27,782 get url from oracle after count=0
+[INFO] 2017-11-24 18:30:27,802 get url from mongo before
+[INFO] 2017-11-24 18:30:28,023 get url from oracle after count=0
+[INFO] 2017-11-24 18:31:28,042 get url from mongo before
+[INFO] 2017-11-24 18:31:28,259 get url from oracle after count=0
+[INFO] 2017-11-24 18:32:28,279 get url from mongo before
+[INFO] 2017-11-24 18:32:28,500 get url from oracle after count=0
+[INFO] 2017-11-24 18:33:28,515 get url from mongo before
+[INFO] 2017-11-24 18:33:28,736 get url from oracle after count=0
+[INFO] 2017-11-24 18:34:28,753 get url from mongo before
+[INFO] 2017-11-24 18:34:28,994 get url from oracle after count=0
+[INFO] 2017-11-24 18:35:29,016 get url from mongo before
+[INFO] 2017-11-24 18:35:29,246 get url from oracle after count=0
+[INFO] 2017-11-24 18:36:29,266 get url from mongo before
+[INFO] 2017-11-24 18:36:29,453 get url from oracle after count=0
+[INFO] 2017-11-24 18:37:29,466 get url from mongo before
+[INFO] 2017-11-24 18:37:29,687 get url from oracle after count=0
+[INFO] 2017-11-24 18:38:29,696 get url from mongo before
+[INFO] 2017-11-24 18:38:29,908 get url from oracle after count=0
+[INFO] 2017-11-24 18:39:29,934 get url from mongo before
+[INFO] 2017-11-24 18:39:30,171 get url from oracle after count=0
+[INFO] 2017-11-24 18:40:30,183 get url from mongo before
+[INFO] 2017-11-24 18:40:30,398 get url from oracle after count=0
+[INFO] 2017-11-24 18:41:30,414 get url from mongo before
+[INFO] 2017-11-24 18:41:30,653 get url from oracle after count=0
+[INFO] 2017-11-24 18:42:30,667 get url from mongo before
+[INFO] 2017-11-24 18:42:30,905 get url from oracle after count=0
+[INFO] 2017-11-24 18:43:30,924 get url from mongo before
+[INFO] 2017-11-24 18:43:31,187 get url from oracle after count=0
+[INFO] 2017-11-24 18:44:31,207 get url from mongo before
+[INFO] 2017-11-24 18:44:31,440 get url from oracle after count=0
+[INFO] 2017-11-24 18:45:31,456 get url from mongo before
+[INFO] 2017-11-24 18:45:31,700 get url from oracle after count=0
+[INFO] 2017-11-24 18:46:31,714 get url from mongo before
+[INFO] 2017-11-24 18:46:31,918 get url from oracle after count=0
+[INFO] 2017-11-24 18:47:31,931 get url from mongo before
+[INFO] 2017-11-24 18:47:32,150 get url from oracle after count=0
+[INFO] 2017-11-24 18:48:32,164 get url from mongo before
+[INFO] 2017-11-24 18:48:32,388 get url from oracle after count=0
+[INFO] 2017-11-24 18:49:32,405 get url from mongo before
+[INFO] 2017-11-24 18:49:32,622 get url from oracle after count=0
+[INFO] 2017-11-24 18:50:32,634 get url from mongo before
+[INFO] 2017-11-24 18:50:32,885 get url from oracle after count=0
+[INFO] 2017-11-24 18:51:32,904 get url from mongo before
+[INFO] 2017-11-24 18:51:33,125 get url from oracle after count=0
+[INFO] 2017-11-24 18:52:33,138 get url from mongo before
+[INFO] 2017-11-24 18:52:33,342 get url from oracle after count=0
+[INFO] 2017-11-24 18:53:33,357 get url from mongo before
+[INFO] 2017-11-24 18:53:33,569 get url from oracle after count=0
+[INFO] 2017-11-24 18:54:33,582 get url from mongo before
+[INFO] 2017-11-24 18:54:33,799 get url from oracle after count=0
+[INFO] 2017-11-24 18:55:33,816 get url from mongo before
+[INFO] 2017-11-24 18:55:34,040 get url from oracle after count=0
+[INFO] 2017-11-24 18:56:34,065 get url from mongo before
+[INFO] 2017-11-24 18:56:34,285 get url from oracle after count=0
+[INFO] 2017-11-24 18:57:34,309 get url from mongo before
+[INFO] 2017-11-24 18:57:34,512 get url from oracle after count=0
+[INFO] 2017-11-24 18:58:34,526 get url from mongo before
+[INFO] 2017-11-24 18:58:34,753 get url from oracle after count=0
+[INFO] 2017-11-24 18:59:34,766 get url from mongo before
+[INFO] 2017-11-24 18:59:34,980 get url from oracle after count=0
+[INFO] 2017-11-24 19:00:35,003 get url from mongo before
+[INFO] 2017-11-24 19:00:35,230 get url from oracle after count=0
+[INFO] 2017-11-24 19:01:35,247 get url from mongo before
+[INFO] 2017-11-24 19:01:35,463 get url from oracle after count=0
+[INFO] 2017-11-24 19:02:35,480 get url from mongo before
+[INFO] 2017-11-24 19:02:35,696 get url from oracle after count=0
+[INFO] 2017-11-24 19:03:35,711 get url from mongo before
+[INFO] 2017-11-24 19:03:36,088 get url from oracle after count=0
+[INFO] 2017-11-24 19:09:53,073 get url from mongo before
+[INFO] 2017-11-24 19:09:53,278 get url from oracle after count=0
+[INFO] 2017-11-24 19:10:53,298 get url from mongo before
+[INFO] 2017-11-24 19:10:53,529 get url from oracle after count=0
+[INFO] 2017-11-24 19:11:53,542 get url from mongo before
+[INFO] 2017-11-24 19:11:53,765 get url from oracle after count=0
+[INFO] 2017-11-24 19:12:53,779 get url from mongo before
+[INFO] 2017-11-24 19:12:53,982 get url from oracle after count=0
+[INFO] 2017-11-24 19:13:53,994 get url from mongo before
+[INFO] 2017-11-24 19:13:54,219 get url from oracle after count=0
+[INFO] 2017-11-24 19:14:54,233 get url from mongo before
+[INFO] 2017-11-24 19:14:54,480 get url from oracle after count=0
+[INFO] 2017-11-24 19:15:54,499 get url from mongo before
+[INFO] 2017-11-24 19:15:54,710 get url from oracle after count=0
+[INFO] 2017-11-24 19:16:54,733 get url from mongo before
+[INFO] 2017-11-24 19:16:54,957 get url from oracle after count=0
+[INFO] 2017-11-24 19:17:54,970 get url from mongo before
+[INFO] 2017-11-24 19:17:55,197 get url from oracle after count=0
+[INFO] 2017-11-24 19:18:55,211 get url from mongo before
+[INFO] 2017-11-24 19:18:55,427 get url from oracle after count=0
+[INFO] 2017-11-24 19:19:55,446 get url from mongo before
+[INFO] 2017-11-24 19:19:55,654 get url from oracle after count=0
+[INFO] 2017-11-24 19:20:55,684 get url from mongo before
+[INFO] 2017-11-24 19:20:55,888 get url from oracle after count=0
+[INFO] 2017-11-24 19:21:55,907 get url from mongo before
+[INFO] 2017-11-24 19:21:56,137 get url from oracle after count=0
+[INFO] 2017-11-24 19:22:56,161 get url from mongo before
+[INFO] 2017-11-24 19:22:56,378 get url from oracle after count=0
+[INFO] 2017-11-24 19:23:56,392 get url from mongo before
+[INFO] 2017-11-24 19:23:56,622 get url from oracle after count=0
+[INFO] 2017-11-24 19:24:56,641 get url from mongo before
+[INFO] 2017-11-24 19:24:56,859 get url from oracle after count=0
+[INFO] 2017-11-24 19:25:56,872 get url from mongo before
+[INFO] 2017-11-24 19:25:57,099 get url from oracle after count=0
+[INFO] 2017-11-24 19:26:57,119 get url from mongo before
+[INFO] 2017-11-24 19:26:57,323 get url from oracle after count=0
+[INFO] 2017-11-24 19:27:57,338 get url from mongo before
+[INFO] 2017-11-24 19:27:57,559 get url from oracle after count=0
+[INFO] 2017-11-24 19:28:57,582 get url from mongo before
+[INFO] 2017-11-24 19:28:57,796 get url from oracle after count=0
+[INFO] 2017-11-24 19:29:57,809 get url from mongo before
+[INFO] 2017-11-24 19:29:58,026 get url from oracle after count=0
+[INFO] 2017-11-24 19:30:58,046 get url from mongo before
+[INFO] 2017-11-24 19:30:58,282 get url from oracle after count=0
+[INFO] 2017-11-24 19:31:58,296 get url from mongo before
+[INFO] 2017-11-24 19:31:58,510 get url from oracle after count=0
+[INFO] 2017-11-24 19:32:58,539 get url from mongo before
+[INFO] 2017-11-24 19:32:58,759 get url from oracle after count=0
+[INFO] 2017-11-24 19:33:58,773 get url from mongo before
+[INFO] 2017-11-24 19:33:58,982 get url from oracle after count=0
+[INFO] 2017-11-24 19:34:58,996 get url from mongo before
+[INFO] 2017-11-24 19:34:59,210 get url from oracle after count=0
+[INFO] 2017-11-24 19:35:59,224 get url from mongo before
+[INFO] 2017-11-24 19:35:59,450 get url from oracle after count=0
+[INFO] 2017-11-24 19:36:59,463 get url from mongo before
+[INFO] 2017-11-24 19:36:59,701 get url from oracle after count=0
+[INFO] 2017-11-24 19:37:59,717 get url from mongo before
+[INFO] 2017-11-24 19:37:59,931 get url from oracle after count=0
+[INFO] 2017-11-24 19:38:59,946 get url from mongo before
+[INFO] 2017-11-24 19:39:00,217 get url from oracle after count=0
+[INFO] 2017-11-24 19:40:00,232 get url from mongo before
+[INFO] 2017-11-24 19:40:00,453 get url from oracle after count=0
+[INFO] 2017-11-24 19:41:00,471 get url from mongo before
+[INFO] 2017-11-24 19:41:00,687 get url from oracle after count=0
+[INFO] 2017-11-24 19:42:00,700 get url from mongo before
+[INFO] 2017-11-24 19:42:00,937 get url from oracle after count=0
+[INFO] 2017-11-24 19:43:00,960 get url from mongo before
+[INFO] 2017-11-24 19:43:01,167 get url from oracle after count=0
+[INFO] 2017-11-24 19:44:01,181 get url from mongo before
+[INFO] 2017-11-24 19:44:01,410 get url from oracle after count=0
+[INFO] 2017-11-24 19:45:01,424 get url from mongo before
+[INFO] 2017-11-24 19:45:01,634 get url from oracle after count=0
+[INFO] 2017-11-24 19:46:01,654 get url from mongo before
+[INFO] 2017-11-24 19:46:01,907 get url from oracle after count=0
+[INFO] 2017-11-24 19:47:01,927 get url from mongo before
+[INFO] 2017-11-24 19:47:02,134 get url from oracle after count=0
+[INFO] 2017-11-24 19:48:02,150 get url from mongo before
+[INFO] 2017-11-24 19:48:02,358 get url from oracle after count=0
+[INFO] 2017-11-24 19:49:02,365 get url from mongo before
+[INFO] 2017-11-24 19:49:02,569 get url from oracle after count=0
+[INFO] 2017-11-24 19:50:02,589 get url from mongo before
+[INFO] 2017-11-24 19:50:02,805 get url from oracle after count=0
+[INFO] 2017-11-24 19:51:02,818 get url from mongo before
+[INFO] 2017-11-24 19:51:03,065 get url from oracle after count=0
+[INFO] 2017-11-24 19:52:03,076 get url from mongo before
+[INFO] 2017-11-24 19:52:03,302 get url from oracle after count=0
+[INFO] 2017-11-24 19:53:03,315 get url from mongo before
+[INFO] 2017-11-24 19:53:03,535 get url from oracle after count=0
+[INFO] 2017-11-24 19:54:03,555 get url from mongo before
+[INFO] 2017-11-24 19:54:03,775 get url from oracle after count=0
+[INFO] 2017-11-24 19:55:03,790 get url from mongo before
+[INFO] 2017-11-24 19:55:04,019 get url from oracle after count=0
+[INFO] 2017-11-24 19:56:04,040 get url from mongo before
+[INFO] 2017-11-24 19:56:04,250 get url from oracle after count=0
+[INFO] 2017-11-24 19:57:04,266 get url from mongo before
+[INFO] 2017-11-24 19:57:04,496 get url from oracle after count=0
+[INFO] 2017-11-24 19:58:04,523 get url from mongo before
+[INFO] 2017-11-24 19:58:04,744 get url from oracle after count=0
+[INFO] 2017-11-24 19:59:04,762 get url from mongo before
+[INFO] 2017-11-24 19:59:04,980 get url from oracle after count=0
+[INFO] 2017-11-24 20:00:05,000 get url from mongo before
+[INFO] 2017-11-24 20:00:05,229 get url from oracle after count=0
+[INFO] 2017-11-24 20:01:05,243 get url from mongo before
+[INFO] 2017-11-24 20:01:05,469 get url from oracle after count=0
+[INFO] 2017-11-24 20:02:05,480 get url from mongo before
+[INFO] 2017-11-24 20:02:05,687 get url from oracle after count=0
+[INFO] 2017-11-24 20:03:05,701 get url from mongo before
+[INFO] 2017-11-24 20:03:05,914 get url from oracle after count=0
+[INFO] 2017-11-24 20:04:05,930 get url from mongo before
+[INFO] 2017-11-24 20:04:06,144 get url from oracle after count=0
+[INFO] 2017-11-24 20:05:06,163 get url from mongo before
+[INFO] 2017-11-24 20:05:06,388 get url from oracle after count=0
+[INFO] 2017-11-24 20:06:06,400 get url from mongo before
+[INFO] 2017-11-24 20:06:06,611 get url from oracle after count=0
+[INFO] 2017-11-24 20:07:06,627 get url from mongo before
+[INFO] 2017-11-24 20:07:06,832 get url from oracle after count=0
+[INFO] 2017-11-24 20:08:06,848 get url from mongo before
+[INFO] 2017-11-24 20:08:07,058 get url from oracle after count=0
+[INFO] 2017-11-24 20:14:01,743 get url from mongo before
+[INFO] 2017-11-24 20:14:01,964 get url from oracle after count=0
+[INFO] 2017-11-24 20:15:01,987 get url from mongo before
+[INFO] 2017-11-24 20:15:02,219 get url from oracle after count=0
+[INFO] 2017-11-24 20:16:02,236 get url from mongo before
+[INFO] 2017-11-24 20:16:02,451 get url from oracle after count=0
+[INFO] 2017-11-24 20:17:02,469 get url from mongo before
+[INFO] 2017-11-24 20:17:02,703 get url from oracle after count=0
+[INFO] 2017-11-24 20:18:02,730 get url from mongo before
+[INFO] 2017-11-24 20:18:02,944 get url from oracle after count=0
+[INFO] 2017-11-24 20:19:02,961 get url from mongo before
+[INFO] 2017-11-24 20:19:03,183 get url from oracle after count=0
+[INFO] 2017-11-24 20:20:03,211 get url from mongo before
+[INFO] 2017-11-24 20:20:03,410 get url from oracle after count=0
+[INFO] 2017-11-24 20:21:03,431 get url from mongo before
+[INFO] 2017-11-24 20:21:03,644 get url from oracle after count=0
+[INFO] 2017-11-24 20:22:03,660 get url from mongo before
+[INFO] 2017-11-24 20:22:03,865 get url from oracle after count=0
+[INFO] 2017-11-24 20:23:03,882 get url from mongo before
+[INFO] 2017-11-24 20:23:04,098 get url from oracle after count=0
+[INFO] 2017-11-24 20:24:04,115 get url from mongo before
+[INFO] 2017-11-24 20:24:04,332 get url from oracle after count=0
+[INFO] 2017-11-24 20:25:04,342 get url from mongo before
+[INFO] 2017-11-24 20:25:04,549 get url from oracle after count=0
+[INFO] 2017-11-24 20:26:04,569 get url from mongo before
+[INFO] 2017-11-24 20:26:04,802 get url from oracle after count=0
+[INFO] 2017-11-24 20:27:04,826 get url from mongo before
+[INFO] 2017-11-24 20:27:05,029 get url from oracle after count=0
+[INFO] 2017-11-24 20:28:05,042 get url from mongo before
+[INFO] 2017-11-24 20:28:05,266 get url from oracle after count=0
+[INFO] 2017-11-24 20:29:05,286 get url from mongo before
+[INFO] 2017-11-24 20:29:05,490 get url from oracle after count=0
+[INFO] 2017-11-24 20:30:05,503 get url from mongo before
+[INFO] 2017-11-24 20:30:05,716 get url from oracle after count=0
+[INFO] 2017-11-24 20:31:05,730 get url from mongo before
+[INFO] 2017-11-24 20:31:05,954 get url from oracle after count=0
+[INFO] 2017-11-24 20:32:05,973 get url from mongo before
+[INFO] 2017-11-24 20:32:06,194 get url from oracle after count=0
+[INFO] 2017-11-24 20:33:06,372 get url from mongo before
+[INFO] 2017-11-24 20:33:06,595 get url from oracle after count=0
+[INFO] 2017-11-24 20:34:06,611 get url from mongo before
+[INFO] 2017-11-24 20:34:06,819 get url from oracle after count=0
+[INFO] 2017-11-24 20:35:06,845 get url from mongo before
+[INFO] 2017-11-24 20:35:07,049 get url from oracle after count=0
+[INFO] 2017-11-24 20:36:07,069 get url from mongo before
+[INFO] 2017-11-24 20:36:07,279 get url from oracle after count=0
+[INFO] 2017-11-24 20:37:07,298 get url from mongo before
+[INFO] 2017-11-24 20:37:07,520 get url from oracle after count=0
+[INFO] 2017-11-24 20:38:07,540 get url from mongo before
+[INFO] 2017-11-24 20:38:07,756 get url from oracle after count=0
+[INFO] 2017-11-24 20:39:07,773 get url from mongo before
+[INFO] 2017-11-24 20:39:07,997 get url from oracle after count=0
+[INFO] 2017-11-24 20:40:08,015 get url from mongo before
+[INFO] 2017-11-24 20:40:08,217 get url from oracle after count=0
+[INFO] 2017-11-24 20:41:08,246 get url from mongo before
+[INFO] 2017-11-24 20:41:08,453 get url from oracle after count=0
+[INFO] 2017-11-24 20:42:08,467 get url from mongo before
+[INFO] 2017-11-24 20:42:08,680 get url from oracle after count=0
+[INFO] 2017-11-24 20:43:08,694 get url from mongo before
+[INFO] 2017-11-24 20:43:08,921 get url from oracle after count=0
+[INFO] 2017-11-24 20:44:08,944 get url from mongo before
+[INFO] 2017-11-24 20:44:09,171 get url from oracle after count=0
+[INFO] 2017-11-24 20:45:09,184 get url from mongo before
+[INFO] 2017-11-24 20:45:09,404 get url from oracle after count=0
+[INFO] 2017-11-24 20:46:09,428 get url from mongo before
+[INFO] 2017-11-24 20:46:09,635 get url from oracle after count=0
+[INFO] 2017-11-24 20:47:09,661 get url from mongo before
+[INFO] 2017-11-24 20:47:09,894 get url from oracle after count=0
+[INFO] 2017-11-24 20:48:09,905 get url from mongo before
+[INFO] 2017-11-24 20:48:10,125 get url from oracle after count=0
+[INFO] 2017-11-24 20:49:10,141 get url from mongo before
+[INFO] 2017-11-24 20:49:10,349 get url from oracle after count=0
+[INFO] 2017-11-24 20:50:10,368 get url from mongo before
+[INFO] 2017-11-24 20:50:10,594 get url from oracle after count=0
+[INFO] 2017-11-24 20:51:10,607 get url from mongo before
+[INFO] 2017-11-24 20:51:10,813 get url from oracle after count=0
+[INFO] 2017-11-24 20:52:10,825 get url from mongo before
+[INFO] 2017-11-24 20:52:11,065 get url from oracle after count=0
+[INFO] 2017-11-24 20:53:11,079 get url from mongo before
+[INFO] 2017-11-24 20:53:11,292 get url from oracle after count=0
+[INFO] 2017-11-24 20:54:11,302 get url from mongo before
+[INFO] 2017-11-24 20:54:11,516 get url from oracle after count=0
+[INFO] 2017-11-24 20:55:11,532 get url from mongo before
+[INFO] 2017-11-24 20:55:11,736 get url from oracle after count=0
+[INFO] 2017-11-24 20:56:11,755 get url from mongo before
+[INFO] 2017-11-24 20:56:11,996 get url from oracle after count=0
+[INFO] 2017-11-24 20:57:12,015 get url from mongo before
+[INFO] 2017-11-24 20:57:12,237 get url from oracle after count=0
+[INFO] 2017-11-24 20:58:12,253 get url from mongo before
+[INFO] 2017-11-24 20:58:12,490 get url from oracle after count=0
+[INFO] 2017-11-24 20:59:12,506 get url from mongo before
+[INFO] 2017-11-24 20:59:12,714 get url from oracle after count=0
+[INFO] 2017-11-24 21:00:12,732 get url from mongo before
+[INFO] 2017-11-24 21:00:12,940 get url from oracle after count=0
+[INFO] 2017-11-24 21:01:12,957 get url from mongo before
+[INFO] 2017-11-24 21:01:13,187 get url from oracle after count=0
+[INFO] 2017-11-24 21:02:13,201 get url from mongo before
+[INFO] 2017-11-24 21:02:13,413 get url from oracle after count=0
+[INFO] 2017-11-24 21:03:13,417 get url from mongo before
+[INFO] 2017-11-24 21:03:13,641 get url from oracle after count=0
+[INFO] 2017-11-24 21:04:13,664 get url from mongo before
+[INFO] 2017-11-24 21:04:13,861 get url from oracle after count=0
+[INFO] 2017-11-24 21:05:13,872 get url from mongo before
+[INFO] 2017-11-24 21:05:14,085 get url from oracle after count=0
+[INFO] 2017-11-24 21:06:14,102 get url from mongo before
+[INFO] 2017-11-24 21:06:14,299 get url from oracle after count=0
+[INFO] 2017-11-24 21:07:14,313 get url from mongo before
+[INFO] 2017-11-24 21:07:14,569 get url from oracle after count=0
+[INFO] 2017-11-24 21:08:14,589 get url from mongo before
+[INFO] 2017-11-24 21:08:14,801 get url from oracle after count=0
+[INFO] 2017-11-24 21:09:14,815 get url from mongo before
+[INFO] 2017-11-24 21:09:15,039 get url from oracle after count=0
+[INFO] 2017-11-24 21:10:15,056 get url from mongo before
+[INFO] 2017-11-24 21:10:15,302 get url from oracle after count=0
+[INFO] 2017-11-24 21:11:15,323 get url from mongo before
+[INFO] 2017-11-24 21:11:15,525 get url from oracle after count=0
+[INFO] 2017-11-24 21:12:15,542 get url from mongo before
+[INFO] 2017-11-24 21:12:15,756 get url from oracle after count=0
+[INFO] 2017-11-24 21:13:15,849 get url from mongo before
+[INFO] 2017-11-24 21:13:16,071 get url from oracle after count=0
+[INFO] 2017-11-24 21:19:07,796 get url from mongo before
+[INFO] 2017-11-24 21:19:08,015 get url from oracle after count=0
+[INFO] 2017-11-24 21:20:08,033 get url from mongo before
+[INFO] 2017-11-24 21:20:08,216 get url from oracle after count=0
+[INFO] 2017-11-24 21:21:08,230 get url from mongo before
+[INFO] 2017-11-24 21:21:08,454 get url from oracle after count=0
+[INFO] 2017-11-24 21:22:08,470 get url from mongo before
+[INFO] 2017-11-24 21:22:08,686 get url from oracle after count=0
+[INFO] 2017-11-24 21:23:08,697 get url from mongo before
+[INFO] 2017-11-24 21:23:08,928 get url from oracle after count=0
+[INFO] 2017-11-24 21:24:08,941 get url from mongo before
+[INFO] 2017-11-24 21:24:09,147 get url from oracle after count=0
+[INFO] 2017-11-24 21:25:09,160 get url from mongo before
+[INFO] 2017-11-24 21:25:09,391 get url from oracle after count=0
+[INFO] 2017-11-24 21:26:09,411 get url from mongo before
+[INFO] 2017-11-24 21:26:09,621 get url from oracle after count=0
+[INFO] 2017-11-24 21:27:09,640 get url from mongo before
+[INFO] 2017-11-24 21:27:09,816 get url from oracle after count=0
+[INFO] 2017-11-24 21:28:09,836 get url from mongo before
+[INFO] 2017-11-24 21:28:10,075 get url from oracle after count=0
+[INFO] 2017-11-24 21:29:10,098 get url from mongo before
+[INFO] 2017-11-24 21:29:10,302 get url from oracle after count=0
+[INFO] 2017-11-24 21:30:10,315 get url from mongo before
+[INFO] 2017-11-24 21:30:10,551 get url from oracle after count=0
+[INFO] 2017-11-24 21:31:10,569 get url from mongo before
+[INFO] 2017-11-24 21:31:10,782 get url from oracle after count=0
+[INFO] 2017-11-24 21:32:10,799 get url from mongo before
+[INFO] 2017-11-24 21:32:11,007 get url from oracle after count=0
+[INFO] 2017-11-24 21:33:11,029 get url from mongo before
+[INFO] 2017-11-24 21:33:11,242 get url from oracle after count=0
+[INFO] 2017-11-24 21:34:11,255 get url from mongo before
+[INFO] 2017-11-24 21:34:11,480 get url from oracle after count=0
+[INFO] 2017-11-24 21:35:11,759 get url from mongo before
+[INFO] 2017-11-24 21:35:11,970 get url from oracle after count=0
+[INFO] 2017-11-24 21:36:11,983 get url from mongo before
+[INFO] 2017-11-24 21:36:12,197 get url from oracle after count=0
+[INFO] 2017-11-24 21:37:12,211 get url from mongo before
+[INFO] 2017-11-24 21:37:12,461 get url from oracle after count=0
+[INFO] 2017-11-24 21:38:12,480 get url from mongo before
+[INFO] 2017-11-24 21:38:12,703 get url from oracle after count=0
+[INFO] 2017-11-24 21:39:12,721 get url from mongo before
+[INFO] 2017-11-24 21:39:12,973 get url from oracle after count=0
+[INFO] 2017-11-24 21:40:12,996 get url from mongo before
+[INFO] 2017-11-24 21:40:13,226 get url from oracle after count=0
+[INFO] 2017-11-24 21:41:13,246 get url from mongo before
+[INFO] 2017-11-24 21:41:13,470 get url from oracle after count=0
+[INFO] 2017-11-24 21:42:13,487 get url from mongo before
+[INFO] 2017-11-24 21:42:13,697 get url from oracle after count=0
+[INFO] 2017-11-24 21:43:13,706 get url from mongo before
+[INFO] 2017-11-24 21:43:13,943 get url from oracle after count=0
+[INFO] 2017-11-24 21:44:13,960 get url from mongo before
+[INFO] 2017-11-24 21:44:14,177 get url from oracle after count=0
+[INFO] 2017-11-24 21:45:14,191 get url from mongo before
+[INFO] 2017-11-24 21:45:14,407 get url from oracle after count=0
+[INFO] 2017-11-24 21:46:14,430 get url from mongo before
+[INFO] 2017-11-24 21:46:15,092 get url from oracle after count=0
+[INFO] 2017-11-24 21:47:15,107 get url from mongo before
+[INFO] 2017-11-24 21:47:15,319 get url from oracle after count=0
+[INFO] 2017-11-24 21:48:15,328 get url from mongo before
+[INFO] 2017-11-24 21:48:15,592 get url from oracle after count=0
+[INFO] 2017-11-24 21:49:15,602 get url from mongo before
+[INFO] 2017-11-24 21:49:15,818 get url from oracle after count=0
+[INFO] 2017-11-24 21:50:15,845 get url from mongo before
+[INFO] 2017-11-24 21:50:16,061 get url from oracle after count=0
+[INFO] 2017-11-24 21:51:16,078 get url from mongo before
+[INFO] 2017-11-24 21:51:16,295 get url from oracle after count=0
+[INFO] 2017-11-24 21:52:16,309 get url from mongo before
+[INFO] 2017-11-24 21:52:16,895 get url from oracle after count=0
+[INFO] 2017-11-24 21:53:16,914 get url from mongo before
+[INFO] 2017-11-24 21:53:17,157 get url from oracle after count=0
+[INFO] 2017-11-24 21:54:17,177 get url from mongo before
+[INFO] 2017-11-24 21:54:17,483 get url from oracle after count=0
+[INFO] 2017-11-24 21:55:17,513 get url from mongo before
+[INFO] 2017-11-24 21:55:17,721 get url from oracle after count=0
+[INFO] 2017-11-24 21:56:18,230 get url from mongo before
+[INFO] 2017-11-24 21:56:18,467 get url from oracle after count=0
+[INFO] 2017-11-24 21:57:18,483 get url from mongo before
+[INFO] 2017-11-24 21:57:18,706 get url from oracle after count=0
+[INFO] 2017-11-24 21:58:18,717 get url from mongo before
+[INFO] 2017-11-24 21:58:18,947 get url from oracle after count=0
+[INFO] 2017-11-24 21:59:18,967 get url from mongo before
+[INFO] 2017-11-24 21:59:19,180 get url from oracle after count=0
+[INFO] 2017-11-24 22:00:19,200 get url from mongo before
+[INFO] 2017-11-24 22:00:19,388 get url from oracle after count=0
+[INFO] 2017-11-24 22:01:19,413 get url from mongo before
+[INFO] 2017-11-24 22:01:19,628 get url from oracle after count=0
+[INFO] 2017-11-24 22:02:19,644 get url from mongo before
+[INFO] 2017-11-24 22:02:19,990 get url from oracle after count=0
+[INFO] 2017-11-24 22:03:20,009 get url from mongo before
+[INFO] 2017-11-24 22:03:20,247 get url from oracle after count=0
+[INFO] 2017-11-24 22:04:20,269 get url from mongo before
+[INFO] 2017-11-24 22:04:20,470 get url from oracle after count=0
+[INFO] 2017-11-24 22:05:20,484 get url from mongo before
+[INFO] 2017-11-24 22:05:20,706 get url from oracle after count=0
+[INFO] 2017-11-24 22:06:20,724 get url from mongo before
+[INFO] 2017-11-24 22:06:20,990 get url from oracle after count=0
+[INFO] 2017-11-24 22:07:21,029 get url from mongo before
+[INFO] 2017-11-24 22:07:21,247 get url from oracle after count=0
+[INFO] 2017-11-24 22:08:21,272 get url from mongo before
+[INFO] 2017-11-24 22:08:21,471 get url from oracle after count=0
+[INFO] 2017-11-24 22:09:21,563 get url from mongo before
+[INFO] 2017-11-24 22:09:21,779 get url from oracle after count=0
+[INFO] 2017-11-24 22:10:21,799 get url from mongo before
+[INFO] 2017-11-24 22:10:22,013 get url from oracle after count=0
+[INFO] 2017-11-24 22:11:22,035 get url from mongo before
+[INFO] 2017-11-24 22:11:22,253 get url from oracle after count=0
+[INFO] 2017-11-24 22:12:22,263 get url from mongo before
+[INFO] 2017-11-24 22:12:22,480 get url from oracle after count=0
+[INFO] 2017-11-24 22:13:22,496 get url from mongo before
+[INFO] 2017-11-24 22:13:22,714 get url from oracle after count=0
+[INFO] 2017-11-24 22:14:22,732 get url from mongo before
+[INFO] 2017-11-24 22:14:22,944 get url from oracle after count=0
+[INFO] 2017-11-24 22:15:22,959 get url from mongo before
+[INFO] 2017-11-24 22:15:23,153 get url from oracle after count=0
+[INFO] 2017-11-24 22:16:23,165 get url from mongo before
+[INFO] 2017-11-24 22:16:23,437 get url from oracle after count=0
+[INFO] 2017-11-24 22:17:23,453 get url from mongo before
+[INFO] 2017-11-24 22:17:23,671 get url from oracle after count=0
+[INFO] 2017-11-24 22:18:23,694 get url from mongo before
+[INFO] 2017-11-24 22:18:23,907 get url from oracle after count=0
+[INFO] 2017-11-24 22:24:20,872 get url from mongo before
+[INFO] 2017-11-24 22:24:21,076 get url from oracle after count=0
+[INFO] 2017-11-24 22:25:21,131 get url from mongo before
+[INFO] 2017-11-24 22:25:21,339 get url from oracle after count=0
+[INFO] 2017-11-24 22:26:21,357 get url from mongo before
+[INFO] 2017-11-24 22:26:21,581 get url from oracle after count=0
+[INFO] 2017-11-24 22:27:21,594 get url from mongo before
+[INFO] 2017-11-24 22:27:21,822 get url from oracle after count=0
+[INFO] 2017-11-24 22:28:21,841 get url from mongo before
+[INFO] 2017-11-24 22:28:22,058 get url from oracle after count=0
+[INFO] 2017-11-24 22:29:22,071 get url from mongo before
+[INFO] 2017-11-24 22:29:22,289 get url from oracle after count=0
+[INFO] 2017-11-24 22:30:22,299 get url from mongo before
+[INFO] 2017-11-24 22:30:22,525 get url from oracle after count=0
+[INFO] 2017-11-24 22:31:22,539 get url from mongo before
+[INFO] 2017-11-24 22:31:22,743 get url from oracle after count=0
+[INFO] 2017-11-24 22:32:22,753 get url from mongo before
+[INFO] 2017-11-24 22:32:22,970 get url from oracle after count=0
+[INFO] 2017-11-24 22:33:22,986 get url from mongo before
+[INFO] 2017-11-24 22:33:23,200 get url from oracle after count=0
+[INFO] 2017-11-24 22:34:23,217 get url from mongo before
+[INFO] 2017-11-24 22:34:23,438 get url from oracle after count=0
+[INFO] 2017-11-24 22:35:23,450 get url from mongo before
+[INFO] 2017-11-24 22:35:23,671 get url from oracle after count=0
+[INFO] 2017-11-24 22:36:23,684 get url from mongo before
+[INFO] 2017-11-24 22:36:23,901 get url from oracle after count=0
+[INFO] 2017-11-24 22:37:23,917 get url from mongo before
+[INFO] 2017-11-24 22:37:24,142 get url from oracle after count=0
+[INFO] 2017-11-24 22:38:24,161 get url from mongo before
+[INFO] 2017-11-24 22:38:24,364 get url from oracle after count=0
+[INFO] 2017-11-24 22:39:24,372 get url from mongo before
+[INFO] 2017-11-24 22:39:24,589 get url from oracle after count=0
+[INFO] 2017-11-24 22:40:24,611 get url from mongo before
+[INFO] 2017-11-24 22:40:24,813 get url from oracle after count=0
+[INFO] 2017-11-24 22:41:24,835 get url from mongo before
+[INFO] 2017-11-24 22:41:25,066 get url from oracle after count=0
+[INFO] 2017-11-24 22:42:25,082 get url from mongo before
+[INFO] 2017-11-24 22:42:25,450 get url from oracle after count=0
+[INFO] 2017-11-24 22:43:25,460 get url from mongo before
+[INFO] 2017-11-24 22:43:25,664 get url from oracle after count=0
+[INFO] 2017-11-24 22:44:25,677 get url from mongo before
+[INFO] 2017-11-24 22:44:25,884 get url from oracle after count=0
+[INFO] 2017-11-24 22:45:25,901 get url from mongo before
+[INFO] 2017-11-24 22:45:26,117 get url from oracle after count=0
+[INFO] 2017-11-24 22:46:26,137 get url from mongo before
+[INFO] 2017-11-24 22:46:26,469 get url from oracle after count=0
+[INFO] 2017-11-24 22:47:26,483 get url from mongo before
+[INFO] 2017-11-24 22:47:26,707 get url from oracle after count=0
+[INFO] 2017-11-24 22:48:26,720 get url from mongo before
+[INFO] 2017-11-24 22:48:26,927 get url from oracle after count=0
+[INFO] 2017-11-24 22:49:26,946 get url from mongo before
+[INFO] 2017-11-24 22:49:27,154 get url from oracle after count=0
+[INFO] 2017-11-24 22:50:27,168 get url from mongo before
+[INFO] 2017-11-24 22:50:27,404 get url from oracle after count=0
+[INFO] 2017-11-24 22:51:27,417 get url from mongo before
+[INFO] 2017-11-24 22:51:27,638 get url from oracle after count=0
+[INFO] 2017-11-24 22:52:27,658 get url from mongo before
+[INFO] 2017-11-24 22:52:27,871 get url from oracle after count=0
+[INFO] 2017-11-24 22:53:27,887 get url from mongo before
+[INFO] 2017-11-24 22:53:28,118 get url from oracle after count=0
+[INFO] 2017-11-24 22:54:28,164 get url from mongo before
+[INFO] 2017-11-24 22:54:28,374 get url from oracle after count=0
+[INFO] 2017-11-24 22:55:28,394 get url from mongo before
+[INFO] 2017-11-24 22:55:28,655 get url from oracle after count=0
+[INFO] 2017-11-24 22:56:28,667 get url from mongo before
+[INFO] 2017-11-24 22:56:28,878 get url from oracle after count=0
+[INFO] 2017-11-24 22:57:28,905 get url from mongo before
+[INFO] 2017-11-24 22:57:29,114 get url from oracle after count=0
+[INFO] 2017-11-24 22:58:29,128 get url from mongo before
+[INFO] 2017-11-24 22:58:29,326 get url from oracle after count=0
+[INFO] 2017-11-24 22:59:29,342 get url from mongo before
+[INFO] 2017-11-24 22:59:29,617 get url from oracle after count=0
+[INFO] 2017-11-24 23:00:29,648 get url from mongo before
+[INFO] 2017-11-24 23:00:29,859 get url from oracle after count=0
+[INFO] 2017-11-24 23:01:29,874 get url from mongo before
+[INFO] 2017-11-24 23:01:30,213 get url from oracle after count=0
+[INFO] 2017-11-24 23:02:30,243 get url from mongo before
+[INFO] 2017-11-24 23:02:30,430 get url from oracle after count=0
+[INFO] 2017-11-24 23:03:30,447 get url from mongo before
+[INFO] 2017-11-24 23:03:30,665 get url from oracle after count=0
+[INFO] 2017-11-24 23:04:30,687 get url from mongo before
+[INFO] 2017-11-24 23:04:30,904 get url from oracle after count=0
+[INFO] 2017-11-24 23:05:30,917 get url from mongo before
+[INFO] 2017-11-24 23:05:31,147 get url from oracle after count=0
+[INFO] 2017-11-24 23:06:31,203 get url from mongo before
+[INFO] 2017-11-24 23:06:31,438 get url from oracle after count=0
+[INFO] 2017-11-24 23:07:31,460 get url from mongo before
+[INFO] 2017-11-24 23:07:31,657 get url from oracle after count=0
+[INFO] 2017-11-24 23:08:31,667 get url from mongo before
+[INFO] 2017-11-24 23:08:31,878 get url from oracle after count=0
+[INFO] 2017-11-24 23:09:31,898 get url from mongo before
+[INFO] 2017-11-24 23:09:32,101 get url from oracle after count=0
+[INFO] 2017-11-24 23:10:32,118 get url from mongo before
+[INFO] 2017-11-24 23:10:32,381 get url from oracle after count=0
+[INFO] 2017-11-24 23:11:32,398 get url from mongo before
+[INFO] 2017-11-24 23:11:32,591 get url from oracle after count=0
+[INFO] 2017-11-24 23:12:32,615 get url from mongo before
+[INFO] 2017-11-24 23:12:32,822 get url from oracle after count=0
+[INFO] 2017-11-24 23:13:32,838 get url from mongo before
+[INFO] 2017-11-24 23:13:33,052 get url from oracle after count=0
+[INFO] 2017-11-24 23:14:33,069 get url from mongo before
+[INFO] 2017-11-24 23:14:33,276 get url from oracle after count=0
+[INFO] 2017-11-24 23:15:33,290 get url from mongo before
+[INFO] 2017-11-24 23:15:33,490 get url from oracle after count=0
+[INFO] 2017-11-24 23:16:33,507 get url from mongo before
+[INFO] 2017-11-24 23:16:33,717 get url from oracle after count=0
+[INFO] 2017-11-24 23:17:33,733 get url from mongo before
+[INFO] 2017-11-24 23:17:33,946 get url from oracle after count=0
+[INFO] 2017-11-24 23:18:33,957 get url from mongo before
+[INFO] 2017-11-24 23:18:34,171 get url from oracle after count=0
+[INFO] 2017-11-24 23:19:34,191 get url from mongo before
+[INFO] 2017-11-24 23:19:34,394 get url from oracle after count=0
+[INFO] 2017-11-24 23:20:34,559 get url from mongo before
+[INFO] 2017-11-24 23:20:34,785 get url from oracle after count=0
+[INFO] 2017-11-24 23:21:34,803 get url from mongo before
+[INFO] 2017-11-24 23:21:35,013 get url from oracle after count=0
+[INFO] 2017-11-24 23:22:35,036 get url from mongo before
+[INFO] 2017-11-24 23:22:35,234 get url from oracle after count=0
+[INFO] 2017-11-24 23:23:35,250 get url from mongo before
+[INFO] 2017-11-24 23:23:35,473 get url from oracle after count=0
+[INFO] 2017-11-24 23:29:30,053 get url from mongo before
+[INFO] 2017-11-24 23:29:30,243 get url from oracle after count=0
+[INFO] 2017-11-24 23:30:30,255 get url from mongo before
+[INFO] 2017-11-24 23:30:30,483 get url from oracle after count=0
+[INFO] 2017-11-24 23:31:30,494 get url from mongo before
+[INFO] 2017-11-24 23:31:30,707 get url from oracle after count=0
+[INFO] 2017-11-24 23:32:30,721 get url from mongo before
+[INFO] 2017-11-24 23:32:30,953 get url from oracle after count=0
+[INFO] 2017-11-24 23:33:30,973 get url from mongo before
+[INFO] 2017-11-24 23:33:31,191 get url from oracle after count=0
+[INFO] 2017-11-24 23:34:31,207 get url from mongo before
+[INFO] 2017-11-24 23:34:31,417 get url from oracle after count=0
+[INFO] 2017-11-24 23:35:31,440 get url from mongo before
+[INFO] 2017-11-24 23:35:31,645 get url from oracle after count=0
+[INFO] 2017-11-24 23:36:31,663 get url from mongo before
+[INFO] 2017-11-24 23:36:31,871 get url from oracle after count=0
+[INFO] 2017-11-24 23:37:31,887 get url from mongo before
+[INFO] 2017-11-24 23:37:32,088 get url from oracle after count=0
+[INFO] 2017-11-24 23:38:32,111 get url from mongo before
+[INFO] 2017-11-24 23:38:32,335 get url from oracle after count=0
+[INFO] 2017-11-24 23:39:32,351 get url from mongo before
+[INFO] 2017-11-24 23:39:32,555 get url from oracle after count=0
+[INFO] 2017-11-24 23:40:32,571 get url from mongo before
+[INFO] 2017-11-24 23:40:32,778 get url from oracle after count=0
+[INFO] 2017-11-24 23:41:32,792 get url from mongo before
+[INFO] 2017-11-24 23:41:33,005 get url from oracle after count=0
+[INFO] 2017-11-24 23:42:33,022 get url from mongo before
+[INFO] 2017-11-24 23:42:33,236 get url from oracle after count=0
+[INFO] 2017-11-24 23:43:33,256 get url from mongo before
+[INFO] 2017-11-24 23:43:33,471 get url from oracle after count=0
+[INFO] 2017-11-24 23:44:33,493 get url from mongo before
+[INFO] 2017-11-24 23:44:33,726 get url from oracle after count=0
+[INFO] 2017-11-24 23:45:33,740 get url from mongo before
+[INFO] 2017-11-24 23:45:33,938 get url from oracle after count=0
+[INFO] 2017-11-24 23:46:33,953 get url from mongo before
+[INFO] 2017-11-24 23:46:34,191 get url from oracle after count=0
+[INFO] 2017-11-24 23:47:34,204 get url from mongo before
+[INFO] 2017-11-24 23:47:34,424 get url from oracle after count=0
+[INFO] 2017-11-24 23:48:34,437 get url from mongo before
+[INFO] 2017-11-24 23:48:34,644 get url from oracle after count=0
+[INFO] 2017-11-24 23:49:34,667 get url from mongo before
+[INFO] 2017-11-24 23:49:34,868 get url from oracle after count=0
+[INFO] 2017-11-24 23:50:34,877 get url from mongo before
+[INFO] 2017-11-24 23:50:35,121 get url from oracle after count=0
+[INFO] 2017-11-24 23:51:35,141 get url from mongo before
+[INFO] 2017-11-24 23:51:35,358 get url from oracle after count=0
+[INFO] 2017-11-24 23:52:35,371 get url from mongo before
+[INFO] 2017-11-24 23:52:35,576 get url from oracle after count=0
+[INFO] 2017-11-24 23:53:35,588 get url from mongo before
+[INFO] 2017-11-24 23:53:35,801 get url from oracle after count=0
+[INFO] 2017-11-24 23:54:35,816 get url from mongo before
+[INFO] 2017-11-24 23:54:36,046 get url from oracle after count=0
+[INFO] 2017-11-24 23:55:36,062 get url from mongo before
+[INFO] 2017-11-24 23:55:36,289 get url from oracle after count=0
+[INFO] 2017-11-24 23:56:36,305 get url from mongo before
+[INFO] 2017-11-24 23:56:36,500 get url from oracle after count=0
+[INFO] 2017-11-24 23:57:36,512 get url from mongo before
+[INFO] 2017-11-24 23:57:36,727 get url from oracle after count=0
+[INFO] 2017-11-24 23:58:36,746 get url from mongo before
+[INFO] 2017-11-24 23:58:36,977 get url from oracle after count=0
+[INFO] 2017-11-24 23:59:37,154 get url from mongo before
+[INFO] 2017-11-24 23:59:37,361 get url from oracle after count=0

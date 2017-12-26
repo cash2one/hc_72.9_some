@@ -1,0 +1,10 @@
+@echo off
+cls
+:start
+set Today=%date:~0,10%
+@echo %Today%
+@echo cd path : D:\movehouse_list\taobao
+cd D:\movehouse_list\taobao
+@echo python BaiduSaledCheck.py
+python BaiduSaledCheck.py
+goto start

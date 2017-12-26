@@ -1,0 +1,5 @@
+[INFO] 2017-08-08 14:23:50 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: : 
+requests: not support [anti_ban_selenium.py:194]
+[WARNING] 2017-08-08 14:23:55 browser quit error:[Error 5]  [anti_ban_selenium.py:203]

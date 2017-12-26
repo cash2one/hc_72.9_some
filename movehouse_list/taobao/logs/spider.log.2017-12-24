@@ -1,0 +1,391 @@
+[INFO] 2017-12-24 00:04:21,681 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 00:07:49,276 something error! Message: unknown error: failed to wait for extension background page to load: chrome-extension://oimpamdehdcedbjlheclneooabgklikg/_generated_background_page.html
+from timeout
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 00:17:49,309 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 00:17:54,551 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-24 00:27:54,575 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 00:32:22,776 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 00:49:17,378 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 00:51:05,802 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 01:01:05,806 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[INFO] 2017-12-24 01:01:12,976 Could not get IP address for host: localhost
+[ERROR] 2017-12-24 01:01:31,598 something error! [Errno 10061] 
+[INFO] 2017-12-24 01:10:19,434 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 01:33:31,651 something error! Message: unknown error: failed to wait for extension background page to load: chrome-extension://njkonihmoggnipkaekhjbfepaoaochcg/_generated_background_page.html
+from timeout: Timed out receiving message from renderer: 600.000
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 01:47:21,469 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 01:48:49,933 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 01:58:49,953 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 02:02:21,632 something error! Message: unknown error: failed to wait for extension background page to load: chrome-extension://nmhohkkdkebaebpkambadgjjejjdcbha/_generated_background_page.html
+from timeout
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 02:12:21,667 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 02:14:06,316 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 02:24:06,341 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 02:25:34,584 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 02:35:34,602 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 02:36:58,134 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 02:55:33,164 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 02:59:00,980 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 03:09:01,010 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 03:10:56,848 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 03:20:56,888 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 03:21:36,786 something error! Message: unknown error: failed to wait for extension background page to load: chrome-extension://ffbaaeneeoifjbdchmaddbiikohdflab/_generated_background_page.html
+from timeout
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 03:31:36,822 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 03:33:33,832 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 03:43:33,937 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 03:45:32,750 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 04:04:27,882 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 04:06:28,026 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 04:16:28,046 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[INFO] 2017-12-24 04:16:37,811 Could not get IP address for host: localhost
+[ERROR] 2017-12-24 04:16:53,259 something error! [Errno 11004] getaddrinfo failed
+[INFO] 2017-12-24 04:26:53,335 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 04:35:05,453 something error! Message: unknown error: failed to wait for extension background page to load: chrome-extension://gonfffcnbmcnlgjlmlbjfhaaffmnlnkd/_generated_background_page.html
+from timeout
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 04:45:05,479 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 04:46:31,128 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 04:56:31,151 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 04:57:58,744 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 05:15:43,437 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 05:25:07,605 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 05:35:07,632 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 05:43:01,786 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 05:53:02,476 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 05:54:31,642 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 06:04:31,670 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 06:06:48,747 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 06:24:28,444 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 06:26:07,423 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 06:36:07,447 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 06:37:58,897 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 06:47:58,923 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 06:53:00,709 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 07:03:00,746 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 07:04:11,914 something error! Message: Can not connect to the Service D:\movehouse_list\taobao\chromedriver.exe
+
+[INFO] 2017-12-24 07:14:11,937 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 07:19:08,562 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 07:36:36,984 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 07:36:44,401 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-24 07:46:44,421 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[INFO] 2017-12-24 07:46:54,003 Could not get IP address for host: localhost
+[ERROR] 2017-12-24 07:47:06,338 something error! [Errno 11004] getaddrinfo failed
+[INFO] 2017-12-24 07:57:06,365 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 07:58:08,299 something error! Message: Can not connect to the Service D:\movehouse_list\taobao\chromedriver.exe
+
+[INFO] 2017-12-24 08:08:08,322 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 08:09:37,823 something error! Message: Can not connect to the Service D:\movehouse_list\taobao\chromedriver.exe
+
+[INFO] 2017-12-24 08:19:37,834 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 08:21:36,963 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 08:39:06,611 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 08:40:44,670 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 08:50:44,693 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 08:52:52,158 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 09:02:52,184 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[INFO] 2017-12-24 09:03:08,186 Could not get IP address for host: localhost
+[ERROR] 2017-12-24 09:03:20,266 something error! [Errno 10061] 
+[INFO] 2017-12-24 09:13:20,296 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 09:14:32,257 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 09:24:32,285 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 09:25:47,121 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 09:42:54,661 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 09:47:19,885 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 09:57:19,907 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 09:57:25,216 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-24 10:07:25,252 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 10:09:13,118 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 10:19:13,141 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 10:21:08,507 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 10:31:08,540 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 10:32:19,926 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 10:42:19,951 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 10:56:33,181 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 11:06:33,216 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 11:08:56,349 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 11:18:56,367 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 11:19:04,928 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-24 11:29:04,957 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 11:29:41,509 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-24 11:39:41,575 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 11:39:50,509 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-24 11:49:50,532 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 11:59:21,441 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 12:09:21,470 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 12:11:42,947 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 12:21:42,979 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 12:24:32,227 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 12:34:32,332 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 12:37:03,645 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 12:47:06,088 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 12:49:34,993 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 13:06:16,523 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[INFO] 2017-12-24 13:06:36,829 Could not get IP address for host: localhost
+[ERROR] 2017-12-24 13:06:52,286 something error! [Errno 10061] 
+[INFO] 2017-12-24 13:16:52,305 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 13:18:16,529 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 13:28:16,551 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 13:29:53,773 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 13:39:53,796 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[INFO] 2017-12-24 13:40:00,914 Could not get IP address for host: localhost
+[ERROR] 2017-12-24 13:40:16,372 something error! [Errno 11004] getaddrinfo failed
+[INFO] 2017-12-24 13:50:16,398 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 13:51:34,003 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 14:01:34,038 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 14:04:02,588 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 14:20:48,841 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 14:23:05,819 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 14:33:05,841 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 14:34:31,750 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 14:44:31,773 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 14:45:45,500 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 14:55:45,539 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 14:57:02,203 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 15:07:02,325 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 15:08:17,566 something error! Message: Can not connect to the Service D:\movehouse_list\taobao\chromedriver.exe
+
+[INFO] 2017-12-24 15:25:15,499 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 15:31:15,131 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 15:41:15,168 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 15:43:31,233 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 15:53:31,259 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 15:57:31,174 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 16:07:31,203 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 16:09:36,378 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 16:19:36,390 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 16:29:33,046 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 16:39:33,075 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 16:41:24,828 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 16:51:24,868 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 16:52:43,105 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 17:02:43,336 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 17:04:07,609 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 17:14:07,634 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 17:19:40,306 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 17:37:19,789 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[INFO] 2017-12-24 17:37:29,263 Could not get IP address for host: localhost
+[ERROR] 2017-12-24 17:37:43,657 something error! [Errno 11004] getaddrinfo failed
+[INFO] 2017-12-24 17:47:43,691 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 17:49:33,473 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 17:59:33,503 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 18:02:43,411 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 18:12:43,438 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 18:15:45,545 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 18:25:45,598 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 18:28:13,661 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 18:45:20,855 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 18:50:27,631 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 19:00:27,660 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 19:06:55,897 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 19:16:55,917 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[INFO] 2017-12-24 19:17:04,476 Could not get IP address for host: localhost
+[ERROR] 2017-12-24 19:17:17,888 something error! [Errno 11004] getaddrinfo failed
+[INFO] 2017-12-24 19:27:17,908 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 19:30:47,038 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 19:40:47,058 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 19:41:49,007 something error! Message: Can not connect to the Service D:\movehouse_list\taobao\chromedriver.exe
+
+[INFO] 2017-12-24 19:58:56,529 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 20:02:40,578 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 20:12:40,605 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 20:14:10,345 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 20:24:10,381 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 20:26:02,846 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 20:36:02,892 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 20:41:03,687 something error! Message: unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 20:51:03,704 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 20:52:20,390 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 21:09:25,848 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 21:11:55,331 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 21:21:55,352 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 21:23:24,447 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 21:33:24,471 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 21:34:46,032 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 21:44:46,059 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 21:45:02,342 something error! [Errno 10061] 
+[INFO] 2017-12-24 21:55:02,670 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 21:57:27,582 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 22:14:28,555 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 22:14:34,378 something error! <urlopen error [Errno 10061] >
+[INFO] 2017-12-24 22:24:34,401 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 22:25:57,335 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 22:35:57,361 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 22:37:18,845 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 22:47:18,868 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 22:49:55,250 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 22:59:55,269 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 23:01:38,489 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 23:18:43,805 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[INFO] 2017-12-24 23:19:18,296 Could not get IP address for host: localhost
+[ERROR] 2017-12-24 23:21:02,107 something error! [Errno 10061] 
+[INFO] 2017-12-24 23:31:02,142 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 23:33:06,398 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 23:43:06,415 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 23:45:28,700 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-24 23:55:28,726 open homepage with selenium url=http://shop109338666.taobao.com memberid=109338666 first_index=3 second_index=1
+[ERROR] 2017-12-24 23:57:05,207 something error! Message: chrome not reachable
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+

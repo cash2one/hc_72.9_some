@@ -1,0 +1,2335 @@
+[WARNING] 2017-12-07 00:00:45,493 browser quit error:[Error 5] 
+[INFO] 2017-12-07 00:00:52,631 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_31 60.28.11.225
+requests: support
+[ERROR] 2017-12-07 00:01:41,174 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 00:14:18,082 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 00:14:22,976 browser quit error:[Error 5] 
+[INFO] 2017-12-07 00:14:30,414 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_32 60.28.110.98
+requests: support
+[ERROR] 2017-12-07 00:15:06,028 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 00:25:06,043 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 00:25:08,437 browser quit error:[Error 5] 
+[INFO] 2017-12-07 00:25:18,351 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_15 60.28.110.81
+requests: support
+[ERROR] 2017-12-07 00:25:45,403 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="l42af1e" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 00:35:45,421 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 00:35:51,040 browser quit error:[Error 5] 
+[INFO] 2017-12-07 00:35:58,766 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_54 125.39.72.119
+requests: support
+[ERROR] 2017-12-07 00:36:43,698 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 00:46:43,721 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 00:46:47,823 browser quit error:[Error 5] 
+[INFO] 2017-12-07 00:46:57,885 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_10 125.39.149.12
+requests: support
+[ERROR] 2017-12-07 00:47:38,575 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 00:57:38,591 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 00:57:40,859 browser quit error:[Error 5] 
+[INFO] 2017-12-07 00:57:50,134 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_42 125.39.72.107
+requests: support
+[ERROR] 2017-12-07 00:59:12,279 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 01:09:12,292 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 01:09:14,703 browser quit error:[Error 5] 
+[INFO] 2017-12-07 01:09:22,030 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_41 125.39.0.171
+requests: support
+[ERROR] 2017-12-07 01:09:58,651 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 01:22:36,042 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 01:22:41,144 browser quit error:[Error 5] 
+[INFO] 2017-12-07 01:22:48,005 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_56 125.39.0.186
+requests: support
+[ERROR] 2017-12-07 01:23:30,068 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 01:33:30,096 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 01:33:33,081 browser quit error:[Error 5] 
+[INFO] 2017-12-07 01:33:40,118 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_1 60.28.110.67
+requests: support
+[ERROR] 2017-12-07 01:34:21,174 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 01:44:21,190 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 01:44:24,756 browser quit error:[Error 5] 
+[INFO] 2017-12-07 01:44:31,272 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_35 125.39.149.37
+requests: support
+[ERROR] 2017-12-07 01:44:47,078 something error! Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='js-nav-csch fun csch']"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 01:54:47,092 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 01:54:52,112 browser quit error:[Error 5] 
+[INFO] 2017-12-07 01:54:59,204 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_50 60.28.11.244
+requests: support
+[INFO] 2017-12-07 01:55:27,125 insert records succeed url=http://wuxiweishuo.taobao.com memberid=36244991 category_count=0 page_count=2925
+[INFO] 2017-12-07 01:55:27,141 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=0 second_index=-1
+[WARNING] 2017-12-07 01:55:31,224 browser quit error:[Error 5] 
+[INFO] 2017-12-07 01:55:37,855 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_57 111.161.24.59
+requests: support
+[INFO] 2017-12-07 01:56:12,138 before url=http://sell.taobao.com
+[INFO] 2017-12-07 01:56:12,155 Starting new HTTP connection (1): sell.taobao.com
+[INFO] 2017-12-07 01:56:12,236 Starting new HTTPS connection (1): sell.taobao.com
+[WARNING] 2017-12-07 01:56:12,684 website invalid not find memberId! url=http://sell.taobao.com
+[INFO] 2017-12-07 01:56:12,694 before url=http://shop218403596.taobao.com
+[INFO] 2017-12-07 01:56:12,846 Starting new HTTP connection (1): shop218403596.taobao.com
+[INFO] 2017-12-07 01:56:12,950 Starting new HTTPS connection (1): shop218403596.taobao.com
+[INFO] 2017-12-07 01:56:13,346 insert new website url=http://shop218403596.taobao.com memberid=218403596
+[INFO] 2017-12-07 02:13:38,029 getpagelist one category complete. [master] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=编码器 count=1110
+[ERROR] 2017-12-07 02:13:41,535 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 02:26:42,236 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=1 second_index=0
+[WARNING] 2017-12-07 02:26:47,003 browser quit error:[Error 5] 
+[INFO] 2017-12-07 02:26:55,946 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_8 125.39.149.10
+requests: support
+[INFO] 2017-12-07 02:29:19,650 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【Koyo 光 洋】 catpid=142053001 catpname=编码器 count=240
+[ERROR] 2017-12-07 02:29:22,131 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 02:39:22,134 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=1 second_index=1
+[WARNING] 2017-12-07 02:39:27,036 browser quit error:[Error 5] 
+[INFO] 2017-12-07 02:39:33,911 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_23 125.39.0.153
+requests: support
+[INFO] 2017-12-07 02:40:21,096 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【 OMRON欧姆龙】 catpid=142053001 catpname=编码器 count=4
+[INFO] 2017-12-07 02:47:20,625 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【长春禹衡一光】 catpid=142053001 catpname=编码器 count=510
+[ERROR] 2017-12-07 02:47:24,171 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 02:57:24,190 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=1 second_index=3
+[WARNING] 2017-12-07 02:57:27,591 browser quit error:[Error 5] 
+[INFO] 2017-12-07 02:57:34,302 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_18 111.161.24.20
+requests: support
+[INFO] 2017-12-07 02:58:12,141 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【瑞普安华高】 catpid=142053001 catpname=编码器 count=28
+[INFO] 2017-12-07 02:59:42,049 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【科 瑞 特】 catpid=142053001 catpname=编码器 count=138
+[INFO] 2017-12-07 03:00:05,457 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【 鑫 亚 】 catpid=142053001 catpname=编码器 count=18
+[ERROR] 2017-12-07 03:00:08,651 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 03:10:08,671 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=1 second_index=6
+[WARNING] 2017-12-07 03:10:11,581 browser quit error:[Error 5] 
+[INFO] 2017-12-07 03:10:20,845 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_26 60.28.11.220
+requests: support
+[INFO] 2017-12-07 03:11:37,249 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【 瑞 佳 信 】 catpid=142053001 catpname=编码器 count=61
+[INFO] 2017-12-07 03:12:21,355 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【 长春捷民】 catpid=142053001 catpname=编码器 count=61
+[INFO] 2017-12-07 03:12:39,667 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【威硕】 catpid=142053001 catpname=编码器 count=1
+[ERROR] 2017-12-07 03:12:42,535 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 03:25:34,395 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=1 second_index=9
+[WARNING] 2017-12-07 03:25:40,147 browser quit error:[Error 5] 
+[INFO] 2017-12-07 03:25:48,585 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_14 60.28.11.208
+requests: support
+[INFO] 2017-12-07 03:26:32,200 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=142053001 catname=【宜科】 catpid=142053001 catpname=编码器 count=0
+[INFO] 2017-12-07 03:27:30,326 getpagelist one category complete. [master] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=Koyo光洋接近开关 count=62
+[ERROR] 2017-12-07 03:27:34,082 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 03:37:34,098 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=2 second_index=0
+[WARNING] 2017-12-07 03:37:39,141 browser quit error:[Error 5] 
+[INFO] 2017-12-07 03:37:47,859 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_6 125.39.149.8
+requests: support
+[INFO] 2017-12-07 03:38:36,539 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=【APS-GM系列】 catpid=411582588 catpname=Koyo光洋接近开关 count=2
+[INFO] 2017-12-07 03:38:54,108 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=【APS-GMD系列】 catpid=411582588 catpname=Koyo光洋接近开关 count=13
+[INFO] 2017-12-07 03:39:07,609 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=【APS-GK系列】 catpid=411582588 catpname=Koyo光洋接近开关 count=2
+[INFO] 2017-12-07 03:39:21,569 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=【APS-30/31系列】 catpid=411582588 catpname=Koyo光洋接近开关 count=4
+[INFO] 2017-12-07 03:39:39,351 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=【APS-F/U/M/S系列】 catpid=411582588 catpname=Koyo光洋接近开关 count=23
+[INFO] 2017-12-07 03:39:55,176 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=【APS-10-15系列】 catpid=411582588 catpname=Koyo光洋接近开关 count=13
+[INFO] 2017-12-07 03:40:25,526 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=411582588 catname=【CS-16/31/85系列】 catpid=411582588 catpname=Koyo光洋接近开关 count=13
+[ERROR] 2017-12-07 03:40:29,398 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 03:50:29,415 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=-1
+[WARNING] 2017-12-07 03:50:31,234 browser quit error:[Error 5] 
+[INFO] 2017-12-07 03:50:39,813 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_20 111.161.24.22
+requests: support
+[ERROR] 2017-12-07 03:50:51,477 something error! Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='js-nav-csch fun csch']"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 04:00:51,500 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=-1
+[WARNING] 2017-12-07 04:00:55,059 browser quit error:[Error 5] 
+[INFO] 2017-12-07 04:01:05,150 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_14 125.39.72.25
+requests: support
+[ERROR] 2017-12-07 04:02:34,934 something error! Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 04:12:34,961 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=-1
+[WARNING] 2017-12-07 04:12:39,517 browser quit error:[Error 5] 
+[INFO] 2017-12-07 04:12:46,446 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_8 60.28.11.202
+requests: support
+[INFO] 2017-12-07 04:17:31,551 getpagelist one category complete. [master] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=继电器 count=390
+[ERROR] 2017-12-07 04:17:37,915 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 04:30:28,594 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=0
+[WARNING] 2017-12-07 04:30:32,556 browser quit error:[Error 5] 
+[INFO] 2017-12-07 04:30:41,575 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_49 111.161.24.51
+requests: support
+[INFO] 2017-12-07 04:32:03,098 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【finder芬德】 catpid=207988977 catpname=继电器 count=57
+[INFO] 2017-12-07 04:32:17,010 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【omron欧姆龙】 catpid=207988977 catpname=继电器 count=6
+[INFO] 2017-12-07 04:32:26,792 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【honeywell霍尼韦尔】 catpid=207988977 catpname=继电器 count=0
+[INFO] 2017-12-07 04:32:37,094 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【松川继电器】 catpid=207988977 catpname=继电器 count=0
+[INFO] 2017-12-07 04:32:51,826 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【和泉继电器】 catpid=207988977 catpname=继电器 count=0
+[INFO] 2017-12-07 04:33:16,582 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【宏发继电器】 catpid=207988977 catpname=继电器 count=0
+[ERROR] 2017-12-07 04:33:20,539 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 04:43:20,558 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=6
+[WARNING] 2017-12-07 04:43:22,782 browser quit error:[Error 5] 
+[INFO] 2017-12-07 04:43:30,069 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_60 125.39.72.125
+requests: support
+[ERROR] 2017-12-07 04:43:37,581 something error! Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='js-nav-csch fun csch']"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 04:53:37,599 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=6
+[WARNING] 2017-12-07 04:53:40,157 browser quit error:[Error 5] 
+[INFO] 2017-12-07 04:53:46,457 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_12 111.161.24.14
+requests: support
+[INFO] 2017-12-07 04:55:00,390 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【金海继电器】 catpid=207988977 catpname=继电器 count=40
+[INFO] 2017-12-07 04:56:04,204 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【NHDE洪都继电器】 catpid=207988977 catpname=继电器 count=90
+[ERROR] 2017-12-07 04:56:07,418 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 05:06:07,446 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=8
+[WARNING] 2017-12-07 05:06:11,059 browser quit error:[Error 5] 
+[INFO] 2017-12-07 05:06:18,040 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_54 125.39.149.56
+requests: support
+[INFO] 2017-12-07 05:07:04,950 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【沪工真空高压继电器】 catpid=207988977 catpname=继电器 count=6
+[INFO] 2017-12-07 05:07:27,967 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【FBF新溪南继电器】 catpid=207988977 catpname=继电器 count=29
+[INFO] 2017-12-07 05:07:39,737 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【三友继电器】 catpid=207988977 catpname=继电器 count=0
+[INFO] 2017-12-07 05:07:54,812 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【普利得继电器】 catpid=207988977 catpname=继电器 count=8
+[INFO] 2017-12-07 05:08:22,719 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【RELY瑞莱继电器】 catpid=207988977 catpname=继电器 count=32
+[INFO] 2017-12-07 05:08:40,871 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【申乐继电器】 catpid=207988977 catpname=继电器 count=2
+[ERROR] 2017-12-07 05:08:43,618 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 05:18:43,638 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=14
+[WARNING] 2017-12-07 05:18:48,859 browser quit error:[Error 5] 
+[INFO] 2017-12-07 05:18:57,749 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_10 60.28.110.76
+requests: support
+[INFO] 2017-12-07 05:19:55,108 getpagelist one category complete. [slaves] url=http://wuxiweishuo.taobao.com memberid=36244991 catid=207988977 catname=【高压干簧继电器】 catpid=207988977 catpname=继电器 count=8
+[ERROR] 2017-12-07 05:19:59,006 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 05:32:35,888 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 05:32:38,242 browser quit error:[Error 5] 
+[INFO] 2017-12-07 05:32:46,750 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_54 60.28.110.120
+requests: support
+[ERROR] 2017-12-07 05:33:16,920 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 05:43:16,930 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 05:43:21,401 browser quit error:[Error 5] 
+[INFO] 2017-12-07 05:43:29,194 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_15 60.28.11.209
+requests: support
+[ERROR] 2017-12-07 05:44:11,237 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="k4c9806" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 05:54:11,266 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 05:54:14,607 browser quit error:[Error 5] 
+[INFO] 2017-12-07 05:54:22,834 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_52 125.39.72.63
+requests: support
+[ERROR] 2017-12-07 05:54:44,634 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 06:04:44,654 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 06:04:48,132 browser quit error:[Error 5] 
+[INFO] 2017-12-07 06:04:56,743 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_45 60.28.110.111
+requests: support
+[ERROR] 2017-12-07 06:05:30,354 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 06:15:30,372 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 06:15:33,111 browser quit error:[Error 5] 
+[INFO] 2017-12-07 06:15:41,407 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_59 125.39.149.61
+requests: support
+[ERROR] 2017-12-07 06:16:10,346 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 06:26:10,375 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 06:26:14,482 browser quit error:[Error 5] 
+[INFO] 2017-12-07 06:26:22,032 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_20 60.28.11.214
+requests: support
+[ERROR] 2017-12-07 06:27:00,887 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 06:39:16,816 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 06:39:21,461 browser quit error:[Error 5] 
+[INFO] 2017-12-07 06:39:29,584 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_45 125.39.0.175
+requests: support
+[ERROR] 2017-12-07 06:40:08,487 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 06:50:08,525 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 06:50:14,323 browser quit error:[Error 5] 
+[INFO] 2017-12-07 06:50:21,157 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_30 60.28.11.224
+requests: support
+[ERROR] 2017-12-07 06:51:03,920 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 07:01:03,936 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 07:01:07,395 browser quit error:[Error 5] 
+[INFO] 2017-12-07 07:01:15,638 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.27:tj_user_7_43 111.161.24.45
+requests: support
+[ERROR] 2017-12-07 07:02:01,028 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div id="q7ad2c5" dpr="1" class="_1OgXhl_flwlyUHwE89wic1 _3ixufhj-Y__T3MRFd-mfbg _1Vwi5V6AIRANQUnKdkP3KV" style="display: block;" smb-link-key="" smb-href="">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 07:12:01,049 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 07:12:03,532 browser quit error:[Error 5] 
+[INFO] 2017-12-07 07:12:11,713 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_58 125.39.0.188
+requests: support
+[ERROR] 2017-12-07 07:12:47,516 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 07:22:47,532 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 07:22:51,109 browser quit error:[Error 5] 
+[INFO] 2017-12-07 07:23:02,994 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_47 125.39.72.112
+requests: support
+[ERROR] 2017-12-07 07:23:46,157 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 07:36:26,938 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 07:36:32,045 browser quit error:[Error 5] 
+[INFO] 2017-12-07 07:36:40,431 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_14 125.39.72.79
+requests: support
+[ERROR] 2017-12-07 07:37:28,154 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 07:47:28,177 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 07:47:35,525 browser quit error:[Error 5] 
+[INFO] 2017-12-07 07:47:42,155 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_48 125.39.72.113
+requests: support
+[ERROR] 2017-12-07 07:48:28,914 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 07:58:28,930 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 07:58:31,421 browser quit error:[Error 5] 
+[INFO] 2017-12-07 07:58:38,938 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_0 125.39.0.130
+requests: support
+[ERROR] 2017-12-07 07:59:16,812 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 08:09:16,835 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 08:09:21,974 browser quit error:[Error 5] 
+[INFO] 2017-12-07 08:09:28,782 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_11 125.39.72.76
+requests: support
+[ERROR] 2017-12-07 08:10:16,474 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 08:20:16,496 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 08:20:21,428 browser quit error:[Error 5] 
+[INFO] 2017-12-07 08:20:29,280 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_58 60.28.11.252
+requests: support
+[ERROR] 2017-12-07 08:21:14,736 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 08:31:14,757 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 08:31:19,786 browser quit error:[Error 5] 
+[INFO] 2017-12-07 08:31:28,799 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_61 125.39.72.126
+requests: support
+[ERROR] 2017-12-07 08:32:07,770 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 08:44:48,614 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 08:44:52,996 browser quit error:[Error 5] 
+[INFO] 2017-12-07 08:45:00,464 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_14 60.28.110.80
+requests: support
+[ERROR] 2017-12-07 08:45:41,232 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 08:55:41,253 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 08:55:46,625 browser quit error:[Error 5] 
+[INFO] 2017-12-07 08:55:53,121 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_33 125.39.0.163
+requests: support
+[ERROR] 2017-12-07 08:56:35,703 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 09:06:35,732 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 09:06:42,082 browser quit error:[Error 5] 
+[INFO] 2017-12-07 09:06:49,250 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_25 125.39.0.155
+requests: support
+[ERROR] 2017-12-07 09:07:36,946 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 09:17:36,986 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 09:17:42,167 browser quit error:[Error 5] 
+[INFO] 2017-12-07 09:17:49,579 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_28 60.28.110.94
+requests: support
+[ERROR] 2017-12-07 09:18:29,654 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 09:28:29,674 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 09:28:33,607 browser quit error:[Error 5] 
+[INFO] 2017-12-07 09:28:42,460 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_31 60.28.11.225
+requests: support
+[ERROR] 2017-12-07 09:29:24,661 something error! Message: unknown error: Element <li class="js-sc-m-title sub-item omit" data-id="391865564">...</li> is not clickable at point (1780, 938). Other element would receive the click: <div class="DvjCSviFveQqKBoka5VKn" style="color: rgb(102, 102, 102); width: 100%; text-overflow: ellipsis; white-space: nowrap;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 09:42:16,486 open homepage with selenium url=http://wuxiweishuo.taobao.com memberid=36244991 first_index=3 second_index=15
+[WARNING] 2017-12-07 09:42:22,625 browser quit error:[Error 5] 
+[INFO] 2017-12-07 09:42:29,165 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_15 125.39.149.17
+requests: support
+[INFO] 2017-12-07 09:43:03,066 insert records succeed url=http://wuxiweishuo.taobao.com memberid=36244991 category_count=0 page_count=2971
+[INFO] 2017-12-07 09:43:03,088 open homepage with selenium url=http://shop218403596.taobao.com memberid=218403596 first_index=0 second_index=-1
+[INFO] 2017-12-07 09:43:03,625 before url=http://shop582623564.taobao.com
+[INFO] 2017-12-07 09:43:03,650 Starting new HTTP connection (1): shop582623564.taobao.com
+[INFO] 2017-12-07 09:43:03,759 Starting new HTTPS connection (1): shop582623564.taobao.com
+[INFO] 2017-12-07 09:43:04,352 insert new website url=http://shop582623564.taobao.com memberid=582623564
+[WARNING] 2017-12-07 09:43:07,898 browser quit error:[Error 5] 
+[INFO] 2017-12-07 09:43:15,006 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.21:tj_user_1_34 125.39.72.45
+requests: support
+[INFO] 2017-12-07 09:44:28,538 getpagelist one category complete. [master] url=http://shop218403596.taobao.com memberid=218403596 catid=1348212055 catname=文胸套装系列 count=0
+[INFO] 2017-12-07 09:44:42,400 getpagelist one category complete. [slaves] url=http://shop218403596.taobao.com memberid=218403596 catid=1348212055 catname= catpid=1348212055 catpname=文胸套装系列 count=0
+[INFO] 2017-12-07 09:44:58,053 getpagelist one category complete. [master] url=http://shop218403596.taobao.com memberid=218403596 catid=1350710401 catname=17款 count=0
+[INFO] 2017-12-07 09:45:16,130 getpagelist one category complete. [master] url=http://shop218403596.taobao.com memberid=218403596 catid=1348212057 catname=文胸系列 count=12
+[INFO] 2017-12-07 09:45:29,367 getpagelist one category complete. [slaves] url=http://shop218403596.taobao.com memberid=218403596 catid=1348212057 catname=无痕 catpid=1348212057 catpname=文胸系列 count=2
+[INFO] 2017-12-07 09:45:45,032 getpagelist one category complete. [slaves] url=http://shop218403596.taobao.com memberid=218403596 catid=1348212057 catname=蕾丝 catpid=1348212057 catpname=文胸系列 count=10
+[INFO] 2017-12-07 09:46:13,388 getpagelist one category complete. [master] url=http://shop218403596.taobao.com memberid=218403596 catid=1348212060 catname=内裤系列 count=10
+[ERROR] 2017-12-07 09:46:15,239 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 09:56:15,260 open homepage with selenium url=http://shop218403596.taobao.com memberid=218403596 first_index=5 second_index=-1
+[WARNING] 2017-12-07 09:56:20,437 browser quit error:[Error 5] 
+[INFO] 2017-12-07 09:56:29,128 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.24:tj_user_4_41 125.39.0.171
+requests: support
+[INFO] 2017-12-07 09:57:40,111 getpagelist one category complete. [master] url=http://shop218403596.taobao.com memberid=218403596 catid=1348212061 catname=热卖爆款 count=2
+[INFO] 2017-12-07 09:57:40,492 insert records succeed url=http://shop218403596.taobao.com memberid=218403596 category_count=0 page_count=36
+[INFO] 2017-12-07 09:57:40,512 open homepage with selenium url=http://shop582623564.taobao.com memberid=582623564 first_index=0 second_index=-1
+[WARNING] 2017-12-07 09:57:43,693 browser quit error:[Error 5] 
+[INFO] 2017-12-07 09:57:49,039 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_49 125.39.149.51
+requests: support
+[INFO] 2017-12-07 09:58:04,391 before url=http://shop150407192.taobao.com
+[INFO] 2017-12-07 09:58:04,418 Starting new HTTP connection (1): shop150407192.taobao.com
+[INFO] 2017-12-07 09:58:09,931 Starting new HTTPS connection (1): shop150407192.taobao.com
+[INFO] 2017-12-07 09:58:10,433 insert new website url=http://shop150407192.taobao.com memberid=150407192
+[INFO] 2017-12-07 09:58:10,450 read oracle complete! taobao_count=4 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-07 09:58:10,466 get url from mongo before
+[INFO] 2017-12-07 09:58:10,694 get url from oracle after count=2
+[INFO] 2017-12-07 09:58:30,096 getpagelist one category complete. [master] url=http://shop582623564.taobao.com memberid=582623564 catid= catname=所有宝贝 count=14
+[INFO] 2017-12-07 09:58:30,338 insert records succeed url=http://shop582623564.taobao.com memberid=582623564 category_count=0 page_count=14
+[INFO] 2017-12-07 09:58:30,338 open homepage with selenium url=http://shop150407192.taobao.com memberid=150407192 first_index=0 second_index=-1
+[WARNING] 2017-12-07 09:58:33,309 browser quit error:[Error 5] 
+[INFO] 2017-12-07 09:58:41,476 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_23 125.39.149.25
+requests: support
+[ERROR] 2017-12-07 09:59:00,467 insert records error len(records)=0 memberid=150407192
+[INFO] 2017-12-07 09:59:00,707 insert records succeed url=http://shop150407192.taobao.com memberid=150407192 category_count=0 page_count=0
+[INFO] 2017-12-07 09:59:10,716 before url=http://shop582623564.taobao.com
+[INFO] 2017-12-07 09:59:10,743 Starting new HTTP connection (1): shop582623564.taobao.com
+[INFO] 2017-12-07 09:59:10,849 Starting new HTTPS connection (1): shop582623564.taobao.com
+[INFO] 2017-12-07 09:59:11,174 open homepage with selenium url=http://shop582623564.taobao.com memberid=582623564 first_index=0 second_index=-1
+[INFO] 2017-12-07 09:59:11,190 insert new website url=http://shop582623564.taobao.com memberid=582623564
+[INFO] 2017-12-07 09:59:11,197 before url=http://shop150407192.taobao.com
+[INFO] 2017-12-07 09:59:11,219 Starting new HTTP connection (1): shop150407192.taobao.com
+[INFO] 2017-12-07 09:59:11,361 Starting new HTTPS connection (1): shop150407192.taobao.com
+[INFO] 2017-12-07 09:59:11,986 insert new website url=http://shop150407192.taobao.com memberid=150407192
+[INFO] 2017-12-07 09:59:12,190 read oracle complete! taobao_count=2 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-07 09:59:12,209 get url from mongo before
+[INFO] 2017-12-07 09:59:12,437 get url from oracle after count=0
+[WARNING] 2017-12-07 09:59:15,967 browser quit error:[Error 5] 
+[INFO] 2017-12-07 09:59:24,029 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_40 125.39.149.42
+requests: support
+[INFO] 2017-12-07 10:00:07,532 getpagelist one category complete. [master] url=http://shop582623564.taobao.com memberid=582623564 catid= catname=所有宝贝 count=14
+[INFO] 2017-12-07 10:00:07,828 insert records succeed url=http://shop582623564.taobao.com memberid=582623564 category_count=0 page_count=14
+[INFO] 2017-12-07 10:00:07,841 open homepage with selenium url=http://shop150407192.taobao.com memberid=150407192 first_index=0 second_index=-1
+[INFO] 2017-12-07 10:00:12,456 get url from mongo before
+[INFO] 2017-12-07 10:00:12,688 get url from oracle after count=0
+[WARNING] 2017-12-07 10:00:12,851 browser quit error:[Error 5] 
+[INFO] 2017-12-07 10:00:20,454 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_22 60.28.11.216
+requests: support
+[INFO] 2017-12-07 10:01:12,707 get url from mongo before
+[INFO] 2017-12-07 10:01:13,000 get url from oracle after count=0
+[INFO] 2017-12-07 10:02:06,321 getpagelist one category complete. [master] url=http://shop150407192.taobao.com memberid=150407192 catid=1200299628 catname=汽车后视镜导航仪展架展柜 count=108
+[ERROR] 2017-12-07 10:02:10,644 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 10:02:13,016 get url from mongo before
+[INFO] 2017-12-07 10:02:13,288 get url from oracle after count=0
+[INFO] 2017-12-07 10:03:13,302 get url from mongo before
+[INFO] 2017-12-07 10:03:13,607 get url from oracle after count=0
+[INFO] 2017-12-07 10:04:13,627 get url from mongo before
+[INFO] 2017-12-07 10:04:13,917 get url from oracle after count=0
+[INFO] 2017-12-07 10:05:13,937 get url from mongo before
+[INFO] 2017-12-07 10:05:14,174 get url from oracle after count=0
+[INFO] 2017-12-07 10:06:14,191 get url from mongo before
+[INFO] 2017-12-07 10:06:14,441 get url from oracle after count=0
+[INFO] 2017-12-07 10:07:14,463 get url from mongo before
+[INFO] 2017-12-07 10:07:14,696 get url from oracle after count=0
+[INFO] 2017-12-07 10:08:14,710 get url from mongo before
+[INFO] 2017-12-07 10:08:15,434 get url from oracle after count=0
+[INFO] 2017-12-07 10:09:15,444 get url from mongo before
+[INFO] 2017-12-07 10:09:15,746 get url from oracle after count=0
+[INFO] 2017-12-07 10:10:15,759 get url from mongo before
+[INFO] 2017-12-07 10:10:15,990 get url from oracle after count=0
+[INFO] 2017-12-07 10:11:16,006 get url from mongo before
+[INFO] 2017-12-07 10:11:16,323 get url from oracle after count=0
+[INFO] 2017-12-07 10:12:10,681 open homepage with selenium url=http://shop150407192.taobao.com memberid=150407192 first_index=2 second_index=-1
+[WARNING] 2017-12-07 10:12:14,944 browser quit error:[Error 5] 
+[INFO] 2017-12-07 10:12:16,344 get url from mongo before
+[INFO] 2017-12-07 10:12:16,655 get url from oracle after count=0
+[INFO] 2017-12-07 10:12:24,888 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_47 125.39.72.112
+requests: support
+[INFO] 2017-12-07 10:13:16,670 get url from mongo before
+[INFO] 2017-12-07 10:13:16,992 get url from oracle after count=0
+[INFO] 2017-12-07 10:13:55,421 getpagelist one category complete. [master] url=http://shop150407192.taobao.com memberid=150407192 catid=1269273111 catname=小家电展架展柜 count=107
+[INFO] 2017-12-07 10:14:17,010 get url from mongo before
+[INFO] 2017-12-07 10:14:17,312 get url from oracle after count=0
+[INFO] 2017-12-07 10:15:16,361 getpagelist one category complete. [master] url=http://shop150407192.taobao.com memberid=150407192 catid=1269273112 catname=厨卫电器展架展柜 count=120
+[INFO] 2017-12-07 10:15:17,325 get url from mongo before
+[INFO] 2017-12-07 10:15:17,677 get url from oracle after count=0
+[ERROR] 2017-12-07 10:15:18,477 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 10:16:17,783 get url from mongo before
+[INFO] 2017-12-07 10:16:18,016 get url from oracle after count=0
+[INFO] 2017-12-07 10:17:18,026 get url from mongo before
+[INFO] 2017-12-07 10:17:18,257 get url from oracle after count=0
+[INFO] 2017-12-07 10:18:18,278 get url from mongo before
+[INFO] 2017-12-07 10:18:18,525 get url from oracle after count=0
+[INFO] 2017-12-07 10:19:18,542 get url from mongo before
+[INFO] 2017-12-07 10:19:18,844 get url from oracle after count=0
+[INFO] 2017-12-07 10:20:18,862 get url from mongo before
+[INFO] 2017-12-07 10:20:19,130 get url from oracle after count=0
+[INFO] 2017-12-07 10:21:19,148 get url from mongo before
+[INFO] 2017-12-07 10:21:19,375 get url from oracle after count=0
+[INFO] 2017-12-07 10:22:19,398 get url from mongo before
+[INFO] 2017-12-07 10:22:19,696 get url from oracle after count=0
+[INFO] 2017-12-07 10:23:19,713 get url from mongo before
+[INFO] 2017-12-07 10:23:19,947 get url from oracle after count=0
+[INFO] 2017-12-07 10:24:19,964 get url from mongo before
+[INFO] 2017-12-07 10:24:20,430 get url from oracle after count=0
+[INFO] 2017-12-07 10:25:18,496 open homepage with selenium url=http://shop150407192.taobao.com memberid=150407192 first_index=4 second_index=-1
+[INFO] 2017-12-07 10:25:20,450 get url from mongo before
+[INFO] 2017-12-07 10:25:20,734 get url from oracle after count=0
+[WARNING] 2017-12-07 10:25:22,267 browser quit error:[Error 5] 
+[INFO] 2017-12-07 10:25:29,201 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_6 125.39.149.8
+requests: support
+[INFO] 2017-12-07 10:26:20,788 get url from mongo before
+[INFO] 2017-12-07 10:26:21,053 get url from oracle after count=0
+[INFO] 2017-12-07 10:26:57,875 getpagelist one category complete. [master] url=http://shop150407192.taobao.com memberid=150407192 catid=1269273113 catname=净水器展架展柜 count=90
+[INFO] 2017-12-07 10:27:21,075 get url from mongo before
+[INFO] 2017-12-07 10:27:21,434 get url from oracle after count=0
+[INFO] 2017-12-07 10:27:30,881 getpagelist one category complete. [master] url=http://shop150407192.taobao.com memberid=150407192 catid=1321963742 catname=卫浴龙头 展示展架 count=54
+[INFO] 2017-12-07 10:28:09,582 getpagelist one category complete. [slaves] url=http://shop150407192.taobao.com memberid=150407192 catid=1321963742 catname=卫浴马桶展示展架 catpid=1321963742 catpname=卫浴龙头 展示展架 count=60
+[ERROR] 2017-12-07 10:28:12,536 something error! Message: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7600 x86_64)
+
+[INFO] 2017-12-07 10:28:21,446 get url from mongo before
+[INFO] 2017-12-07 10:28:21,759 get url from oracle after count=0
+[INFO] 2017-12-07 10:29:21,776 get url from mongo before
+[INFO] 2017-12-07 10:29:22,072 get url from oracle after count=0
+[INFO] 2017-12-07 10:30:22,091 get url from mongo before
+[INFO] 2017-12-07 10:30:22,395 get url from oracle after count=0
+[INFO] 2017-12-07 10:31:22,414 get url from mongo before
+[INFO] 2017-12-07 10:31:22,720 get url from oracle after count=0
+[INFO] 2017-12-07 10:32:22,996 get url from mongo before
+[INFO] 2017-12-07 10:32:23,290 get url from oracle after count=0
+[INFO] 2017-12-07 10:33:23,305 get url from mongo before
+[INFO] 2017-12-07 10:33:23,604 get url from oracle after count=0
+[INFO] 2017-12-07 10:34:23,624 get url from mongo before
+[INFO] 2017-12-07 10:34:23,973 get url from oracle after count=0
+[INFO] 2017-12-07 10:35:23,980 get url from mongo before
+[INFO] 2017-12-07 10:35:24,256 get url from oracle after count=0
+[INFO] 2017-12-07 10:36:24,272 get url from mongo before
+[INFO] 2017-12-07 10:36:24,585 get url from oracle after count=0
+[INFO] 2017-12-07 10:37:24,599 get url from mongo before
+[INFO] 2017-12-07 10:37:24,966 get url from oracle after count=0
+[INFO] 2017-12-07 10:41:09,500 open homepage with selenium url=http://shop150407192.taobao.com memberid=150407192 first_index=5 second_index=1
+[WARNING] 2017-12-07 10:41:14,088 browser quit error:[Error 5] 
+[INFO] 2017-12-07 10:41:21,782 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_19 125.39.149.21
+requests: support
+[INFO] 2017-12-07 10:41:21,918 get url from mongo before
+[INFO] 2017-12-07 10:41:22,147 get url from oracle after count=0
+[INFO] 2017-12-07 10:42:22,163 get url from mongo before
+[INFO] 2017-12-07 10:42:22,381 get url from oracle after count=0
+[INFO] 2017-12-07 10:42:30,819 getpagelist one category complete. [slaves] url=http://shop150407192.taobao.com memberid=150407192 catid=1321963742 catname=卫浴花洒挂板展示展架 catpid=1321963742 catpname=卫浴龙头 展示展架 count=54
+[INFO] 2017-12-07 10:42:45,957 getpagelist one category complete. [master] url=http://shop150407192.taobao.com memberid=150407192 catid=1347272711 catname=移动电源线展示展架 count=5
+[INFO] 2017-12-07 10:43:05,987 getpagelist one category complete. [master] url=http://shop150407192.taobao.com memberid=150407192 catid=1347273976 catname=汽车LED灯展架 count=28
+[INFO] 2017-12-07 10:43:22,397 get url from mongo before
+[INFO] 2017-12-07 10:43:22,654 get url from oracle after count=0
+[INFO] 2017-12-07 10:43:31,177 getpagelist one category complete. [master] url=http://shop150407192.taobao.com memberid=150407192 catid=1347274609 catname=电视机展示展柜 count=4
+[INFO] 2017-12-07 10:43:31,710 insert records succeed url=http://shop150407192.taobao.com memberid=150407192 category_count=0 page_count=630
+[INFO] 2017-12-07 10:44:22,674 get url from mongo before
+[INFO] 2017-12-07 10:44:23,006 get url from oracle after count=0
+[INFO] 2017-12-07 10:45:23,023 get url from mongo before
+[INFO] 2017-12-07 10:45:23,263 get url from oracle after count=0
+[INFO] 2017-12-07 10:46:23,282 get url from mongo before
+[INFO] 2017-12-07 10:46:23,546 get url from oracle after count=0
+[INFO] 2017-12-07 10:47:23,562 get url from mongo before
+[INFO] 2017-12-07 10:47:23,813 get url from oracle after count=0
+[INFO] 2017-12-07 10:48:23,822 get url from mongo before
+[INFO] 2017-12-07 10:48:24,073 get url from oracle after count=0
+[INFO] 2017-12-07 10:49:24,091 get url from mongo before
+[INFO] 2017-12-07 10:49:24,331 get url from oracle after count=0
+[INFO] 2017-12-07 10:50:24,345 get url from mongo before
+[INFO] 2017-12-07 10:50:24,612 get url from oracle after count=0
+[INFO] 2017-12-07 10:51:24,628 get url from mongo before
+[INFO] 2017-12-07 10:51:24,884 get url from oracle after count=0
+[INFO] 2017-12-07 10:52:24,911 get url from mongo before
+[INFO] 2017-12-07 10:52:25,188 get url from oracle after count=0
+[INFO] 2017-12-07 10:53:25,203 get url from mongo before
+[INFO] 2017-12-07 10:53:25,503 get url from oracle after count=0
+[INFO] 2017-12-07 10:54:25,523 get url from mongo before
+[INFO] 2017-12-07 10:54:25,766 get url from oracle after count=0
+[INFO] 2017-12-07 10:55:25,788 get url from mongo before
+[INFO] 2017-12-07 10:55:26,072 get url from oracle after count=0
+[INFO] 2017-12-07 10:56:26,085 get url from mongo before
+[INFO] 2017-12-07 10:56:26,344 get url from oracle after count=0
+[INFO] 2017-12-07 10:57:26,359 get url from mongo before
+[INFO] 2017-12-07 10:57:26,612 get url from oracle after count=0
+[INFO] 2017-12-07 10:58:26,625 get url from mongo before
+[INFO] 2017-12-07 10:58:26,915 get url from oracle after count=0
+[INFO] 2017-12-07 10:59:26,928 get url from mongo before
+[INFO] 2017-12-07 10:59:27,250 get url from oracle after count=0
+[INFO] 2017-12-07 11:00:27,269 get url from mongo before
+[INFO] 2017-12-07 11:00:27,555 get url from oracle after count=0
+[INFO] 2017-12-07 11:01:27,578 get url from mongo before
+[INFO] 2017-12-07 11:01:27,880 get url from oracle after count=0
+[INFO] 2017-12-07 11:02:27,898 get url from mongo before
+[INFO] 2017-12-07 11:02:28,180 get url from oracle after count=0
+[INFO] 2017-12-07 11:03:28,197 get url from mongo before
+[INFO] 2017-12-07 11:03:28,438 get url from oracle after count=0
+[INFO] 2017-12-07 11:04:28,454 get url from mongo before
+[INFO] 2017-12-07 11:04:28,704 get url from oracle after count=0
+[INFO] 2017-12-07 11:05:28,719 get url from mongo before
+[INFO] 2017-12-07 11:05:28,953 get url from oracle after count=0
+[INFO] 2017-12-07 11:06:28,969 get url from mongo before
+[INFO] 2017-12-07 11:06:29,229 get url from oracle after count=0
+[INFO] 2017-12-07 11:07:29,243 get url from mongo before
+[INFO] 2017-12-07 11:07:29,480 get url from oracle after count=0
+[INFO] 2017-12-07 11:08:29,493 get url from mongo before
+[INFO] 2017-12-07 11:08:29,746 get url from oracle after count=0
+[INFO] 2017-12-07 11:09:29,756 get url from mongo before
+[INFO] 2017-12-07 11:09:30,028 get url from oracle after count=0
+[INFO] 2017-12-07 11:10:30,039 get url from mongo before
+[INFO] 2017-12-07 11:10:30,295 get url from oracle after count=0
+[INFO] 2017-12-07 11:11:30,309 get url from mongo before
+[INFO] 2017-12-07 11:11:30,545 get url from oracle after count=0
+[INFO] 2017-12-07 11:12:30,562 get url from mongo before
+[INFO] 2017-12-07 11:12:30,694 get url from oracle after count=0
+[INFO] 2017-12-07 11:13:30,707 get url from mongo before
+[INFO] 2017-12-07 11:13:30,947 get url from oracle after count=0
+[INFO] 2017-12-07 11:14:30,948 get url from mongo before
+[INFO] 2017-12-07 11:14:31,089 get url from oracle after count=0
+[INFO] 2017-12-07 11:15:31,099 get url from mongo before
+[INFO] 2017-12-07 11:15:31,349 get url from oracle after count=0
+[INFO] 2017-12-07 11:16:31,365 get url from mongo before
+[INFO] 2017-12-07 11:16:31,686 get url from oracle after count=0
+[INFO] 2017-12-07 11:17:31,701 get url from mongo before
+[INFO] 2017-12-07 11:17:31,986 get url from oracle after count=0
+[INFO] 2017-12-07 11:18:32,010 get url from mongo before
+[INFO] 2017-12-07 11:18:32,348 get url from oracle after count=0
+[INFO] 2017-12-07 11:19:32,361 get url from mongo before
+[INFO] 2017-12-07 11:19:32,664 get url from oracle after count=0
+[INFO] 2017-12-07 11:20:32,677 get url from mongo before
+[INFO] 2017-12-07 11:20:32,983 get url from oracle after count=0
+[INFO] 2017-12-07 11:21:33,003 get url from mongo before
+[INFO] 2017-12-07 11:21:33,223 get url from oracle after count=0
+[INFO] 2017-12-07 11:22:33,243 get url from mongo before
+[INFO] 2017-12-07 11:22:33,539 get url from oracle after count=0
+[INFO] 2017-12-07 11:23:33,551 get url from mongo before
+[INFO] 2017-12-07 11:23:33,828 get url from oracle after count=0
+[INFO] 2017-12-07 11:24:33,855 get url from mongo before
+[INFO] 2017-12-07 11:24:34,160 get url from oracle after count=0
+[INFO] 2017-12-07 11:25:34,174 get url from mongo before
+[INFO] 2017-12-07 11:25:34,509 get url from oracle after count=0
+[INFO] 2017-12-07 11:26:34,526 get url from mongo before
+[INFO] 2017-12-07 11:26:34,838 get url from oracle after count=0
+[INFO] 2017-12-07 11:27:34,855 get url from mongo before
+[INFO] 2017-12-07 11:27:35,147 get url from oracle after count=0
+[INFO] 2017-12-07 11:28:35,163 get url from mongo before
+[INFO] 2017-12-07 11:28:35,385 get url from oracle after count=0
+[INFO] 2017-12-07 11:29:35,403 get url from mongo before
+[INFO] 2017-12-07 11:29:35,654 get url from oracle after count=0
+[INFO] 2017-12-07 11:30:35,713 get url from mongo before
+[INFO] 2017-12-07 11:30:35,957 get url from oracle after count=0
+[INFO] 2017-12-07 11:31:35,979 get url from mongo before
+[INFO] 2017-12-07 11:31:36,210 get url from oracle after count=0
+[INFO] 2017-12-07 11:32:36,220 get url from mongo before
+[INFO] 2017-12-07 11:32:36,457 get url from oracle after count=0
+[INFO] 2017-12-07 11:33:36,476 get url from mongo before
+[INFO] 2017-12-07 11:33:36,721 get url from oracle after count=0
+[INFO] 2017-12-07 11:34:36,766 get url from mongo before
+[INFO] 2017-12-07 11:34:36,983 get url from oracle after count=0
+[INFO] 2017-12-07 11:35:37,000 get url from mongo before
+[INFO] 2017-12-07 11:35:37,247 get url from oracle after count=0
+[INFO] 2017-12-07 11:36:37,263 get url from mongo before
+[INFO] 2017-12-07 11:36:37,519 get url from oracle after count=0
+[INFO] 2017-12-07 11:37:37,530 get url from mongo before
+[INFO] 2017-12-07 11:37:37,849 get url from oracle after count=0
+[INFO] 2017-12-07 11:38:37,867 get url from mongo before
+[INFO] 2017-12-07 11:38:38,200 get url from oracle after count=0
+[INFO] 2017-12-07 11:39:38,223 get url from mongo before
+[INFO] 2017-12-07 11:39:38,500 get url from oracle after count=0
+[INFO] 2017-12-07 11:40:38,515 get url from mongo before
+[INFO] 2017-12-07 11:40:38,780 get url from oracle after count=0
+[INFO] 2017-12-07 11:44:14,002 get url from mongo before
+[INFO] 2017-12-07 11:44:14,293 get url from oracle after count=0
+[INFO] 2017-12-07 11:45:14,315 get url from mongo before
+[INFO] 2017-12-07 11:45:14,578 get url from oracle after count=0
+[INFO] 2017-12-07 11:46:14,589 get url from mongo before
+[INFO] 2017-12-07 11:46:15,138 get url from oracle after count=0
+[INFO] 2017-12-07 11:47:15,153 get url from mongo before
+[INFO] 2017-12-07 11:47:15,404 get url from oracle after count=0
+[INFO] 2017-12-07 11:48:15,423 get url from mongo before
+[INFO] 2017-12-07 11:48:15,700 get url from oracle after count=0
+[INFO] 2017-12-07 11:49:15,711 get url from mongo before
+[INFO] 2017-12-07 11:49:15,994 get url from oracle after count=0
+[INFO] 2017-12-07 11:50:16,013 get url from mongo before
+[INFO] 2017-12-07 11:50:16,328 get url from oracle after count=0
+[INFO] 2017-12-07 11:51:16,342 get url from mongo before
+[INFO] 2017-12-07 11:51:16,608 get url from oracle after count=0
+[INFO] 2017-12-07 11:52:16,625 get url from mongo before
+[INFO] 2017-12-07 11:52:16,871 get url from oracle after count=0
+[INFO] 2017-12-07 11:53:16,894 get url from mongo before
+[INFO] 2017-12-07 11:53:17,200 get url from oracle after count=0
+[INFO] 2017-12-07 11:54:17,217 get url from mongo before
+[INFO] 2017-12-07 11:54:17,637 get url from oracle after count=0
+[INFO] 2017-12-07 11:55:17,651 get url from mongo before
+[INFO] 2017-12-07 11:55:17,944 get url from oracle after count=0
+[INFO] 2017-12-07 11:56:17,957 get url from mongo before
+[INFO] 2017-12-07 11:56:18,173 get url from oracle after count=0
+[INFO] 2017-12-07 11:57:18,190 get url from mongo before
+[INFO] 2017-12-07 11:57:18,427 get url from oracle after count=0
+[INFO] 2017-12-07 11:58:18,436 get url from mongo before
+[INFO] 2017-12-07 11:58:18,690 get url from oracle after count=0
+[INFO] 2017-12-07 11:59:18,710 get url from mongo before
+[INFO] 2017-12-07 11:59:18,983 get url from oracle after count=0
+[INFO] 2017-12-07 12:00:18,997 get url from mongo before
+[INFO] 2017-12-07 12:00:19,125 get url from oracle after count=0
+[INFO] 2017-12-07 12:01:19,140 get url from mongo before
+[INFO] 2017-12-07 12:01:19,426 get url from oracle after count=0
+[INFO] 2017-12-07 12:02:19,443 get url from mongo before
+[INFO] 2017-12-07 12:02:19,688 get url from oracle after count=0
+[INFO] 2017-12-07 12:03:19,707 get url from mongo before
+[INFO] 2017-12-07 12:03:19,951 get url from oracle after count=0
+[INFO] 2017-12-07 12:04:20,019 get url from mongo before
+[INFO] 2017-12-07 12:04:20,273 get url from oracle after count=0
+[INFO] 2017-12-07 12:05:20,288 get url from mongo before
+[INFO] 2017-12-07 12:05:20,444 get url from oracle after count=0
+[INFO] 2017-12-07 12:06:20,461 get url from mongo before
+[INFO] 2017-12-07 12:06:20,710 get url from oracle after count=0
+[INFO] 2017-12-07 12:07:20,724 get url from mongo before
+[INFO] 2017-12-07 12:07:20,960 get url from oracle after count=0
+[INFO] 2017-12-07 12:08:20,974 get url from mongo before
+[INFO] 2017-12-07 12:08:21,240 get url from oracle after count=0
+[INFO] 2017-12-07 12:09:21,256 get url from mongo before
+[INFO] 2017-12-07 12:09:21,536 get url from oracle after count=1
+[INFO] 2017-12-07 12:09:21,551 before url=http://shop72726393.taobao.com
+[INFO] 2017-12-07 12:09:21,575 Starting new HTTP connection (1): shop72726393.taobao.com
+[INFO] 2017-12-07 12:09:21,690 Starting new HTTPS connection (1): shop72726393.taobao.com
+[INFO] 2017-12-07 12:09:22,042 open homepage with selenium url=http://shop72726393.taobao.com memberid=72726393 first_index=0 second_index=-1
+[INFO] 2017-12-07 12:09:22,072 insert new website url=http://shop72726393.taobao.com memberid=72726393
+[INFO] 2017-12-07 12:09:22,091 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-07 12:09:22,099 get url from mongo before
+[INFO] 2017-12-07 12:09:22,338 get url from oracle after count=1
+[INFO] 2017-12-07 12:09:22,348 before url=http://shop72726393.taobao.com
+[INFO] 2017-12-07 12:09:22,369 Starting new HTTP connection (1): shop72726393.taobao.com
+[INFO] 2017-12-07 12:09:22,438 Starting new HTTPS connection (1): shop72726393.taobao.com
+[INFO] 2017-12-07 12:09:22,713 insert new website url=http://shop72726393.taobao.com memberid=72726393
+[INFO] 2017-12-07 12:09:22,729 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-07 12:09:22,747 get url from mongo before
+[INFO] 2017-12-07 12:09:22,970 get url from oracle after count=1
+[WARNING] 2017-12-07 12:09:26,128 browser quit error:[Error 5] 
+[INFO] 2017-12-07 12:09:33,081 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.26:tj_user_6_55 125.39.149.57
+requests: support
+[INFO] 2017-12-07 12:10:24,269 getpagelist one category complete. [master] url=http://shop72726393.taobao.com memberid=72726393 catid=516395926 catname=水流开关/流量计 count=11
+[INFO] 2017-12-07 12:10:38,966 getpagelist one category complete. [master] url=http://shop72726393.taobao.com memberid=72726393 catid=516395927 catname=浮球液位控制器 count=4
+[INFO] 2017-12-07 12:10:55,733 getpagelist one category complete. [master] url=http://shop72726393.taobao.com memberid=72726393 catid=516395928 catname=空调配件及清洗工具 count=10
+[INFO] 2017-12-07 12:11:10,934 getpagelist one category complete. [master] url=http://shop72726393.taobao.com memberid=72726393 catid=516395929 catname=钢丝绳及配件 count=0
+[INFO] 2017-12-07 12:11:41,739 getpagelist one category complete. [master] url=http://shop72726393.taobao.com memberid=72726393 catid=934974145 catname=工字牌/上海焊割工具厂 count=38
+[INFO] 2017-12-07 12:12:04,911 getpagelist one category complete. [master] url=http://shop72726393.taobao.com memberid=72726393 catid=934974146 catname=飞机牌/上海斯米克焊材 count=8
+[INFO] 2017-12-07 12:12:05,266 insert records succeed url=http://shop72726393.taobao.com memberid=72726393 category_count=0 page_count=71
+[INFO] 2017-12-07 12:12:05,283 open homepage with selenium url=http://shop72726393.taobao.com memberid=72726393 first_index=0 second_index=-1
+[WARNING] 2017-12-07 12:12:12,994 browser quit error:[Error 5] 
+[INFO] 2017-12-07 12:12:22,984 before url=http://shop72726393.taobao.com
+[INFO] 2017-12-07 12:12:23,009 Starting new HTTP connection (1): shop72726393.taobao.com
+[INFO] 2017-12-07 12:12:23,119 Starting new HTTPS connection (1): shop72726393.taobao.com
+[INFO] 2017-12-07 12:12:23,420 insert new website url=http://shop72726393.taobao.com memberid=72726393
+[INFO] 2017-12-07 12:12:23,436 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-07 12:12:23,454 get url from mongo before
+[INFO] 2017-12-07 12:12:23,717 get url from oracle after count=0
+[INFO] 2017-12-07 12:12:24,619 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_7 125.39.72.72
+requests: support
+[INFO] 2017-12-07 12:13:23,747 get url from mongo before
+[INFO] 2017-12-07 12:13:23,973 get url from oracle after count=0
+[INFO] 2017-12-07 12:14:08,256 getpagelist one category complete. [master] url=http://shop72726393.taobao.com memberid=72726393 catid=516395926 catname=水流开关/流量计 count=11
+[INFO] 2017-12-07 12:14:23,987 get url from mongo before
+[INFO] 2017-12-07 12:14:24,049 getpagelist one category complete. [master] url=http://shop72726393.taobao.com memberid=72726393 catid=516395927 catname=浮球液位控制器 count=4
+[INFO] 2017-12-07 12:14:24,196 get url from oracle after count=0
+[INFO] 2017-12-07 12:14:41,411 getpagelist one category complete. [master] url=http://shop72726393.taobao.com memberid=72726393 catid=516395928 catname=空调配件及清洗工具 count=10
+[INFO] 2017-12-07 12:14:50,200 getpagelist one category complete. [master] url=http://shop72726393.taobao.com memberid=72726393 catid=516395929 catname=钢丝绳及配件 count=0
+[INFO] 2017-12-07 12:15:24,213 get url from mongo before
+[INFO] 2017-12-07 12:15:24,489 get url from oracle after count=0
+[INFO] 2017-12-07 12:15:26,926 getpagelist one category complete. [master] url=http://shop72726393.taobao.com memberid=72726393 catid=934974145 catname=工字牌/上海焊割工具厂 count=38
+[INFO] 2017-12-07 12:15:53,697 getpagelist one category complete. [master] url=http://shop72726393.taobao.com memberid=72726393 catid=934974146 catname=飞机牌/上海斯米克焊材 count=8
+[INFO] 2017-12-07 12:15:54,618 insert records succeed url=http://shop72726393.taobao.com memberid=72726393 category_count=0 page_count=71
+[INFO] 2017-12-07 12:15:54,628 open homepage with selenium url=http://shop72726393.taobao.com memberid=72726393 first_index=0 second_index=-1
+[WARNING] 2017-12-07 12:15:59,486 browser quit error:[Error 5] 
+[INFO] 2017-12-07 12:16:06,903 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_30 125.39.72.95
+requests: support
+[INFO] 2017-12-07 12:16:24,505 get url from mongo before
+[INFO] 2017-12-07 12:16:24,721 get url from oracle after count=0
+[ERROR] 2017-12-07 12:16:38,233 insert records error len(records)=0 memberid=72726393
+[INFO] 2017-12-07 12:16:38,446 insert records succeed url=http://shop72726393.taobao.com memberid=72726393 category_count=0 page_count=0
+[INFO] 2017-12-07 12:17:24,743 get url from mongo before
+[INFO] 2017-12-07 12:17:24,983 get url from oracle after count=0
+[INFO] 2017-12-07 12:18:25,000 get url from mongo before
+[INFO] 2017-12-07 12:18:25,280 get url from oracle after count=0
+[INFO] 2017-12-07 12:19:25,295 get url from mongo before
+[INFO] 2017-12-07 12:19:25,585 get url from oracle after count=0
+[INFO] 2017-12-07 12:20:25,599 get url from mongo before
+[INFO] 2017-12-07 12:20:25,818 get url from oracle after count=0
+[INFO] 2017-12-07 12:21:25,835 get url from mongo before
+[INFO] 2017-12-07 12:21:26,076 get url from oracle after count=0
+[INFO] 2017-12-07 12:22:26,094 get url from mongo before
+[INFO] 2017-12-07 12:22:26,322 get url from oracle after count=0
+[INFO] 2017-12-07 12:23:26,334 get url from mongo before
+[INFO] 2017-12-07 12:23:26,868 get url from oracle after count=0
+[INFO] 2017-12-07 12:24:26,957 get url from mongo before
+[INFO] 2017-12-07 12:24:27,288 get url from oracle after count=0
+[INFO] 2017-12-07 12:25:27,301 get url from mongo before
+[INFO] 2017-12-07 12:25:27,546 get url from oracle after count=0
+[INFO] 2017-12-07 12:26:27,559 get url from mongo before
+[INFO] 2017-12-07 12:26:27,861 get url from oracle after count=0
+[INFO] 2017-12-07 12:27:27,880 get url from mongo before
+[INFO] 2017-12-07 12:27:28,098 get url from oracle after count=0
+[INFO] 2017-12-07 12:28:28,114 get url from mongo before
+[INFO] 2017-12-07 12:28:28,473 get url from oracle after count=0
+[INFO] 2017-12-07 12:29:28,486 get url from mongo before
+[INFO] 2017-12-07 12:29:28,780 get url from oracle after count=0
+[INFO] 2017-12-07 12:30:28,796 get url from mongo before
+[INFO] 2017-12-07 12:30:29,167 get url from oracle after count=0
+[INFO] 2017-12-07 12:31:29,184 get url from mongo before
+[INFO] 2017-12-07 12:31:29,404 get url from oracle after count=0
+[INFO] 2017-12-07 12:32:29,414 get url from mongo before
+[INFO] 2017-12-07 12:32:29,654 get url from oracle after count=0
+[INFO] 2017-12-07 12:33:29,676 get url from mongo before
+[INFO] 2017-12-07 12:33:29,927 get url from oracle after count=0
+[INFO] 2017-12-07 12:34:29,941 get url from mongo before
+[INFO] 2017-12-07 12:34:30,206 get url from oracle after count=0
+[INFO] 2017-12-07 12:35:30,220 get url from mongo before
+[INFO] 2017-12-07 12:35:30,453 get url from oracle after count=0
+[INFO] 2017-12-07 12:36:30,470 get url from mongo before
+[INFO] 2017-12-07 12:36:30,716 get url from oracle after count=0
+[INFO] 2017-12-07 12:37:30,732 get url from mongo before
+[INFO] 2017-12-07 12:37:31,062 get url from oracle after count=0
+[INFO] 2017-12-07 12:38:31,085 get url from mongo before
+[INFO] 2017-12-07 12:38:31,359 get url from oracle after count=0
+[INFO] 2017-12-07 12:39:31,391 get url from mongo before
+[INFO] 2017-12-07 12:39:31,654 get url from oracle after count=0
+[INFO] 2017-12-07 12:40:31,667 get url from mongo before
+[INFO] 2017-12-07 12:40:31,898 get url from oracle after count=0
+[INFO] 2017-12-07 12:41:31,928 get url from mongo before
+[INFO] 2017-12-07 12:41:32,186 get url from oracle after count=0
+[INFO] 2017-12-07 12:42:32,197 get url from mongo before
+[INFO] 2017-12-07 12:42:32,415 get url from oracle after count=0
+[INFO] 2017-12-07 12:46:39,700 get url from mongo before
+[INFO] 2017-12-07 12:46:40,012 get url from oracle after count=0
+[INFO] 2017-12-07 12:47:40,032 get url from mongo before
+[INFO] 2017-12-07 12:47:40,283 get url from oracle after count=0
+[INFO] 2017-12-07 12:48:40,302 get url from mongo before
+[INFO] 2017-12-07 12:48:40,559 get url from oracle after count=0
+[INFO] 2017-12-07 12:49:40,578 get url from mongo before
+[INFO] 2017-12-07 12:49:40,822 get url from oracle after count=0
+[INFO] 2017-12-07 12:50:40,838 get url from mongo before
+[INFO] 2017-12-07 12:50:41,132 get url from oracle after count=0
+[INFO] 2017-12-07 12:51:41,150 get url from mongo before
+[INFO] 2017-12-07 12:51:41,420 get url from oracle after count=0
+[INFO] 2017-12-07 12:52:41,434 get url from mongo before
+[INFO] 2017-12-07 12:52:41,688 get url from oracle after count=0
+[INFO] 2017-12-07 12:53:41,703 get url from mongo before
+[INFO] 2017-12-07 12:53:41,953 get url from oracle after count=0
+[INFO] 2017-12-07 12:54:41,974 get url from mongo before
+[INFO] 2017-12-07 12:54:42,203 get url from oracle after count=0
+[INFO] 2017-12-07 12:55:42,216 get url from mongo before
+[INFO] 2017-12-07 12:55:42,444 get url from oracle after count=0
+[INFO] 2017-12-07 12:56:42,461 get url from mongo before
+[INFO] 2017-12-07 12:56:42,690 get url from oracle after count=0
+[INFO] 2017-12-07 12:57:42,700 get url from mongo before
+[INFO] 2017-12-07 12:57:42,927 get url from oracle after count=0
+[INFO] 2017-12-07 12:58:42,944 get url from mongo before
+[INFO] 2017-12-07 12:58:43,201 get url from oracle after count=0
+[INFO] 2017-12-07 12:59:43,220 get url from mongo before
+[INFO] 2017-12-07 12:59:43,469 get url from oracle after count=0
+[INFO] 2017-12-07 13:00:43,487 get url from mongo before
+[INFO] 2017-12-07 13:00:43,736 get url from oracle after count=0
+[INFO] 2017-12-07 13:01:43,744 get url from mongo before
+[INFO] 2017-12-07 13:01:43,947 get url from oracle after count=0
+[INFO] 2017-12-07 13:02:43,960 get url from mongo before
+[INFO] 2017-12-07 13:02:44,204 get url from oracle after count=0
+[INFO] 2017-12-07 13:03:44,230 get url from mongo before
+[INFO] 2017-12-07 13:03:44,490 get url from oracle after count=0
+[INFO] 2017-12-07 13:04:44,509 get url from mongo before
+[INFO] 2017-12-07 13:04:44,690 get url from oracle after count=0
+[INFO] 2017-12-07 13:05:44,707 get url from mongo before
+[INFO] 2017-12-07 13:05:44,930 get url from oracle after count=0
+[INFO] 2017-12-07 13:06:44,947 get url from mongo before
+[INFO] 2017-12-07 13:06:45,167 get url from oracle after count=0
+[INFO] 2017-12-07 13:07:45,186 get url from mongo before
+[INFO] 2017-12-07 13:07:45,469 get url from oracle after count=0
+[INFO] 2017-12-07 13:08:45,490 get url from mongo before
+[INFO] 2017-12-07 13:08:45,756 get url from oracle after count=0
+[INFO] 2017-12-07 13:09:45,770 get url from mongo before
+[INFO] 2017-12-07 13:09:46,075 get url from oracle after count=0
+[INFO] 2017-12-07 13:10:46,088 get url from mongo before
+[INFO] 2017-12-07 13:10:46,346 get url from oracle after count=0
+[INFO] 2017-12-07 13:11:46,357 get url from mongo before
+[INFO] 2017-12-07 13:11:46,630 get url from oracle after count=0
+[INFO] 2017-12-07 13:12:46,645 get url from mongo before
+[INFO] 2017-12-07 13:12:46,891 get url from oracle after count=0
+[INFO] 2017-12-07 13:13:46,915 get url from mongo before
+[INFO] 2017-12-07 13:13:47,151 get url from oracle after count=0
+[INFO] 2017-12-07 13:14:47,163 get url from mongo before
+[INFO] 2017-12-07 13:14:47,390 get url from oracle after count=0
+[INFO] 2017-12-07 13:15:47,411 get url from mongo before
+[INFO] 2017-12-07 13:15:47,664 get url from oracle after count=0
+[INFO] 2017-12-07 13:16:47,680 get url from mongo before
+[INFO] 2017-12-07 13:16:47,956 get url from oracle after count=0
+[INFO] 2017-12-07 13:17:47,969 get url from mongo before
+[INFO] 2017-12-07 13:17:48,217 get url from oracle after count=0
+[INFO] 2017-12-07 13:18:48,233 get url from mongo before
+[INFO] 2017-12-07 13:18:48,457 get url from oracle after count=0
+[INFO] 2017-12-07 13:19:48,474 get url from mongo before
+[INFO] 2017-12-07 13:19:48,720 get url from oracle after count=0
+[INFO] 2017-12-07 13:20:48,739 get url from mongo before
+[INFO] 2017-12-07 13:20:48,990 get url from oracle after count=0
+[INFO] 2017-12-07 13:21:49,006 get url from mongo before
+[INFO] 2017-12-07 13:21:49,243 get url from oracle after count=0
+[INFO] 2017-12-07 13:22:49,259 get url from mongo before
+[INFO] 2017-12-07 13:22:49,548 get url from oracle after count=0
+[INFO] 2017-12-07 13:23:49,559 get url from mongo before
+[INFO] 2017-12-07 13:23:49,823 get url from oracle after count=0
+[INFO] 2017-12-07 13:24:49,838 get url from mongo before
+[INFO] 2017-12-07 13:24:50,124 get url from oracle after count=0
+[INFO] 2017-12-07 13:25:50,134 get url from mongo before
+[INFO] 2017-12-07 13:25:50,410 get url from oracle after count=0
+[INFO] 2017-12-07 13:26:50,415 get url from mongo before
+[INFO] 2017-12-07 13:26:50,700 get url from oracle after count=0
+[INFO] 2017-12-07 13:27:50,713 get url from mongo before
+[INFO] 2017-12-07 13:27:50,990 get url from oracle after count=0
+[INFO] 2017-12-07 13:28:51,006 get url from mongo before
+[INFO] 2017-12-07 13:28:51,252 get url from oracle after count=0
+[INFO] 2017-12-07 13:29:51,263 get url from mongo before
+[INFO] 2017-12-07 13:29:51,499 get url from oracle after count=0
+[INFO] 2017-12-07 13:30:51,513 get url from mongo before
+[INFO] 2017-12-07 13:30:51,769 get url from oracle after count=0
+[INFO] 2017-12-07 13:31:51,782 get url from mongo before
+[INFO] 2017-12-07 13:31:52,009 get url from oracle after count=0
+[INFO] 2017-12-07 13:32:52,026 get url from mongo before
+[INFO] 2017-12-07 13:32:52,279 get url from oracle after count=0
+[INFO] 2017-12-07 13:33:52,298 get url from mongo before
+[INFO] 2017-12-07 13:33:52,509 get url from oracle after count=0
+[INFO] 2017-12-07 13:34:52,523 get url from mongo before
+[INFO] 2017-12-07 13:34:52,747 get url from oracle after count=0
+[INFO] 2017-12-07 13:35:52,762 get url from mongo before
+[INFO] 2017-12-07 13:35:52,986 get url from oracle after count=0
+[INFO] 2017-12-07 13:36:53,000 get url from mongo before
+[INFO] 2017-12-07 13:36:53,256 get url from oracle after count=0
+[INFO] 2017-12-07 13:37:53,267 get url from mongo before
+[INFO] 2017-12-07 13:37:53,526 get url from oracle after count=0
+[INFO] 2017-12-07 13:38:53,540 get url from mongo before
+[INFO] 2017-12-07 13:38:53,769 get url from oracle after count=0
+[INFO] 2017-12-07 13:39:53,790 get url from mongo before
+[INFO] 2017-12-07 13:39:54,036 get url from oracle after count=0
+[INFO] 2017-12-07 13:40:54,051 get url from mongo before
+[INFO] 2017-12-07 13:40:54,323 get url from oracle after count=0
+[INFO] 2017-12-07 13:41:54,344 get url from mongo before
+[INFO] 2017-12-07 13:41:54,670 get url from oracle after count=0
+[INFO] 2017-12-07 13:42:54,687 get url from mongo before
+[INFO] 2017-12-07 13:42:54,921 get url from oracle after count=0
+[INFO] 2017-12-07 13:43:54,938 get url from mongo before
+[INFO] 2017-12-07 13:43:55,197 get url from oracle after count=0
+[INFO] 2017-12-07 13:44:55,207 get url from mongo before
+[INFO] 2017-12-07 13:44:55,482 get url from oracle after count=0
+[INFO] 2017-12-07 13:45:55,497 get url from mongo before
+[INFO] 2017-12-07 13:45:55,755 get url from oracle after count=0
+[INFO] 2017-12-07 13:50:02,697 get url from mongo before
+[INFO] 2017-12-07 13:50:03,000 get url from oracle after count=0
+[INFO] 2017-12-07 13:51:03,013 get url from mongo before
+[INFO] 2017-12-07 13:51:03,292 get url from oracle after count=0
+[INFO] 2017-12-07 13:52:03,312 get url from mongo before
+[INFO] 2017-12-07 13:52:03,584 get url from oracle after count=0
+[INFO] 2017-12-07 13:53:03,599 get url from mongo before
+[INFO] 2017-12-07 13:53:03,947 get url from oracle after count=0
+[INFO] 2017-12-07 13:54:03,961 get url from mongo before
+[INFO] 2017-12-07 13:54:04,263 get url from oracle after count=0
+[INFO] 2017-12-07 13:55:04,279 get url from mongo before
+[INFO] 2017-12-07 13:55:04,660 get url from oracle after count=0
+[INFO] 2017-12-07 13:56:04,674 get url from mongo before
+[INFO] 2017-12-07 13:56:04,874 get url from oracle after count=0
+[INFO] 2017-12-07 13:57:04,891 get url from mongo before
+[INFO] 2017-12-07 13:57:05,168 get url from oracle after count=0
+[INFO] 2017-12-07 13:58:05,306 get url from mongo before
+[INFO] 2017-12-07 13:58:05,448 get url from oracle after count=0
+[INFO] 2017-12-07 13:59:05,471 get url from mongo before
+[INFO] 2017-12-07 13:59:05,605 get url from oracle after count=0
+[INFO] 2017-12-07 14:00:05,621 get url from mongo before
+[INFO] 2017-12-07 14:00:05,857 get url from oracle after count=0
+[INFO] 2017-12-07 14:01:05,874 get url from mongo before
+[INFO] 2017-12-07 14:01:06,125 get url from oracle after count=0
+[INFO] 2017-12-07 14:02:06,142 get url from mongo before
+[INFO] 2017-12-07 14:02:06,385 get url from oracle after count=0
+[INFO] 2017-12-07 14:03:06,408 get url from mongo before
+[INFO] 2017-12-07 14:03:06,657 get url from oracle after count=0
+[INFO] 2017-12-07 14:04:06,680 get url from mongo before
+[INFO] 2017-12-07 14:04:07,395 get url from oracle after count=0
+[INFO] 2017-12-07 14:05:07,410 get url from mongo before
+[INFO] 2017-12-07 14:05:07,605 get url from oracle after count=0
+[INFO] 2017-12-07 14:06:07,621 get url from mongo before
+[INFO] 2017-12-07 14:06:07,897 get url from oracle after count=0
+[INFO] 2017-12-07 14:07:07,917 get url from mongo before
+[INFO] 2017-12-07 14:07:08,147 get url from oracle after count=0
+[INFO] 2017-12-07 14:08:08,163 get url from mongo before
+[INFO] 2017-12-07 14:08:08,415 get url from oracle after count=0
+[INFO] 2017-12-07 14:09:08,428 get url from mongo before
+[INFO] 2017-12-07 14:09:08,698 get url from oracle after count=0
+[INFO] 2017-12-07 14:10:08,719 get url from mongo before
+[INFO] 2017-12-07 14:10:09,032 get url from oracle after count=0
+[INFO] 2017-12-07 14:11:09,052 get url from mongo before
+[INFO] 2017-12-07 14:11:09,321 get url from oracle after count=0
+[INFO] 2017-12-07 14:12:09,335 get url from mongo before
+[INFO] 2017-12-07 14:12:09,607 get url from oracle after count=0
+[INFO] 2017-12-07 14:13:09,625 get url from mongo before
+[INFO] 2017-12-07 14:13:09,903 get url from oracle after count=0
+[INFO] 2017-12-07 14:14:09,921 get url from mongo before
+[INFO] 2017-12-07 14:14:10,164 get url from oracle after count=0
+[INFO] 2017-12-07 14:15:10,181 get url from mongo before
+[INFO] 2017-12-07 14:15:10,460 get url from oracle after count=0
+[INFO] 2017-12-07 14:16:10,474 get url from mongo before
+[INFO] 2017-12-07 14:16:10,680 get url from oracle after count=0
+[INFO] 2017-12-07 14:17:10,703 get url from mongo before
+[INFO] 2017-12-07 14:17:10,971 get url from oracle after count=0
+[INFO] 2017-12-07 14:18:10,992 get url from mongo before
+[INFO] 2017-12-07 14:18:11,216 get url from oracle after count=0
+[INFO] 2017-12-07 14:19:11,223 get url from mongo before
+[INFO] 2017-12-07 14:19:11,480 get url from oracle after count=0
+[INFO] 2017-12-07 14:20:11,496 get url from mongo before
+[INFO] 2017-12-07 14:20:11,717 get url from oracle after count=0
+[INFO] 2017-12-07 14:21:11,729 get url from mongo before
+[INFO] 2017-12-07 14:21:12,019 get url from oracle after count=0
+[INFO] 2017-12-07 14:22:12,068 get url from mongo before
+[INFO] 2017-12-07 14:22:12,303 get url from oracle after count=0
+[INFO] 2017-12-07 14:23:12,313 get url from mongo before
+[INFO] 2017-12-07 14:23:12,588 get url from oracle after count=0
+[INFO] 2017-12-07 14:24:12,602 get url from mongo before
+[INFO] 2017-12-07 14:24:12,750 get url from oracle after count=0
+[INFO] 2017-12-07 14:25:12,765 get url from mongo before
+[INFO] 2017-12-07 14:25:13,079 get url from oracle after count=0
+[INFO] 2017-12-07 14:26:13,092 get url from mongo before
+[INFO] 2017-12-07 14:26:13,230 get url from oracle after count=0
+[INFO] 2017-12-07 14:27:13,246 get url from mongo before
+[INFO] 2017-12-07 14:27:13,500 get url from oracle after count=0
+[INFO] 2017-12-07 14:28:13,516 get url from mongo before
+[INFO] 2017-12-07 14:28:13,664 get url from oracle after count=0
+[INFO] 2017-12-07 14:29:13,677 get url from mongo before
+[INFO] 2017-12-07 14:29:13,937 get url from oracle after count=0
+[INFO] 2017-12-07 14:30:13,951 get url from mongo before
+[INFO] 2017-12-07 14:30:14,194 get url from oracle after count=0
+[INFO] 2017-12-07 14:31:14,213 get url from mongo before
+[INFO] 2017-12-07 14:31:14,502 get url from oracle after count=0
+[INFO] 2017-12-07 14:32:14,513 get url from mongo before
+[INFO] 2017-12-07 14:32:14,816 get url from oracle after count=0
+[INFO] 2017-12-07 14:33:14,832 get url from mongo before
+[INFO] 2017-12-07 14:33:15,256 get url from oracle after count=0
+[INFO] 2017-12-07 14:34:15,273 get url from mongo before
+[INFO] 2017-12-07 14:34:15,509 get url from oracle after count=0
+[INFO] 2017-12-07 14:35:15,528 get url from mongo before
+[INFO] 2017-12-07 14:35:15,762 get url from oracle after count=0
+[INFO] 2017-12-07 14:36:15,776 get url from mongo before
+[INFO] 2017-12-07 14:36:16,019 get url from oracle after count=0
+[INFO] 2017-12-07 14:37:16,032 get url from mongo before
+[INFO] 2017-12-07 14:37:16,257 get url from oracle after count=0
+[INFO] 2017-12-07 14:38:16,275 get url from mongo before
+[INFO] 2017-12-07 14:38:16,578 get url from oracle after count=0
+[INFO] 2017-12-07 14:39:16,602 get url from mongo before
+[INFO] 2017-12-07 14:39:16,861 get url from oracle after count=0
+[INFO] 2017-12-07 14:40:16,881 get url from mongo before
+[INFO] 2017-12-07 14:40:17,125 get url from oracle after count=0
+[INFO] 2017-12-07 14:41:17,141 get url from mongo before
+[INFO] 2017-12-07 14:41:17,371 get url from oracle after count=0
+[INFO] 2017-12-07 14:42:17,388 get url from mongo before
+[INFO] 2017-12-07 14:42:17,625 get url from oracle after count=0
+[INFO] 2017-12-07 14:43:17,638 get url from mongo before
+[INFO] 2017-12-07 14:43:17,907 get url from oracle after count=0
+[INFO] 2017-12-07 14:44:17,927 get url from mongo before
+[INFO] 2017-12-07 14:44:18,187 get url from oracle after count=0
+[INFO] 2017-12-07 14:45:18,200 get url from mongo before
+[INFO] 2017-12-07 14:45:18,447 get url from oracle after count=0
+[INFO] 2017-12-07 14:46:18,470 get url from mongo before
+[INFO] 2017-12-07 14:46:18,773 get url from oracle after count=0
+[INFO] 2017-12-07 14:47:18,788 get url from mongo before
+[INFO] 2017-12-07 14:47:19,055 get url from oracle after count=0
+[INFO] 2017-12-07 14:48:19,072 get url from mongo before
+[INFO] 2017-12-07 14:48:19,332 get url from oracle after count=0
+[INFO] 2017-12-07 14:49:19,349 get url from mongo before
+[INFO] 2017-12-07 14:49:19,707 get url from oracle after count=0
+[INFO] 2017-12-07 14:53:30,582 get url from mongo before
+[INFO] 2017-12-07 14:53:30,801 get url from oracle after count=0
+[INFO] 2017-12-07 14:54:30,815 get url from mongo before
+[INFO] 2017-12-07 14:54:31,078 get url from oracle after count=0
+[INFO] 2017-12-07 14:55:31,092 get url from mongo before
+[INFO] 2017-12-07 14:55:31,539 get url from oracle after count=0
+[INFO] 2017-12-07 14:56:31,552 get url from mongo before
+[INFO] 2017-12-07 14:56:31,812 get url from oracle after count=0
+[INFO] 2017-12-07 14:57:31,832 get url from mongo before
+[INFO] 2017-12-07 14:57:32,036 get url from oracle after count=0
+[INFO] 2017-12-07 14:58:32,046 get url from mongo before
+[INFO] 2017-12-07 14:58:32,335 get url from oracle after count=0
+[INFO] 2017-12-07 14:59:32,349 get url from mongo before
+[INFO] 2017-12-07 14:59:32,586 get url from oracle after count=0
+[INFO] 2017-12-07 15:00:32,608 get url from mongo before
+[INFO] 2017-12-07 15:00:32,888 get url from oracle after count=0
+[INFO] 2017-12-07 15:01:32,904 get url from mongo before
+[INFO] 2017-12-07 15:01:33,132 get url from oracle after count=0
+[INFO] 2017-12-07 15:02:33,150 get url from mongo before
+[INFO] 2017-12-07 15:02:33,403 get url from oracle after count=0
+[INFO] 2017-12-07 15:03:33,430 get url from mongo before
+[INFO] 2017-12-07 15:03:33,579 get url from oracle after count=0
+[INFO] 2017-12-07 15:04:33,596 get url from mongo before
+[INFO] 2017-12-07 15:04:33,861 get url from oracle after count=0
+[INFO] 2017-12-07 15:05:33,887 get url from mongo before
+[INFO] 2017-12-07 15:05:34,157 get url from oracle after count=0
+[INFO] 2017-12-07 15:06:34,177 get url from mongo before
+[INFO] 2017-12-07 15:06:34,447 get url from oracle after count=0
+[INFO] 2017-12-07 15:07:34,467 get url from mongo before
+[INFO] 2017-12-07 15:07:34,743 get url from oracle after count=0
+[INFO] 2017-12-07 15:08:34,763 get url from mongo before
+[INFO] 2017-12-07 15:08:35,019 get url from oracle after count=0
+[INFO] 2017-12-07 15:09:35,042 get url from mongo before
+[INFO] 2017-12-07 15:09:35,378 get url from oracle after count=0
+[INFO] 2017-12-07 15:10:35,394 get url from mongo before
+[INFO] 2017-12-07 15:10:35,709 get url from oracle after count=0
+[INFO] 2017-12-07 15:11:35,717 get url from mongo before
+[INFO] 2017-12-07 15:11:36,374 get url from oracle after count=0
+[INFO] 2017-12-07 15:12:36,384 get url from mongo before
+[INFO] 2017-12-07 15:12:36,654 get url from oracle after count=0
+[INFO] 2017-12-07 15:13:36,668 get url from mongo before
+[INFO] 2017-12-07 15:13:37,013 get url from oracle after count=0
+[INFO] 2017-12-07 15:14:37,030 get url from mongo before
+[INFO] 2017-12-07 15:14:37,299 get url from oracle after count=0
+[INFO] 2017-12-07 15:15:37,322 get url from mongo before
+[INFO] 2017-12-07 15:15:37,572 get url from oracle after count=0
+[INFO] 2017-12-07 15:16:37,586 get url from mongo before
+[INFO] 2017-12-07 15:16:37,838 get url from oracle after count=0
+[INFO] 2017-12-07 15:17:37,865 get url from mongo before
+[INFO] 2017-12-07 15:17:38,155 get url from oracle after count=0
+[INFO] 2017-12-07 15:18:38,176 get url from mongo before
+[INFO] 2017-12-07 15:18:38,461 get url from oracle after count=0
+[INFO] 2017-12-07 15:19:38,490 get url from mongo before
+[INFO] 2017-12-07 15:19:38,780 get url from oracle after count=0
+[INFO] 2017-12-07 15:20:38,796 get url from mongo before
+[INFO] 2017-12-07 15:20:39,184 get url from oracle after count=0
+[INFO] 2017-12-07 15:21:39,207 get url from mongo before
+[INFO] 2017-12-07 15:21:39,496 get url from oracle after count=0
+[INFO] 2017-12-07 15:22:39,510 get url from mongo before
+[INFO] 2017-12-07 15:22:40,013 get url from oracle after count=0
+[INFO] 2017-12-07 15:23:40,026 get url from mongo before
+[INFO] 2017-12-07 15:23:40,334 get url from oracle after count=0
+[INFO] 2017-12-07 15:24:40,352 get url from mongo before
+[INFO] 2017-12-07 15:24:40,625 get url from oracle after count=0
+[INFO] 2017-12-07 15:25:40,641 get url from mongo before
+[INFO] 2017-12-07 15:25:41,000 get url from oracle after count=0
+[INFO] 2017-12-07 15:26:41,016 get url from mongo before
+[INFO] 2017-12-07 15:26:41,312 get url from oracle after count=0
+[INFO] 2017-12-07 15:27:41,331 get url from mongo before
+[INFO] 2017-12-07 15:27:41,566 get url from oracle after count=0
+[INFO] 2017-12-07 15:28:41,582 get url from mongo before
+[INFO] 2017-12-07 15:28:41,805 get url from oracle after count=0
+[INFO] 2017-12-07 15:29:41,821 get url from mongo before
+[INFO] 2017-12-07 15:29:42,280 get url from oracle after count=0
+[INFO] 2017-12-07 15:30:42,298 get url from mongo before
+[INFO] 2017-12-07 15:30:42,588 get url from oracle after count=0
+[INFO] 2017-12-07 15:31:42,601 get url from mongo before
+[INFO] 2017-12-07 15:31:42,855 get url from oracle after count=0
+[INFO] 2017-12-07 15:32:42,904 get url from mongo before
+[INFO] 2017-12-07 15:32:43,132 get url from oracle after count=0
+[INFO] 2017-12-07 15:33:43,155 get url from mongo before
+[INFO] 2017-12-07 15:33:43,506 get url from oracle after count=0
+[INFO] 2017-12-07 15:34:43,525 get url from mongo before
+[INFO] 2017-12-07 15:34:43,782 get url from oracle after count=0
+[INFO] 2017-12-07 15:35:43,795 get url from mongo before
+[INFO] 2017-12-07 15:35:44,145 get url from oracle after count=0
+[INFO] 2017-12-07 15:36:44,168 get url from mongo before
+[INFO] 2017-12-07 15:36:44,454 get url from oracle after count=0
+[INFO] 2017-12-07 15:37:44,471 get url from mongo before
+[INFO] 2017-12-07 15:37:44,763 get url from oracle after count=0
+[INFO] 2017-12-07 15:38:44,773 get url from mongo before
+[INFO] 2017-12-07 15:38:45,039 get url from oracle after count=0
+[INFO] 2017-12-07 15:39:45,055 get url from mongo before
+[INFO] 2017-12-07 15:39:45,318 get url from oracle after count=0
+[INFO] 2017-12-07 15:40:45,336 get url from mongo before
+[INFO] 2017-12-07 15:40:45,579 get url from oracle after count=0
+[INFO] 2017-12-07 15:41:45,604 get url from mongo before
+[INFO] 2017-12-07 15:41:45,887 get url from oracle after count=0
+[INFO] 2017-12-07 15:42:46,000 get url from mongo before
+[INFO] 2017-12-07 15:42:46,236 get url from oracle after count=0
+[INFO] 2017-12-07 15:43:46,257 get url from mongo before
+[INFO] 2017-12-07 15:43:46,500 get url from oracle after count=0
+[INFO] 2017-12-07 15:44:46,517 get url from mongo before
+[INFO] 2017-12-07 15:44:46,674 get url from oracle after count=0
+[INFO] 2017-12-07 15:45:46,688 get url from mongo before
+[INFO] 2017-12-07 15:45:46,977 get url from oracle after count=0
+[INFO] 2017-12-07 15:46:46,990 get url from mongo before
+[INFO] 2017-12-07 15:46:47,250 get url from oracle after count=0
+[INFO] 2017-12-07 15:47:47,269 get url from mongo before
+[INFO] 2017-12-07 15:47:47,509 get url from oracle after count=0
+[INFO] 2017-12-07 15:48:47,526 get url from mongo before
+[INFO] 2017-12-07 15:48:47,746 get url from oracle after count=0
+[INFO] 2017-12-07 15:49:47,763 get url from mongo before
+[INFO] 2017-12-07 15:49:47,999 get url from oracle after count=0
+[INFO] 2017-12-07 15:50:48,019 get url from mongo before
+[INFO] 2017-12-07 15:50:48,265 get url from oracle after count=0
+[INFO] 2017-12-07 15:51:48,280 get url from mongo before
+[INFO] 2017-12-07 15:51:48,517 get url from oracle after count=0
+[INFO] 2017-12-07 15:52:48,532 get url from mongo before
+[INFO] 2017-12-07 15:52:48,767 get url from oracle after count=0
+[INFO] 2017-12-07 15:57:18,598 get url from mongo before
+[INFO] 2017-12-07 15:57:18,963 get url from oracle after count=0
+[INFO] 2017-12-07 15:58:18,979 get url from mongo before
+[INFO] 2017-12-07 15:58:19,184 get url from oracle after count=0
+[INFO] 2017-12-07 15:59:19,206 get url from mongo before
+[INFO] 2017-12-07 15:59:19,480 get url from oracle after count=0
+[INFO] 2017-12-07 16:00:19,496 get url from mongo before
+[INFO] 2017-12-07 16:00:19,647 get url from oracle after count=1
+[INFO] 2017-12-07 16:00:19,665 before url=http://youluren.taobao.com
+[INFO] 2017-12-07 16:00:19,694 Starting new HTTP connection (1): youluren.taobao.com
+[INFO] 2017-12-07 16:00:19,808 Starting new HTTPS connection (1): youluren.taobao.com
+[INFO] 2017-12-07 16:00:20,184 open homepage with selenium url=http://youluren.taobao.com memberid=144839259 first_index=0 second_index=-1
+[INFO] 2017-12-07 16:00:20,197 insert new website url=http://youluren.taobao.com memberid=144839259
+[INFO] 2017-12-07 16:00:20,216 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-07 16:00:20,226 get url from mongo before
+[INFO] 2017-12-07 16:00:20,351 get url from oracle after count=1
+[INFO] 2017-12-07 16:00:20,368 before url=http://youluren.taobao.com
+[INFO] 2017-12-07 16:00:20,392 Starting new HTTP connection (1): youluren.taobao.com
+[INFO] 2017-12-07 16:00:20,471 Starting new HTTPS connection (1): youluren.taobao.com
+[INFO] 2017-12-07 16:00:21,368 insert new website url=http://youluren.taobao.com memberid=144839259
+[INFO] 2017-12-07 16:00:21,381 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-07 16:00:21,394 get url from mongo before
+[INFO] 2017-12-07 16:00:21,512 get url from oracle after count=1
+[WARNING] 2017-12-07 16:00:23,339 browser quit error:[Error 5] 
+[INFO] 2017-12-07 16:00:32,335 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.25:tj_user_5_14 60.28.110.80
+requests: support
+[INFO] 2017-12-07 16:02:01,750 getpagelist one category complete. [master] url=http://youluren.taobao.com memberid=144839259 catid=1186887770 catname=智能穿戴 count=39
+[INFO] 2017-12-07 16:02:24,338 getpagelist one category complete. [slaves] url=http://youluren.taobao.com memberid=144839259 catid=1186887770 catname=智能手表手机 catpid=1186887770 catpname=智能穿戴 count=6
+[INFO] 2017-12-07 16:02:44,253 getpagelist one category complete. [slaves] url=http://youluren.taobao.com memberid=144839259 catid=1186887770 catname=蓝牙手表 catpid=1186887770 catpname=智能穿戴 count=6
+[INFO] 2017-12-07 16:03:07,211 getpagelist one category complete. [slaves] url=http://youluren.taobao.com memberid=144839259 catid=1186887770 catname=智能手环 catpid=1186887770 catpname=智能穿戴 count=13
+[INFO] 2017-12-07 16:03:37,983 getpagelist one category complete. [slaves] url=http://youluren.taobao.com memberid=144839259 catid=1186887770 catname=儿童定位手表 catpid=1186887770 catpname=智能穿戴 count=14
+[INFO] 2017-12-07 16:04:30,361 getpagelist one category complete. [master] url=http://youluren.taobao.com memberid=144839259 catid=1188049661 catname=ipad蓝牙键盘 count=14
+[INFO] 2017-12-07 16:04:30,789 insert records succeed url=http://youluren.taobao.com memberid=144839259 category_count=0 page_count=92
+[INFO] 2017-12-07 16:04:30,838 open homepage with selenium url=http://youluren.taobao.com memberid=144839259 first_index=0 second_index=-1
+[WARNING] 2017-12-07 16:04:33,933 browser quit error:[Error 5] 
+[INFO] 2017-12-07 16:04:42,122 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.23:tj_user_3_37 60.28.11.231
+requests: support
+[ERROR] 2017-12-07 16:05:00,788 insert records error len(records)=0 memberid=144839259
+[INFO] 2017-12-07 16:05:01,032 insert records succeed url=http://youluren.taobao.com memberid=144839259 category_count=0 page_count=0
+[INFO] 2017-12-07 16:05:21,545 before url=http://youluren.taobao.com
+[INFO] 2017-12-07 16:05:21,572 Starting new HTTP connection (1): youluren.taobao.com
+[INFO] 2017-12-07 16:05:21,775 Starting new HTTPS connection (1): youluren.taobao.com
+[INFO] 2017-12-07 16:05:22,134 open homepage with selenium url=http://youluren.taobao.com memberid=144839259 first_index=0 second_index=-1
+[INFO] 2017-12-07 16:05:22,150 insert new website url=http://youluren.taobao.com memberid=144839259
+[INFO] 2017-12-07 16:05:22,170 read oracle complete! taobao_count=1 tmall_count=0 other_count=0 running_count=0
+[INFO] 2017-12-07 16:05:22,183 get url from mongo before
+[INFO] 2017-12-07 16:05:22,453 get url from oracle after count=0
+[WARNING] 2017-12-07 16:05:25,765 browser quit error:[Error 5] 
+[INFO] 2017-12-07 16:05:32,815 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_19 125.39.72.84
+requests: support
+[INFO] 2017-12-07 16:06:22,470 get url from mongo before
+[ERROR] 2017-12-07 16:06:22,680 something error! need login
+[INFO] 2017-12-07 16:06:22,765 get url from oracle after count=0
+[INFO] 2017-12-07 16:07:22,782 get url from mongo before
+[INFO] 2017-12-07 16:07:23,105 get url from oracle after count=0
+[INFO] 2017-12-07 16:08:23,119 get url from mongo before
+[INFO] 2017-12-07 16:08:23,423 get url from oracle after count=0
+[INFO] 2017-12-07 16:09:23,436 get url from mongo before
+[INFO] 2017-12-07 16:09:23,709 get url from oracle after count=0
+[INFO] 2017-12-07 16:10:23,726 get url from mongo before
+[INFO] 2017-12-07 16:10:23,956 get url from oracle after count=0
+[INFO] 2017-12-07 16:11:23,971 get url from mongo before
+[INFO] 2017-12-07 16:11:24,198 get url from oracle after count=0
+[INFO] 2017-12-07 16:12:24,220 get url from mongo before
+[INFO] 2017-12-07 16:12:24,427 get url from oracle after count=0
+[INFO] 2017-12-07 16:13:24,441 get url from mongo before
+[INFO] 2017-12-07 16:13:24,667 get url from oracle after count=0
+[INFO] 2017-12-07 16:14:24,683 get url from mongo before
+[INFO] 2017-12-07 16:14:24,960 get url from oracle after count=0
+[INFO] 2017-12-07 16:15:24,976 get url from mongo before
+[INFO] 2017-12-07 16:15:25,187 get url from oracle after count=0
+[INFO] 2017-12-07 16:16:22,700 open homepage with selenium url=http://youluren.taobao.com memberid=144839259 first_index=1 second_index=-1
+[INFO] 2017-12-07 16:16:25,198 get url from mongo before
+[INFO] 2017-12-07 16:16:25,436 get url from oracle after count=0
+[WARNING] 2017-12-07 16:16:26,594 browser quit error:[Error 5] 
+[INFO] 2017-12-07 16:16:35,808 get chrome broswer
+UA:Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+PROXY: 10.10.10.22:tj_user_2_12 125.39.72.77
+requests: support
+[INFO] 2017-12-07 16:17:25,450 get url from mongo before
+[INFO] 2017-12-07 16:17:25,562 get url from oracle after count=0
+[INFO] 2017-12-07 16:17:52,048 getpagelist one category complete. [master] url=http://youluren.taobao.com memberid=144839259 catid=1186887770 catname=智能穿戴 count=39
+[INFO] 2017-12-07 16:18:10,763 getpagelist one category complete. [slaves] url=http://youluren.taobao.com memberid=144839259 catid=1186887770 catname=智能手表手机 catpid=1186887770 catpname=智能穿戴 count=6
+[INFO] 2017-12-07 16:18:25,582 get url from mongo before
+[INFO] 2017-12-07 16:18:25,835 get url from oracle after count=0
+[INFO] 2017-12-07 16:18:33,200 getpagelist one category complete. [slaves] url=http://youluren.taobao.com memberid=144839259 catid=1186887770 catname=蓝牙手表 catpid=1186887770 catpname=智能穿戴 count=6
+[INFO] 2017-12-07 16:19:01,609 getpagelist one category complete. [slaves] url=http://youluren.taobao.com memberid=144839259 catid=1186887770 catname=智能手环 catpid=1186887770 catpname=智能穿戴 count=13
+[INFO] 2017-12-07 16:19:25,898 get url from mongo before
+[INFO] 2017-12-07 16:19:26,144 get url from oracle after count=0
+[INFO] 2017-12-07 16:19:27,414 getpagelist one category complete. [slaves] url=http://youluren.taobao.com memberid=144839259 catid=1186887770 catname=儿童定位手表 catpid=1186887770 catpname=智能穿戴 count=14
+[INFO] 2017-12-07 16:20:15,786 getpagelist one category complete. [master] url=http://youluren.taobao.com memberid=144839259 catid=1188049661 catname=ipad蓝牙键盘 count=14
+[INFO] 2017-12-07 16:20:16,237 insert records succeed url=http://youluren.taobao.com memberid=144839259 category_count=0 page_count=92
+[INFO] 2017-12-07 16:20:26,161 get url from mongo before
+[INFO] 2017-12-07 16:20:26,398 get url from oracle after count=0
+[INFO] 2017-12-07 16:21:26,421 get url from mongo before
+[INFO] 2017-12-07 16:21:26,661 get url from oracle after count=0
+[INFO] 2017-12-07 16:22:26,680 get url from mongo before
+[INFO] 2017-12-07 16:22:26,986 get url from oracle after count=0
+[INFO] 2017-12-07 16:23:27,006 get url from mongo before
+[INFO] 2017-12-07 16:23:27,303 get url from oracle after count=0
+[INFO] 2017-12-07 16:24:27,319 get url from mongo before
+[INFO] 2017-12-07 16:24:27,621 get url from oracle after count=0
+[INFO] 2017-12-07 16:25:27,642 get url from mongo before
+[INFO] 2017-12-07 16:25:27,875 get url from oracle after count=0
+[INFO] 2017-12-07 16:26:27,887 get url from mongo before
+[INFO] 2017-12-07 16:26:28,237 get url from oracle after count=0
+[INFO] 2017-12-07 16:27:28,259 get url from mongo before
+[INFO] 2017-12-07 16:27:28,532 get url from oracle after count=0
+[INFO] 2017-12-07 16:28:28,553 get url from mongo before
+[INFO] 2017-12-07 16:28:28,786 get url from oracle after count=0
+[INFO] 2017-12-07 16:29:28,802 get url from mongo before
+[INFO] 2017-12-07 16:29:29,101 get url from oracle after count=0
+[INFO] 2017-12-07 16:30:29,114 get url from mongo before
+[INFO] 2017-12-07 16:30:29,328 get url from oracle after count=0
+[INFO] 2017-12-07 16:31:29,342 get url from mongo before
+[INFO] 2017-12-07 16:31:29,569 get url from oracle after count=0
+[INFO] 2017-12-07 16:32:29,585 get url from mongo before
+[INFO] 2017-12-07 16:32:29,812 get url from oracle after count=0
+[INFO] 2017-12-07 16:33:29,823 get url from mongo before
+[INFO] 2017-12-07 16:33:30,073 get url from oracle after count=0
+[INFO] 2017-12-07 16:34:30,088 get url from mongo before
+[INFO] 2017-12-07 16:34:30,305 get url from oracle after count=0
+[INFO] 2017-12-07 16:35:30,325 get url from mongo before
+[INFO] 2017-12-07 16:35:30,528 get url from oracle after count=0
+[INFO] 2017-12-07 16:36:30,552 get url from mongo before
+[INFO] 2017-12-07 16:36:30,836 get url from oracle after count=0
+[INFO] 2017-12-07 16:37:30,861 get url from mongo before
+[INFO] 2017-12-07 16:37:31,096 get url from oracle after count=0
+[INFO] 2017-12-07 16:38:31,109 get url from mongo before
+[INFO] 2017-12-07 16:38:31,388 get url from oracle after count=0
+[INFO] 2017-12-07 16:39:31,408 get url from mongo before
+[INFO] 2017-12-07 16:39:31,696 get url from oracle after count=0
+[INFO] 2017-12-07 16:40:31,713 get url from mongo before
+[INFO] 2017-12-07 16:40:31,963 get url from oracle after count=0
+[INFO] 2017-12-07 16:41:32,084 get url from mongo before
+[INFO] 2017-12-07 16:41:32,325 get url from oracle after count=0
+[INFO] 2017-12-07 16:42:32,339 get url from mongo before
+[INFO] 2017-12-07 16:42:32,611 get url from oracle after count=0
+[INFO] 2017-12-07 16:43:32,628 get url from mongo before
+[INFO] 2017-12-07 16:43:32,914 get url from oracle after count=0
+[INFO] 2017-12-07 16:44:32,936 get url from mongo before
+[INFO] 2017-12-07 16:44:33,214 get url from oracle after count=0
+[INFO] 2017-12-07 16:45:33,234 get url from mongo before
+[INFO] 2017-12-07 16:45:33,486 get url from oracle after count=0
+[INFO] 2017-12-07 16:46:33,493 get url from mongo before
+[INFO] 2017-12-07 16:46:33,775 get url from oracle after count=0
+[INFO] 2017-12-07 16:47:33,792 get url from mongo before
+[INFO] 2017-12-07 16:47:34,099 get url from oracle after count=0
+[INFO] 2017-12-07 16:48:34,118 get url from mongo before
+[INFO] 2017-12-07 16:48:34,710 get url from oracle after count=0
+[INFO] 2017-12-07 16:49:34,733 get url from mongo before
+[INFO] 2017-12-07 16:49:34,970 get url from oracle after count=0
+[INFO] 2017-12-07 16:50:34,989 get url from mongo before
+[INFO] 2017-12-07 16:50:35,207 get url from oracle after count=0
+[INFO] 2017-12-07 16:51:35,224 get url from mongo before
+[INFO] 2017-12-07 16:51:35,407 get url from oracle after count=0
+[INFO] 2017-12-07 16:52:35,428 get url from mongo before
+[INFO] 2017-12-07 16:52:35,691 get url from oracle after count=0
+[INFO] 2017-12-07 16:53:35,742 get url from mongo before
+[INFO] 2017-12-07 16:53:35,970 get url from oracle after count=0
+[INFO] 2017-12-07 16:54:35,983 get url from mongo before
+[INFO] 2017-12-07 16:54:36,216 get url from oracle after count=0
+[INFO] 2017-12-07 16:55:36,230 get url from mongo before
+[INFO] 2017-12-07 16:55:36,546 get url from oracle after count=0
+[INFO] 2017-12-07 16:59:47,927 get url from mongo before
+[INFO] 2017-12-07 16:59:48,164 get url from oracle after count=0
+[INFO] 2017-12-07 17:00:48,183 get url from mongo before
+[INFO] 2017-12-07 17:00:48,454 get url from oracle after count=0
+[INFO] 2017-12-07 17:01:48,467 get url from mongo before
+[INFO] 2017-12-07 17:01:48,750 get url from oracle after count=0
+[INFO] 2017-12-07 17:02:48,773 get url from mongo before
+[INFO] 2017-12-07 17:02:49,048 get url from oracle after count=0
+[INFO] 2017-12-07 17:03:49,065 get url from mongo before
+[INFO] 2017-12-07 17:03:49,319 get url from oracle after count=0
+[INFO] 2017-12-07 17:04:49,332 get url from mongo before
+[INFO] 2017-12-07 17:04:49,628 get url from oracle after count=0
+[INFO] 2017-12-07 17:05:49,648 get url from mongo before
+[INFO] 2017-12-07 17:05:49,940 get url from oracle after count=0
+[INFO] 2017-12-07 17:06:49,960 get url from mongo before
+[INFO] 2017-12-07 17:06:50,280 get url from oracle after count=0
+[INFO] 2017-12-07 17:07:50,296 get url from mongo before
+[INFO] 2017-12-07 17:07:50,568 get url from oracle after count=0
+[INFO] 2017-12-07 17:08:50,594 get url from mongo before
+[INFO] 2017-12-07 17:08:50,903 get url from oracle after count=0
+[INFO] 2017-12-07 17:09:50,930 get url from mongo before
+[INFO] 2017-12-07 17:09:51,171 get url from oracle after count=0
+[INFO] 2017-12-07 17:10:51,188 get url from mongo before
+[INFO] 2017-12-07 17:10:51,410 get url from oracle after count=0
+[INFO] 2017-12-07 17:11:51,430 get url from mongo before
+[INFO] 2017-12-07 17:11:51,812 get url from oracle after count=0
+[INFO] 2017-12-07 17:12:51,835 get url from mongo before
+[INFO] 2017-12-07 17:12:52,082 get url from oracle after count=0
+[INFO] 2017-12-07 17:13:52,154 get url from mongo before
+[INFO] 2017-12-07 17:13:52,398 get url from oracle after count=0
+[INFO] 2017-12-07 17:14:52,410 get url from mongo before
+[INFO] 2017-12-07 17:14:52,698 get url from oracle after count=0
+[INFO] 2017-12-07 17:15:52,711 get url from mongo before
+[INFO] 2017-12-07 17:15:53,036 get url from oracle after count=0
+[INFO] 2017-12-07 17:16:53,055 get url from mongo before
+[INFO] 2017-12-07 17:16:53,299 get url from oracle after count=0
+[INFO] 2017-12-07 17:17:53,313 get url from mongo before
+[INFO] 2017-12-07 17:17:53,584 get url from oracle after count=0
+[INFO] 2017-12-07 17:18:53,599 get url from mongo before
+[INFO] 2017-12-07 17:18:53,821 get url from oracle after count=0
+[INFO] 2017-12-07 17:19:53,842 get url from mongo before
+[INFO] 2017-12-07 17:19:54,135 get url from oracle after count=0
+[INFO] 2017-12-07 17:20:54,188 get url from mongo before
+[INFO] 2017-12-07 17:20:54,434 get url from oracle after count=0
+[INFO] 2017-12-07 17:21:54,456 get url from mongo before
+[INFO] 2017-12-07 17:21:55,105 get url from oracle after count=0
+[INFO] 2017-12-07 17:22:55,127 get url from mongo before
+[INFO] 2017-12-07 17:22:55,345 get url from oracle after count=0
+[INFO] 2017-12-07 17:23:55,361 get url from mongo before
+[INFO] 2017-12-07 17:23:55,627 get url from oracle after count=0
+[INFO] 2017-12-07 17:24:55,648 get url from mongo before
+[INFO] 2017-12-07 17:24:55,907 get url from oracle after count=0
+[INFO] 2017-12-07 17:25:55,924 get url from mongo before
+[INFO] 2017-12-07 17:25:56,190 get url from oracle after count=0
+[INFO] 2017-12-07 17:26:56,213 get url from mongo before
+[INFO] 2017-12-07 17:26:56,473 get url from oracle after count=0
+[INFO] 2017-12-07 17:27:56,506 get url from mongo before
+[INFO] 2017-12-07 17:27:56,813 get url from oracle after count=0
+[INFO] 2017-12-07 17:28:56,828 get url from mongo before
+[INFO] 2017-12-07 17:28:57,108 get url from oracle after count=0
+[INFO] 2017-12-07 17:29:57,194 get url from mongo before
+[INFO] 2017-12-07 17:29:57,492 get url from oracle after count=0
+[INFO] 2017-12-07 17:30:57,513 get url from mongo before
+[INFO] 2017-12-07 17:30:57,793 get url from oracle after count=0
+[INFO] 2017-12-07 17:31:57,811 get url from mongo before
+[INFO] 2017-12-07 17:31:58,032 get url from oracle after count=0
+[INFO] 2017-12-07 17:32:58,061 get url from mongo before
+[INFO] 2017-12-07 17:32:58,296 get url from oracle after count=0
+[INFO] 2017-12-07 17:33:58,313 get url from mongo before
+[INFO] 2017-12-07 17:33:58,572 get url from oracle after count=0
+[INFO] 2017-12-07 17:34:58,586 get url from mongo before
+[INFO] 2017-12-07 17:34:59,118 get url from oracle after count=0
+[INFO] 2017-12-07 17:35:59,183 get url from mongo before
+[INFO] 2017-12-07 17:35:59,453 get url from oracle after count=0
+[INFO] 2017-12-07 17:36:59,486 get url from mongo before
+[INFO] 2017-12-07 17:36:59,713 get url from oracle after count=0
+[INFO] 2017-12-07 17:37:59,740 get url from mongo before
+[INFO] 2017-12-07 17:38:00,052 get url from oracle after count=0
+[INFO] 2017-12-07 17:39:00,073 get url from mongo before
+[INFO] 2017-12-07 17:39:00,555 get url from oracle after count=0
+[INFO] 2017-12-07 17:40:00,569 get url from mongo before
+[INFO] 2017-12-07 17:40:01,234 get url from oracle after count=0
+[INFO] 2017-12-07 17:41:01,253 get url from mongo before
+[INFO] 2017-12-07 17:41:01,506 get url from oracle after count=0
+[INFO] 2017-12-07 17:42:01,526 get url from mongo before
+[INFO] 2017-12-07 17:42:01,812 get url from oracle after count=0
+[INFO] 2017-12-07 17:43:01,836 get url from mongo before
+[INFO] 2017-12-07 17:43:02,115 get url from oracle after count=0
+[INFO] 2017-12-07 17:44:02,128 get url from mongo before
+[INFO] 2017-12-07 17:44:02,403 get url from oracle after count=0
+[INFO] 2017-12-07 17:45:02,420 get url from mongo before
+[INFO] 2017-12-07 17:45:02,638 get url from oracle after count=0
+[INFO] 2017-12-07 17:46:02,655 get url from mongo before
+[INFO] 2017-12-07 17:46:02,861 get url from oracle after count=0
+[INFO] 2017-12-07 17:47:02,878 get url from mongo before
+[INFO] 2017-12-07 17:47:03,148 get url from oracle after count=0
+[INFO] 2017-12-07 17:48:03,171 get url from mongo before
+[INFO] 2017-12-07 17:48:03,431 get url from oracle after count=0
+[INFO] 2017-12-07 17:49:03,448 get url from mongo before
+[INFO] 2017-12-07 17:49:03,694 get url from oracle after count=0
+[INFO] 2017-12-07 17:50:03,710 get url from mongo before
+[INFO] 2017-12-07 17:50:03,963 get url from oracle after count=0
+[INFO] 2017-12-07 17:51:03,980 get url from mongo before
+[INFO] 2017-12-07 17:51:04,206 get url from oracle after count=0
+[INFO] 2017-12-07 17:52:04,219 get url from mongo before
+[INFO] 2017-12-07 17:52:04,457 get url from oracle after count=0
+[INFO] 2017-12-07 17:53:04,474 get url from mongo before
+[INFO] 2017-12-07 17:53:04,697 get url from oracle after count=0
+[INFO] 2017-12-07 17:54:04,719 get url from mongo before
+[INFO] 2017-12-07 17:54:05,339 get url from oracle after count=0
+[INFO] 2017-12-07 17:55:05,358 get url from mongo before
+[INFO] 2017-12-07 17:55:05,648 get url from oracle after count=0
+[INFO] 2017-12-07 17:56:05,665 get url from mongo before
+[INFO] 2017-12-07 17:56:05,903 get url from oracle after count=0
+[INFO] 2017-12-07 17:57:05,917 get url from mongo before
+[INFO] 2017-12-07 17:57:06,206 get url from oracle after count=0
+[INFO] 2017-12-07 17:58:06,283 get url from mongo before
+[INFO] 2017-12-07 17:58:06,588 get url from oracle after count=0
+[INFO] 2017-12-07 17:59:06,608 get url from mongo before
+[INFO] 2017-12-07 17:59:06,838 get url from oracle after count=0
+[INFO] 2017-12-07 18:03:29,838 get url from mongo before
+[INFO] 2017-12-07 18:03:30,127 get url from oracle after count=0
+[INFO] 2017-12-07 18:04:30,140 get url from mongo before
+[INFO] 2017-12-07 18:04:30,420 get url from oracle after count=0
+[INFO] 2017-12-07 18:05:30,434 get url from mongo before
+[INFO] 2017-12-07 18:05:30,773 get url from oracle after count=0
+[INFO] 2017-12-07 18:06:30,782 get url from mongo before
+[INFO] 2017-12-07 18:06:31,039 get url from oracle after count=0
+[INFO] 2017-12-07 18:07:31,049 get url from mongo before
+[INFO] 2017-12-07 18:07:31,282 get url from oracle after count=0
+[INFO] 2017-12-07 18:08:31,302 get url from mongo before
+[INFO] 2017-12-07 18:08:31,539 get url from oracle after count=0
+[INFO] 2017-12-07 18:09:31,559 get url from mongo before
+[INFO] 2017-12-07 18:09:31,783 get url from oracle after count=0
+[INFO] 2017-12-07 18:10:31,802 get url from mongo before
+[INFO] 2017-12-07 18:10:32,048 get url from oracle after count=0
+[INFO] 2017-12-07 18:11:32,076 get url from mongo before
+[INFO] 2017-12-07 18:11:32,359 get url from oracle after count=0
+[INFO] 2017-12-07 18:12:32,375 get url from mongo before
+[INFO] 2017-12-07 18:12:32,492 get url from oracle after count=0
+[INFO] 2017-12-07 18:13:32,503 get url from mongo before
+[INFO] 2017-12-07 18:13:32,743 get url from oracle after count=0
+[INFO] 2017-12-07 18:14:32,756 get url from mongo before
+[INFO] 2017-12-07 18:14:33,180 get url from oracle after count=0
+[INFO] 2017-12-07 18:15:33,193 get url from mongo before
+[INFO] 2017-12-07 18:15:33,486 get url from oracle after count=0
+[INFO] 2017-12-07 18:16:33,505 get url from mongo before
+[INFO] 2017-12-07 18:16:33,726 get url from oracle after count=0
+[INFO] 2017-12-07 18:17:33,755 get url from mongo before
+[INFO] 2017-12-07 18:17:34,007 get url from oracle after count=0
+[INFO] 2017-12-07 18:18:34,030 get url from mongo before
+[INFO] 2017-12-07 18:18:34,282 get url from oracle after count=0
+[INFO] 2017-12-07 18:19:34,305 get url from mongo before
+[INFO] 2017-12-07 18:19:34,582 get url from oracle after count=0
+[INFO] 2017-12-07 18:20:34,598 get url from mongo before
+[INFO] 2017-12-07 18:20:34,736 get url from oracle after count=0
+[INFO] 2017-12-07 18:21:34,749 get url from mongo before
+[INFO] 2017-12-07 18:21:35,046 get url from oracle after count=0
+[INFO] 2017-12-07 18:22:35,068 get url from mongo before
+[INFO] 2017-12-07 18:22:35,348 get url from oracle after count=0
+[INFO] 2017-12-07 18:23:35,371 get url from mongo before
+[INFO] 2017-12-07 18:23:35,660 get url from oracle after count=0
+[INFO] 2017-12-07 18:24:35,676 get url from mongo before
+[INFO] 2017-12-07 18:24:35,898 get url from oracle after count=0
+[INFO] 2017-12-07 18:25:35,914 get url from mongo before
+[INFO] 2017-12-07 18:25:36,548 get url from oracle after count=0
+[INFO] 2017-12-07 18:26:36,561 get url from mongo before
+[INFO] 2017-12-07 18:26:36,780 get url from oracle after count=0
+[INFO] 2017-12-07 18:27:36,799 get url from mongo before
+[INFO] 2017-12-07 18:27:37,105 get url from oracle after count=0
+[INFO] 2017-12-07 18:28:37,121 get url from mongo before
+[INFO] 2017-12-07 18:28:37,440 get url from oracle after count=0
+[INFO] 2017-12-07 18:29:37,443 get url from mongo before
+[INFO] 2017-12-07 18:29:37,713 get url from oracle after count=0
+[INFO] 2017-12-07 18:30:37,730 get url from mongo before
+[INFO] 2017-12-07 18:30:37,970 get url from oracle after count=0
+[INFO] 2017-12-07 18:31:37,996 get url from mongo before
+[INFO] 2017-12-07 18:31:38,279 get url from oracle after count=0
+[INFO] 2017-12-07 18:32:38,295 get url from mongo before
+[INFO] 2017-12-07 18:32:38,535 get url from oracle after count=0
+[INFO] 2017-12-07 18:33:38,562 get url from mongo before
+[INFO] 2017-12-07 18:33:38,832 get url from oracle after count=0
+[INFO] 2017-12-07 18:34:38,861 get url from mongo before
+[INFO] 2017-12-07 18:34:39,098 get url from oracle after count=0
+[INFO] 2017-12-07 18:35:39,121 get url from mongo before
+[INFO] 2017-12-07 18:35:39,404 get url from oracle after count=0
+[INFO] 2017-12-07 18:36:39,421 get url from mongo before
+[INFO] 2017-12-07 18:36:39,710 get url from oracle after count=0
+[INFO] 2017-12-07 18:37:39,739 get url from mongo before
+[INFO] 2017-12-07 18:37:39,990 get url from oracle after count=0
+[INFO] 2017-12-07 18:38:40,013 get url from mongo before
+[INFO] 2017-12-07 18:38:40,311 get url from oracle after count=0
+[INFO] 2017-12-07 18:39:40,325 get url from mongo before
+[INFO] 2017-12-07 18:39:40,586 get url from oracle after count=0
+[INFO] 2017-12-07 18:40:40,595 get url from mongo before
+[INFO] 2017-12-07 18:40:40,839 get url from oracle after count=0
+[INFO] 2017-12-07 18:41:40,854 get url from mongo before
+[INFO] 2017-12-07 18:41:41,085 get url from oracle after count=0
+[INFO] 2017-12-07 18:42:41,096 get url from mongo before
+[INFO] 2017-12-07 18:42:41,338 get url from oracle after count=0
+[INFO] 2017-12-07 18:43:41,351 get url from mongo before
+[INFO] 2017-12-07 18:43:41,581 get url from oracle after count=0
+[INFO] 2017-12-07 18:44:41,599 get url from mongo before
+[INFO] 2017-12-07 18:44:41,825 get url from oracle after count=0
+[INFO] 2017-12-07 18:45:41,845 get url from mongo before
+[INFO] 2017-12-07 18:45:42,075 get url from oracle after count=0
+[INFO] 2017-12-07 18:46:42,112 get url from mongo before
+[INFO] 2017-12-07 18:46:42,375 get url from oracle after count=0
+[INFO] 2017-12-07 18:47:42,394 get url from mongo before
+[INFO] 2017-12-07 18:47:42,650 get url from oracle after count=0
+[INFO] 2017-12-07 18:48:42,664 get url from mongo before
+[INFO] 2017-12-07 18:48:42,979 get url from oracle after count=0
+[INFO] 2017-12-07 18:49:42,996 get url from mongo before
+[INFO] 2017-12-07 18:49:43,207 get url from oracle after count=0
+[INFO] 2017-12-07 18:50:43,221 get url from mongo before
+[INFO] 2017-12-07 18:50:43,509 get url from oracle after count=0
+[INFO] 2017-12-07 18:51:43,525 get url from mongo before
+[INFO] 2017-12-07 18:51:43,773 get url from oracle after count=0
+[INFO] 2017-12-07 18:52:43,792 get url from mongo before
+[INFO] 2017-12-07 18:52:44,045 get url from oracle after count=0
+[INFO] 2017-12-07 18:53:44,062 get url from mongo before
+[INFO] 2017-12-07 18:53:44,354 get url from oracle after count=0
+[INFO] 2017-12-07 18:54:44,403 get url from mongo before
+[INFO] 2017-12-07 18:54:44,677 get url from oracle after count=0
+[INFO] 2017-12-07 18:55:44,697 get url from mongo before
+[INFO] 2017-12-07 18:55:45,019 get url from oracle after count=0
+[INFO] 2017-12-07 18:56:45,036 get url from mongo before
+[INFO] 2017-12-07 18:56:45,265 get url from oracle after count=0
+[INFO] 2017-12-07 18:57:45,289 get url from mongo before
+[INFO] 2017-12-07 18:57:45,566 get url from oracle after count=0
+[INFO] 2017-12-07 18:58:45,584 get url from mongo before
+[INFO] 2017-12-07 18:58:45,832 get url from oracle after count=0
+[INFO] 2017-12-07 18:59:45,855 get url from mongo before
+[INFO] 2017-12-07 18:59:46,081 get url from oracle after count=0
+[INFO] 2017-12-07 19:00:46,145 get url from mongo before
+[INFO] 2017-12-07 19:00:46,381 get url from oracle after count=0
+[INFO] 2017-12-07 19:01:46,394 get url from mongo before
+[INFO] 2017-12-07 19:01:46,641 get url from oracle after count=0
+[INFO] 2017-12-07 19:02:46,657 get url from mongo before
+[INFO] 2017-12-07 19:02:46,977 get url from oracle after count=0
+[INFO] 2017-12-07 19:07:13,832 get url from mongo before
+[INFO] 2017-12-07 19:07:14,085 get url from oracle after count=0
+[INFO] 2017-12-07 19:08:14,101 get url from mongo before
+[INFO] 2017-12-07 19:08:14,342 get url from oracle after count=0
+[INFO] 2017-12-07 19:09:14,357 get url from mongo before
+[INFO] 2017-12-07 19:09:14,604 get url from oracle after count=0
+[INFO] 2017-12-07 19:10:14,621 get url from mongo before
+[INFO] 2017-12-07 19:10:14,937 get url from oracle after count=0
+[INFO] 2017-12-07 19:11:14,961 get url from mongo before
+[INFO] 2017-12-07 19:11:15,352 get url from oracle after count=0
+[INFO] 2017-12-07 19:12:15,367 get url from mongo before
+[INFO] 2017-12-07 19:12:15,637 get url from oracle after count=0
+[INFO] 2017-12-07 19:13:15,655 get url from mongo before
+[INFO] 2017-12-07 19:13:15,927 get url from oracle after count=0
+[INFO] 2017-12-07 19:14:16,042 get url from mongo before
+[INFO] 2017-12-07 19:14:16,292 get url from oracle after count=0
+[INFO] 2017-12-07 19:15:16,312 get url from mongo before
+[INFO] 2017-12-07 19:15:16,578 get url from oracle after count=0
+[INFO] 2017-12-07 19:16:16,734 get url from mongo before
+[INFO] 2017-12-07 19:16:16,971 get url from oracle after count=0
+[INFO] 2017-12-07 19:17:16,993 get url from mongo before
+[INFO] 2017-12-07 19:17:17,309 get url from oracle after count=0
+[INFO] 2017-12-07 19:18:17,326 get url from mongo before
+[INFO] 2017-12-07 19:18:17,542 get url from oracle after count=0
+[INFO] 2017-12-07 19:19:17,553 get url from mongo before
+[INFO] 2017-12-07 19:19:17,855 get url from oracle after count=0
+[INFO] 2017-12-07 19:20:17,865 get url from mongo before
+[INFO] 2017-12-07 19:20:18,105 get url from oracle after count=0
+[INFO] 2017-12-07 19:21:18,132 get url from mongo before
+[INFO] 2017-12-07 19:21:18,355 get url from oracle after count=0
+[INFO] 2017-12-07 19:22:18,371 get url from mongo before
+[INFO] 2017-12-07 19:22:18,670 get url from oracle after count=0
+[INFO] 2017-12-07 19:23:18,686 get url from mongo before
+[INFO] 2017-12-07 19:23:18,934 get url from oracle after count=0
+[INFO] 2017-12-07 19:24:18,950 get url from mongo before
+[INFO] 2017-12-07 19:24:19,255 get url from oracle after count=0
+[INFO] 2017-12-07 19:25:19,273 get url from mongo before
+[INFO] 2017-12-07 19:25:19,494 get url from oracle after count=0
+[INFO] 2017-12-07 19:26:19,510 get url from mongo before
+[INFO] 2017-12-07 19:26:19,737 get url from oracle after count=0
+[INFO] 2017-12-07 19:27:19,753 get url from mongo before
+[INFO] 2017-12-07 19:27:19,996 get url from oracle after count=0
+[INFO] 2017-12-07 19:28:20,016 get url from mongo before
+[INFO] 2017-12-07 19:28:20,151 get url from oracle after count=0
+[INFO] 2017-12-07 19:29:20,170 get url from mongo before
+[INFO] 2017-12-07 19:29:20,463 get url from oracle after count=0
+[INFO] 2017-12-07 19:30:20,486 get url from mongo before
+[INFO] 2017-12-07 19:30:20,757 get url from oracle after count=0
+[INFO] 2017-12-07 19:31:20,776 get url from mongo before
+[INFO] 2017-12-07 19:31:21,026 get url from oracle after count=0
+[INFO] 2017-12-07 19:32:21,046 get url from mongo before
+[INFO] 2017-12-07 19:32:21,390 get url from oracle after count=0
+[INFO] 2017-12-07 19:33:21,411 get url from mongo before
+[INFO] 2017-12-07 19:33:21,690 get url from oracle after count=0
+[INFO] 2017-12-07 19:34:21,707 get url from mongo before
+[INFO] 2017-12-07 19:34:21,986 get url from oracle after count=0
+[INFO] 2017-12-07 19:35:22,002 get url from mongo before
+[INFO] 2017-12-07 19:35:22,290 get url from oracle after count=0
+[INFO] 2017-12-07 19:36:22,305 get url from mongo before
+[INFO] 2017-12-07 19:36:22,588 get url from oracle after count=0
+[INFO] 2017-12-07 19:37:22,604 get url from mongo before
+[INFO] 2017-12-07 19:37:22,831 get url from oracle after count=0
+[INFO] 2017-12-07 19:38:22,842 get url from mongo before
+[INFO] 2017-12-07 19:38:23,265 get url from oracle after count=0
+[INFO] 2017-12-07 19:39:23,285 get url from mongo before
+[INFO] 2017-12-07 19:39:23,509 get url from oracle after count=0
+[INFO] 2017-12-07 19:40:23,532 get url from mongo before
+[INFO] 2017-12-07 19:40:23,881 get url from oracle after count=0
+[INFO] 2017-12-07 19:41:23,907 get url from mongo before
+[INFO] 2017-12-07 19:41:24,135 get url from oracle after count=0
+[INFO] 2017-12-07 19:42:24,151 get url from mongo before
+[INFO] 2017-12-07 19:42:24,384 get url from oracle after count=0
+[INFO] 2017-12-07 19:43:24,400 get url from mongo before
+[INFO] 2017-12-07 19:43:24,630 get url from oracle after count=0
+[INFO] 2017-12-07 19:44:24,648 get url from mongo before
+[INFO] 2017-12-07 19:44:24,881 get url from oracle after count=0
+[INFO] 2017-12-07 19:45:24,897 get url from mongo before
+[INFO] 2017-12-07 19:45:25,151 get url from oracle after count=0
+[INFO] 2017-12-07 19:46:25,173 get url from mongo before
+[INFO] 2017-12-07 19:46:25,460 get url from oracle after count=0
+[INFO] 2017-12-07 19:47:25,480 get url from mongo before
+[INFO] 2017-12-07 19:47:25,746 get url from oracle after count=0
+[INFO] 2017-12-07 19:48:25,769 get url from mongo before
+[INFO] 2017-12-07 19:48:25,990 get url from oracle after count=0
+[INFO] 2017-12-07 19:49:26,006 get url from mongo before
+[INFO] 2017-12-07 19:49:26,259 get url from oracle after count=0
+[INFO] 2017-12-07 19:50:26,279 get url from mongo before
+[INFO] 2017-12-07 19:50:26,576 get url from oracle after count=0
+[INFO] 2017-12-07 19:51:26,591 get url from mongo before
+[INFO] 2017-12-07 19:51:26,855 get url from oracle after count=0
+[INFO] 2017-12-07 19:52:26,877 get url from mongo before
+[INFO] 2017-12-07 19:52:27,130 get url from oracle after count=0
+[INFO] 2017-12-07 19:53:27,147 get url from mongo before
+[INFO] 2017-12-07 19:53:27,361 get url from oracle after count=0
+[INFO] 2017-12-07 19:54:27,378 get url from mongo before
+[INFO] 2017-12-07 19:54:27,592 get url from oracle after count=0
+[INFO] 2017-12-07 19:55:27,608 get url from mongo before
+[INFO] 2017-12-07 19:55:27,737 get url from oracle after count=0
+[INFO] 2017-12-07 19:56:27,752 get url from mongo before
+[INFO] 2017-12-07 19:56:28,040 get url from oracle after count=0
+[INFO] 2017-12-07 19:57:28,059 get url from mongo before
+[INFO] 2017-12-07 19:57:28,187 get url from oracle after count=0
+[INFO] 2017-12-07 19:58:28,207 get url from mongo before
+[INFO] 2017-12-07 19:58:28,503 get url from oracle after count=0
+[INFO] 2017-12-07 19:59:28,529 get url from mongo before
+[INFO] 2017-12-07 19:59:28,770 get url from oracle after count=0
+[INFO] 2017-12-07 20:00:28,790 get url from mongo before
+[INFO] 2017-12-07 20:00:29,075 get url from oracle after count=0
+[INFO] 2017-12-07 20:01:29,084 get url from mongo before
+[INFO] 2017-12-07 20:01:29,351 get url from oracle after count=0
+[INFO] 2017-12-07 20:02:29,371 get url from mongo before
+[INFO] 2017-12-07 20:02:29,648 get url from oracle after count=0
+[INFO] 2017-12-07 20:03:29,671 get url from mongo before
+[INFO] 2017-12-07 20:03:29,895 get url from oracle after count=0
+[INFO] 2017-12-07 20:04:29,914 get url from mongo before
+[INFO] 2017-12-07 20:04:30,171 get url from oracle after count=0
+[INFO] 2017-12-07 20:05:30,184 get url from mongo before
+[INFO] 2017-12-07 20:05:30,450 get url from oracle after count=0
+[INFO] 2017-12-07 20:09:55,209 get url from mongo before
+[INFO] 2017-12-07 20:09:55,479 get url from oracle after count=0
+[INFO] 2017-12-07 20:10:55,500 get url from mongo before
+[INFO] 2017-12-07 20:10:55,816 get url from oracle after count=0
+[INFO] 2017-12-07 20:11:55,836 get url from mongo before
+[INFO] 2017-12-07 20:11:56,082 get url from oracle after count=0
+[INFO] 2017-12-07 20:12:56,098 get url from mongo before
+[INFO] 2017-12-07 20:12:56,375 get url from oracle after count=0
+[INFO] 2017-12-07 20:13:56,392 get url from mongo before
+[INFO] 2017-12-07 20:13:56,677 get url from oracle after count=0
+[INFO] 2017-12-07 20:14:56,688 get url from mongo before
+[INFO] 2017-12-07 20:14:56,963 get url from oracle after count=0
+[INFO] 2017-12-07 20:15:56,984 get url from mongo before
+[INFO] 2017-12-07 20:15:57,288 get url from oracle after count=0
+[INFO] 2017-12-07 20:16:57,302 get url from mongo before
+[INFO] 2017-12-07 20:16:57,657 get url from oracle after count=0
+[INFO] 2017-12-07 20:17:57,668 get url from mongo before
+[INFO] 2017-12-07 20:17:58,052 get url from oracle after count=0
+[INFO] 2017-12-07 20:18:58,076 get url from mongo before
+[INFO] 2017-12-07 20:18:58,305 get url from oracle after count=0
+[INFO] 2017-12-07 20:19:58,323 get url from mongo before
+[INFO] 2017-12-07 20:19:58,558 get url from oracle after count=0
+[INFO] 2017-12-07 20:20:58,591 get url from mongo before
+[INFO] 2017-12-07 20:20:58,894 get url from oracle after count=0
+[INFO] 2017-12-07 20:21:58,914 get url from mongo before
+[INFO] 2017-12-07 20:21:59,122 get url from oracle after count=0
+[INFO] 2017-12-07 20:22:59,144 get url from mongo before
+[INFO] 2017-12-07 20:22:59,374 get url from oracle after count=0
+[INFO] 2017-12-07 20:23:59,391 get url from mongo before
+[INFO] 2017-12-07 20:23:59,697 get url from oracle after count=0
+[INFO] 2017-12-07 20:24:59,710 get url from mongo before
+[INFO] 2017-12-07 20:24:59,964 get url from oracle after count=0
+[INFO] 2017-12-07 20:25:59,982 get url from mongo before
+[INFO] 2017-12-07 20:26:00,253 get url from oracle after count=0
+[INFO] 2017-12-07 20:27:00,263 get url from mongo before
+[INFO] 2017-12-07 20:27:00,536 get url from oracle after count=0
+[INFO] 2017-12-07 20:28:00,559 get url from mongo before
+[INFO] 2017-12-07 20:28:00,957 get url from oracle after count=0
+[INFO] 2017-12-07 20:29:00,969 get url from mongo before
+[INFO] 2017-12-07 20:29:01,140 get url from oracle after count=0
+[INFO] 2017-12-07 20:30:01,158 get url from mongo before
+[INFO] 2017-12-07 20:30:01,463 get url from oracle after count=0
+[INFO] 2017-12-07 20:31:01,476 get url from mongo before
+[INFO] 2017-12-07 20:31:01,618 get url from oracle after count=0
+[INFO] 2017-12-07 20:32:01,631 get url from mongo before
+[INFO] 2017-12-07 20:32:01,938 get url from oracle after count=0
+[INFO] 2017-12-07 20:33:01,953 get url from mongo before
+[INFO] 2017-12-07 20:33:02,211 get url from oracle after count=0
+[INFO] 2017-12-07 20:34:02,229 get url from mongo before
+[INFO] 2017-12-07 20:34:02,517 get url from oracle after count=0
+[INFO] 2017-12-07 20:35:02,532 get url from mongo before
+[INFO] 2017-12-07 20:35:02,806 get url from oracle after count=0
+[INFO] 2017-12-07 20:36:02,822 get url from mongo before
+[INFO] 2017-12-07 20:36:03,114 get url from oracle after count=0
+[INFO] 2017-12-07 20:37:03,140 get url from mongo before
+[INFO] 2017-12-07 20:37:03,404 get url from oracle after count=0
+[INFO] 2017-12-07 20:38:03,426 get url from mongo before
+[INFO] 2017-12-07 20:38:03,661 get url from oracle after count=0
+[INFO] 2017-12-07 20:39:03,677 get url from mongo before
+[INFO] 2017-12-07 20:39:03,913 get url from oracle after count=0
+[INFO] 2017-12-07 20:40:03,930 get url from mongo before
+[INFO] 2017-12-07 20:40:04,130 get url from oracle after count=0
+[INFO] 2017-12-07 20:41:04,158 get url from mongo before
+[INFO] 2017-12-07 20:41:04,397 get url from oracle after count=0
+[INFO] 2017-12-07 20:42:04,414 get url from mongo before
+[INFO] 2017-12-07 20:42:04,683 get url from oracle after count=0
+[INFO] 2017-12-07 20:43:04,701 get url from mongo before
+[INFO] 2017-12-07 20:43:04,924 get url from oracle after count=0
+[INFO] 2017-12-07 20:44:04,950 get url from mongo before
+[INFO] 2017-12-07 20:44:05,226 get url from oracle after count=0
+[INFO] 2017-12-07 20:45:05,243 get url from mongo before
+[INFO] 2017-12-07 20:45:05,493 get url from oracle after count=0
+[INFO] 2017-12-07 20:46:05,505 get url from mongo before
+[INFO] 2017-12-07 20:46:05,767 get url from oracle after count=0
+[INFO] 2017-12-07 20:47:05,783 get url from mongo before
+[INFO] 2017-12-07 20:47:06,076 get url from oracle after count=0
+[INFO] 2017-12-07 20:48:06,092 get url from mongo before
+[INFO] 2017-12-07 20:48:06,243 get url from oracle after count=0
+[INFO] 2017-12-07 20:49:06,260 get url from mongo before
+[INFO] 2017-12-07 20:49:06,500 get url from oracle after count=0
+[INFO] 2017-12-07 20:50:06,516 get url from mongo before
+[INFO] 2017-12-07 20:50:06,644 get url from oracle after count=0
+[INFO] 2017-12-07 20:51:06,868 get url from mongo before
+[INFO] 2017-12-07 20:51:07,109 get url from oracle after count=0
+[INFO] 2017-12-07 20:52:07,131 get url from mongo before
+[INFO] 2017-12-07 20:52:07,375 get url from oracle after count=0
+[INFO] 2017-12-07 20:53:07,387 get url from mongo before
+[INFO] 2017-12-07 20:53:07,644 get url from oracle after count=0
+[INFO] 2017-12-07 20:54:07,657 get url from mongo before
+[INFO] 2017-12-07 20:54:07,869 get url from oracle after count=0
+[INFO] 2017-12-07 20:55:07,890 get url from mongo before
+[INFO] 2017-12-07 20:55:08,128 get url from oracle after count=0
+[INFO] 2017-12-07 20:56:08,144 get url from mongo before
+[INFO] 2017-12-07 20:56:08,365 get url from oracle after count=0
+[INFO] 2017-12-07 20:57:08,380 get url from mongo before
+[INFO] 2017-12-07 20:57:08,799 get url from oracle after count=0
+[INFO] 2017-12-07 20:58:08,822 get url from mongo before
+[INFO] 2017-12-07 20:58:09,059 get url from oracle after count=0
+[INFO] 2017-12-07 20:59:09,086 get url from mongo before
+[INFO] 2017-12-07 20:59:09,306 get url from oracle after count=0
+[INFO] 2017-12-07 21:00:09,325 get url from mongo before
+[INFO] 2017-12-07 21:00:09,582 get url from oracle after count=0
+[INFO] 2017-12-07 21:01:09,596 get url from mongo before
+[INFO] 2017-12-07 21:01:09,878 get url from oracle after count=0
+[INFO] 2017-12-07 21:02:09,898 get url from mongo before
+[INFO] 2017-12-07 21:02:10,282 get url from oracle after count=0
+[INFO] 2017-12-07 21:03:10,296 get url from mongo before
+[INFO] 2017-12-07 21:03:10,559 get url from oracle after count=0
+[INFO] 2017-12-07 21:04:10,582 get url from mongo before
+[INFO] 2017-12-07 21:04:10,812 get url from oracle after count=0
+[INFO] 2017-12-07 21:05:10,838 get url from mongo before
+[INFO] 2017-12-07 21:05:11,095 get url from oracle after count=0
+[INFO] 2017-12-07 21:06:11,105 get url from mongo before
+[INFO] 2017-12-07 21:06:11,355 get url from oracle after count=0
+[INFO] 2017-12-07 21:07:11,381 get url from mongo before
+[INFO] 2017-12-07 21:07:11,651 get url from oracle after count=0
+[INFO] 2017-12-07 21:08:11,667 get url from mongo before
+[INFO] 2017-12-07 21:08:11,907 get url from oracle after count=0
+[INFO] 2017-12-07 21:09:11,937 get url from mongo before
+[INFO] 2017-12-07 21:09:12,180 get url from oracle after count=0
+[INFO] 2017-12-07 21:13:22,088 get url from mongo before
+[INFO] 2017-12-07 21:13:22,230 get url from oracle after count=0
+[INFO] 2017-12-07 21:14:22,250 get url from mongo before
+[INFO] 2017-12-07 21:14:22,512 get url from oracle after count=0
+[INFO] 2017-12-07 21:15:22,523 get url from mongo before
+[INFO] 2017-12-07 21:15:22,803 get url from oracle after count=0
+[INFO] 2017-12-07 21:16:22,816 get url from mongo before
+[INFO] 2017-12-07 21:16:23,048 get url from oracle after count=0
+[INFO] 2017-12-07 21:17:23,065 get url from mongo before
+[INFO] 2017-12-07 21:17:23,329 get url from oracle after count=0
+[INFO] 2017-12-07 21:18:23,342 get url from mongo before
+[INFO] 2017-12-07 21:18:23,594 get url from oracle after count=0
+[INFO] 2017-12-07 21:19:23,605 get url from mongo before
+[INFO] 2017-12-07 21:19:23,869 get url from oracle after count=0
+[INFO] 2017-12-07 21:20:23,892 get url from mongo before
+[INFO] 2017-12-07 21:20:24,128 get url from oracle after count=0
+[INFO] 2017-12-07 21:21:24,145 get url from mongo before
+[INFO] 2017-12-07 21:21:24,456 get url from oracle after count=0
+[INFO] 2017-12-07 21:22:24,470 get url from mongo before
+[INFO] 2017-12-07 21:22:24,687 get url from oracle after count=0
+[INFO] 2017-12-07 21:23:24,704 get url from mongo before
+[INFO] 2017-12-07 21:23:24,950 get url from oracle after count=0
+[INFO] 2017-12-07 21:24:24,957 get url from mongo before
+[INFO] 2017-12-07 21:24:25,207 get url from oracle after count=0
+[INFO] 2017-12-07 21:25:25,240 get url from mongo before
+[INFO] 2017-12-07 21:25:25,502 get url from oracle after count=0
+[INFO] 2017-12-07 21:26:25,526 get url from mongo before
+[INFO] 2017-12-07 21:26:25,769 get url from oracle after count=0
+[INFO] 2017-12-07 21:27:25,788 get url from mongo before
+[INFO] 2017-12-07 21:27:26,038 get url from oracle after count=0
+[INFO] 2017-12-07 21:28:26,059 get url from mongo before
+[INFO] 2017-12-07 21:28:26,348 get url from oracle after count=0
+[INFO] 2017-12-07 21:29:26,364 get url from mongo before
+[INFO] 2017-12-07 21:29:26,631 get url from oracle after count=0
+[INFO] 2017-12-07 21:30:26,657 get url from mongo before
+[INFO] 2017-12-07 21:30:26,907 get url from oracle after count=0
+[INFO] 2017-12-07 21:31:26,921 get url from mongo before
+[INFO] 2017-12-07 21:31:27,180 get url from oracle after count=0
+[INFO] 2017-12-07 21:32:27,204 get url from mongo before
+[INFO] 2017-12-07 21:32:27,456 get url from oracle after count=0
+[INFO] 2017-12-07 21:33:27,470 get url from mongo before
+[INFO] 2017-12-07 21:33:27,760 get url from oracle after count=0
+[INFO] 2017-12-07 21:34:27,779 get url from mongo before
+[INFO] 2017-12-07 21:34:28,042 get url from oracle after count=0
+[INFO] 2017-12-07 21:35:28,065 get url from mongo before
+[INFO] 2017-12-07 21:35:28,309 get url from oracle after count=0
+[INFO] 2017-12-07 21:36:28,332 get url from mongo before
+[INFO] 2017-12-07 21:36:28,589 get url from oracle after count=0
+[INFO] 2017-12-07 21:37:28,609 get url from mongo before
+[INFO] 2017-12-07 21:37:28,884 get url from oracle after count=0
+[INFO] 2017-12-07 21:38:28,903 get url from mongo before
+[INFO] 2017-12-07 21:38:29,223 get url from oracle after count=0
+[INFO] 2017-12-07 21:39:29,250 get url from mongo before
+[INFO] 2017-12-07 21:39:29,525 get url from oracle after count=0
+[INFO] 2017-12-07 21:40:29,555 get url from mongo before
+[INFO] 2017-12-07 21:40:29,851 get url from oracle after count=0
+[INFO] 2017-12-07 21:41:29,875 get url from mongo before
+[INFO] 2017-12-07 21:41:30,150 get url from oracle after count=0
+[INFO] 2017-12-07 21:42:30,168 get url from mongo before
+[INFO] 2017-12-07 21:42:30,421 get url from oracle after count=0
+[INFO] 2017-12-07 21:43:30,440 get url from mongo before
+[INFO] 2017-12-07 21:43:30,730 get url from oracle after count=0
+[INFO] 2017-12-07 21:44:30,755 get url from mongo before
+[INFO] 2017-12-07 21:44:31,082 get url from oracle after count=0
+[INFO] 2017-12-07 21:45:31,095 get url from mongo before
+[INFO] 2017-12-07 21:45:31,395 get url from oracle after count=0
+[INFO] 2017-12-07 21:46:31,411 get url from mongo before
+[INFO] 2017-12-07 21:46:31,680 get url from oracle after count=0
+[INFO] 2017-12-07 21:47:31,703 get url from mongo before
+[INFO] 2017-12-07 21:47:32,036 get url from oracle after count=0
+[INFO] 2017-12-07 21:48:32,052 get url from mongo before
+[INFO] 2017-12-07 21:48:32,338 get url from oracle after count=0
+[INFO] 2017-12-07 21:49:32,361 get url from mongo before
+[INFO] 2017-12-07 21:49:32,592 get url from oracle after count=0
+[INFO] 2017-12-07 21:50:32,608 get url from mongo before
+[INFO] 2017-12-07 21:50:32,816 get url from oracle after count=0
+[INFO] 2017-12-07 21:51:32,838 get url from mongo before
+[INFO] 2017-12-07 21:51:33,072 get url from oracle after count=0
+[INFO] 2017-12-07 21:52:33,092 get url from mongo before
+[INFO] 2017-12-07 21:52:33,335 get url from oracle after count=0
+[INFO] 2017-12-07 21:53:33,355 get url from mongo before
+[INFO] 2017-12-07 21:53:33,558 get url from oracle after count=0
+[INFO] 2017-12-07 21:54:33,581 get url from mongo before
+[INFO] 2017-12-07 21:54:33,796 get url from oracle after count=0
+[INFO] 2017-12-07 21:55:33,815 get url from mongo before
+[INFO] 2017-12-07 21:55:34,028 get url from oracle after count=0
+[INFO] 2017-12-07 21:56:34,040 get url from mongo before
+[INFO] 2017-12-07 21:56:34,295 get url from oracle after count=0
+[INFO] 2017-12-07 21:57:34,318 get url from mongo before
+[INFO] 2017-12-07 21:57:34,622 get url from oracle after count=0
+[INFO] 2017-12-07 21:58:34,644 get url from mongo before
+[INFO] 2017-12-07 21:58:34,927 get url from oracle after count=0
+[INFO] 2017-12-07 21:59:34,944 get url from mongo before
+[INFO] 2017-12-07 21:59:35,186 get url from oracle after count=0
+[INFO] 2017-12-07 22:00:35,207 get url from mongo before
+[INFO] 2017-12-07 22:00:35,451 get url from oracle after count=0
+[INFO] 2017-12-07 22:01:35,470 get url from mongo before
+[INFO] 2017-12-07 22:01:35,762 get url from oracle after count=0
+[INFO] 2017-12-07 22:02:35,786 get url from mongo before
+[INFO] 2017-12-07 22:02:36,072 get url from oracle after count=0
+[INFO] 2017-12-07 22:03:36,089 get url from mongo before
+[INFO] 2017-12-07 22:03:36,374 get url from oracle after count=0
+[INFO] 2017-12-07 22:04:36,388 get url from mongo before
+[INFO] 2017-12-07 22:04:36,674 get url from oracle after count=0
+[INFO] 2017-12-07 22:05:36,693 get url from mongo before
+[INFO] 2017-12-07 22:05:36,946 get url from oracle after count=0
+[INFO] 2017-12-07 22:06:36,960 get url from mongo before
+[INFO] 2017-12-07 22:06:37,223 get url from oracle after count=0
+[INFO] 2017-12-07 22:07:37,243 get url from mongo before
+[INFO] 2017-12-07 22:07:37,523 get url from oracle after count=0
+[INFO] 2017-12-07 22:08:37,539 get url from mongo before
+[INFO] 2017-12-07 22:08:37,846 get url from oracle after count=0
+[INFO] 2017-12-07 22:09:37,861 get url from mongo before
+[INFO] 2017-12-07 22:09:38,098 get url from oracle after count=0
+[INFO] 2017-12-07 22:10:38,119 get url from mongo before
+[INFO] 2017-12-07 22:10:38,336 get url from oracle after count=0
+[INFO] 2017-12-07 22:11:38,358 get url from mongo before
+[INFO] 2017-12-07 22:11:38,581 get url from oracle after count=0
+[INFO] 2017-12-07 22:12:38,599 get url from mongo before
+[INFO] 2017-12-07 22:12:39,115 get url from oracle after count=0
+[INFO] 2017-12-07 22:17:01,857 get url from mongo before
+[INFO] 2017-12-07 22:17:02,165 get url from oracle after count=0
+[INFO] 2017-12-07 22:18:02,183 get url from mongo before
+[INFO] 2017-12-07 22:18:02,446 get url from oracle after count=0
+[INFO] 2017-12-07 22:19:02,461 get url from mongo before
+[INFO] 2017-12-07 22:19:02,694 get url from oracle after count=0
+[INFO] 2017-12-07 22:20:02,709 get url from mongo before
+[INFO] 2017-12-07 22:20:02,993 get url from oracle after count=0
+[INFO] 2017-12-07 22:21:03,013 get url from mongo before
+[INFO] 2017-12-07 22:21:03,256 get url from oracle after count=0
+[INFO] 2017-12-07 22:22:03,279 get url from mongo before
+[INFO] 2017-12-07 22:22:03,555 get url from oracle after count=0
+[INFO] 2017-12-07 22:23:03,584 get url from mongo before
+[INFO] 2017-12-07 22:23:03,812 get url from oracle after count=0
+[INFO] 2017-12-07 22:24:03,834 get url from mongo before
+[INFO] 2017-12-07 22:24:04,063 get url from oracle after count=0
+[INFO] 2017-12-07 22:25:04,081 get url from mongo before
+[INFO] 2017-12-07 22:25:04,339 get url from oracle after count=0
+[INFO] 2017-12-07 22:26:04,453 get url from mongo before
+[INFO] 2017-12-07 22:26:04,727 get url from oracle after count=0
+[INFO] 2017-12-07 22:27:04,744 get url from mongo before
+[INFO] 2017-12-07 22:27:05,040 get url from oracle after count=0
+[INFO] 2017-12-07 22:28:05,058 get url from mongo before
+[INFO] 2017-12-07 22:28:05,306 get url from oracle after count=0
+[INFO] 2017-12-07 22:29:05,321 get url from mongo before
+[INFO] 2017-12-07 22:29:05,618 get url from oracle after count=0
+[INFO] 2017-12-07 22:30:05,634 get url from mongo before
+[INFO] 2017-12-07 22:30:05,914 get url from oracle after count=0
+[INFO] 2017-12-07 22:31:05,933 get url from mongo before
+[INFO] 2017-12-07 22:31:06,177 get url from oracle after count=0
+[INFO] 2017-12-07 22:32:06,197 get url from mongo before
+[INFO] 2017-12-07 22:32:06,529 get url from oracle after count=0
+[INFO] 2017-12-07 22:33:06,542 get url from mongo before
+[INFO] 2017-12-07 22:33:06,789 get url from oracle after count=0
+[INFO] 2017-12-07 22:34:06,801 get url from mongo before
+[INFO] 2017-12-07 22:34:07,025 get url from oracle after count=0
+[INFO] 2017-12-07 22:35:07,036 get url from mongo before
+[INFO] 2017-12-07 22:35:07,295 get url from oracle after count=0
+[INFO] 2017-12-07 22:36:07,430 get url from mongo before
+[INFO] 2017-12-07 22:36:07,641 get url from oracle after count=0
+[INFO] 2017-12-07 22:37:07,657 get url from mongo before
+[INFO] 2017-12-07 22:37:07,894 get url from oracle after count=0
+[INFO] 2017-12-07 22:38:07,914 get url from mongo before
+[INFO] 2017-12-07 22:38:08,236 get url from oracle after count=0
+[INFO] 2017-12-07 22:39:08,255 get url from mongo before
+[INFO] 2017-12-07 22:39:08,605 get url from oracle after count=0
+[INFO] 2017-12-07 22:40:08,618 get url from mongo before
+[INFO] 2017-12-07 22:40:08,859 get url from oracle after count=0
+[INFO] 2017-12-07 22:41:08,877 get url from mongo before
+[INFO] 2017-12-07 22:41:09,105 get url from oracle after count=0
+[INFO] 2017-12-07 22:42:09,124 get url from mongo before
+[INFO] 2017-12-07 22:42:09,374 get url from oracle after count=0
+[INFO] 2017-12-07 22:43:09,394 get url from mongo before
+[INFO] 2017-12-07 22:43:09,625 get url from oracle after count=0
+[INFO] 2017-12-07 22:44:09,641 get url from mongo before
+[INFO] 2017-12-07 22:44:09,905 get url from oracle after count=0
+[INFO] 2017-12-07 22:45:09,921 get url from mongo before
+[INFO] 2017-12-07 22:45:10,161 get url from oracle after count=0
+[INFO] 2017-12-07 22:46:10,181 get url from mongo before
+[INFO] 2017-12-07 22:46:10,450 get url from oracle after count=0
+[INFO] 2017-12-07 22:47:10,467 get url from mongo before
+[INFO] 2017-12-07 22:47:10,687 get url from oracle after count=0
+[INFO] 2017-12-07 22:48:10,703 get url from mongo before
+[INFO] 2017-12-07 22:48:11,032 get url from oracle after count=0
+[INFO] 2017-12-07 22:49:11,056 get url from mongo before
+[INFO] 2017-12-07 22:49:11,279 get url from oracle after count=0
+[INFO] 2017-12-07 22:50:11,286 get url from mongo before
+[INFO] 2017-12-07 22:50:11,529 get url from oracle after count=0
+[INFO] 2017-12-07 22:51:11,542 get url from mongo before
+[INFO] 2017-12-07 22:51:11,775 get url from oracle after count=0
+[INFO] 2017-12-07 22:52:11,789 get url from mongo before
+[INFO] 2017-12-07 22:52:12,048 get url from oracle after count=0
+[INFO] 2017-12-07 22:53:12,065 get url from mongo before
+[INFO] 2017-12-07 22:53:12,309 get url from oracle after count=0
+[INFO] 2017-12-07 22:54:12,329 get url from mongo before
+[INFO] 2017-12-07 22:54:12,572 get url from oracle after count=0
+[INFO] 2017-12-07 22:55:12,592 get url from mongo before
+[INFO] 2017-12-07 22:55:12,845 get url from oracle after count=0
+[INFO] 2017-12-07 22:56:12,858 get url from mongo before
+[INFO] 2017-12-07 22:56:13,160 get url from oracle after count=0
+[INFO] 2017-12-07 22:57:13,178 get url from mongo before
+[INFO] 2017-12-07 22:57:13,471 get url from oracle after count=0
+[INFO] 2017-12-07 22:58:13,522 get url from mongo before
+[INFO] 2017-12-07 22:58:13,802 get url from oracle after count=0
+[INFO] 2017-12-07 22:59:13,819 get url from mongo before
+[INFO] 2017-12-07 22:59:14,151 get url from oracle after count=0
+[INFO] 2017-12-07 23:00:14,170 get url from mongo before
+[INFO] 2017-12-07 23:00:14,436 get url from oracle after count=0
+[INFO] 2017-12-07 23:01:14,816 get url from mongo before
+[INFO] 2017-12-07 23:01:15,089 get url from oracle after count=0
+[INFO] 2017-12-07 23:02:15,108 get url from mongo before
+[INFO] 2017-12-07 23:02:15,380 get url from oracle after count=0
+[INFO] 2017-12-07 23:03:15,398 get url from mongo before
+[INFO] 2017-12-07 23:03:15,747 get url from oracle after count=0
+[INFO] 2017-12-07 23:04:15,762 get url from mongo before
+[INFO] 2017-12-07 23:04:16,017 get url from oracle after count=0
+[INFO] 2017-12-07 23:05:16,032 get url from mongo before
+[INFO] 2017-12-07 23:05:16,278 get url from oracle after count=0
+[INFO] 2017-12-07 23:06:16,293 get url from mongo before
+[INFO] 2017-12-07 23:06:16,545 get url from oracle after count=0
+[INFO] 2017-12-07 23:07:16,562 get url from mongo before
+[INFO] 2017-12-07 23:07:16,848 get url from oracle after count=0
+[INFO] 2017-12-07 23:08:16,862 get url from mongo before
+[INFO] 2017-12-07 23:08:17,081 get url from oracle after count=0
+[INFO] 2017-12-07 23:09:17,101 get url from mongo before
+[INFO] 2017-12-07 23:09:17,321 get url from oracle after count=0
+[INFO] 2017-12-07 23:10:17,344 get url from mongo before
+[INFO] 2017-12-07 23:10:17,578 get url from oracle after count=0
+[INFO] 2017-12-07 23:11:17,595 get url from mongo before
+[INFO] 2017-12-07 23:11:17,826 get url from oracle after count=0
+[INFO] 2017-12-07 23:12:17,845 get url from mongo before
+[INFO] 2017-12-07 23:12:18,094 get url from oracle after count=0
+[INFO] 2017-12-07 23:13:18,108 get url from mongo before
+[INFO] 2017-12-07 23:13:18,377 get url from oracle after count=0
+[INFO] 2017-12-07 23:14:18,397 get url from mongo before
+[INFO] 2017-12-07 23:14:18,655 get url from oracle after count=0
+[INFO] 2017-12-07 23:15:18,673 get url from mongo before
+[INFO] 2017-12-07 23:15:18,911 get url from oracle after count=0
+[INFO] 2017-12-07 23:16:18,927 get url from mongo before
+[INFO] 2017-12-07 23:16:19,187 get url from oracle after count=0
+[INFO] 2017-12-07 23:20:34,131 get url from mongo before
+[INFO] 2017-12-07 23:20:34,497 get url from oracle after count=0
+[INFO] 2017-12-07 23:21:34,513 get url from mongo before
+[INFO] 2017-12-07 23:21:34,743 get url from oracle after count=0
+[INFO] 2017-12-07 23:22:34,767 get url from mongo before
+[INFO] 2017-12-07 23:22:35,061 get url from oracle after count=0
+[INFO] 2017-12-07 23:23:35,082 get url from mongo before
+[INFO] 2017-12-07 23:23:35,338 get url from oracle after count=0
+[INFO] 2017-12-07 23:24:35,361 get url from mongo before
+[INFO] 2017-12-07 23:24:35,651 get url from oracle after count=0
+[INFO] 2017-12-07 23:25:35,667 get url from mongo before
+[INFO] 2017-12-07 23:25:35,966 get url from oracle after count=0
+[INFO] 2017-12-07 23:26:35,983 get url from mongo before
+[INFO] 2017-12-07 23:26:36,282 get url from oracle after count=0
+[INFO] 2017-12-07 23:27:36,311 get url from mongo before
+[INFO] 2017-12-07 23:27:36,581 get url from oracle after count=0
+[INFO] 2017-12-07 23:28:36,595 get url from mongo before
+[INFO] 2017-12-07 23:28:36,924 get url from oracle after count=0
+[INFO] 2017-12-07 23:29:36,936 get url from mongo before
+[INFO] 2017-12-07 23:29:37,223 get url from oracle after count=0
+[INFO] 2017-12-07 23:30:37,401 get url from mongo before
+[INFO] 2017-12-07 23:30:37,648 get url from oracle after count=0
+[INFO] 2017-12-07 23:31:37,665 get url from mongo before
+[INFO] 2017-12-07 23:31:37,892 get url from oracle after count=0
+[INFO] 2017-12-07 23:32:37,926 get url from mongo before
+[INFO] 2017-12-07 23:32:38,163 get url from oracle after count=0
+[INFO] 2017-12-07 23:33:38,183 get url from mongo before
+[INFO] 2017-12-07 23:33:38,486 get url from oracle after count=0
+[INFO] 2017-12-07 23:34:38,503 get url from mongo before
+[INFO] 2017-12-07 23:34:38,747 get url from oracle after count=0
+[INFO] 2017-12-07 23:35:38,760 get url from mongo before
+[INFO] 2017-12-07 23:35:39,005 get url from oracle after count=0
+[INFO] 2017-12-07 23:36:39,025 get url from mongo before
+[INFO] 2017-12-07 23:36:39,279 get url from oracle after count=0
+[INFO] 2017-12-07 23:37:39,295 get url from mongo before
+[INFO] 2017-12-07 23:37:39,555 get url from oracle after count=0
+[INFO] 2017-12-07 23:38:39,572 get url from mongo before
+[INFO] 2017-12-07 23:38:39,857 get url from oracle after count=0
+[INFO] 2017-12-07 23:39:39,875 get url from mongo before
+[INFO] 2017-12-07 23:39:40,128 get url from oracle after count=0
+[INFO] 2017-12-07 23:40:40,151 get url from mongo before
+[INFO] 2017-12-07 23:40:40,384 get url from oracle after count=0
+[INFO] 2017-12-07 23:41:40,403 get url from mongo before
+[INFO] 2017-12-07 23:41:40,670 get url from oracle after count=0
+[INFO] 2017-12-07 23:42:40,684 get url from mongo before
+[INFO] 2017-12-07 23:42:40,973 get url from oracle after count=0
+[INFO] 2017-12-07 23:43:40,990 get url from mongo before
+[INFO] 2017-12-07 23:43:41,309 get url from oracle after count=0
+[INFO] 2017-12-07 23:44:41,319 get url from mongo before
+[INFO] 2017-12-07 23:44:41,535 get url from oracle after count=0
+[INFO] 2017-12-07 23:45:41,558 get url from mongo before
+[INFO] 2017-12-07 23:45:41,769 get url from oracle after count=0
+[INFO] 2017-12-07 23:46:41,786 get url from mongo before
+[INFO] 2017-12-07 23:46:42,020 get url from oracle after count=0
+[INFO] 2017-12-07 23:47:42,039 get url from mongo before
+[INFO] 2017-12-07 23:47:42,269 get url from oracle after count=0
+[INFO] 2017-12-07 23:48:42,292 get url from mongo before
+[INFO] 2017-12-07 23:48:42,572 get url from oracle after count=0
+[INFO] 2017-12-07 23:49:42,591 get url from mongo before
+[INFO] 2017-12-07 23:49:42,849 get url from oracle after count=0
+[INFO] 2017-12-07 23:50:42,865 get url from mongo before
+[INFO] 2017-12-07 23:50:43,197 get url from oracle after count=0
+[INFO] 2017-12-07 23:51:43,211 get url from mongo before
+[INFO] 2017-12-07 23:51:43,463 get url from oracle after count=0
+[INFO] 2017-12-07 23:52:43,477 get url from mongo before
+[INFO] 2017-12-07 23:52:43,730 get url from oracle after count=0
+[INFO] 2017-12-07 23:53:43,744 get url from mongo before
+[INFO] 2017-12-07 23:53:44,009 get url from oracle after count=0
+[INFO] 2017-12-07 23:54:44,026 get url from mongo before
+[INFO] 2017-12-07 23:54:44,295 get url from oracle after count=0
+[INFO] 2017-12-07 23:55:44,309 get url from mongo before
+[INFO] 2017-12-07 23:55:44,579 get url from oracle after count=0
+[INFO] 2017-12-07 23:56:44,592 get url from mongo before
+[INFO] 2017-12-07 23:56:44,868 get url from oracle after count=0
+[INFO] 2017-12-07 23:57:44,888 get url from mongo before
+[INFO] 2017-12-07 23:57:45,161 get url from oracle after count=0
+[INFO] 2017-12-07 23:58:45,249 get url from mongo before
+[INFO] 2017-12-07 23:58:45,421 get url from oracle after count=0
+[INFO] 2017-12-07 23:59:45,440 get url from mongo before
+[INFO] 2017-12-07 23:59:45,720 get url from oracle after count=0
